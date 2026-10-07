@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "G-01-splash",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-01-splash.jpg",
+    "sha256": "77ebdef4299b1a62068cb6bdf1193c2ddbed001ed7896cac1d15c1d4909f4d83",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-02-welcome",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-02-welcome.jpg",
+    "sha256": "92d20d7797b75347648fb4d9e2e9bad1cc4002e239bb9a534a85f186e9c017d3",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-03-shopify-sign-in.jpg",
+    "sha256": "0fa2378eea1da19b323bd151d49bee6e49b7407f1f49110003905a76f2621dec",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "SHOPIFY-CODE",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Shopify-owned secure authentication page. No current authorized live code session was captured; no mock is substituted."
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-05-syncing-purchases.jpg",
+    "sha256": "f38a4fc8188665686df047e78968aa83231e81bd8075a0f68e6341d818ab2e3b",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-06-purchases-found.jpg",
+    "sha256": "af64ab4659344d585b631d9ed0ecbae83bc579b3d90d2511b5522c9dea4d92e6",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-08-alerts-primer",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-08-alerts-primer.jpg",
+    "sha256": "d8e4b6eac4077aa71e4e2cc9ed02c990117d20be2f2dc25f7c3a6c0a0b5c5c4a",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE28-SHOP",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE28-SHOP.jpg",
+    "sha256": "6c40c6b80c7ca28152336b2adfe899fc3367aa0284c232dfcfb0928321f486e8",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE28-MY-CHARMS",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE28-MY-CHARMS.jpg",
+    "sha256": "3cfde3ecdfee92a2c85cc46abac8eed9bb2b4cc87071a0b9e5a9bd05713018b4",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE28-WISHLIST",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE28-WISHLIST.jpg",
+    "sha256": "f78d431730e895c911b2c98085837343f4647ef510cac2cc538bf51235f4c0a4",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE28-WISHLIST-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE28-WISHLIST-more.jpg",
+    "sha256": "8e172e604a89744296314b11bc54ff5f526e20ee3529bac8be14407ac5d6799d",
+    "parentId": "RELEASE28-WISHLIST",
+    "scrollOffset": 680,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE28-WISHLIST-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE28-WISHLIST-more-2.jpg",
+    "sha256": "d808d0dd6139a97f9eb36d94eefe55d3ce17f4a0b98da10c49f979096a48835d",
+    "parentId": "RELEASE28-WISHLIST",
+    "scrollOffset": 721.3333333333333,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE28-CLUB",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE28-CLUB.jpg",
+    "sha256": "cb857af50f82435f63f46109a4f0537cb04b7684232b88f3d7741fdaf75b06d9",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-09-shop-piece",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-09-shop-piece.jpg",
+    "sha256": "ecc1618e2d36fe1a99068166b572b0204018f25db19be122260678f6c1570fea",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-9B-shop-second-photo",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-9B-shop-second-photo.jpg",
+    "sha256": "b5b7a05b1a2ebb9ddaf49de3de254c1ab770a2e66bb6a441101bfd7b17a63ca4",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-9C-shop-long-title",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-9C-shop-long-title.jpg",
+    "sha256": "7aac9942413c1d7c31a85a3629a70755da689084f98546bbefeb97acf0b33d09",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-25-search",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-25-search.jpg",
+    "sha256": "b790204a0def7250d34f2323ee9a1bf774a71016d063ef56d2f1d9cc746ae7ed",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-25-search-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-25-search-more.jpg",
+    "sha256": "01003a8fd73dc2312d313ec80601d8ba092bdb40be838b553bac37233ccce8b3",
+    "parentId": "G-25-search",
+    "scrollOffset": 680,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-25-search-more-2.jpg",
+    "sha256": "baa7b9f8a1120e034ab83c1c16e95f5a8d6e777387fce92355d123fc8b4239b6",
+    "parentId": "G-25-search",
+    "scrollOffset": 1422,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-25-search-more-3.jpg",
+    "sha256": "1ea4890d15c43dd3c49930e4a9911ff59299ad2517da91c9e0b2b7e5c5670f76",
+    "parentId": "G-25-search",
+    "scrollOffset": 2164,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-25-search-more-4.jpg",
+    "sha256": "f8edea59e99c462720de41135c7e331d436e4749702bbce93987fc9cd37608b4",
+    "parentId": "G-25-search",
+    "scrollOffset": 2906,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-5",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-25-search-more-5.jpg",
+    "sha256": "1258a1c48be6934e493decb55cc92c341772c8d5997ae30a9d4653be2108321e",
+    "parentId": "G-25-search",
+    "scrollOffset": 3478.333333333333,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-12-charm-story",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-12-charm-story.jpg",
+    "sha256": "7ef6585d3376d85cc0a4b58f7a6fb548909e70754889f1b4d2b6c333a2939ba8",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-12-charm-story-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-12-charm-story-more.jpg",
+    "sha256": "20a6afae2f4e4973f74db5fbd14bdfdbb6f378078559865d226d2ec92673fd57",
+    "parentId": "G-12-charm-story",
+    "scrollOffset": 586,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-12-charm-story-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-12-charm-story-more-2.jpg",
+    "sha256": "f405b536943b2d08d937045aca55c8b885ee2c459fe6d0f9730a046f6abb0141",
+    "parentId": "G-12-charm-story",
+    "scrollOffset": 696.3333333333333,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-12-more-charm-story",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-12-more-charm-story.jpg",
+    "sha256": "80ec28bb939f455223502714ed5172d6e201e711c6aa886e308d4d4369fe3ed5",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-11-quick-add",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-11-quick-add.jpg",
+    "sha256": "58cb8245b0aa91af58b74dac36ae449a4d1a41a02df1a768c04a02ef713575b1",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-10-set-post",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-10-set-post.jpg",
+    "sha256": "bd8de138ecef2686242333e1a6c6671bd2ab1be5ea9a1fe41a239e2ccc5e2f85",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-10I-incomplete-set-post",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-10I-incomplete-set-post.jpg",
+    "sha256": "0c771511d2a68ee4bef0f702745bc3a81a81dbb7b4316cc6ecc2c82be8555b3f",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-13-set-detail",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-13-set-detail.jpg",
+    "sha256": "3978c1feb4ec593912ff74bcae9f84ea3d7313c15cfa2921dd89cce4c3ef0762",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-13-set-detail-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-13-set-detail-more.jpg",
+    "sha256": "5fbf55ba8b3c64e8b0e0c2a3bd6bf7902284cd068c57155fb9bbda9939b37fc3",
+    "parentId": "G-13-set-detail",
+    "scrollOffset": 488.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-13-more-set-detail",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-13-more-set-detail.jpg",
+    "sha256": "0cb3d84d2510ac9968b0a1ed32b78fe00bc4ff34f2ba24d7ba94c308204d1fdb",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-13I-incomplete-set-detail",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-13I-incomplete-set-detail.jpg",
+    "sha256": "816454ed43bf8fa76ce4d951565954d851bfd2409ded79676f21815c3087affc",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-13I-incomplete-set-detail-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-13I-incomplete-set-detail-more.jpg",
+    "sha256": "48cadc5267d1afe66c68040169ddaf4c344baefa5fb75799313873ef0831da1a",
+    "parentId": "G-13I-incomplete-set-detail",
+    "scrollOffset": 194.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "TERRY-COLLECTION",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "TERRY-COLLECTION.jpg",
+    "sha256": "941e87501a712c9a6de672626d75f517b237066c1b48b2547a573a6b7616c04b",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "TERRY-COLLECTION-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "TERRY-COLLECTION-more.jpg",
+    "sha256": "820708b1e0080a17398e3ae345cb84ad155b1f35c3e3ceb6af2716c184b96a96",
+    "parentId": "TERRY-COLLECTION",
+    "scrollOffset": 559.6666666666665,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-GLITTER",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-GLITTER.jpg",
+    "sha256": "26d57f325faf7411d75313f0808d4c04995f7ce4abed4e656a90db45c94b0a2f",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-GLITTER-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-GLITTER-more.jpg",
+    "sha256": "fbbbae7dc67880d030821fb447864f2d1819e19e9087eb10b9dc199715202665",
+    "parentId": "RELEASE29-GLITTER",
+    "scrollOffset": 272.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-GOLD",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-GOLD.jpg",
+    "sha256": "74ef827e5c1c3dff0a8c5708a38fd65bfc0f0981a537402fed8fc32f91758051",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-GOLD-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-GOLD-more.jpg",
+    "sha256": "72ee4409db72adc7d3fe8bbb99e9e11965706801189b81bd6681ce8a08702966",
+    "parentId": "RELEASE29-GOLD",
+    "scrollOffset": 272.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RESTORED",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RESTORED.jpg",
+    "sha256": "26d57f325faf7411d75313f0808d4c04995f7ce4abed4e656a90db45c94b0a2f",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RESTORED-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RESTORED-more.jpg",
+    "sha256": "fbbbae7dc67880d030821fb447864f2d1819e19e9087eb10b9dc199715202665",
+    "parentId": "RELEASE29-RESTORED",
+    "scrollOffset": 272.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RESELECTED",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RESELECTED.jpg",
+    "sha256": "a832e4dcf67e10ba2d82d71366f05204ca1062e88509a51cd5bbeb91804b231e",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RESELECTED-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RESELECTED-more.jpg",
+    "sha256": "6f54962ca9af575e1deb0964a8f26737ddaa35c80406974052f1f8b31d494915",
+    "parentId": "RELEASE29-RESELECTED",
+    "scrollOffset": 272.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-FLOWER-GALLERY",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-FLOWER-GALLERY.jpg",
+    "sha256": "49e99d12b47beb8638ea1a10db75d4e2f028fcd784325b8b35bad983bf8f1f32",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-FLOWER-GALLERY-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-FLOWER-GALLERY-more.jpg",
+    "sha256": "d5e0971573c5fc2d5662d2222bec0730596e1f1d6cb8453791ffd2101de7d0b0",
+    "parentId": "RELEASE29-FLOWER-GALLERY",
+    "scrollOffset": 388,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-FLOWER-RESTORED",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-FLOWER-RESTORED.jpg",
+    "sha256": "49e99d12b47beb8638ea1a10db75d4e2f028fcd784325b8b35bad983bf8f1f32",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-FLOWER-RESTORED-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-FLOWER-RESTORED-more.jpg",
+    "sha256": "d5e0971573c5fc2d5662d2222bec0730596e1f1d6cb8453791ffd2101de7d0b0",
+    "parentId": "RELEASE29-FLOWER-RESTORED",
+    "scrollOffset": 388,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RETRY",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RETRY.jpg",
+    "sha256": "a34b5bcdc92598df84be99e169f8a8be0f8725fc8ee8a76f1718eb4537fad983",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RETRY-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RETRY-more.jpg",
+    "sha256": "157db71d881dff246681d4b0e660732b6fa2f07f7048722cfce43966b95119a5",
+    "parentId": "RELEASE29-RETRY",
+    "scrollOffset": 272.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RETRY-LOADED",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RETRY-LOADED.jpg",
+    "sha256": "a832e4dcf67e10ba2d82d71366f05204ca1062e88509a51cd5bbeb91804b231e",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-RETRY-LOADED-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-RETRY-LOADED-more.jpg",
+    "sha256": "6f54962ca9af575e1deb0964a8f26737ddaa35c80406974052f1f8b31d494915",
+    "parentId": "RELEASE29-RETRY-LOADED",
+    "scrollOffset": 272.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GLITTER.jpg",
+    "sha256": "9a239e9f6e43b198eab80d013192a9c0ca6f585401088beba23727c83c0d0381",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GLITTER-more.jpg",
+    "sha256": "5e6c4e0616349ff214ce8a4a22cf10d3405d15a1e7bf113887a303d93b1dc2d9",
+    "parentId": "RELEASE29-LARGEST-GLITTER",
+    "scrollOffset": 540.3333333333333,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GLITTER-more-2.jpg",
+    "sha256": "4ea26be78845e9aeb320d4507de0736eff0feb8304aef1ea22c14e88e8c5d448",
+    "parentId": "RELEASE29-LARGEST-GLITTER",
+    "scrollOffset": 1134.6666666666665,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GLITTER-more-3.jpg",
+    "sha256": "54b16cf990fb5c888295e7d06500817ff847f11a12dd8ed59e4915b4abaab348",
+    "parentId": "RELEASE29-LARGEST-GLITTER",
+    "scrollOffset": 1728.9999999999998,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GLITTER-more-4.jpg",
+    "sha256": "7fdf383ea236aa9e1db9801ab252e5864643fe198b31c57b58453b7512279be9",
+    "parentId": "RELEASE29-LARGEST-GLITTER",
+    "scrollOffset": 1759.9999999999998,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GOLD.jpg",
+    "sha256": "090defa668f2a80ab71b240d5e883e794575386c5954c1b4d027a3041feb8e36",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GOLD-more.jpg",
+    "sha256": "3d5305d00816631396158bc81472361555d681c095a76a7b2789563c4115b053",
+    "parentId": "RELEASE29-LARGEST-GOLD",
+    "scrollOffset": 540.3333333333333,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GOLD-more-2.jpg",
+    "sha256": "81189f651836fc7c33ca2906d3d9a03e7a90c7fe46763ac699c239708a922931",
+    "parentId": "RELEASE29-LARGEST-GOLD",
+    "scrollOffset": 1134.6666666666665,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-GOLD-more-3.jpg",
+    "sha256": "64d9e60042a5a82b951273ecd7cf48363aaa6f848be8be5d17d2b1543abfed4f",
+    "parentId": "RELEASE29-LARGEST-GOLD",
+    "scrollOffset": 1665.9999999999998,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-RESTORED.jpg",
+    "sha256": "9a239e9f6e43b198eab80d013192a9c0ca6f585401088beba23727c83c0d0381",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-RESTORED-more.jpg",
+    "sha256": "5fe7a8825ba93aac3f3400c1b0a97166c374448cd5800462231e1dabf603251e",
+    "parentId": "RELEASE29-LARGEST-RESTORED",
+    "scrollOffset": 540.3333333333333,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-RESTORED-more-2.jpg",
+    "sha256": "17985dc4c312fc7ff5837d7a9cd52ab00b2cef7a2f0e34db069241722a5aa226",
+    "parentId": "RELEASE29-LARGEST-RESTORED",
+    "scrollOffset": 1134.6666666666665,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-RESTORED-more-3.jpg",
+    "sha256": "5de8236e35330c5611b7007287060ac064a17d879256e153377970ac417b3e19",
+    "parentId": "RELEASE29-LARGEST-RESTORED",
+    "scrollOffset": 1728.9999999999998,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "RELEASE29-LARGEST-RESTORED-more-4.jpg",
+    "sha256": "7fdf383ea236aa9e1db9801ab252e5864643fe198b31c57b58453b7512279be9",
+    "parentId": "RELEASE29-LARGEST-RESTORED",
+    "scrollOffset": 1759.9999999999998,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "brand-basket-set-375-pieces",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-375-pieces.jpg",
+    "sha256": "6a7a5ffe5bce9385918b8bf64c471dd9780cbacbf96dc010ea70fcbeed554c2d",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-375-pieces-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-375-pieces-more.jpg",
+    "sha256": "92de814c74e958ebe0e089f2a220342f8d540d1fd5cb08a46de5401a26b9f2b1",
+    "parentId": "brand-basket-set-375-pieces",
+    "scrollOffset": 264.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-375-summary",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-375-summary.jpg",
+    "sha256": "e343b7fb4a83330aedc0fa83fe4cd135b53f229ac8d4749c8dbaf8c2a9aeda76",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-verified-summary",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-verified-summary.jpg",
+    "sha256": "bd0a6f8cb465fe65fb0b044450b73c2d27c2b93e664c70de480e25c08cb152d0",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-440-pieces",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-440-pieces.jpg",
+    "sha256": "6592b9bda180c4d27c36f8163c691226962328667a8c08c5d8715afc159a24de",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-440-pieces-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-440-pieces-more.jpg",
+    "sha256": "ac4d056c42c76301c52e4df23e08d109df2c5e8f847108618f111c42787b2635",
+    "parentId": "brand-basket-set-440-pieces",
+    "scrollOffset": 264.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-440-summary",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "brand-basket-set-440-summary.jpg",
+    "sha256": "bd0a6f8cb465fe65fb0b044450b73c2d27c2b93e664c70de480e25c08cb152d0",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "complete-set-finish-review",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "complete-set-finish-review.jpg",
+    "sha256": "e0835425b4d8e2e36e5eadc375bd9028ee688d5ccc7b74182f6b1101e4bff51d",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "SHOPIFY-CHECKOUT",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Shopify-owned checkout. No fresh live customer checkout was opened for this isolated review. Earlier unpaid verification is separate evidence and is not passed off as current build capture."
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-35-basket-sheet.jpg",
+    "sha256": "537d4eb2a536d680d0c8618650a96568649ff7ca8d1c44ad02e91ed02adaf949",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-35E-basket-empty.jpg",
+    "sha256": "9a705a941627af938807e0196901a4404c74b77ed4b0c2d3f0d943d8fc96fde6",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-35U-basket-removal-undo.jpg",
+    "sha256": "98dd91493110bf60e2866d64be70d0e7638c9204bcb0a447b74b419e794e439b",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-35R-basket-verified-reward",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Parked for launch: cash/points rewards are not enabled. Collection progress and badges are the launch reward route. No active reward screen is claimed."
+  },
+  {
+    "id": "largest-text-set-finish-review",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-finish-review.jpg",
+    "sha256": "7be5b0ea429a490c00f3af50d792f4d9a1ab0c510865967797435a1d8573d1e0",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-finish-review-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-finish-review-more.jpg",
+    "sha256": "cda7bace14d6efc4731bcf45d25f9de98c88c7d6de753ec14c98db3be4019256",
+    "parentId": "largest-text-set-finish-review",
+    "scrollOffset": 680,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-finish-review-more-2.jpg",
+    "sha256": "11074909bf0f46a31df3317ad318c8453f88da191d7266c4874ba22d747e81a9",
+    "parentId": "largest-text-set-finish-review",
+    "scrollOffset": 1422,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-finish-review-more-3.jpg",
+    "sha256": "08e573d338c386190c25ab6f5da0e99932ed8621bf114f4687c05727a7be480a",
+    "parentId": "largest-text-set-finish-review",
+    "scrollOffset": 2164,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-finish-review-more-4.jpg",
+    "sha256": "198a505d3822fb877cfa734d65a518a1804368b0b3118f3960092950efbfdf14",
+    "parentId": "largest-text-set-finish-review",
+    "scrollOffset": 2298.6666666666665,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-basket",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-basket.jpg",
+    "sha256": "3ed8d784a22ce44ac8a48768c66af776bfb6a208ad2fef1b19911170b9c82112",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-basket-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-basket-more.jpg",
+    "sha256": "7ddc6addba86ca51d3d35a008a798bd03d4eb7ba878fdc2e1e1314dc987dc831",
+    "parentId": "largest-text-set-basket",
+    "scrollOffset": 680,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-basket-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-basket-more-2.jpg",
+    "sha256": "680862b51ffd4e2ca4e20ace14fcbc995ca55cebb5db0705c7cae062cb8ac479",
+    "parentId": "largest-text-set-basket",
+    "scrollOffset": 1422,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-basket-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-basket-more-3.jpg",
+    "sha256": "aa5d695f556eb46e7a048b4e0a5c83de97233e231273cfa28bdb6b3e9dd691cf",
+    "parentId": "largest-text-set-basket",
+    "scrollOffset": 2164,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-basket-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-basket-more-4.jpg",
+    "sha256": "3b2fd5c3ea168ca2fb07f04577dad3ab0ebdc9b159bbe5c61cab7bc2d380811d",
+    "parentId": "largest-text-set-basket",
+    "scrollOffset": 2906,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-basket-more-5",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-basket-more-5.jpg",
+    "sha256": "390f16b172b0b546b8f8391f978b856fad0f6f9062890ebc00991f1c3e0f294a",
+    "parentId": "largest-text-set-basket",
+    "scrollOffset": 3642.333333333333,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "largest-text-set-summary",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "largest-text-set-summary.jpg",
+    "sha256": "f21fb4bed236a56b3be2035a2bb8e0b0c0a452ddff372aa2b0157d8f3b1edafb",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-14-my-charms.jpg",
+    "sha256": "50c9c9cbbf998a8bc7633872e01de2fb6cdc1cdc506f677455738cd798efa0cc",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-15-wishlist",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-15-wishlist.jpg",
+    "sha256": "13adb2036ea5c1132f7aebbf3918768c75b42fb2cbf898a64c270e16e9a0d51a",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-15-wishlist-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-15-wishlist-more.jpg",
+    "sha256": "030ce058fd035eb54dda83cdeb2a8f250ea8e27183009a807fb81154d415973e",
+    "parentId": "G-15-wishlist",
+    "scrollOffset": 680,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-15-wishlist-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-15-wishlist-more-2.jpg",
+    "sha256": "934679f1ee2798d620f5686940cf1ca086322ef3649204665d2d2ae372032e63",
+    "parentId": "G-15-wishlist",
+    "scrollOffset": 721.3333333333333,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-15-more-wishlist-shipping",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-15-more-wishlist-shipping.jpg",
+    "sha256": "3184f9ed80dd7f7767337870d2decf6c060a8014b92be6f000391db4aac81cb5",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-17-set-complete",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-17-set-complete.jpg",
+    "sha256": "26969ef4b42b0c3537fa9b7221ad5525422ca9bd46ab86bb048d0f9ec82db017",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-18-share-the-stack.jpg",
+    "sha256": "fbac2bd21837a3d19c2630c61d5de4364cedfc829fb7f4f36f5dc4380c8f2933",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "OFFLINE-REGISTRATION.jpg",
+    "sha256": "19089a3532c75958d46037e1f425b661f72beecfc1e62f5367b23839b209c148",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "purchase-registration-proof",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-proof.jpg",
+    "sha256": "76f28d79b0e2e5e81178510f5f82465a728adf04b6d3028fb7c9ad4d2fdb4f3c",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "purchase-registration-proof-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-proof-more.jpg",
+    "sha256": "59355dfec9c2f8ad5b5e066b23ce62c0039a8a17392a6cce1d991b2220eb3ea8",
+    "parentId": "purchase-registration-proof",
+    "scrollOffset": 70.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "purchase-registration-largest",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest.jpg",
+    "sha256": "d786269d3b16e7ae8664e1fc0209ac40100f811bcbb36d6b3ffe8c8308c9e4a9",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-more.jpg",
+    "sha256": "8c1c96a8a8ed2f8c5bd0e568c1a848f6097e3cfc4b347c76233726fca02a3923",
+    "parentId": "purchase-registration-largest",
+    "scrollOffset": 436,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-more-2.jpg",
+    "sha256": "b552776726179756b3c3307e7efdb0c06161f02729df398468439874aebce66a",
+    "parentId": "purchase-registration-largest",
+    "scrollOffset": 872,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-more-3.jpg",
+    "sha256": "ae7b3eb310f4dcd002bd13c37b4f58bcbc46fb0eb0199fd61cb6d25e9d538712",
+    "parentId": "purchase-registration-largest",
+    "scrollOffset": 1308,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-more-4.jpg",
+    "sha256": "d0ac91028da3187be33aaa9bbe5af7fb11c1f2188b0f44ff146009cda12a1f4e",
+    "parentId": "purchase-registration-largest",
+    "scrollOffset": 1315.6666666666665,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-proof",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-proof.jpg",
+    "sha256": "17364558ee43d9f93f9ca2a7a338d877713856a3010efff9c03d88c4e69b287e",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-proof-more.jpg",
+    "sha256": "554d6b91ef5d6e59876b18d8340bf3e8e24af8311ec7e0913d2e883909c13b01",
+    "parentId": "purchase-registration-largest-proof",
+    "scrollOffset": 436,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-proof-more-2.jpg",
+    "sha256": "8370594f0484b9566c6e28ae527d81c392ad70b6f774802fbcaa7715f477b4da",
+    "parentId": "purchase-registration-largest-proof",
+    "scrollOffset": 872,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-3",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-proof-more-3.jpg",
+    "sha256": "e99acfb12ddaebee8fca55957be95da793ec45f9f041f7b402290fab5e79f9aa",
+    "parentId": "purchase-registration-largest-proof",
+    "scrollOffset": 1308,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-proof-more-4.jpg",
+    "sha256": "003089b929581c8845dffa140820cd197115ff62bfefb5cde9ae43274114a64f",
+    "parentId": "purchase-registration-largest-proof",
+    "scrollOffset": 1744,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-5",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "purchase-registration-largest-proof-more-5.jpg",
+    "sha256": "2e4976dc759450f947b7c2d228fc85d6a9c7d0d4e4c7f81edd0c6588195de4f4",
+    "parentId": "purchase-registration-largest-proof",
+    "scrollOffset": 2064.6666666666665,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "G-20-club",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-20-club.jpg",
+    "sha256": "1d1e94aff444159104787a67f7830a664856888e96283fea0ab9f6599188900f",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-20B-bestie-club-page",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-20B-bestie-club-page.jpg",
+    "sha256": "d6855e69df4ef359145a409068c53052b941c11bb27c1f63b5e290665d3f4a27",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-21-invite",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-21-invite.jpg",
+    "sha256": "ec9a5881bcc74518e57ac9437de38d39b8175bc2562b20bea342557060563494",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-02-add-friend-by-code",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-02-add-friend-by-code.jpg",
+    "sha256": "66340386e18410f3f00bb4a17a488e7217232610548d80843cda827f3327e4a6",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-03-friend-code-management",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-03-friend-code-management.jpg",
+    "sha256": "d9230610742c46b22cc2b88b74e6d69b8d94994aab4ef156a35a9d84a2effa32",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-28-pick-your-code",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Future custom-code picker: not enabled in the launch app. Existing generated friend codes and their management are implemented."
+  },
+  {
+    "id": "G-19-achievements",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-19-achievements.jpg",
+    "sha256": "8d96414bb29cdf3fd93ef99346e910166218a74766db29caf56a38d1728a4399",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "BUILD29-BADGE-DETAIL.jpg",
+    "sha256": "66c957fa4ebbeb634e90befb6293e0cacd7fdb14f587763b0f15958fb8f5a2cf",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-31-badge-catalogue.jpg",
+    "sha256": "c4ee8545280f00d2e835e3e1a02ca6a182fa1e67f71550dfd08574d5be9e2ac9",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-31-badge-catalogue-more.jpg",
+    "sha256": "11976fccbf01a01ed30703f14e3ebb3938a9dac41ac505fce1f1559576d15ae2",
+    "parentId": "G-31-badge-catalogue",
+    "scrollOffset": 158,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-31-more-badge-catalogue",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-31-more-badge-catalogue.jpg",
+    "sha256": "a7b5d9c5c5a5abe63499e5fd2972e8cba8cb00a5bb8acbf325d0f89100e1bae3",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-24-settings",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-24-settings.jpg",
+    "sha256": "ca75036f0ce7199674f83528b7936fe561d10140bf2235e55edc7f5520429145",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-24-settings-more.jpg",
+    "sha256": "40c082a6e43ee901b4639354e0fa11a180b504b719f8ca5c6ed01f9cfab3b2ca",
+    "parentId": "G-24-settings",
+    "scrollOffset": 394.33333333333326,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-24-more-settings",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-24-more-settings.jpg",
+    "sha256": "5df45c657566fafe4c3971ab84ff9f65e45dc3887d673ebd87c14365da12bef0",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "BUILD29-FIRST-NAME.jpg",
+    "sha256": "b237085e1d1288c22197724d82893b1e371fa1c5b825288823bd8023ca04d608",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-29-a-bestie-s-charms",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-29-a-bestie-s-charms.jpg",
+    "sha256": "f68e034fc3e1cd442256cb6c7364ada942a010d92fd26bacb2df739531bf030b",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-29-a-bestie-s-charms-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-29-a-bestie-s-charms-more.jpg",
+    "sha256": "d5632c65f21287c915d42603211eac671d35ccd492292f4ccddb41a67d2d8e0d",
+    "parentId": "G-29-a-bestie-s-charms",
+    "scrollOffset": 688,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-29-a-bestie-s-charms-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-29-a-bestie-s-charms-more-2.jpg",
+    "sha256": "6c779fa26c068cae339bfe3bace45e21c08e764ba2fe774bfdbae489ffae6611",
+    "parentId": "G-29-a-bestie-s-charms",
+    "scrollOffset": 1223,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-29-more-a-bestie-s-charms",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-29-more-a-bestie-s-charms.jpg",
+    "sha256": "0000b0d73ac2ae335b7b0d0b3d004babb93118bd523d6e8077516995ee3025c6",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-30-a-bestie-s-wishlist",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-30-a-bestie-s-wishlist.jpg",
+    "sha256": "7b72859501f1a340edcf67c2209483605a9a3dc6841654e164d3ba33db3eeadd",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-30-more-a-bestie-s-wishlist",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-30-more-a-bestie-s-wishlist.jpg",
+    "sha256": "08d661d77b74260b3cbba03b697e632bb51cb1f5f36d52d9c8d012aab4e840e3",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-04-import-shared-wishlist",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-04-import-shared-wishlist.jpg",
+    "sha256": "b8d6c8bd2e5c2b61511f0ee8b880bf409421d24ee673442e001ea197276e9d3b",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-05-private-bestie-wishlist",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-05-private-bestie-wishlist.jpg",
+    "sha256": "2e40d31f3eec52141e78cbc698322af81ac889c55b21bdf733b53bd2db9c2bbd",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-22-gift-sheet",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-22-gift-sheet.jpg",
+    "sha256": "8ddd27b722986e8b32f8c6265d0af89a96142a927bfde99b4f6432c13a1def14",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-01-gift-inbox-signed-out",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-01-gift-inbox-signed-out.jpg",
+    "sha256": "7d371d9534e22391f997c8d6f18cad236ec44a84327ef89158119286f886a5e5",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-08-gift-inbox-signed-in-empty",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-08-gift-inbox-signed-in-empty.jpg",
+    "sha256": "3c4d7636c3cfaf633eba8652564bb1bdb4147e0733dd7e42bcd9156620efa214",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-09P-gift-inbox-paid-concealed",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-09P-gift-inbox-paid-concealed.jpg",
+    "sha256": "af1c8373b07758673877c87d09d020f53c0d22226a5a62e4749c6cc2979c25c8",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-09-gift-inbox-paid-and-revealed",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-09-gift-inbox-paid-and-revealed.jpg",
+    "sha256": "918ed00017e3d84ad4279599e1448b28ba85ad14bbd6cee18f5994208e6266ce",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-23-gift-confirmed",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-23-gift-confirmed.jpg",
+    "sha256": "c18f8af8bafa6d302fee8f0cae22c9a3c2ec9f71d304129ef9cd33030b5b63d2",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-32-share-new-snap",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-32-share-new-snap.jpg",
+    "sha256": "c4b9c469638a9c81cc3113247f5e6691d639710a9cfec3df07ba24a7096fbc50",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-33-share-gift",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-33-share-gift.jpg",
+    "sha256": "49c693449fdc86008f83a080df8ff0f54303a18ccec11d227b6bae62e045e2dd",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "G-34-share-badge",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "G-34-share-badge.jpg",
+    "sha256": "697064e147c0f4d402392fc853120e3d2599f4158c9dfc0de8b5c99587b7f7f6",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "X-06-your-snap-crop",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "X-06-your-snap-crop.jpg",
+    "sha256": "bd8cbd201b37d688b139d73e7bf5e29f53762b4fdb745d3fccce8e509a2d4a42",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-01-sharing-privacy.jpg",
+    "sha256": "12461b01a4080404b162df93f485002cbc4f438dbeb652bd295d8c3fe5a3f27a",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-01-sharing-privacy-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-01-sharing-privacy-more.jpg",
+    "sha256": "41af3dcc0a102dc9c1b64d0ce67ddc4e60c4ae4c207827686cf49c3a56a78ae2",
+    "parentId": "M-01-sharing-privacy",
+    "scrollOffset": 680,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-01-sharing-privacy-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-01-sharing-privacy-more-2.jpg",
+    "sha256": "fbc0f393aa8eab60ffc263ee262e201e84f940649982dfa978825d47f33db215",
+    "parentId": "M-01-sharing-privacy",
+    "scrollOffset": 723.3333333333333,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-02-private-review",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-02-private-review.jpg",
+    "sha256": "914274959b79becc59d2f34e80e3bf06d68b81858aebb0ca289b5aed735f412e",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-03-your-orders",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-03-your-orders.jpg",
+    "sha256": "467496c07dbd4c5ee79eeeac02a5095bc55f4a6e83c8f9519c8cb2c71f74ac14",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-04-your-orders-empty.jpg",
+    "sha256": "d2cb6646a7aafca3a9e518b327356ea818c22c97252c2de7e63d7a614e40ec58",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-05-checkout-return",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-05-checkout-return.jpg",
+    "sha256": "4bff932dc199b356e46b27c86ed68fbf77ba53b3c185e0ce43da251cde86bbc7",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-06-sync-zero.jpg",
+    "sha256": "8c3dcd80d7205fe13440a52eb5b2c94ec8b066ee21e7e46ce7fc10ebd1ad2a19",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-07-registration-history.jpg",
+    "sha256": "f04557f1f2bcc95d1209a324e0e8a092f952f640a8420d19907eb22924bea125",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-08-delete-account",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-08-delete-account.jpg",
+    "sha256": "f21fbe35146090a4ae1eaf495a8183910d02fab551f2738aead4eadcdc00bc32",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-09-sign-in-failed.jpg",
+    "sha256": "3978671e593e6a0c41366efb8aec647c119cce1794a426e4f0edc9fccfaa514a",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-10-sync-failed",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-10-sync-failed.jpg",
+    "sha256": "bba1e054ae13a6f96a0cde6ace009261f27d1f3ad38d813f274edb24f8a94cd1",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-11-offline",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-11-offline.jpg",
+    "sha256": "b735de91271a13285cb005003ed3c25e9e7351bd12dfef640fc9f2eec6b08273",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-11-offline-more.jpg",
+    "sha256": "d8073fc4e430771c0c1724cae8827dd10fe4633ac73ec05bb1da63210c8e33dc",
+    "parentId": "M-11-offline",
+    "scrollOffset": 497,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-11-offline-more-2.jpg",
+    "sha256": "e51bc46af0d0fa21a652f3ea4f90265dc7a31c4c2def369d12577093224e5582",
+    "parentId": "M-11-offline",
+    "scrollOffset": 635,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "M-12-basket-quote-failed.jpg",
+    "sha256": "67c8f31d90f0865eee619677f1d5567e37d2d3280bd5e26c655837beb08d6e26",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-01-shared-wishlist.jpg",
+    "sha256": "9f1cabcebcc057ccd9b46cb11b021f8d8a5e1e2fcd10bd6d3e942559e9fd886a",
+    "scrollOffset": 0,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-01-shared-wishlist-more.jpg",
+    "sha256": "a12c1b2ad79f40cd22aaf2ef2ded4ed79ade5695f040e39117cb56830c3b6753",
+    "parentId": "W-01-shared-wishlist",
+    "scrollOffset": 742,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-01-shared-wishlist-more-2",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-01-shared-wishlist-more-2.jpg",
+    "sha256": "b6fd9c08fc985edab2e4de7b0121e2cc5ca9ab1a4952d16b7f2e1189dafe2750",
+    "parentId": "W-01-shared-wishlist",
+    "scrollOffset": 1366,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-02-gift-bag",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-02-gift-bag.jpg",
+    "sha256": "cbffa0eaf1855b5d54d189661d70187c4a9509a0155d1c3570d1e60ba1c2b07f",
+    "scrollOffset": 0,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-02-gift-bag-more.jpg",
+    "sha256": "32742c537f36b2d05b14f718a35df781a47dea6e3ad3ef9c65b12c218b843e76",
+    "parentId": "W-02-gift-bag",
+    "scrollOffset": 178,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-03-gift-thanks.jpg",
+    "sha256": "20deff636e7b3804386b5df7ef05f5c1f4e4e8e2f9a951be69576ddaf3a5781c",
+    "scrollOffset": 0,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-04-shared-stack",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-04-shared-stack.jpg",
+    "sha256": "724566844f908010a92b2512e7a8e3329176d5febb46b31f73278d20a277a645",
+    "scrollOffset": 0,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-04-shared-stack-more.jpg",
+    "sha256": "5e774662a88d276d19c0ab6e1cda8293aafd5385e1e4088a3db1b30eeed91d3d",
+    "parentId": "W-04-shared-stack",
+    "scrollOffset": 76,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-05-bestie-invite",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-05-bestie-invite.jpg",
+    "sha256": "ad77e9c625404951262052b4c9b507a117e09987ff81711f1c6fec0d31c02411",
+    "scrollOffset": 0,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-05-bestie-invite-more",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-05-bestie-invite-more.jpg",
+    "sha256": "aff20c9f0fe6abd2fbbb2b7668b2ee4e632ddb5e5d79b63292aad59867701e91",
+    "parentId": "W-05-bestie-invite",
+    "scrollOffset": 100,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-06-private-link.jpg",
+    "sha256": "5e9567102c56f0b64ca760018f2fd9ab01657aae4289b064b24a332d3c95a184",
+    "scrollOffset": 0,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-06-private-link-more",
+    "build": 32,
+    "device": "Chrome mobile emulation; 393pt iPhone content viewport",
+    "scale": 3,
+    "file": "W-06-private-link-more.jpg",
+    "sha256": "d2edd0825a6221b11a804333cafeec46186331f33ed204cf2f0986669c8883d9",
+    "parentId": "W-06-private-link",
+    "scrollOffset": 36,
+    "captureKind": "web-content"
+  },
+  {
+    "id": "W-07-app-first-open",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "The designed first-open/deferred-install invitation screen is not implemented. Installed-app manual link handling uses the captured X-04 import view; it is not substituted for this distinct design."
+  },
+  {
+    "id": "RELEASE29-FLOWER-GALLERY-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "RELEASE29-FLOWER-GALLERY",
+    "retiredContinuation": true
+  },
+  {
+    "id": "RELEASE29-FLOWER-RESTORED-more-2",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "RELEASE29-FLOWER-RESTORED",
+    "retiredContinuation": true
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-5",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "RELEASE29-LARGEST-GLITTER",
+    "retiredContinuation": true
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-4",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "RELEASE29-LARGEST-GOLD",
+    "retiredContinuation": true
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-5",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "RELEASE29-LARGEST-GOLD",
+    "retiredContinuation": true
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-5",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "RELEASE29-LARGEST-RESTORED",
+    "retiredContinuation": true
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Previous automatic continuation is no longer needed after reflow; the fresh parent journey is fully captured.",
+    "parentId": "OFFLINE-REGISTRATION",
+    "retiredContinuation": true
+  },
+  {
+    "id": "G-30-a-bestie-s-wishlist-more",
+    "build": 32,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "notCaptured": true,
+    "reason": "Duplicate automatic wishlist continuation removed (F-51); canonical G-30-more-a-bestie-s-wishlist remains captured.",
+    "parentId": "G-30-a-bestie-s-wishlist",
+    "retiredContinuation": true
+  }
+]

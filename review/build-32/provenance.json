@@ -1,0 +1,141 @@
+{
+  "build": 32,
+  "version": "1.0",
+  "generatedAt": "2026-10-07T23:19:00.379778+00:00",
+  "productionSourceInventorySHA256": "51f0ef270c7cacbea06da2ce86cf7c6900e4fd7290deca2aac80c51e22122853",
+  "frozenProductionSourceVerified": true,
+  "apple": {
+    "buildID": "dd32fb35-eb34-41ff-825e-2100b6305ae8",
+    "processingState": "VALID",
+    "betaReview": "APPROVED",
+    "distribution": {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  },
+  "signedIPA_SHA256": "5a485c752caa01edfcc4d5961f67570daf16470252f74d9db6599b4934857673",
+  "native": {
+    "recordedAt": "2026-10-07T23:14:01.228454+00:00",
+    "checks": {
+      "functional-ui": {
+        "total": 5,
+        "passed": 5,
+        "failed": 0,
+        "skipped": 0,
+        "scheme": "WeezyPop",
+        "destinations": [
+          "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+        ],
+        "resultBundle": "20261007T225913Z-243136.xcresult"
+      },
+      "release-primary-ui": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "scheme": "WeezyPopReleaseRendering",
+        "destinations": [
+          "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+        ],
+        "resultBundle": "20261007T230154Z-478213.xcresult"
+      },
+      "debug-small-ui": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "scheme": "WeezyPop",
+        "destinations": [
+          "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+        ],
+        "resultBundle": "20261007T230445Z-5c403f.xcresult"
+      },
+      "release-small-ui": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "scheme": "WeezyPopReleaseRendering",
+        "destinations": [
+          "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+        ],
+        "resultBundle": "20261007T230654Z-f334b0.xcresult"
+      },
+      "captures-unit": {
+        "total": 97,
+        "passed": 97,
+        "failed": 0,
+        "skipped": 0,
+        "scheme": "WeezyPop",
+        "destinations": [
+          "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+        ],
+        "resultBundle": "20261007T230909Z-c8ca3d.xcresult"
+      }
+    },
+    "earlierPassingChecks": [
+      "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+      "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+      "LaunchReadinessUITests/testRegistrationInteractions()",
+      "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+      "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+      "VariantPhotographyUITests/testFailedFeedPhotoHasReachableRetryAndLoadsOnRetry()",
+      "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "VariantPhotographyUITests/testMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "VariantPhotographyUITests/testMissingFinishKeepsLabelledProductGalleryVisibleAndReturns()",
+      "VariantPhotographyUITests/testReselectingSameFinishRestoresPhotoAfterBrowsingGallery()"
+    ],
+    "sourceHashVerified": true,
+    "finalCopyChanges": "Shipping-root geometry checks precede two final copy-only substitutions of Roman piece totals with digits; those labels are covered by the final 97 regression/capture checks. Root backgrounds, tab ancestors and responsive Club layout are unchanged.",
+    "shippingRoot": "Optimized Release scheme on primary and smaller iPhones, normal and accessibility5; no test-login bypass in Release",
+    "offline": "DEBUG shipping AppRoot on primary and smaller devices with the isolated unavailable-catalogue fixture. Release ignores DEBUG arguments and is not claimed as an offline simulation.",
+    "automatedAccessibilityAudit": {
+      "status": "open findings preserved",
+      "findings": [
+        "Dynamic Type font unsupported",
+        "Text clipped"
+      ],
+      "associatedElement": null,
+      "scope": "Complete-set journey, normal text, unsuppressed Xcode automated audit. Functional tests are separate.",
+      "sourceResult": "20261007T222332Z-b898a0.xcresult",
+      "note": "No full accessibility-audit sign-off is claimed."
+    },
+    "service": {
+      "passed": 144,
+      "failed": 0,
+      "skipped": 0
+    },
+    "appOnlyWeb": {
+      "passed": 18,
+      "failed": 0,
+      "captures": 12,
+      "liveReadbackMatched": true,
+      "customerWebsiteChanged": false
+    },
+    "deviceAcceptance": [
+      "Physical-device layout acceptance",
+      "Real-account checkout",
+      "APNs delivery"
+    ]
+  },
+  "web": {
+    "source": "same templates as production, synthetic loopback records",
+    "liveAppOnlyImage": "sha256:0557ba2ce0c19829e8d1bd46225df6af6f7c477becde2d75ee8f2316ce4077d9",
+    "verifiedChangedPaths": [
+      "/app/pop-web.mjs",
+      "/app/assets/pop-studio.css"
+    ],
+    "customerWebsiteChanged": false
+  },
+  "capture": {
+    "source": "Production SwiftUI content; XCTest controlled393pt canvas, not shipping AppRoot screenshot",
+    "device": "iPhone 16 Pro simulator, iOS27, physical402pt, controlled393pt @3x",
+    "colour": "Native Display P3 screenshots converted to sRGB with embedded ICC for JPEG; no UI retouching",
+    "fixture": "Claire; Celestial Magic 4 of 6; synthetic \u00a3138 verified basket. Silver-authored Sweet Treats0 of5 with Gold editions owned elsewhere.",
+    "isolated": true,
+    "liveCustomerMutations": false
+  }
+}

@@ -1,0 +1,899 @@
+[
+  {
+    "id": "F-01",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Internal task copy shown to customers",
+    "fix": "The hero pill reads \"PENDING \u00b7 NAT AUTHORS THE 5-PIECE SET\". Never surface merchant-task copy in the customer UI. Show no pill, or a \"COLLABORATION\" sticker.",
+    "pins": [
+      {
+        "screen": "TERRY-COLLECTION",
+        "xPct": 62,
+        "yPct": 11
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-02",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Price disappears from the CTA at largest text",
+    "fix": "At accessibility5 the sticky button becomes \"ADD GLITTER\" on two lines, about 120pt tall, with no price. Cap the button label at .accessibility2, label it \"ADD \u00b7 \u00a318\", and show the full selection (\"Glitter Smiley, gold metal\") as body text above the button.",
+    "pins": [
+      {
+        "screen": "RELEASE29-LARGEST-GLITTER",
+        "xPct": 62,
+        "yPct": 88
+      }
+    ],
+    "alsoOn": [
+      "RELEASE29-LARGEST-GOLD",
+      "RELEASE29-LARGEST-RESTORED",
+      "all -more continuations"
+    ]
+  },
+  {
+    "id": "F-03",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Nav buttons collide at largest text",
+    "fix": "The bag and heart buttons top right overlap each other. Keep nav buttons at a fixed 44pt with icons capped at .accessibility1 so they never reflow into each other.",
+    "pins": [
+      {
+        "screen": "RELEASE29-LARGEST-GLITTER",
+        "xPct": 92,
+        "yPct": 11
+      }
+    ],
+    "alsoOn": [
+      "RELEASE29-LARGEST-GOLD",
+      "RELEASE29-LARGEST-RESTORED"
+    ]
+  },
+  {
+    "id": "F-04",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Set stepper unreadable at largest text",
+    "fix": "The minus and plus glyphs overlap the label (\"\u22121 set+\") and the targets drop below 44pt. At accessibility sizes show the count on its own line (\"1 set\") with two 48pt round buttons beneath, or use a Menu picker.",
+    "pins": [
+      {
+        "screen": "largest-text-set-basket-more-4",
+        "xPct": 24,
+        "yPct": 8
+      }
+    ],
+    "alsoOn": [
+      "largest-text-set-basket-more-3"
+    ]
+  },
+  {
+    "id": "F-05",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Finish chips break mid-word at largest text",
+    "fix": "\"Gol d\" and \"Silve r\". At accessibility sizes stack finish options vertically at full width, as the complete-set finish review already does.",
+    "pins": [
+      {
+        "screen": "purchase-registration-largest-more-2",
+        "xPct": 38,
+        "yPct": 40
+      }
+    ],
+    "alsoOn": [
+      "purchase-registration-largest"
+    ]
+  },
+  {
+    "id": "F-06",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Proof chips and summary break mid-word at largest text",
+    "fix": "\"RESIZE D\", \"LOCATI ON REMOV ED\", \"PROO F\", \"Newcast le\". At accessibility sizes put the proof thumbnail full width on top, list the status chips vertically beneath, and remove fixed-width columns so text only wraps on word boundaries.",
+    "pins": [
+      {
+        "screen": "purchase-registration-largest-proof-more",
+        "xPct": 72,
+        "yPct": 32
+      }
+    ],
+    "alsoOn": [
+      "purchase-registration-largest-proof",
+      "purchase-registration-largest-proof-more-2"
+    ]
+  },
+  {
+    "id": "F-07",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Dev host visible in the invite link",
+    "fix": "The link reads \"weezy-pop-club.fly.dev/b/ABCD2345EFGH\". Move to the branded domain (for example club.weezypop.com/b/\u2026) before launch, or hide the URL and keep only SHARE YOUR CODE.",
+    "pins": [
+      {
+        "screen": "G-21-invite",
+        "xPct": 50,
+        "yPct": 41
+      }
+    ],
+    "alsoOn": [
+      "web share links"
+    ]
+  },
+  {
+    "id": "F-08",
+    "priority": "P1",
+    "owner": "Logic",
+    "title": "Set badge shows as earned on an unstarted set",
+    "fix": "Sweet Tooth shows EARNED while Sweet Treats is 0 of 5, and G-13I says \"Collect 5 more to earn it\". A set badge must only unlock when the set is complete. Check badge evaluation (or the fixture).",
+    "pins": [
+      {
+        "screen": "G-31-badge-catalogue",
+        "xPct": 82,
+        "yPct": 24
+      }
+    ],
+    "alsoOn": [
+      "G-31-badge-catalogue-more",
+      "G-31-more-badge-catalogue"
+    ]
+  },
+  {
+    "id": "F-09",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Empty image glyphs in a bestie\u2019s charms",
+    "fix": "Further down the grid about a third of the tiles are a grey image glyph or a name in a dashed box. Show the store photo at full colour for any piece with a known photo (it is hers). Collapse pieces with no photo into a \"+ 9 more pieces\" row. Never show the system image glyph.",
+    "pins": [
+      {
+        "screen": "G-29-a-bestie-s-charms-more-2",
+        "xPct": 18,
+        "yPct": 17
+      },
+      {
+        "screen": "G-29-a-bestie-s-charms-more",
+        "xPct": 50,
+        "yPct": 47
+      }
+    ],
+    "alsoOn": [
+      "G-29-a-bestie-s-charms"
+    ]
+  },
+  {
+    "id": "F-10",
+    "priority": "P1",
+    "owner": "Native",
+    "title": "Empty image glyphs in the offline grid",
+    "fix": "Uncached thumbnails render as bare grey glyphs. Cache owned-piece thumbnails with the collection. If one is still missing, show the piece name on blush.",
+    "pins": [
+      {
+        "screen": "M-11-offline-more",
+        "xPct": 50,
+        "yPct": 47
+      }
+    ],
+    "alsoOn": [
+      "M-11-offline-more-2"
+    ]
+  },
+  {
+    "id": "F-11",
+    "priority": "P1",
+    "owner": "Web / fixture",
+    "title": "Shared wishlist repeats \"Another favourite\"",
+    "fix": "Ten identical \"Another favourite \u00b7 \u00a318\" Heart tiles. If this is review filler, swap in the real 12 wishes. If production can render a generic title, fix the mapping so the title always comes from the Shopify product.",
+    "pins": [
+      {
+        "screen": "W-01-shared-wishlist-more",
+        "xPct": 24,
+        "yPct": 22
+      }
+    ],
+    "alsoOn": [
+      "W-01-shared-wishlist",
+      "W-01-shared-wishlist-more-2"
+    ]
+  },
+  {
+    "id": "F-12",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Logo covers the model\u2019s face",
+    "fix": "The splash logo sits in a frosted pill over her eye. Use the white logo with a soft shadow in the top safe area, or over hair or neck in the bottom third. Never on the face, and no glass pill.",
+    "pins": [
+      {
+        "screen": "G-01-splash",
+        "xPct": 50,
+        "yPct": 47
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-13",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Stray paging indicator on photo cards",
+    "fix": "A small vertical pill sits on the right edge of every photo card or mosaic (a hidden pager\u2019s indicator). Remove it.",
+    "pins": [
+      {
+        "screen": "RELEASE28-SHOP",
+        "xPct": 95,
+        "yPct": 38
+      }
+    ],
+    "alsoOn": [
+      "G-09-shop-piece",
+      "G-9B-shop-second-photo",
+      "G-9C-shop-long-title",
+      "G-10-set-post",
+      "G-10I-incomplete-set-post",
+      "G-11-quick-add"
+    ]
+  },
+  {
+    "id": "F-14",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Free-shipping card shows \"\u00a3360 / \u00a360\"",
+    "fix": "Over the threshold, say \"Free UK shipping unlocked \u2713\" and drop the fraction. Show \"\u00a3X to go\" only when under \u00a360.",
+    "pins": [
+      {
+        "screen": "RELEASE28-WISHLIST-more",
+        "xPct": 82,
+        "yPct": 61
+      }
+    ],
+    "alsoOn": [
+      "RELEASE28-WISHLIST-more-2",
+      "G-15-wishlist-more",
+      "G-15-wishlist-more-2",
+      "G-15-more-wishlist-shipping"
+    ]
+  },
+  {
+    "id": "F-15",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Search and grid tiles mix two photo treatments",
+    "fix": "White cut-outs sit next to coloured studio squares that are inset and off-centre, and the heart button bites into the photo. Every tile image should be aspect-fill, edge to edge in a 1:1 area with 16pt corners, with the heart in a 32pt white circle floating over it. Clamp titles to 2 lines.",
+    "pins": [
+      {
+        "screen": "G-25-search-more-3",
+        "xPct": 28,
+        "yPct": 40
+      },
+      {
+        "screen": "G-25-search",
+        "xPct": 24,
+        "yPct": 84
+      }
+    ],
+    "alsoOn": [
+      "G-25-search-more",
+      "G-25-search-more-2",
+      "G-25-search-more-4",
+      "G-25-search-more-5",
+      "brand-basket-set-375-pieces"
+    ]
+  },
+  {
+    "id": "F-16",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Set strip on the charm story is squeezed",
+    "fix": "\"Rodeo Baby / 2 of IV collected\" wraps to 4 lines in a narrow column and the last slot reads \"I\" instead of \"IV\". Put the member row on its own full-width line, with title, count and SEE SET on the line below.",
+    "pins": [
+      {
+        "screen": "G-12-charm-story",
+        "xPct": 55,
+        "yPct": 73
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-17",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "CTA labels read like SKU paths",
+    "fix": "\"ADD GLITTER / GOLD \u00b7 \u00a318\" and \"ADD GOLD HOOPS / WHITE \u00b7 \u00a328\" (which wraps to two lines). Use \"ADD GLITTER SMILEY \u00b7 \u00a318\" or simply \"ADD TO BASKET \u00b7 \u00a328\", with the selection summarised above the button. Same for basket meta: \"Glitter \u00b7 gold metal \u00b7 \u00a318\".",
+    "pins": [
+      {
+        "screen": "RELEASE29-GLITTER",
+        "xPct": 66,
+        "yPct": 92
+      },
+      {
+        "screen": "RELEASE29-FLOWER-GALLERY",
+        "xPct": 66,
+        "yPct": 92
+      }
+    ],
+    "alsoOn": [
+      "all RELEASE29-*",
+      "G-35U-basket-removal-undo",
+      "M-12-basket-quote-failed"
+    ]
+  },
+  {
+    "id": "F-18",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Set promos on the product page are a wall of text",
+    "fix": "Two stacked pink boxes of small bold copy. Replace each with the compact set strip (member row, \"1 of 3\", SEE SET) and show the app-special line once underneath. At largest text this becomes one tappable row.",
+    "pins": [
+      {
+        "screen": "RELEASE29-GLITTER-more",
+        "xPct": 50,
+        "yPct": 72
+      }
+    ],
+    "alsoOn": [
+      "RELEASE29-*-more",
+      "RELEASE29-LARGEST-*-more"
+    ]
+  },
+  {
+    "id": "F-19",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Gallery fallback announced three times",
+    "fix": "Overlay text on the photo, the PRODUCT GALLERY chip and the info card all say the same thing. Remove the overlay text. The chip names the finish actually pictured (\"SHOWN IN BLUE\"). Keep the info card.",
+    "pins": [
+      {
+        "screen": "RELEASE29-FLOWER-GALLERY",
+        "xPct": 50,
+        "yPct": 18
+      }
+    ],
+    "alsoOn": [
+      "RELEASE29-FLOWER-RESTORED"
+    ]
+  },
+  {
+    "id": "F-20",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Wishlist heart vanishes at largest text",
+    "fix": "With the CTA filling the bottom bar there is no way to save the piece. When both can\u2019t fit, add a full-width outline \"SAVE TO WISHLIST\" under the finish rows.",
+    "pins": [
+      {
+        "screen": "RELEASE29-LARGEST-GOLD",
+        "xPct": 10,
+        "yPct": 88
+      }
+    ],
+    "alsoOn": [
+      "RELEASE29-LARGEST-GLITTER"
+    ]
+  },
+  {
+    "id": "F-21",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Free chain tile in the set basket",
+    "fix": "\"FREE\" floats as loose text and \u00a318 isn\u2019t struck through. Add a FREE chip on the tile and a struck-through \u00a318 under the name.",
+    "pins": [
+      {
+        "screen": "brand-basket-set-375-pieces",
+        "xPct": 80,
+        "yPct": 74
+      }
+    ],
+    "alsoOn": [
+      "brand-basket-set-375-pieces-more",
+      "brand-basket-set-440-pieces",
+      "brand-basket-set-440-pieces-more"
+    ]
+  },
+  {
+    "id": "F-22",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Privacy note hidden behind the sticky button",
+    "fix": "\"A charm photo works too. Leave addresses\u2026\" is cut off under SEND FOR REVIEW. Add a bottom content inset of bar height plus 16pt.",
+    "pins": [
+      {
+        "screen": "purchase-registration-proof",
+        "xPct": 40,
+        "yPct": 88
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-23",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Typed shop name truncates at largest text",
+    "fix": "\"Fenwick Ne\u2026\". Use TextField(axis: .vertical) so typed values wrap.",
+    "pins": [
+      {
+        "screen": "purchase-registration-largest-more-3",
+        "xPct": 40,
+        "yPct": 10
+      }
+    ],
+    "alsoOn": [
+      "purchase-registration-largest-more-2"
+    ]
+  },
+  {
+    "id": "F-24",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Berry red is still in use",
+    "fix": "\"Delete my app account\" and the DELETE MY ACCOUNT button label use the retired berry. Use Ink, or action pink #E8144C with a white label for the destructive button.",
+    "pins": [
+      {
+        "screen": "G-24-settings-more",
+        "xPct": 50,
+        "yPct": 85
+      },
+      {
+        "screen": "M-08-delete-account",
+        "xPct": 50,
+        "yPct": 87
+      }
+    ],
+    "alsoOn": [
+      "G-24-more-settings"
+    ]
+  },
+  {
+    "id": "F-25",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Six identical GIFT IT buttons",
+    "fix": "Every wishlist row has a filled primary pill. Keep the filled pill on MOST WANTED only; rows get a 44pt outline gift icon button.",
+    "pins": [
+      {
+        "screen": "G-30-a-bestie-s-wishlist",
+        "xPct": 82,
+        "yPct": 68
+      }
+    ],
+    "alsoOn": [
+      "G-30-a-bestie-s-wishlist-more"
+    ]
+  },
+  {
+    "id": "F-26",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Fixture label visible",
+    "fix": "\"From weezypop.com \u00b7 review example\". Make sure fixture labels can\u2019t ship.",
+    "pins": [
+      {
+        "screen": "M-03-your-orders",
+        "xPct": 35,
+        "yPct": 20
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-27",
+    "priority": "P2",
+    "owner": "Web",
+    "title": "Web pink doesn\u2019t match the app",
+    "fix": "Web buttons use a brighter pink than #E8144C. Use the same action-pink token on web.",
+    "pins": [
+      {
+        "screen": "W-01-shared-wishlist",
+        "xPct": 82,
+        "yPct": 53
+      }
+    ],
+    "alsoOn": [
+      "W-02-gift-bag",
+      "W-04-shared-stack"
+    ]
+  },
+  {
+    "id": "F-28",
+    "priority": "P2",
+    "owner": "Web",
+    "title": "Gift review sheet stops short",
+    "fix": "A mauve scrim band and the footer links show beneath the sheet. Run the sheet to the bottom of the viewport.",
+    "pins": [
+      {
+        "screen": "W-02-gift-bag",
+        "xPct": 50,
+        "yPct": 95
+      }
+    ],
+    "alsoOn": [
+      "W-02-gift-bag-more"
+    ]
+  },
+  {
+    "id": "F-29",
+    "priority": "P2",
+    "owner": "Merchant",
+    "title": "Zia Rainbow / Zia Platino photos look swapped",
+    "fix": "Zia Rainbow shows an earring shot, Zia Platino a necklace shot. Recheck the handle and title mapping (flagged in update 1).",
+    "pins": [
+      {
+        "screen": "TERRY-COLLECTION",
+        "xPct": 30,
+        "yPct": 82
+      }
+    ],
+    "alsoOn": [
+      "TERRY-COLLECTION-more"
+    ]
+  },
+  {
+    "id": "F-30",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Members without a disc",
+    "fix": "Moon, Swirl and some Smiley circles are bare cut-outs while others sit on coloured discs. Every member circle gets a fill (photo background or blush).",
+    "pins": [
+      {
+        "screen": "G-17-set-complete",
+        "xPct": 38,
+        "yPct": 32
+      }
+    ],
+    "alsoOn": [
+      "G-18-share-the-stack",
+      "G-12-charm-story-more"
+    ]
+  },
+  {
+    "id": "F-31",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Mixed numerals in progress counts",
+    "fix": "\"Good Energy 2 of III\", \"You have 2 of IV\". Counts in digits (\"2 of 3\"); roman numerals only for set position (\"Set III of IV\") and slot labels.",
+    "pins": [
+      {
+        "screen": "M-05-checkout-return",
+        "xPct": 58,
+        "yPct": 63
+      }
+    ],
+    "alsoOn": [
+      "G-09-shop-piece",
+      "G-12-charm-story",
+      "app-wide"
+    ]
+  },
+  {
+    "id": "F-32",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "\"Gold, Gold / Gold\" while syncing",
+    "fix": "Reads as a glitch. Use \"Matching 3 exact finishes\".",
+    "pins": [
+      {
+        "screen": "G-05-syncing-purchases",
+        "xPct": 60,
+        "yPct": 80
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-33",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Alert primer undersells itself",
+    "fix": "Two of three preview cards say COMING LATER. Lead with the gift alert card; shrink or grey the others.",
+    "pins": [
+      {
+        "screen": "G-08-alerts-primer",
+        "xPct": 50,
+        "yPct": 26
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-34",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Unlabelled \"III\" square on Club",
+    "fix": "Next to \"Aisha\u2019s stack\". Label it or remove it. Same for the badge circles on the bestie page.",
+    "pins": [
+      {
+        "screen": "RELEASE28-CLUB",
+        "xPct": 76,
+        "yPct": 56
+      }
+    ],
+    "alsoOn": [
+      "G-20-club",
+      "G-20B-bestie-club-page"
+    ]
+  },
+  {
+    "id": "F-35",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Single-option metal shown as a chip",
+    "fix": "METAL with one value renders a selectable chip plus \"Only option\". Show static text \"Metal \u00b7 Gold\".",
+    "pins": [
+      {
+        "screen": "RELEASE29-GLITTER",
+        "xPct": 35,
+        "yPct": 85
+      }
+    ],
+    "alsoOn": [
+      "all RELEASE29-*"
+    ]
+  },
+  {
+    "id": "F-36",
+    "priority": "P3",
+    "owner": "Merchant",
+    "title": "Shopify bullet heading used as a title",
+    "fix": "\"Fun Acrylic Design\". Use a \"\u2726 MADE FROM\" eyebrow.",
+    "pins": [
+      {
+        "screen": "RELEASE29-GLITTER-more",
+        "xPct": 28,
+        "yPct": 43
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-37",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Long descriptions",
+    "fix": "15-line wall of text. Clamp to 4 lines with \"Read more\".",
+    "pins": [
+      {
+        "screen": "RELEASE29-FLOWER-GALLERY-more",
+        "xPct": 50,
+        "yPct": 62
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-38",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Empty band pinned on scroll",
+    "fix": "A 44pt pink band stays at the top of every scrolled product continuation. Let it scroll away or collapse to the nav bar.",
+    "pins": [
+      {
+        "screen": "RELEASE29-LARGEST-GLITTER-more",
+        "xPct": 50,
+        "yPct": 3
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-39",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Largest-text basket header",
+    "fix": "Close drops under the centred title. Pin close top right and left-align the title.",
+    "pins": [
+      {
+        "screen": "largest-text-set-basket",
+        "xPct": 35,
+        "yPct": 33
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-40",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Two ideas in one eyebrow",
+    "fix": "\"SET I OF IV \u00b7 BADGE STAR GAZER V\". Use \"\u2726 SET I OF IV\"; the badge has its own card.",
+    "pins": [
+      {
+        "screen": "G-13-set-detail",
+        "xPct": 35,
+        "yPct": 36
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-41",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "\"Unavailable\" vs \"Sold out\"",
+    "fix": "Use \"Sold out\" everywhere.",
+    "pins": [
+      {
+        "screen": "G-13I-incomplete-set-detail",
+        "xPct": 40,
+        "yPct": 58
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-42",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Detached \"More purchase details\"",
+    "fix": "Floats far below the form. Pull it up under DATE.",
+    "pins": [
+      {
+        "screen": "OFFLINE-REGISTRATION-more",
+        "xPct": 30,
+        "yPct": 85
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-43",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Dead space on Club",
+    "fix": "About 100pt empty under the bestie card. Peek the next bestie or the invite card.",
+    "pins": [
+      {
+        "screen": "G-20-club",
+        "xPct": 50,
+        "yPct": 88
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-44",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Friend code format differs",
+    "fix": "\"ABCD-2345-EFGH\" vs \"ABCD 2345 EFGH\". Use spaces everywhere.",
+    "pins": [
+      {
+        "screen": "G-21-invite",
+        "xPct": 50,
+        "yPct": 31
+      }
+    ],
+    "alsoOn": [
+      "X-03-friend-code-management"
+    ]
+  },
+  {
+    "id": "F-45",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Status chip position",
+    "fix": "YOU TOO \u2713 / SHE WANTS sit bottom-centre; OWNED sits top-right elsewhere. Put status chips top-left everywhere.",
+    "pins": [
+      {
+        "screen": "G-29-a-bestie-s-charms",
+        "xPct": 22,
+        "yPct": 40
+      }
+    ],
+    "alsoOn": [
+      "G-25-search"
+    ]
+  },
+  {
+    "id": "F-46",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Roman fallback between photos",
+    "fix": "The Rodeo Baby row still shows \"III\". If the member has a photo, use the missing-member treatment.",
+    "pins": [
+      {
+        "screen": "G-29-more-a-bestie-s-charms",
+        "xPct": 44,
+        "yPct": 11
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-47",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Gift sheet title clipped",
+    "fix": "\"Lucky Horseshoc\" runs under the close button. Add a 56pt trailing inset or wrap.",
+    "pins": [
+      {
+        "screen": "G-22-gift-sheet",
+        "xPct": 50,
+        "yPct": 24
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-48",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "Share cards are top-heavy",
+    "fix": "About 200pt of empty pink inside the card. Centre the content and scale the art about 1.4\u00d7.",
+    "pins": [
+      {
+        "screen": "G-32-share-new-snap",
+        "xPct": 50,
+        "yPct": 52
+      }
+    ],
+    "alsoOn": [
+      "G-33-share-gift",
+      "G-34-share-badge",
+      "G-18-share-the-stack"
+    ]
+  },
+  {
+    "id": "F-49",
+    "priority": "P3",
+    "owner": "Native",
+    "title": "FIND 2 crowds the member row",
+    "fix": "Give the row 8pt more trailing padding.",
+    "pins": [
+      {
+        "screen": "RELEASE28-MY-CHARMS",
+        "xPct": 90,
+        "yPct": 64
+      }
+    ],
+    "alsoOn": [
+      "G-14-my-charms"
+    ]
+  },
+  {
+    "id": "F-50",
+    "priority": "P3",
+    "owner": "Web",
+    "title": "Unclear web heading and long footers",
+    "fix": "\"Open this collection moment\" should read \"Open it in the app\". Cut repeated 4\u20135 line footer paragraphs to one line plus a \"How it works\" link.",
+    "pins": [
+      {
+        "screen": "W-04-shared-stack-more",
+        "xPct": 50,
+        "yPct": 52
+      }
+    ],
+    "alsoOn": [
+      "W-01-shared-wishlist-more-2",
+      "W-05-bestie-invite"
+    ]
+  },
+  {
+    "id": "F-51",
+    "priority": "P3",
+    "owner": "Capture",
+    "title": "Duplicate continuation",
+    "fix": "G-30-more-a-bestie-s-wishlist is identical to G-30-a-bestie-s-wishlist-more. Recapture or drop.",
+    "pins": [
+      {
+        "screen": "G-30-more-a-bestie-s-wishlist",
+        "xPct": 50,
+        "yPct": 50
+      }
+    ],
+    "alsoOn": []
+  },
+  {
+    "id": "F-52",
+    "priority": "P2",
+    "owner": "Native",
+    "title": "Club header safe-area band",
+    "pins": [
+      {
+        "screen": "RELEASE28-CLUB"
+      }
+    ],
+    "alsoOn": [
+      "G-20-club",
+      "G-20B-bestie-club-page"
+    ]
+  }
+]

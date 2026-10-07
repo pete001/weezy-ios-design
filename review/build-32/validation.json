@@ -1,0 +1,36 @@
+{
+  "build": 32,
+  "generatedAt": "2026-10-07T23:14:52.122370+00:00",
+  "inventoryScreens": 106,
+  "capturedInventoryScreens": 101,
+  "images": 169,
+  "additionalContinuations": 68,
+  "notCaptured": [
+    "SHOPIFY-CODE",
+    "SHOPIFY-CHECKOUT",
+    "G-35R-basket-verified-reward",
+    "G-28-pick-your-code",
+    "W-07-app-first-open"
+  ],
+  "unexpectedMissing": [],
+  "imageFormat": "JPEG",
+  "jpegQuality": 80,
+  "pixelWidth": 1179,
+  "pixelHeight": 2556,
+  "batches": [
+    50,
+    50,
+    50,
+    19
+  ],
+  "retiredContinuations": [
+    "RELEASE29-FLOWER-GALLERY-more-2",
+    "RELEASE29-FLOWER-RESTORED-more-2",
+    "RELEASE29-LARGEST-GLITTER-more-5",
+    "RELEASE29-LARGEST-GOLD-more-4",
+    "RELEASE29-LARGEST-GOLD-more-5",
+    "RELEASE29-LARGEST-RESTORED-more-5",
+    "OFFLINE-REGISTRATION-more",
+    "G-30-a-bestie-s-wishlist-more"
+  ]
+}

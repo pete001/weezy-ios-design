@@ -1,6 +1,8 @@
 # Weezy Pop · Design review
 
-[Open the build 31 review pack](review/build-31/README.md).
+[Open the build 32 review pack](review/build-32/README.md) · [Previous build31](review/build-31/README.md).
+
+Build32 addresses the original51 numbered fixes plus F-52. Its169 fresh captures, largest-text continuations and one-line-per-fix RESPONSE.md are paired by the same screen IDs. Apple has approved build32 for both existing TestFlight groups. Open automated accessibility findings and uncaptured journeys are explicit in the pack.
 
 The pack pairs current app content and app-only web previews with the exact Pop Studio screen IDs. Start with its README, then use `manifest.json` and `import-batches.json` to import up to 50 images at a time. Missing screens and their reasons are explicit.
 
