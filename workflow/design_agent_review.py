@@ -164,7 +164,7 @@ def export(args):
     (destination / 'manifest.json').write_text('[\n' + ',\n'.join('  ' + json.dumps(entry, ensure_ascii=False) for entry in concise) + '\n]\n')
     with (destination / 'capture-inventory.csv').open('w', newline='') as file:
         columns = ['id', 'parentId', 'build', 'file', 'title', 'journey', 'textSize', 'notCaptured', 'reason']
-        writer = csv.DictWriter(file, fieldnames=columns)
+        writer = csv.DictWriter(file, fieldnames=columns, lineterminator='\n')
         writer.writeheader()
         for entry in manifest:
             writer.writerow({key: entry.get(key, '') for key in columns})

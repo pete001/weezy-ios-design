@@ -13,7 +13,7 @@ Version **1.0 (31)**. **176 JPEGs: 101 inventory screens and 75 additional conti
 
 ## Capture context
 
-- **Native:** iPhone 16 Pro simulator, iOS 27.0. Production SwiftUI content rendered in the isolated XCTest harness on a controlled **393×852pt** canvas at **3×**, exported as **1179×2556px JPEG, quality 80**. The hardware’s native width is 402pt; this canvas matches the requested 393pt designs. Older375/440width labels remain in canonical IDs for pairing, but these captures use the requested393pt viewport.
+- **Native:** iPhone 16 Pro simulator, iOS 27.0. Production SwiftUI content rendered in the isolated XCTest harness on a controlled **393×852pt** canvas at **3×**, exported as **1179×2556px JPEG, quality 80**. The hardware’s native width is 402pt; this canvas matches the requested 393pt designs. Older 375/440 width labels remain in canonical IDs for pairing, but these captures use the requested 393pt viewport.
 - **Data:** Claire; Celestial Magic **4 of 6**; Board 4’s **£138** verified example basket (**£166 − £10 − £18**). Two loose pieces are Cowboy Boot £20 and Heart £18. Set-only pieces captures follow their supplied set-only reference.
 - **Reference-only Heart:** the ordinary Heart in the design is an isolated display example. The current live Heart listing is personalised and remains website-only. Its review title and the Cowboy Boot’s £20 reference price never alter Shopify. These stills do not prove that the live Heart can be added through the app.
 - **Largest text:** actual `accessibility5` basket, finish-review and registration captures, with scroll continuations. Layout issues are left visible for review.
