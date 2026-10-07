@@ -1,0 +1,38 @@
+{
+  "build": 31,
+  "generatedAt": "2026-10-07T20:50:58.771911+00:00",
+  "inventoryScreens": 106,
+  "capturedInventoryScreens": 101,
+  "images": 176,
+  "additionalContinuations": 75,
+  "notCaptured": [
+    "SHOPIFY-CODE",
+    "SHOPIFY-CHECKOUT",
+    "G-35R-basket-verified-reward",
+    "G-28-pick-your-code",
+    "W-07-app-first-open"
+  ],
+  "unexpectedMissing": [],
+  "imageFormat": "JPEG",
+  "jpegQuality": 80,
+  "pixelWidth": 1179,
+  "pixelHeight": 2556,
+  "batches": [
+    50,
+    50,
+    50,
+    26
+  ],
+  "checks": {
+    "allIDsUnique": true,
+    "allInventoryIDsAccountedFor": true,
+    "exactFilenames": true,
+    "allJPEGs1179x2556Quality80": true,
+    "allHashesVerified": true,
+    "allSelectedNativeSourcesFromSuccessfulRun": true,
+    "nativeImagesFreshnessChecked": 164,
+    "allImportBatchesAtMost50": true,
+    "noUnexpectedMissingScreens": true
+  },
+  "totalImageBytes": 32997784
+}

@@ -1,0 +1,36 @@
+{
+  "appVersion": "1.0",
+  "build": 31,
+  "releasedBuildId": "5d18b422-399e-4647-a70c-0f2dab3ac699",
+  "productionSourceFilesChecked": 229,
+  "productionSourceDifferencesFromReleasedBuild": [],
+  "releaseInventorySHA256": "b6b409ca4d477fe3dddc288e023c3cade97f3398b650673268fb889d83eac338",
+  "releasedIPASHA256": "c0d5cb7f987bf4c19712be86210e74418cb341cbbae319675f7cc965244125cd",
+  "nativeCaptureMethod": "Current production SwiftUI views rendered by Debug XCTest with isolated fixture data; not a capture from the TestFlight binary or shipping AppRoot",
+  "nativeDevice": "iPhone16Pro simulator, iOS27.0",
+  "hardwareNativeWidthPt": 402,
+  "controlledDesignViewportPt": {
+    "width": 393,
+    "height": 852
+  },
+  "scale": 3,
+  "largestText": "SwiftUI DynamicTypeSize.accessibility5, with no global text-size cap",
+  "fixture": "Claire; Celestial Magic 4 of 6. Board 4 summary \u00a3138 = \u00a3166 - \u00a310 - \u00a318, with loose Cowboy Boot \u00a320 and Heart \u00a318. Explicit local photo assignments and reference-only price/title facts. Production Shopify unchanged.",
+  "webCaptureMethod": "Current app-only web templates, isolated in-memory loopback fixture and dedicated Chrome mobile393x852pt/3x; no Safari chrome or website theme changes",
+  "limits": [
+    "Shipping AppRoot, real authentication, real payment, device signing, push delivery and deferred installation are not proved by these content stills.",
+    "Reference examples do not change production customer ownership, merchant prices, variants, photos or discounts."
+  ],
+  "referenceOnlyProductFacts": {
+    "cowboy-boot-charm": "Review price \u00a320 from Board 4; no merchant price change.",
+    "necklace-heart-charm": "Board 4 ordinary Heart Charm display title is supplied only in the isolated fixture. The live listing is personalised and remains website-only. This capture does not prove live Heart app-add support."
+  },
+  "captureTests": {
+    "total": 5,
+    "passed": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "nativeCaptureRun": "20261007T204535Z-6351eb",
+  "nativeCaptureCompletedAt": "2026-10-07T20:50:52.734892+00:00"
+}
