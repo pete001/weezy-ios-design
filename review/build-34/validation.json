@@ -1,0 +1,31 @@
+{
+  "build": 34,
+  "requestedIDs": [
+    "S-01-sets-feed",
+    "S-01-sets-feed-snack",
+    "S-01-sets-feed-more",
+    "S-01-sets-feed-largest",
+    "S-02-feed-added",
+    "S-03-set-page-more",
+    "S-03-set-page-snack",
+    "S-03-set-page-pending-largest",
+    "S-04-set-all-in",
+    "G-14-my-charms-more"
+  ],
+  "missingRequestedIDs": [],
+  "freshImages": 42,
+  "jpegQuality": 80,
+  "embeddedICC": "sRGB",
+  "pixelSize": [
+    1179,
+    2556
+  ],
+  "batches": [
+    42
+  ],
+  "unchangedHistoricalPointers": 219,
+  "supersededOldContinuations": [],
+  "sourceHashesVerified": true,
+  "unchangedHistoricalEntries": 229,
+  "historicalNotCapturedEntries": 10
+}

@@ -1,0 +1,166 @@
+{
+ "build": 33,
+ "verified": [
+  "F-13",
+  "F-15",
+  "F-30",
+  "F-53",
+  "F-54",
+  "F-55",
+  "F-56",
+  "F-57",
+  "F-58",
+  "F-59",
+  "F-60",
+  "F-61"
+ ],
+ "acceptedPartial": [
+  "F-50"
+ ],
+ "open": [
+  {
+   "id": "F-62",
+   "priority": "P2",
+   "owner": "Native",
+   "title": "White-studio photos float on the bare white card",
+   "fix": "Coloured product shots fill their tiles, but white-studio shots (Egg on Toast, Hot Sauce, Burger, Battenberg, Moon) sit straight on the white card with no tile, so the carousel looks broken and the + floats in space. Give every tile the same rounded 20pt ground: the photo’s own colour when it has one, #FFF3F8 blush when the shot is white.",
+   "pins": [
+    {
+     "screen": "S-01-sets-feed-snack",
+     "xPct": 30,
+     "yPct": 40
+    },
+    {
+     "screen": "S-01-sets-feed-more",
+     "xPct": 10,
+     "yPct": 40
+    }
+   ],
+   "alsoOn": [
+    "G-10-set-post (Moon)",
+    "RELEASE28-SHOP",
+    "S-03-set-page-snack list thumbs"
+   ]
+  },
+  {
+   "id": "F-63",
+   "priority": "P2",
+   "owner": "Native",
+   "title": "Set page buttons float over the list when scrolled",
+   "fix": "Scrolled past the hero, the back and basket buttons sit directly on top of the Moon row and the meter. Once content passes under them, show a blush bar (or the iOS 26 scroll-edge effect) with the set name and count, like the collapsed product header fixed in F-55.",
+   "pins": [
+    {
+     "screen": "S-03-set-page-more",
+     "xPct": 10,
+     "yPct": 10
+    }
+   ],
+   "alsoOn": [
+    "S-03-set-page-pending-more",
+    "S-03-set-page-largest-more"
+   ]
+  },
+  {
+   "id": "F-64",
+   "priority": "P2",
+   "owner": "Native",
+   "title": "Stickers and badges grow with largest text",
+   "fix": "At accessibility5 the OWNED stickers become giant pills that hide the photos, and the basket count badge covers the bag icon. Cap stickers, chips on photos and count badges at .accessibility1; let titles, rows and buttons keep scaling.",
+   "pins": [
+    {
+     "screen": "S-01-sets-feed-largest",
+     "xPct": 28,
+     "yPct": 73
+    },
+    {
+     "screen": "S-03-set-page-pending-largest",
+     "xPct": 96,
+     "yPct": 10
+    }
+   ],
+   "alsoOn": [
+    "all -largest S- screens"
+   ]
+  },
+  {
+   "id": "F-65",
+   "priority": "P2",
+   "owner": "Native",
+   "title": "Rodeo Baby owned pieces show a generic seal icon",
+   "fix": "Two owned Rodeo Baby members render a grey verified-seal glyph instead of the product photo. Use the member’s photo with the owned tick, like Celestial Magic above it. If no photo is mapped, use the name-on-blush fallback, never a system icon.",
+   "pins": [
+    {
+     "screen": "G-14-my-charms-more",
+     "xPct": 34,
+     "yPct": 19
+    }
+   ],
+   "alsoOn": [
+    "G-14-my-charms",
+    "RELEASE28-MY-CHARMS"
+   ]
+  },
+  {
+   "id": "F-66",
+   "priority": "P3",
+   "owner": "Native",
+   "title": "Bottom fade washes out the next set’s photos",
+   "fix": "The blush fade under the tab bar sits over the Good Energy tiles, so they look like they are dissolving. End the scroll content inset above the fade, or start the fade at the tab bar top so it only softens content actually behind the glass.",
+   "pins": [
+    {
+     "screen": "S-01-sets-feed",
+     "xPct": 50,
+     "yPct": 82
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-67",
+   "priority": "P3",
+   "owner": "Native",
+   "title": "IN BASKET sticker is clipped on the peeking tile",
+   "fix": "After tapping + on the third tile, its IN BASKET sticker is cut off at the card edge. Scroll the carousel so the tapped tile is fully visible (scrollTo with anchor .trailing, animated) as the sticker appears.",
+   "pins": [
+    {
+     "screen": "S-02-feed-added",
+     "xPct": 94,
+     "yPct": 31
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-68",
+   "priority": "P3",
+   "owner": "Native",
+   "title": "Missing white-studio members almost disappear",
+   "fix": "On Snack to the Future the missing members are 40% opacity white photos on white, so the strip and row thumbnails nearly vanish. For missing members use the dashed #F2C4D6 ring with the photo at 70% on a blush disc, so the piece is still legible.",
+   "pins": [
+    {
+     "screen": "S-03-set-page-snack",
+     "xPct": 50,
+     "yPct": 35
+    }
+   ],
+   "alsoOn": [
+    "S-01-sets-feed-snack"
+   ]
+  },
+  {
+   "id": "F-69",
+   "priority": "P3",
+   "owner": "Native",
+   "title": "All-in copy reads \"0 to go\"",
+   "fix": "\"6 of 6 once you check out. 0 to go.\" Swap to \"All lined up. Complete once Shopify confirms your order.\"",
+   "pins": [
+    {
+     "screen": "S-04-set-all-in",
+     "xPct": 30,
+     "yPct": 54
+    }
+   ],
+   "alsoOn": []
+  }
+ ]
+}

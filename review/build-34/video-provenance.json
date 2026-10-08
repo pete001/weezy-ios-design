@@ -1,0 +1,15 @@
+{
+  "recordStart": "2026-10-08T11:20:50.643447+00:00",
+  "simulator": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+  "device": "iPhone16 Pro native402\u00d7874pt; real shipping AppRoot test; not the controlled screenshot canvas",
+  "trimStartSeconds": 14.371552991867066,
+  "durationSeconds": 5,
+  "sourceVideoSHA256": "8ce27603862b84594cb0fdc56809d1f9e958c9b573910ad46a670bc801079800",
+  "exportedSHA256": "fe565361bc87d01db81b2476f97e17544c128055cf751779591bd5487a06d20a",
+  "sourceXCResult": "build/Migration/20261008T112051Z-a761e3.xcresult",
+  "sourceTest": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+  "testPassed": true,
+  "productionSourceUnchanged": true,
+  "processing": "Temporal trim only; native resolution and frame content preserved",
+  "visualInspection": "Start before the third-tile tap; include automatic trailing scroll, striped meter, full sticker, toast and Undo."
+}

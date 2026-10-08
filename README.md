@@ -1,10 +1,10 @@
 # Weezy Pop · Design review
 
-[Open build 33](review/build-33/README.md) · [Build 32](review/build-32/README.md) · [Build 31](review/build-31/README.md).
+[Open build 34](review/build-34/README.md) · [Build 33](review/build-33/README.md) · [Build 32](review/build-32/README.md) · [Build 31](review/build-31/README.md).
 
-Build 33 introduces the updated Sets design and addresses the current native review fixes. Apple has approved it for both existing TestFlight groups. The review contains 157 fresh screenshots, actual largest-text continuations, a 5.3 second add/Undo recording and all 61 fix responses. F-50 remains partial for installed-device Safari reopening; its reason is explicit.
+Build 34 addresses F-62 through F-69 in the accepted Sets design. The review contains 42 fresh screenshots covering the ten requested IDs and their actual scroll continuations, including largest text, plus a five-second tap-and-scroll recording. F-50 remains the accepted partial infrastructure follow-up for installed-device Safari reopening. Apple submission and distribution evidence is recorded in [RELEASE.json](review/build-34/RELEASE.json).
 
-Use [manifest.json](review/build-33/manifest.json), [changes.json](review/build-33/changes.json) and [import-batches.json](review/build-33/import-batches.json) to compare only changed screens. Batches contain at most 50 images. Unchanged screens retain their original build 32 pointers; previous folders remain immutable. [TESTS.json](review/build-33/TESTS.json) records actual passes, failures and resolving rechecks, independently of screenshot renders.
+Use [manifest.json](review/build-34/manifest.json), [changes.json](review/build-34/changes.json) and [import-batches.json](review/build-34/import-batches.json) to compare against build 33. Batches contain at most 50 images. Unchanged screens retain direct pointers to their original build 31, 32 or 33 images; previous folders remain immutable. [RESPONSE.md](review/build-34/RESPONSE.md) answers all eight fixes. [TESTS.json](review/build-34/TESTS.json) records 25 final passes, earlier failures and their resolving rechecks, independently of screenshot renders.
 
 The standing [review protocol](docs/DESIGN-AGENT-REVIEW.md) is enforced by AGENTS.md and the native project’s rules. Return the pinned review canvas, FIXES.md and a short summary using exact screen IDs.
 

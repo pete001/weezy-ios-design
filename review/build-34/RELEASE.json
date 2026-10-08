@@ -1,0 +1,50 @@
+{
+  "build": 34,
+  "version": "1.0",
+  "appId": "6808889322",
+  "buildId": "7be6535f-9503-42e7-b45d-bea9dbb67696",
+  "verifiedAt": "2026-10-08T11:39:09.017091+00:00",
+  "processingState": "VALID",
+  "betaReviewState": "APPROVED",
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "groups": [
+    {
+      "name": "Lou & Nat",
+      "type": "external",
+      "membership": "explicit"
+    },
+    {
+      "name": "Weezy Pop Internal",
+      "type": "internal",
+      "membership": "explicit"
+    }
+  ],
+  "testingNotesLocales": [
+    "en-US",
+    "en-GB"
+  ],
+  "testingNotesReadBack": true,
+  "existingAutoNotifyPreserved": true,
+  "testflightURL": "https://testflight.apple.com/join/5m9QyaSa",
+  "ipaSHA256": "f3d4de6499dc6613ebe0a978f678e1a5fa03d9ca60e584a8194b530db81fa9dc",
+  "ipaBytes": 20662735,
+  "signatureVerified": true,
+  "appleValidationPassed": true,
+  "debugTestBypassAbsent": true,
+  "sourceInputsMatched": 279,
+  "signingKeychainRelocked": true,
+  "receipts": {
+    "upload.json": "af2c87fbccc2c5f56fd60509606e848f983dd2adfa3657b32bd25587d8c8ba80",
+    "build-readback.json": "b0d75b56b3e78a03959ed783063380d27e9ee6e0fa357f02b64abed39a6d4372",
+    "groups-readback.json": "34468c258cdcc650c893edc95adc4a1522c24e42d113f3f0f4e2b3b658d8a18e",
+    "distribution-readback.json": "a7d2c19a9e4f8c151e775609bc4b491fe3fbb2ef7251554b599fd2ff395cd535",
+    "review-readback.json": "9ca82b5c334ca685b727bd8cef2ddf0520f7a7b341e3962ee53cb85f14e44396",
+    "notes-readback.json": "71b16233976dbf6009471220dcf8c92b1a8f9b0e2cde08a613db0361bcd8c84a",
+    "package-verification.json": "1d5948605d59ef546e23ccbbd89c047e49dbe523a68937c7ab5d22bef0c7b671",
+    "apple-validation.json": "b4f4eb0eca027519e0975df169cf013e0e3a999af4d5e1b41fa18d21c8e23ad6"
+  },
+  "F50": "Accepted partial infrastructure: separate associated link origin and physical-device Safari acceptance.",
+  "websiteChanged": false,
+  "liveMerchantDataChanged": false
+}
