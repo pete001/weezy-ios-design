@@ -1,0 +1,76 @@
+{
+  "signed": true,
+  "uploaded": true,
+  "deployedAppOnlyWeb": 38,
+  "testFlightAcceptanceClaimed": true,
+  "version": "1.0",
+  "build": 33,
+  "buildID": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+  "processingState": "VALID",
+  "betaReviewState": "APPROVED",
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "groups": [
+    "Weezy Pop Internal",
+    "Lou & Nat"
+  ],
+  "autoNotifyPreserved": true,
+  "ipaSHA256": "e0ce1ee7e8eb655b4dc6a099434139d8d37c7cc69b509a7956b2c0674fafab8c",
+  "readBackAt": "2026-10-08T09:05:16.444852+00:00",
+  "receipts": [
+    {
+      "path": "evidence/receipts/package-verification-8fb0df2f0bb6.json",
+      "sha256": "2689480e0ca23171f0d3191b9f00ea5f2669ab0f878f92ef1712622b7da8521f",
+      "originalSourceSHA256": "8fb0df2f0bb6f6e811e03e4e0d530f8c12cad74ddc71311db9e7141191a9dfc8",
+      "originalSourcePath": "build/Release33/package-verification.json"
+    },
+    {
+      "path": "evidence/receipts/apple-validation-e517baf29521.json",
+      "sha256": "ec886766054658704802aed338a47f835738f4b83a427858d67f36567536da05",
+      "originalSourceSHA256": "e517baf29521160a5972eb1955a10e56e5837cd7b64ad9daf7ab2b5f056104e0",
+      "originalSourcePath": "build/Release33/apple-validation.json"
+    },
+    {
+      "path": "evidence/receipts/upload-ffc7b4e00fd6.json",
+      "sha256": "38d75d89476a1ba4f5dffd1caaa884a694222c7c3ebf25ffcd1ae65a74d52ec4",
+      "originalSourceSHA256": "ffc7b4e00fd651a1cc00921b0e7e3c197c490da7dba5e68b44c41967598bad2d",
+      "originalSourcePath": "build/Release33/upload.json"
+    },
+    {
+      "path": "evidence/receipts/groups-readback-5a99ababcdf0.json",
+      "sha256": "8d5f99bcfa7c6b1d5643cdacc562e67c41da68f12885e79ee4bed73d989fb03f",
+      "originalSourceSHA256": "5a99ababcdf0d092718714b4826257c757496efb2baf24026800b01a917ece4a",
+      "originalSourcePath": "build/Release33/groups-readback.json"
+    },
+    {
+      "path": "evidence/receipts/distribution-readback-d5405e05be72.json",
+      "sha256": "6c43ea41199278ef48e1b848723487ad2170d149711b27e901b246a9c93ff75e",
+      "originalSourceSHA256": "d5405e05be72ce2863a69779e3fb44795ff86b4ff2cc337eeb06dfdb62fb7fc5",
+      "originalSourcePath": "build/Release33/distribution-readback.json"
+    },
+    {
+      "path": "evidence/receipts/review-readback-f0bc15c683fb.json",
+      "sha256": "c83622144b8bfa1b8dc091afc27f2f57403b733280fcf1a2484575b3f3b183a0",
+      "originalSourceSHA256": "f0bc15c683fb6792c8d7a864c112e9715437ba8449c404f2034a867f53f5be84",
+      "originalSourcePath": "build/Release33/review-readback.json"
+    },
+    {
+      "path": "evidence/receipts/notes-readback-70931e3fadb6.json",
+      "sha256": "9b7944ef91e65de357a08285ebe0546914d33e19bfb3cd97a3d80ef068588e65",
+      "originalSourceSHA256": "70931e3fadb67d0d8ec519f51d4eb6c343f1e20ec0bec8a9f2f7b0b81087572c",
+      "originalSourcePath": "build/Release33/notes-readback.json"
+    },
+    {
+      "path": "evidence/receipts/web-live-verification-c5df9724c268.json",
+      "sha256": "9ef72b406c45982302ab5bfb58d3344aea802ca016959acb079373806f1552b9",
+      "originalSourceSHA256": "c5df9724c2686326e0a1d71e21501ce7edaf3f0348721685b9e586c6881b3365",
+      "originalSourcePath": "build/Release33/web-live-verification.json"
+    },
+    {
+      "path": "evidence/receipts/final-production-source-association-67bfda8ad9e7.json",
+      "sha256": "c4abaf38c719912037f99f1c08a7d16f73aa81cd71f374187021f37c01fd7841",
+      "originalSourceSHA256": "67bfda8ad9e75e0b3ccb96fa167d1bd67871303cc897e1f276e44c65e7205368",
+      "originalSourcePath": "build/Release33/final-production-source-association.json"
+    }
+  ]
+}

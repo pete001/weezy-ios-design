@@ -1,0 +1,29 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/groups-readback.json",
+  "originalSourceSHA256": "5a99ababcdf0d092718714b4826257c757496efb2baf24026800b01a917ece4a",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "buildId": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+    "appId": "6808889322",
+    "complete": true,
+    "lookupMethod": "server_filter_with_inverse_all_builds",
+    "groupCount": 2,
+    "groups": [
+      {
+        "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+        "name": "Lou & Nat",
+        "type": "external",
+        "membership": "explicit",
+        "hasAccessToAllBuilds": false
+      },
+      {
+        "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+        "name": "Weezy Pop Internal",
+        "type": "internal",
+        "membership": "explicit",
+        "hasAccessToAllBuilds": false
+      }
+    ]
+  }
+}

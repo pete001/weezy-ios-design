@@ -1,0 +1,39 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/distribution-readback.json",
+  "originalSourceSHA256": "d5405e05be72ce2863a69779e3fb44795ff86b4ff2cc337eeb06dfdb62fb7fc5",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "data": [
+      {
+        "type": "buildBetaDetails",
+        "id": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+        "attributes": {
+          "autoNotifyEnabled": true,
+          "internalBuildState": "IN_BETA_TESTING",
+          "externalBuildState": "IN_BETA_TESTING"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/4d1e6abd-17f9-4279-9655-d1c8f737825f/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/4d1e6abd-17f9-4279-9655-d1c8f737825f/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/4d1e6abd-17f9-4279-9655-d1c8f737825f"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails?filter%5Bbuild%5D=4d1e6abd-17f9-4279-9655-d1c8f737825f"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  }
+}

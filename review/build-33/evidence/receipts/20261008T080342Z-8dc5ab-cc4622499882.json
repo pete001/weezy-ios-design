@@ -1,0 +1,66 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T080342Z-8dc5ab.json",
+  "originalSourceSHA256": "cc4622499882b4aa4aaa13d52ee1ec061fff068f8f5c01c382aea0c42733700e",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T080342Z-8dc5ab.xcresult",
+    "tests": {
+      "total": 4,
+      "passed": 3,
+      "failed": 1,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 172702,
+      "cases": [
+        {
+          "identifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "name": "testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 36000
+        },
+        {
+          "identifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "name": "testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 18000
+        },
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "className": "Build33SetsUITests",
+          "status": "failed",
+          "durationMs": 11000,
+          "message": "XCTAssertEqual failed: (\"XCTWaiterResult(rawValue: 2)\") is not equal to (\"XCTWaiterResult(rawValue: 1)\")"
+        },
+        {
+          "identifier": "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+          "name": "testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+          "className": "VariantPhotographyUITests",
+          "status": "passed",
+          "durationMs": 92000
+        }
+      ],
+      "failures": [
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "message": "XCTAssertEqual failed: (\"XCTWaiterResult(rawValue: 2)\") is not equal to (\"XCTWaiterResult(rawValue: 1)\")"
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": false,
+    "durationMs": 174825,
+    "exitStatus": 65
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "build": 33,
+  "canonicalInventoryIDs": 106,
+  "requiredIDs": 74,
+  "freshImages": 157,
+  "historicalPointers": 110,
+  "missingFreshRequiredIDs": [],
+  "missingStates": [
+    "G-13-more-set-detail",
+    "RELEASE29-LARGEST-GOLD-more-5",
+    "S-05-product-in-set-more"
+  ],
+  "nativeVerificationPending": [],
+  "fixResponseRows": 61,
+  "unreviewedOmissions": [],
+  "jpegQuality": 80,
+  "embeddedICC": "sRGB",
+  "pixelSize": [
+    1179,
+    2556
+  ],
+  "batches": [
+    50,
+    50,
+    50,
+    7
+  ],
+  "readyForPublishing": true,
+  "F50Status": "partial"
+}

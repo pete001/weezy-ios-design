@@ -1,0 +1,451 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33F50/browser-audit.json",
+  "originalSourceSHA256": "e204d32b800a56ecd1c5d124d05cb7e0d70b39ff91aae9a7f2fe8c49d7911563",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "at": "2026-10-08T06:39:43.009Z",
+    "fixture": "Synthetic in-memory loopback only, no merchant/customer writes, no checkout or payments",
+    "screens": [
+      {
+        "key": "wishlist",
+        "file": "build/Release33F50/wishlist-375-open-action.png",
+        "width": 375,
+        "documentWidth": 375,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/w/QYWK9LB3MQZ2",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "stack",
+        "file": "build/Release33F50/stack-375-open-action.png",
+        "width": 375,
+        "documentWidth": 375,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/s/86715c7a449135a3f311def306bd98d19cb176b40cd05f86",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "invite",
+        "file": "build/Release33F50/invite-375-open-action.png",
+        "width": 375,
+        "documentWidth": 375,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/b/QYWK9LB3MQZ2",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "wishlist",
+        "file": "build/Release33F50/wishlist-393-open-action.png",
+        "width": 393,
+        "documentWidth": 393,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/w/QYWK9LB3MQZ2",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "stack",
+        "file": "build/Release33F50/stack-393-open-action.png",
+        "width": 393,
+        "documentWidth": 393,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/s/86715c7a449135a3f311def306bd98d19cb176b40cd05f86",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "invite",
+        "file": "build/Release33F50/invite-393-open-action.png",
+        "width": 393,
+        "documentWidth": 393,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/b/QYWK9LB3MQZ2",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "wishlist",
+        "file": "build/Release33F50/wishlist-1440-open-action.png",
+        "width": 1440,
+        "documentWidth": 1440,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/w/QYWK9LB3MQZ2",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "stack",
+        "file": "build/Release33F50/stack-1440-open-action.png",
+        "width": 1440,
+        "documentWidth": 1440,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/s/86715c7a449135a3f311def306bd98d19cb176b40cd05f86",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      },
+      {
+        "key": "invite",
+        "file": "build/Release33F50/invite-1440-open-action.png",
+        "width": 1440,
+        "documentWidth": 1440,
+        "font": true,
+        "href": "https://weezy-pop-club.fly.dev/b/QYWK9LB3MQZ2",
+        "text": "Open it in the app",
+        "height": 56,
+        "radius": "28px",
+        "border": "2px",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 20, 24)",
+        "instruction": "After installing, use OPEN in Safari’s app banner.",
+        "images": [
+          {
+            "loaded": true
+          }
+        ],
+        "installAbove": true
+      }
+    ],
+    "associations": [
+      {
+        "origin": "https://weezy-pop-club.fly.dev/.well-known/apple-app-site-association",
+        "status": 200,
+        "data": {
+          "applinks": {
+            "details": [
+              {
+                "appIDs": [
+                  "N5GGJF75LB.com.weezypop.charmclub"
+                ],
+                "components": [
+                  {
+                    "/": "/w/*/gift",
+                    "exclude": true
+                  },
+                  {
+                    "/": "/w/*/checkout",
+                    "exclude": true
+                  },
+                  {
+                    "/": "/w/*"
+                  },
+                  {
+                    "/": "/s/*/image",
+                    "exclude": true
+                  },
+                  {
+                    "/": "/s/*"
+                  },
+                  {
+                    "/": "/b/*"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "origin": "https://app-site-association.cdn-apple.com/a/v1/weezy-pop-club.fly.dev",
+        "status": 200,
+        "data": {
+          "applinks": {
+            "details": [
+              {
+                "appIDs": [
+                  "N5GGJF75LB.com.weezypop.charmclub"
+                ],
+                "components": [
+                  {
+                    "/": "/w/*/gift",
+                    "exclude": true
+                  },
+                  {
+                    "/": "/w/*/checkout",
+                    "exclude": true
+                  },
+                  {
+                    "/": "/w/*"
+                  },
+                  {
+                    "/": "/s/*/image",
+                    "exclude": true
+                  },
+                  {
+                    "/": "/s/*"
+                  },
+                  {
+                    "/": "/b/*"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "limitation": "Apple TN3155 keeps same-domain Safari taps on the web. Smart App Banner OPEN is the supported Safari fallback; reliable cross-domain reopening requires another associated origin and physical-device verification. No deferred post-install context is claimed."
+  }
+}

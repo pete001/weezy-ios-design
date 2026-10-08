@@ -1,0 +1,67 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T083230Z/visual-review-ax.json",
+  "originalSourceSHA256": "b124e36143c886692a4b327d920b8f5d8e56d5e3d411ed98335fafbb131c13f1",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "sourceUnchanged": true,
+    "sourceFreezeSHA256": "c999dbbd15e2ffc6c8e48b93805c3a27481e25a3f18c8c5df690fc1ef0d69d46",
+    "xcresults": [
+      "build/Migration/20261008T083231Z-7bc500.xcresult"
+    ],
+    "proof": "Actual latest isolated production-content renders at accessibility5,393 by852pt. Not shipping AppRoot or physical-device evidence.",
+    "overallAXVisualStatus": "Not accepted; three real residuals are visible. Root and collection agent notified.",
+    "verified": [
+      "My Charms title and archive section counters retain whole words.",
+      "Wishlist title,Share and piece-price counters retain whole words.",
+      "Both journeys have real overlapping continuations to their terminal content; shipping information is fully visible in the Wishlist tail."
+    ],
+    "remaining": [
+      {
+        "screen": "G-14-my-charms-largest",
+        "priority": "Layout",
+        "finding": "Fixed106pt count badge cannot contain accessibility5 count23 and CHARMS; number overflows and CHARMS clips/overlaps below the hero.",
+        "source": "WeezyPop/SocialPersonal.swift hero count overlay"
+      },
+      {
+        "screen": "G-14-my-charms-largest-more-9",
+        "priority": "Layout",
+        "finding": "Two-column loose grid splits Zia Rainbow into Rainbo and w. Needs natural accessibility layout that retains whole words.",
+        "source": "WeezyPop/SocialPersonal.swift loose item grid"
+      },
+      {
+        "screen": "G-15-wishlist-largest-more",
+        "priority": "Variant identity clarity",
+        "finding": "Most Wanted selected variant shows Set of T...; full Set of Two versus Three distinction is not visible.",
+        "source": "WeezyPop/SocialPersonal.swift wishlist featured item subtitle"
+      }
+    ],
+    "reviewedImages": [
+      {
+        "filename": "G-14-my-charms-largest-my-charms-largest.png",
+        "sha256": "e783f32d5a02a6723c236d03636d37e8349b9f5759af25e7a4066f6a0a4bf730"
+      },
+      {
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-1.png",
+        "sha256": "40bed1a83e236bc2d82797b950dd5690131c07f1ade771bdd6958aa850530e8b"
+      },
+      {
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-9.png",
+        "sha256": "814e92214d17443ac37dbbff7b556a8cee526440956750b26632d497a7afe16d"
+      },
+      {
+        "filename": "G-15-wishlist-largest-wishlist-largest.png",
+        "sha256": "e3be33a24c6f71e13ab6e1c5fb32218d4cf22df103a0b4f7dc1ae15be7ac142f"
+      },
+      {
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-1.png",
+        "sha256": "88b8d7dc3863b83685e45292810bdfe1fdb58a4d5935526a6ce3094d56373ebf"
+      },
+      {
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-10.png",
+        "sha256": "b89a29569371d928d06aa2ae5a87e8895c88810d3678ee274ccf2761ed00ce22"
+      }
+    ],
+    "contactSheet": "visual-check/largest-archive-and-wishlist.png"
+  }
+}

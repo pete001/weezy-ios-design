@@ -1,0 +1,19 @@
+{
+  "images": 157,
+  "batches": [
+    50,
+    50,
+    50,
+    7
+  ],
+  "manifestIDs": 271,
+  "fixRows": 61,
+  "fixed": 60,
+  "partial": [
+    "F-50"
+  ],
+  "videoByteHashVerified": true,
+  "noPrivatePathsOrCredentials": true,
+  "receiptAndArtifactHashesVerified": true,
+  "testFlight": "APPROVED; bothgroups IN_BETA_TESTING"
+}

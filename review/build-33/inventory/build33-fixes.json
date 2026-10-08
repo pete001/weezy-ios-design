@@ -1,0 +1,286 @@
+{
+  "build": 32,
+  "verified": [
+    "F-01",
+    "F-02",
+    "F-03",
+    "F-04",
+    "F-05",
+    "F-06",
+    "F-07",
+    "F-08",
+    "F-09",
+    "F-10",
+    "F-11",
+    "F-12",
+    "F-14",
+    "F-16",
+    "F-17",
+    "F-18",
+    "F-19",
+    "F-20",
+    "F-21",
+    "F-22",
+    "F-23",
+    "F-24",
+    "F-25",
+    "F-26",
+    "F-27",
+    "F-28",
+    "F-29",
+    "F-31",
+    "F-32",
+    "F-33",
+    "F-34",
+    "F-35",
+    "F-36",
+    "F-37",
+    "F-39",
+    "F-40",
+    "F-41",
+    "F-42",
+    "F-43",
+    "F-44",
+    "F-45",
+    "F-46",
+    "F-47",
+    "F-48",
+    "F-49",
+    "F-51",
+    "F-52"
+  ],
+  "open": [
+    {
+      "id": "F-53",
+      "status": "new",
+      "priority": "P2",
+      "owner": "Native",
+      "title": "Largest-text registration header collides with scrolled content",
+      "fix": "At accessibility5 the sticky \"STEP 1 OF 3\" bar has no background, so the charm title and the Fenwick Newcastle field scroll up underneath it and get sliced. Give the bar the blush ground (#FFF3F8) plus a hairline once content scrolls under it, cap the step label at .accessibility1 (it is chrome, not content), and start the content below the bar.",
+      "pins": [
+        {
+          "screen": "purchase-registration-largest",
+          "xPct": 60,
+          "yPct": 10
+        },
+        {
+          "screen": "purchase-registration-largest-more-3",
+          "xPct": 60,
+          "yPct": 12
+        }
+      ],
+      "alsoOn": [
+        "purchase-registration-largest-more-2",
+        "purchase-registration-largest-proof",
+        "all purchase-registration-largest continuations"
+      ]
+    },
+    {
+      "id": "F-54",
+      "status": "new",
+      "priority": "P2",
+      "owner": "Native",
+      "title": "My Charms shows one set, then an empty page",
+      "fix": "The header says \"2 sets done · 2 in progress\" but only Celestial Magic is listed, and the bottom 40% of the screen is empty. List every in-progress set by closeness to done (Celestial Magic 4 of 6, Rodeo Baby 2 of 4), then a \"Done\" section with completed sets, then the \"Everything else\" grid of loose charms. If the fixture only holds one set, add the others so the capture shows the real layout.",
+      "pins": [
+        {
+          "screen": "G-14-my-charms",
+          "xPct": 50,
+          "yPct": 78
+        },
+        {
+          "screen": "RELEASE28-MY-CHARMS",
+          "xPct": 50,
+          "yPct": 78
+        }
+      ],
+      "alsoOn": []
+    },
+    {
+      "id": "F-55",
+      "status": "new",
+      "priority": "P3",
+      "owner": "Native",
+      "title": "Collapsed product header is an empty pink strip that slices content",
+      "fix": "When the product page scrolls, an opaque pink band with no content sits at the top and cuts the £28 price and the COLOUR heading in half. Either show the product name + price in the collapsed bar, or drop the band and use the iOS 26 soft scroll-edge effect so content fades under the status bar. This also closes F-38.",
+      "pins": [
+        {
+          "screen": "RELEASE29-FLOWER-GALLERY-more",
+          "xPct": 50,
+          "yPct": 3
+        },
+        {
+          "screen": "RELEASE29-LARGEST-GLITTER-more",
+          "xPct": 50,
+          "yPct": 3
+        }
+      ],
+      "alsoOn": [
+        "all RELEASE29-*-more continuations"
+      ]
+    },
+    {
+      "id": "F-56",
+      "status": "new",
+      "priority": "P3",
+      "owner": "Native",
+      "title": "Finish chip reads \"GOLD · GOLD\"",
+      "fix": "When charm colour and metal are both gold the chip repeats itself. Use \"Gold charm · gold metal\", or just \"Gold\" when the two match.",
+      "pins": [
+        {
+          "screen": "RELEASE29-LARGEST-GOLD",
+          "xPct": 50,
+          "yPct": 21
+        }
+      ],
+      "alsoOn": [
+        "RELEASE29-GOLD"
+      ]
+    },
+    {
+      "id": "F-13",
+      "status": "reopened",
+      "priority": "P3",
+      "owner": "Native",
+      "title": "Scroll indicator still visible on the set hero",
+      "fix": "The glass is gone, but a small white vertical pill still sits on the right edge of the four-up set hero. Hide the scroll indicator on that grid (.scrollIndicators(.hidden)) or remove the inner ScrollView.",
+      "pins": [
+        {
+          "screen": "RELEASE28-SHOP",
+          "xPct": 95,
+          "yPct": 41
+        },
+        {
+          "screen": "G-10-set-post",
+          "xPct": 95,
+          "yPct": 41
+        }
+      ],
+      "alsoOn": [
+        "G-10I-incomplete-set-post"
+      ]
+    },
+    {
+      "id": "F-15",
+      "status": "reopened",
+      "priority": "P3",
+      "owner": "Native",
+      "title": "One search tile bleeds its photo edge to edge",
+      "fix": "Cherry renders its hot-pink photo background across the whole tile, so the white heart almost disappears. Keep every tile on the same white card with an inset rounded photo, and give the heart its glass disc so it holds on any colour.",
+      "pins": [
+        {
+          "screen": "G-25-search-more-3",
+          "xPct": 75,
+          "yPct": 18
+        }
+      ],
+      "alsoOn": []
+    },
+    {
+      "id": "F-30",
+      "status": "reopened",
+      "priority": "P3",
+      "owner": "Native",
+      "title": "Some owned members still sit on bare white",
+      "fix": "On Set complete, Sun, Star and Planet have discs but Moon and both Swirls are still on bare white. Apply the blush surround (#FFDCE9 disc) to every white-studio photo, not only to those with no colour of their own.",
+      "pins": [
+        {
+          "screen": "G-17-set-complete",
+          "xPct": 22,
+          "yPct": 41
+        }
+      ],
+      "alsoOn": [
+        "G-18-share-the-stack"
+      ]
+    },
+    {
+      "id": "F-50",
+      "status": "reopened",
+      "priority": "P2",
+      "owner": "Web",
+      "title": "\"Open it in the app\" is a heading, not a button",
+      "fix": "The web pages say \"Open it in the app\" in bold, followed by instructions, with nothing to tap. Make it a secondary outlined pill button under GET THE APP that fires the universal link, and cut the instruction copy to one line.",
+      "pins": [
+        {
+          "screen": "W-04-shared-stack-more",
+          "xPct": 50,
+          "yPct": 82
+        },
+        {
+          "screen": "W-05-bestie-invite",
+          "xPct": 50,
+          "yPct": 83
+        }
+      ],
+      "alsoOn": [
+        "W-01-shared-wishlist-more-2"
+      ]
+    }
+  ],
+  "merged": {
+    "F-38": "F-55"
+  },
+  "sets": {
+    "canvas": "Pop Studio 10 Sets.dc.html",
+    "items": [
+      {
+        "id": "F-57",
+        "priority": "P1",
+        "owner": "Native",
+        "screen": "S-01-sets-feed",
+        "replaces": [
+          "G-10-set-post",
+          "G-10I-incomplete-set-post",
+          "RELEASE28-SHOP"
+        ],
+        "title": "Sets feed shows every piece"
+      },
+      {
+        "id": "F-58",
+        "priority": "P1",
+        "owner": "Native",
+        "screen": "S-02-feed-added",
+        "replaces": [],
+        "title": "Tap + to add, with an in-your-basket meter"
+      },
+      {
+        "id": "F-59",
+        "priority": "P1",
+        "owner": "Native",
+        "screen": "S-03-set-page",
+        "replaces": [
+          "G-13-set-detail",
+          "G-13I-incomplete-set-detail"
+        ],
+        "title": "Set page clean-up"
+      },
+      {
+        "id": "F-60",
+        "priority": "P2",
+        "owner": "Native",
+        "screen": "S-04-set-all-in",
+        "replaces": [],
+        "title": "All missing pieces in basket"
+      },
+      {
+        "id": "F-61",
+        "priority": "P1",
+        "owner": "Native",
+        "screen": "S-05-product-in-set",
+        "replaces": [],
+        "title": "Way back to the set from a product"
+      }
+    ],
+    "tokens": {
+      "owned": "#FF3660",
+      "pendingStripe": [
+        "#B9A2FF",
+        "#DCD0FF"
+      ],
+      "pendingText": "#7B5BD6",
+      "pendingSticker": "#C9B6FF",
+      "track": "#FBE3EC"
+    }
+  }
+}

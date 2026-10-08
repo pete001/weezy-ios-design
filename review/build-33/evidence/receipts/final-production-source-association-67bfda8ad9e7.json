@@ -1,0 +1,57 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/final-production-source-association.json",
+  "originalSourceSHA256": "67bfda8ad9e75e0b3ccb96fa167d1bd67871303cc897e1f276e44c65e7205368",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "checkedAt": "2026-10-08T08:59:19.334691+00:00",
+    "finalFreezeSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910",
+    "finalFrozenFiles": 281,
+    "currentSourceMatches": true,
+    "finalShippingRootQA": [
+      {
+        "name": "small-debug-wishlist-rows-verified",
+        "simulator": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "configuration": "Debug",
+        "tests": [
+          "WeezyPopUITests/TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges"
+        ],
+        "exitCode": 0,
+        "xcresults": [
+          "build/Migration/20261008T085433Z-6834d7.xcresult"
+        ]
+      },
+      {
+        "name": "primary-release-wishlist-rows-verified",
+        "simulator": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "configuration": "Release",
+        "tests": [
+          "WeezyPopUITests/TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges"
+        ],
+        "exitCode": 0,
+        "xcresults": [
+          "build/Migration/20261008T085527Z-a950de.xcresult"
+        ]
+      },
+      {
+        "name": "small-release-wishlist-rows-verified",
+        "simulator": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "configuration": "Release",
+        "tests": [
+          "WeezyPopUITests/TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges"
+        ],
+        "exitCode": 0,
+        "xcresults": [
+          "build/Migration/20261008T085728Z-4a100a.xcresult"
+        ]
+      }
+    ],
+    "captureBatch": "20261008T085114Z",
+    "captureReceiptSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558",
+    "visualReceiptSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+    "productionChangesSincePriorQA": [
+      "WeezyPop/SocialPersonal.swift"
+    ],
+    "scope": "Final production source is exactly the input of three current Debug/optimized-Release shipping-root header and viewport checks, the21-case regression/content batch and scoped populated screenshot visual inspection. Guest root checks do not prove the populated wishlist row state; actual populated captures independently cover those rows. Earlier normal/offline/interaction checks retain their bounded scope."
+  }
+}

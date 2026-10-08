@@ -1,0 +1,66 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T080830Z-4b80c5.json",
+  "originalSourceSHA256": "5014d67964f9c1d2ba8b39a7b95822ad6ae5d94b6f94ea76ce209b7dfcad7d8b",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T080830Z-4b80c5.xcresult",
+    "tests": {
+      "total": 5,
+      "passed": 5,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 262918,
+      "cases": [
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 40000
+        },
+        {
+          "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+          "name": "testLargestTextRegistrationInteractions()",
+          "className": "LaunchReadinessUITests",
+          "status": "passed",
+          "durationMs": 119000
+        },
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 28000
+        },
+        {
+          "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 31000
+        },
+        {
+          "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 26000
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": true,
+    "durationMs": 264996,
+    "exitStatus": 0
+  }
+}

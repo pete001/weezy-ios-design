@@ -1,0 +1,30 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/final-qa/video-provenance.json",
+  "originalSourceSHA256": "3abb34dd907dc813fb0a39044192109da54d95d82842b780e0bcefcf98fb78e6",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "id": "S-02-tap-to-add",
+    "build": 33,
+    "device": "iPhone16 Pro simulator/iOS27 native402×874pt@3; video unretouched",
+    "kind": "shipping-AppRoot-screen-recording",
+    "file": "S-02-tap-to-add.mp4",
+    "durationSeconds": 5.3,
+    "clipStartSeconds": 57.05,
+    "interaction": "actual + tap, stripe/pending change, toast and UNDO",
+    "fixture": "Isolated Claire/Moon+Sun owned2of6; two-set functional fixture, not all8set screenshot fixture",
+    "noPlaybackSpeedChange": true,
+    "sourceRecordingSHA256": "a5018eff44e9fcc0a1a5aa522d7530a56462c46235a5afc639a377bad8ad83a3",
+    "sha256": "57c083f326248454eb8819060c8ea80947236e85e7aa8ee32ba55e5f000ccc34",
+    "test": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+    "receipt": "build/Migration/20261008T080342Z-8dc5ab.xcresult",
+    "attachmentTimestamps": {
+      "beforeTap": 1791446681.161,
+      "pending": 1791446682.727,
+      "afterUndo": 1791446684.258
+    },
+    "recordStartUTC": "2026-10-08T08:03:41.224177+00:00",
+    "clipTiming": "Trim points verified against exact video frames: original57.2seconds before tap,58.0pending+toast,62.0afterUndo. Recorder startup differs from wall-clock attachment timestamps; no speed change or UI edits.",
+    "visualVerified": true
+  }
+}

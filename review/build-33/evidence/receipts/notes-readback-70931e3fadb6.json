@@ -1,0 +1,57 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/notes-readback.json",
+  "originalSourceSHA256": "70931e3fadb67d0d8ec519f51d4eb6c343f1e20ec0bec8a9f2f7b0b81087572c",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "data": [
+      {
+        "type": "betaBuildLocalizations",
+        "id": "3edbd62a-1ce3-40f4-b46f-1207cd393798",
+        "attributes": {
+          "locale": "en-GB",
+          "whatsNew": "Build 33 implements the updated Sets design and the remaining build 32 review fixes.\n\nBrowse every piece in a set, add a missing piece with +, and try Undo. Owned pieces stay pink; pieces in the basket use lilac stripes. Basket pieces must never earn a badge or mark a set done before Shopify confirms ownership. Check the exact remainder price, repeated pieces such as Swirl ×2, and returning from a product to the same set position.\n\nMy Charms lists all sets in progress, then completed sets and other charms. Check largest-text registration headers, collapsed product headers, Gold finish labels, search cards and collection/share photo backgrounds.\n\nShared app-only pages now include an outlined Open in app button and Safari guidance. Shopify remains authoritative for products, stock, prices, set membership and verified ownership. The customer website is unchanged."
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations/3edbd62a-1ce3-40f4-b46f-1207cd393798/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations/3edbd62a-1ce3-40f4-b46f-1207cd393798/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations/3edbd62a-1ce3-40f4-b46f-1207cd393798"
+        }
+      },
+      {
+        "type": "betaBuildLocalizations",
+        "id": "5c5ada1a-552d-4ea2-8c5d-29faf73bf7cf",
+        "attributes": {
+          "locale": "en-US",
+          "whatsNew": "Build 33 implements the updated Sets design and the remaining build 32 review fixes.\n\nBrowse every piece in a set, add a missing piece with +, and try Undo. Owned pieces stay pink; pieces in the basket use lilac stripes. Basket pieces must never earn a badge or mark a set done before Shopify confirms ownership. Check the exact remainder price, repeated pieces such as Swirl ×2, and returning from a product to the same set position.\n\nMy Charms lists all sets in progress, then completed sets and other charms. Check largest-text registration headers, collapsed product headers, Gold finish labels, search cards and collection/share photo backgrounds.\n\nShared app-only pages now include an outlined Open in app button and Safari guidance. Shopify remains authoritative for products, stock, prices, set membership and verified ownership. The customer website is unchanged."
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations/5c5ada1a-552d-4ea2-8c5d-29faf73bf7cf/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations/5c5ada1a-552d-4ea2-8c5d-29faf73bf7cf/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations/5c5ada1a-552d-4ea2-8c5d-29faf73bf7cf"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/betaBuildLocalizations?filter%5Bbuild%5D=4d1e6abd-17f9-4279-9655-d1c8f737825f"
+    },
+    "meta": {
+      "paging": {
+        "total": 2,
+        "limit": 50
+      }
+    }
+  }
+}

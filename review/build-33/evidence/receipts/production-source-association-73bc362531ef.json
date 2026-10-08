@@ -1,0 +1,62 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "work/build33/production-source-association.json",
+  "originalSourceSHA256": "73bc362531efbab67ae77a83ce7396e946df407a60c8e07fcc8b372bf97f1010",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "verifiedAt": "2026-10-08T09:02:56.997832+00:00",
+    "latestFreeze": {
+      "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+      "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+      "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json"
+    },
+    "frozenFiles": 281,
+    "productionAppFiles": 232,
+    "currentFileHashVerification": {
+      "checked": 281,
+      "mismatches": []
+    },
+    "captureInput": {
+      "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+      "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+      "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json"
+    },
+    "captureTests": {
+      "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+      "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+      "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+      "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+    },
+    "acceptedScopedVisual": {
+      "path": "evidence/receipts/visual-review-29545fccafb3.json",
+      "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+      "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+    },
+    "finalShippingRootQA": [
+      {
+        "path": "evidence/receipts/20261008T085433Z-6834d7-d2bf0b13cde9.json",
+        "sha256": "47f65571e9cc7666e0a537f72cfd0603e97d3a4753683a962b23e544fe2b625c",
+        "originalSourceSHA256": "d2bf0b13cde919fd4adeae92fc6be47d7dd389da35a650f2cc91f004bd3244fa",
+        "originalSourcePath": "build/Migration/20261008T085433Z-6834d7.json"
+      },
+      {
+        "path": "evidence/receipts/20261008T085527Z-a950de-069ad3fbb3cb.json",
+        "sha256": "588a52104712f16e2c42866a4016c461687687ce227cef7b93de2a637309a120",
+        "originalSourceSHA256": "069ad3fbb3cb5ffed64b8178f27992dd16b33a787b6c8f7d55f773baec8cf123",
+        "originalSourcePath": "build/Migration/20261008T085527Z-a950de.json"
+      },
+      {
+        "path": "evidence/receipts/20261008T085728Z-4a100a-0f3e849f1f05.json",
+        "sha256": "43afa23af8179e1926124e9f4fe69c9c3fd562718df7f9ead9cfdc0fec828f6a",
+        "originalSourceSHA256": "0f3e849f1f057de6bb1a1dbe3da0b661f23fdf32ebbc6f876f24c2b1eeb493e6",
+        "originalSourcePath": "build/Migration/20261008T085728Z-4a100a.json"
+      }
+    ],
+    "productionSourceMatchedFinalQA": true,
+    "method": "Independently recomputed every current frozen file SHA256; final capture input records source unchanged. Root confirms these three shipping-root runs use the current production AX row source, with no subsequent production changes. UI xcresult receipts do not independently contain compiler-input hashes; this association is not represented as compiler attestation.",
+    "scope": "Current production source, final isolated content capture and current three shipping-root Debug/Release AX rechecks. Preserved historical runs do not replace final acceptance. No full-app accessibility, physical device, real payments or TestFlight acceptance."
+  }
+}

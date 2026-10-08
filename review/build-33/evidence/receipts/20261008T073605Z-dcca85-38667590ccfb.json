@@ -1,0 +1,66 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json",
+  "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T073605Z-dcca85.xcresult",
+    "tests": {
+      "total": 4,
+      "passed": 3,
+      "failed": 1,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 179154,
+      "cases": [
+        {
+          "identifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "name": "testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "className": "Build33SetsUITests",
+          "status": "failed",
+          "durationMs": 16000,
+          "message": "XCTAssertTrue failed"
+        },
+        {
+          "identifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "name": "testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 17000
+        },
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 28000
+        },
+        {
+          "identifier": "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+          "name": "testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+          "className": "VariantPhotographyUITests",
+          "status": "passed",
+          "durationMs": 89000
+        }
+      ],
+      "failures": [
+        {
+          "identifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "message": "XCTAssertTrue failed"
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": false,
+    "durationMs": 181385,
+    "exitStatus": 65
+  }
+}

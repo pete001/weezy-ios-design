@@ -1,0 +1,166 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json",
+  "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T083231Z-7bc500.xcresult",
+    "tests": {
+      "total": 21,
+      "passed": 21,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 179065,
+      "cases": [
+        {
+          "identifier": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+          "name": "testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+          "className": "Build33ArchiveTests",
+          "status": "passed",
+          "durationMs": 1
+        },
+        {
+          "identifier": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+          "name": "testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+          "className": "Build33ArchiveTests",
+          "status": "passed",
+          "durationMs": 110
+        },
+        {
+          "identifier": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+          "name": "testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+          "className": "Build33ArchiveTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+          "name": "testCaptureDesignReviewInventory()",
+          "className": "DesignReviewCaptureV26Tests",
+          "status": "passed",
+          "durationMs": 71000
+        },
+        {
+          "identifier": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+          "name": "testCaptureLiteralSocial()",
+          "className": "DesignReviewCaptureV26Tests",
+          "status": "passed",
+          "durationMs": 10000
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+          "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+          "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+          "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+          "name": "testReselectReturnsSameExactVariant()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+          "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+          "name": "testSingleOptionRemainsPresentAndPreselected()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+          "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+          "className": "PopFinishOptionsTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+          "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed",
+          "durationMs": 2
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+          "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+          "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed",
+          "durationMs": 9
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+          "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+          "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+          "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+          "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+          "className": "PopSetBasketProgressTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+          "name": "testCaptureBuild33Sets()",
+          "className": "PopStudioCaptureTests",
+          "status": "passed",
+          "durationMs": 34000
+        },
+        {
+          "identifier": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+          "name": "testCaptureLiteralDiscoveryFinishBasket()",
+          "className": "PopStudioCaptureTests",
+          "status": "passed",
+          "durationMs": 50000
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": true,
+    "durationMs": 180182,
+    "exitStatus": 0
+  }
+}

@@ -1,0 +1,1876 @@
+{
+  "build": 33,
+  "generatedAt": "2026-10-08T09:01:01.265187+00:00",
+  "status": "final-reviewed; actual signed/VALID/APPROVED build33 and app-only web38 independently verified",
+  "historicalFoldersPreserved": [
+    "../build-31",
+    "../build-32"
+  ],
+  "scope": "Changed screens only, explicit historical pointers for unchanged screens",
+  "rawHashes": [
+    {
+      "id": "G-10-set-post",
+      "path": "weezy-pop-studio-captures/G-10-set-post-normal.png",
+      "sha256": "c81cbd485732a932162889ae641e34b3b80f8d0b699910a4025751de99da0b65"
+    },
+    {
+      "id": "G-10I-incomplete-set-post",
+      "path": "weezy-pop-studio-captures/G-10I-incomplete-set-post-normal.png",
+      "sha256": "9eced0a8d5d05b5663f6cf18f97a4cd29faed8941b99c9b2f556762508093d51"
+    },
+    {
+      "id": "G-13-set-detail",
+      "path": "weezy-pop-studio-captures/G-13-set-detail-normal.png",
+      "sha256": "346f4fa70d7665ab9e4a0c0a76ee5ec0213a6dd8e7498b572cc24d9cb08d0cc7"
+    },
+    {
+      "id": "G-13-set-detail-more",
+      "path": "weezy-pop-studio-captures/G-13-set-detail-normal-scroll-1.png",
+      "sha256": "39436e8aa2d4659653d74421c01ea75c83071f79e99b05efa2ead8997cc53d49"
+    },
+    {
+      "id": "G-13I-incomplete-set-detail",
+      "path": "weezy-pop-studio-captures/G-13I-incomplete-set-detail-normal.png",
+      "sha256": "0b608bef434bc8cb758a1d2892e781f3d0863072aeaa7057325721ded8ace35a"
+    },
+    {
+      "id": "G-13I-incomplete-set-detail-more",
+      "path": "weezy-pop-studio-captures/G-13I-incomplete-set-detail-normal-scroll-1.png",
+      "sha256": "c16e8b99d06c26cf4674cd6f77a955bc4e6adeacb425190239cef00d33993584"
+    },
+    {
+      "id": "G-14-my-charms",
+      "path": "weezy-v26-captures/G-14-my-charms.png",
+      "sha256": "76b28478f0f7f12457ab07831ae0c98339dcf5304be2151fd68c44a5175204fd"
+    },
+    {
+      "id": "G-14-my-charms-largest",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest.png",
+      "sha256": "89b50a2d9d04d119ddf222ea073ac46b65437952f0507386c37fd0060ceda9e1"
+    },
+    {
+      "id": "G-14-my-charms-largest-more",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-1.png",
+      "sha256": "b123c4f38816cde45b883e16a500b8532f52559657135bf672d2eb2000619182"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-10",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-10.png",
+      "sha256": "88897887beb49f1eaccd5367a051e1d7f94617d06477c8479de16869329673d8"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-11",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-11.png",
+      "sha256": "832ee06071c3056e364fd068987ec33dbc095cb44e8960fce8c3b3f2b3bed480"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-12",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-12.png",
+      "sha256": "388d58fdf3c6ee6bcc77902edf93d65450ecbad91878458c05a238ca3e45539b"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-13",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-13.png",
+      "sha256": "26082625e1a1dfb6dd412ed96e7a84686ca1bc9fbd50cf7b7db5f9a477d187e7"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-14",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-14.png",
+      "sha256": "ce7c61af5f38a707c46506930bb64a6f13b89c1002b7d6e6d39eb751d8e23243"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-15",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-15.png",
+      "sha256": "74bc693fc1097b407ee206015718d90338ddbb85215166dc249dc2df053243f5"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-2",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-2.png",
+      "sha256": "8457f15ad2dfbadfc6f0b33630b62ff06730eaa88847070452aada7252b62df2"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-3",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-3.png",
+      "sha256": "d0f3098ea0ad0e30cb9db3d8586a24b96c154af6dcaf05a80fc0dcd6dd79d1d6"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-4",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-4.png",
+      "sha256": "f93ba1f27f2aeae1b275004939b8e4c339041431fc3d05c1a2e60cb2111a5c1b"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-5",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-5.png",
+      "sha256": "16565fc36e54faef57c7c39ba204456803c9cb59216e2611bb1f7ca67acbd2a8"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-6",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-6.png",
+      "sha256": "9ab2a44a26fe3dd2372f91d9d227e2068e2caaaefa4961137ecade82fa6b0908"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-7",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-7.png",
+      "sha256": "cc53a2d6329d1b6f74bda543c854a250a3b87ab6e125d31fa530bfdb8ae7e403"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-8",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-8.png",
+      "sha256": "8cff6bb09f2a385b0bc26e2e2e16102540a53b54e49317dc91e01a90e1157485"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-9",
+      "path": "weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-9.png",
+      "sha256": "ef29baeb4aa4edcfbc9b4830ade39733b547d9e86e174427f790078f66efb9fb"
+    },
+    {
+      "id": "G-14-my-charms-more",
+      "path": "weezy-v26-captures/G-14-my-charms-scroll-1.png",
+      "sha256": "87d42a89ba52d84581e81b1b3cd351ce5603a0fd3682306918c09babd1ccbb22"
+    },
+    {
+      "id": "G-14-my-charms-more-2",
+      "path": "weezy-v26-captures/G-14-my-charms-scroll-2.png",
+      "sha256": "8224e65ac53c6edba7f798ea1762be0ef11dae61b6907f87b5cfa639561d1bf4"
+    },
+    {
+      "id": "G-14-my-charms-more-3",
+      "path": "weezy-v26-captures/G-14-my-charms-scroll-3.png",
+      "sha256": "f87477ecc50fd3bc8589938d0fd875382763b7fd38a07de7e9fb03f391bd1f6f"
+    },
+    {
+      "id": "G-15-wishlist-largest",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest.png",
+      "sha256": "1e1b63dacb58c8e00f4667d8739925783fc53e1a2c3d2503242014cf076d21c7"
+    },
+    {
+      "id": "G-15-wishlist-largest-more",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-1.png",
+      "sha256": "20a8870de931cfa66f8ce5ec188c6186f0a93b3be7558bfb4c85e52f3485007b"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-2",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-2.png",
+      "sha256": "0b47d787a1f26c7004289ed6e855f870c5968f87e798656019eb3e21755b381a"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-3",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-3.png",
+      "sha256": "f4473ada6d37d0d21e952b2eb0dbedc84cf05bc687ae915eb94e58630ab4dd1f"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-4",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-4.png",
+      "sha256": "d1c58af20b7e850af4bd2649562506778b44bcc107eb8b538f0dc1c6c375e573"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-5",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-5.png",
+      "sha256": "5c0be4d0fdbb2d2337168bbb981e794d6802c6804c221b18a33b726b91ad4889"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-6",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-6.png",
+      "sha256": "30e890157b37fd11d48f003fcaf1e546029be9656ea9ea8294ac482dd5d8356b"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-7",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-7.png",
+      "sha256": "28b377cefec70933d747f60f8d6e25dfae025ed61c38afd0e1488020444a469c"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-8",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-8.png",
+      "sha256": "64bcfae54fd3e90c077951c12646d0c476b0a545614b89f7d81e0dbf6c4798de"
+    },
+    {
+      "id": "G-15-wishlist-largest-more-9",
+      "path": "weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-9.png",
+      "sha256": "b89a29569371d928d06aa2ae5a87e8895c88810d3678ee274ccf2761ed00ce22"
+    },
+    {
+      "id": "G-17-set-complete",
+      "path": "weezy-v26-captures/G-17-set-complete.png",
+      "sha256": "a6c47794c669d97438c435b84f49e1149f55de39af089c68b27ed57e56c6f79f"
+    },
+    {
+      "id": "G-18-share-the-stack",
+      "path": "weezy-v26-captures/G-18-share-the-stack.png",
+      "sha256": "17acb908b75aa3e9df99c67c8023ebeb2190b4ffad065371a17d0a03687509a8"
+    },
+    {
+      "id": "G-25-search",
+      "path": "weezy-pop-studio-captures/G-25-search-normal.png",
+      "sha256": "8645bef9b3ba9f531018ef36d0abc80331c4b9af8545dd785b07c4d1b7d966b3"
+    },
+    {
+      "id": "G-25-search-more",
+      "path": "weezy-pop-studio-captures/G-25-search-normal-scroll-1.png",
+      "sha256": "462cf1654c327695033f1ec45938d647250ac5b47a9b62b40a336cb5ee9741f3"
+    },
+    {
+      "id": "G-25-search-more-2",
+      "path": "weezy-pop-studio-captures/G-25-search-normal-scroll-2.png",
+      "sha256": "6fffea3f47b1c7fa8ba69c9c7f0caa486baa429dc272fe5957bdfcf21d7878c5"
+    },
+    {
+      "id": "G-25-search-more-3",
+      "path": "weezy-pop-studio-captures/G-25-search-normal-scroll-3.png",
+      "sha256": "d849fc0d373b81b397ae67004c62d2da7af8d6da6cbc7ccc52d65bab87a09f77"
+    },
+    {
+      "id": "G-25-search-more-4",
+      "path": "weezy-pop-studio-captures/G-25-search-normal-scroll-4.png",
+      "sha256": "d36dbf073b2e848931bbf973989f8046566b49efc928f1f11bc0a7bc29eac878"
+    },
+    {
+      "id": "G-25-search-more-5",
+      "path": "weezy-pop-studio-captures/G-25-search-normal-scroll-5.png",
+      "sha256": "ca5b18b34ef542fc7c69d9e4d4df908d9cebefdeb72d97a0d1cd31dfb121702c"
+    },
+    {
+      "id": "G-25-search-more-6",
+      "path": "weezy-pop-studio-captures/G-25-search-normal-scroll-6.png",
+      "sha256": "0aa9313ca57ccdd2030f34a2e4c91e42535cef7aaf1c0ba892289ea2efbab38c"
+    },
+    {
+      "id": "RELEASE28-MY-CHARMS",
+      "path": "weezy-v26-captures/RELEASE28-MY-CHARMS-my-charms.png",
+      "sha256": "76b28478f0f7f12457ab07831ae0c98339dcf5304be2151fd68c44a5175204fd"
+    },
+    {
+      "id": "RELEASE28-MY-CHARMS-more",
+      "path": "weezy-v26-captures/RELEASE28-MY-CHARMS-my-charms-scroll-1.png",
+      "sha256": "87d42a89ba52d84581e81b1b3cd351ce5603a0fd3682306918c09babd1ccbb22"
+    },
+    {
+      "id": "RELEASE28-MY-CHARMS-more-2",
+      "path": "weezy-v26-captures/RELEASE28-MY-CHARMS-my-charms-scroll-2.png",
+      "sha256": "8224e65ac53c6edba7f798ea1762be0ef11dae61b6907f87b5cfa639561d1bf4"
+    },
+    {
+      "id": "RELEASE28-MY-CHARMS-more-3",
+      "path": "weezy-v26-captures/RELEASE28-MY-CHARMS-my-charms-scroll-3.png",
+      "sha256": "f87477ecc50fd3bc8589938d0fd875382763b7fd38a07de7e9fb03f391bd1f6f"
+    },
+    {
+      "id": "RELEASE28-SHOP",
+      "path": "weezy-v26-captures/RELEASE28-SHOP-shop.png",
+      "sha256": "bd68fac71a296cd4bd434e011b16aa6a7efd552e50c6721019564808d308ef6b"
+    },
+    {
+      "id": "RELEASE29-FLOWER-GALLERY",
+      "path": "weezy-pop-studio-captures/RELEASE29-FLOWER-GALLERY-normal.png",
+      "sha256": "6be9fc17373fa2d4351b843c71c00ac5e26fbc9f1a3fba9a6692f4f26892aceb"
+    },
+    {
+      "id": "RELEASE29-FLOWER-GALLERY-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-FLOWER-GALLERY-normal-scroll-1.png",
+      "sha256": "1521f923b25cc15dea337f0178a1ba428f55e5ac30d91063397abc2bf180bddb"
+    },
+    {
+      "id": "RELEASE29-FLOWER-GALLERY-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-FLOWER-GALLERY-normal-scroll-2.png",
+      "sha256": "17aba6b667750268b86a2071e1caa60ad7f974ecb740a61290bb7c31956f8260"
+    },
+    {
+      "id": "RELEASE29-FLOWER-RESTORED",
+      "path": "weezy-pop-studio-captures/RELEASE29-FLOWER-RESTORED-normal.png",
+      "sha256": "6be9fc17373fa2d4351b843c71c00ac5e26fbc9f1a3fba9a6692f4f26892aceb"
+    },
+    {
+      "id": "RELEASE29-FLOWER-RESTORED-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-FLOWER-RESTORED-normal-scroll-1.png",
+      "sha256": "1521f923b25cc15dea337f0178a1ba428f55e5ac30d91063397abc2bf180bddb"
+    },
+    {
+      "id": "RELEASE29-FLOWER-RESTORED-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-FLOWER-RESTORED-normal-scroll-2.png",
+      "sha256": "17aba6b667750268b86a2071e1caa60ad7f974ecb740a61290bb7c31956f8260"
+    },
+    {
+      "id": "RELEASE29-GLITTER",
+      "path": "weezy-pop-studio-captures/RELEASE29-GLITTER-normal.png",
+      "sha256": "ef0d5df89f0962bee71d4f7c1be8fbf1866ec1584c5884fa487db62cc83f22a8"
+    },
+    {
+      "id": "RELEASE29-GLITTER-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-GLITTER-normal-scroll-1.png",
+      "sha256": "bb398e5a8b6b6eebb56ab1c8a15c54d2f75c37124f9b5141ca0efd052b1cd1b7"
+    },
+    {
+      "id": "RELEASE29-GLITTER-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-GLITTER-normal-scroll-2.png",
+      "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+    },
+    {
+      "id": "RELEASE29-GOLD",
+      "path": "weezy-pop-studio-captures/RELEASE29-GOLD-normal.png",
+      "sha256": "30c57052d3e5349e944406ffc9002db33c617f7ae8a80ca7b2b02e7e043dbb28"
+    },
+    {
+      "id": "RELEASE29-GOLD-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-GOLD-normal-scroll-1.png",
+      "sha256": "d2fa283f404984caa5e45cdd33e8233ac83d23910d60c01530c69c26926d4f13"
+    },
+    {
+      "id": "RELEASE29-GOLD-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-GOLD-normal-scroll-2.png",
+      "sha256": "486b51b4e27060f7f5957320deb3bac4800205e496387daf718890449750c444"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GLITTER",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GLITTER-normal.png",
+      "sha256": "a73301f1c9b489ff99c86b0add61ecaa9d183a5306d17636eafc1f76641e5c7b"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GLITTER-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GLITTER-normal-scroll-1.png",
+      "sha256": "8af27f06f5c742a1e8b78a159b5f5bb6f43ca5422105aa31e160bf76147f5d23"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GLITTER-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GLITTER-normal-scroll-2.png",
+      "sha256": "4a94f1d78f47b8b465b2765512249007c0491be9e1a13c428c401337103e4981"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GLITTER-more-3",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GLITTER-normal-scroll-3.png",
+      "sha256": "af762b653acde8b3e9740fb116cd227c6cb515e95dd15d7b83f6ad8f88dd7624"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GLITTER-more-4",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GLITTER-normal-scroll-4.png",
+      "sha256": "c51201bfbf2b6e81660e6877b6901752df63ce9dd23162643337443e8e59f9b1"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GLITTER-more-5",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GLITTER-normal-scroll-5.png",
+      "sha256": "3faa6a1a71f695d7b92c9ee80553d3ef0c1eda63fbae5c017799aebc6667493f"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GOLD",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GOLD-normal.png",
+      "sha256": "b0941abc6cb32eecd34aeb6c6ccdf1c780ea15ce65c07261538068621f007b57"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GOLD-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GOLD-normal-scroll-1.png",
+      "sha256": "f84d019b51bb3ff22f58802c8504c679cde3d4d407527b398b6671803f5f50d7"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GOLD-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GOLD-normal-scroll-2.png",
+      "sha256": "283c31634569ebd9063ea7a7d6292244f0e68ca65f7e80cbd846fd44c35badc8"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GOLD-more-3",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GOLD-normal-scroll-3.png",
+      "sha256": "d33b9fd2556d8ba524e4cfd4b03583ce5fd4f38e1f4641bbb55e253210eb03e4"
+    },
+    {
+      "id": "RELEASE29-LARGEST-GOLD-more-4",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-GOLD-normal-scroll-4.png",
+      "sha256": "1f05324bf146b17a8cb455ca39122af1556ac4aa8a2e64af1eb9d2383ec11df0"
+    },
+    {
+      "id": "RELEASE29-LARGEST-RESTORED",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-RESTORED-normal.png",
+      "sha256": "a73301f1c9b489ff99c86b0add61ecaa9d183a5306d17636eafc1f76641e5c7b"
+    },
+    {
+      "id": "RELEASE29-LARGEST-RESTORED-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-RESTORED-normal-scroll-1.png",
+      "sha256": "8af27f06f5c742a1e8b78a159b5f5bb6f43ca5422105aa31e160bf76147f5d23"
+    },
+    {
+      "id": "RELEASE29-LARGEST-RESTORED-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-RESTORED-normal-scroll-2.png",
+      "sha256": "4a94f1d78f47b8b465b2765512249007c0491be9e1a13c428c401337103e4981"
+    },
+    {
+      "id": "RELEASE29-LARGEST-RESTORED-more-3",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-RESTORED-normal-scroll-3.png",
+      "sha256": "af762b653acde8b3e9740fb116cd227c6cb515e95dd15d7b83f6ad8f88dd7624"
+    },
+    {
+      "id": "RELEASE29-LARGEST-RESTORED-more-4",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-RESTORED-normal-scroll-4.png",
+      "sha256": "c51201bfbf2b6e81660e6877b6901752df63ce9dd23162643337443e8e59f9b1"
+    },
+    {
+      "id": "RELEASE29-LARGEST-RESTORED-more-5",
+      "path": "weezy-pop-studio-captures/RELEASE29-LARGEST-RESTORED-normal-scroll-5.png",
+      "sha256": "3faa6a1a71f695d7b92c9ee80553d3ef0c1eda63fbae5c017799aebc6667493f"
+    },
+    {
+      "id": "RELEASE29-RESELECTED",
+      "path": "weezy-pop-studio-captures/RELEASE29-RESELECTED-normal.png",
+      "sha256": "ef0d5df89f0962bee71d4f7c1be8fbf1866ec1584c5884fa487db62cc83f22a8"
+    },
+    {
+      "id": "RELEASE29-RESELECTED-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-RESELECTED-normal-scroll-1.png",
+      "sha256": "bb398e5a8b6b6eebb56ab1c8a15c54d2f75c37124f9b5141ca0efd052b1cd1b7"
+    },
+    {
+      "id": "RELEASE29-RESELECTED-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-RESELECTED-normal-scroll-2.png",
+      "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+    },
+    {
+      "id": "RELEASE29-RESTORED",
+      "path": "weezy-pop-studio-captures/RELEASE29-RESTORED-normal.png",
+      "sha256": "ef0d5df89f0962bee71d4f7c1be8fbf1866ec1584c5884fa487db62cc83f22a8"
+    },
+    {
+      "id": "RELEASE29-RESTORED-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-RESTORED-normal-scroll-1.png",
+      "sha256": "bb398e5a8b6b6eebb56ab1c8a15c54d2f75c37124f9b5141ca0efd052b1cd1b7"
+    },
+    {
+      "id": "RELEASE29-RESTORED-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-RESTORED-normal-scroll-2.png",
+      "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+    },
+    {
+      "id": "RELEASE29-RETRY",
+      "path": "weezy-pop-studio-captures/RELEASE29-RETRY-normal.png",
+      "sha256": "b4df17ae430b699c02c808530981a7f7e0b4fd0b2d52b3d6921631b91081e029"
+    },
+    {
+      "id": "RELEASE29-RETRY-LOADED",
+      "path": "weezy-pop-studio-captures/RELEASE29-RETRY-LOADED-normal.png",
+      "sha256": "93bf123e7ae4927b3807305daeb247d9655ab91a7b64aae539b9da433cf1dc0c"
+    },
+    {
+      "id": "RELEASE29-RETRY-LOADED-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-RETRY-LOADED-normal-scroll-1.png",
+      "sha256": "ce5d04aeab86a403ff010bc90000aa9eb9c03a2a7cf58e8fe9ef6e43d034f4ef"
+    },
+    {
+      "id": "RELEASE29-RETRY-LOADED-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-RETRY-LOADED-normal-scroll-2.png",
+      "sha256": "12c60cc67d5fd729531b4e1476f39cb3b72ad19fa4ab39e768798cb7aabf9022"
+    },
+    {
+      "id": "RELEASE29-RETRY-more",
+      "path": "weezy-pop-studio-captures/RELEASE29-RETRY-normal-scroll-1.png",
+      "sha256": "95bdaddd32f33ff45ba18409153f0f7f75a46348706c6530f22064bb1c37d5e9"
+    },
+    {
+      "id": "RELEASE29-RETRY-more-2",
+      "path": "weezy-pop-studio-captures/RELEASE29-RETRY-normal-scroll-2.png",
+      "sha256": "84ff89b15dd69a163075fe10cc8d7c66955ec3db29992648257e41dde390ef8a"
+    },
+    {
+      "id": "S-01-sets-feed",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-normal.png",
+      "sha256": "d36b7e1974a941c8ab403efa9da98a88d46803e6a51524840a858ff3a7dfb1a5"
+    },
+    {
+      "id": "S-01-sets-feed-largest",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal.png",
+      "sha256": "0eb949cac3ac80193df03339979fd6cebfa069fc22ffb1444e10f0addf0d6894"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-1.png",
+      "sha256": "f40653e57c134a81e8280553cb5bb89665db64ed0cc6493c22aa9109b605b525"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-10",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-10.png",
+      "sha256": "bc6feb3cd9abe44f8a653574da67b02e04a34568980b56328a49c0cb94f6a2fc"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-11",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-11.png",
+      "sha256": "6438f235c0cea8b7738192a8df4bc1ce65cc24b29f8394714bcb8917f1c0ba4c"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-12",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-12.png",
+      "sha256": "3a7d80549dcae6386e6b8c2c8ffce122663fb2c6b0a580a0d108ec12a0d94f53"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-13",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-13.png",
+      "sha256": "80e02a337d0f61b202145c00024a4ec8d05797504ded1a6f26bfac1be57692e7"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-14",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-14.png",
+      "sha256": "18a9b251001e119e73d00d060c0fa81a457235cc1d911a292eb3f092852f930e"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-15",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-15.png",
+      "sha256": "43a0be6ea862c3df7581fd27195d726b505cbdf150a86c440cd803c1ccdfa716"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-16",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-16.png",
+      "sha256": "d4a5913dfe05bfee349f69e89b3bf896fa4dcd38e43e0db7e514c8dfb2f1cb2c"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-17",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-17.png",
+      "sha256": "0aead5a7d53f4a97fe39a8fc98f50d2ce7f7510cbdf34300925dbfb24a860c4a"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-2",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-2.png",
+      "sha256": "5a78d824a1c3bb38012a4c724805931bfb49704bcd3de7746ab266043640216b"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-3",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-3.png",
+      "sha256": "44bfb51a4de366e7af3d60a25d52b4aa72d1c37b77d1b758d07b9a8dae8135d9"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-4",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-4.png",
+      "sha256": "383b4cbac36c8a36b257359b578944ac6f68b6213f08a96bd4fb62e849820a9c"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-5",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-5.png",
+      "sha256": "d08aca58627771f9ba6d3dae3fca107bb8647fe5c2b2c33755a296e01a353441"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-6",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-6.png",
+      "sha256": "22977ef61bb215873170fd8afb3e0963ab383bee0a350c0e1688a505b364e4d4"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-7",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-7.png",
+      "sha256": "23ec8e55a51b554ad81448a302667540dbbaec1cd6fcde2aa9b1bd623686ac51"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-8",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-8.png",
+      "sha256": "dc7925c04f6e0e530daed47102c33836c0ad3b6e1b524567131eba7d5486a0c1"
+    },
+    {
+      "id": "S-01-sets-feed-largest-more-9",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-largest-normal-scroll-9.png",
+      "sha256": "5698109344eabf5f848ba1d8ed3ebebe6de39ef8623e786d6d9caa946ddf510a"
+    },
+    {
+      "id": "S-01-sets-feed-more",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-normal-scroll-1.png",
+      "sha256": "c2a2c2cbc3105f797a591e43a6aa4145c8ba1f88efb7ac1609cda7a8df3e53f3"
+    },
+    {
+      "id": "S-01-sets-feed-more-2",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-normal-scroll-2.png",
+      "sha256": "90d1d79ea7a23dbb60336429ed4d405cf28c8868beb7406f1a885fc1362fda8b"
+    },
+    {
+      "id": "S-01-sets-feed-more-3",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-normal-scroll-3.png",
+      "sha256": "aec350317f76cd4262ca5e1147be236d55895ccdbfbedc669653749c55b958ed"
+    },
+    {
+      "id": "S-01-sets-feed-snack",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-snack-normal.png",
+      "sha256": "5007decd489471d57b38af9508e5f394fb448d0a3cbd43aa14b0bc8f72852b60"
+    },
+    {
+      "id": "S-01-sets-feed-snack-more",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-snack-normal-scroll-1.png",
+      "sha256": "9bfe90aaf31ffc44a526708b241c357a73282820f6dadfff80cae9bb9690b110"
+    },
+    {
+      "id": "S-01-sets-feed-snack-more-2",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-snack-normal-scroll-2.png",
+      "sha256": "c8ce34691b02331111092bd89a4e02ad5e6c2a000d0f724042b90e1e41327328"
+    },
+    {
+      "id": "S-01-sets-feed-snack-more-3",
+      "path": "weezy-pop-studio-captures/S-01-sets-feed-snack-normal-scroll-3.png",
+      "sha256": "aec350317f76cd4262ca5e1147be236d55895ccdbfbedc669653749c55b958ed"
+    },
+    {
+      "id": "S-02-feed-added",
+      "path": "weezy-pop-studio-captures/S-02-feed-added-normal.png",
+      "sha256": "e85d67261e16d388f43b511b89717a211ca14c31afaacc5ab544c91ae11f430c"
+    },
+    {
+      "id": "S-02-feed-added-more",
+      "path": "weezy-pop-studio-captures/S-02-feed-added-normal-scroll-1.png",
+      "sha256": "08bb72f26e247caca674959380ce185e6abf28b0c7382b9cee9c668755e08936"
+    },
+    {
+      "id": "S-02-feed-added-more-2",
+      "path": "weezy-pop-studio-captures/S-02-feed-added-normal-scroll-2.png",
+      "sha256": "ae1c68d9d66242b7eaba4ea7be33ffd9a8e24a3cfe3133ab93bf5743e452b8d5"
+    },
+    {
+      "id": "S-02-feed-added-more-3",
+      "path": "weezy-pop-studio-captures/S-02-feed-added-normal-scroll-3.png",
+      "sha256": "2ce0c8cc454a8c440d1c1959afbcc222107426839fc8dfd01d876624a74f3a89"
+    },
+    {
+      "id": "S-03-set-page",
+      "path": "weezy-pop-studio-captures/S-03-set-page-normal.png",
+      "sha256": "119d6ce53e2a5f7f18a33e1b05b102f3f9c3264c1ca2d79228c1383fc34b4a60"
+    },
+    {
+      "id": "S-03-set-page-largest",
+      "path": "weezy-pop-studio-captures/S-03-set-page-largest-normal.png",
+      "sha256": "67cfa75f212665f3575d960704d5d2b38255226d1491a96824e45837ea037d98"
+    },
+    {
+      "id": "S-03-set-page-largest-more",
+      "path": "weezy-pop-studio-captures/S-03-set-page-largest-normal-scroll-1.png",
+      "sha256": "fa080c0de9541c78906d1cb92987a4588af4bfa7171c003c43c682a7f5294aee"
+    },
+    {
+      "id": "S-03-set-page-largest-more-2",
+      "path": "weezy-pop-studio-captures/S-03-set-page-largest-normal-scroll-2.png",
+      "sha256": "7bd64e843df4546929021532e0e150d6e92717799e2af098632e152642fc799b"
+    },
+    {
+      "id": "S-03-set-page-largest-more-3",
+      "path": "weezy-pop-studio-captures/S-03-set-page-largest-normal-scroll-3.png",
+      "sha256": "56a5f80056ab471bc41eecb3bf20090e6b8354f6daac9bbde2f73d3c4483c327"
+    },
+    {
+      "id": "S-03-set-page-largest-more-4",
+      "path": "weezy-pop-studio-captures/S-03-set-page-largest-normal-scroll-4.png",
+      "sha256": "6662a21be375d93141b9adda67c9cfe811d82c81cb562fba0a52f75c65410189"
+    },
+    {
+      "id": "S-03-set-page-more",
+      "path": "weezy-pop-studio-captures/S-03-set-page-normal-scroll-1.png",
+      "sha256": "49d1a63626e101ba2e415607353ee8a83d4e512079ac682f7f62ffed8d90d3e3"
+    },
+    {
+      "id": "S-03-set-page-pending",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-normal.png",
+      "sha256": "a7f3453096d7402a7ea189e9a07f10c58eeda7f8d9524c1509016a5894aa2ce2"
+    },
+    {
+      "id": "S-03-set-page-pending-largest",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-largest-normal.png",
+      "sha256": "7e89747104465bcc13a63e60d60831b87af0296c94cd2540084baf55a9b0cfdd"
+    },
+    {
+      "id": "S-03-set-page-pending-largest-more",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-largest-normal-scroll-1.png",
+      "sha256": "9042d3ff640e9ddb324bc364476107d1793b25be0b72392982cfec53b8605829"
+    },
+    {
+      "id": "S-03-set-page-pending-largest-more-2",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-largest-normal-scroll-2.png",
+      "sha256": "dd10177522d46d709ebea9ab514e02589a66cedbf8759986f231d8ce4526e5fa"
+    },
+    {
+      "id": "S-03-set-page-pending-largest-more-3",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-largest-normal-scroll-3.png",
+      "sha256": "39bc050999664f6856f8d9888b12736c8dbf1b7b5b46ee6c527f4e513cf15535"
+    },
+    {
+      "id": "S-03-set-page-pending-largest-more-4",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-largest-normal-scroll-4.png",
+      "sha256": "f6f013737058f19268839a44e1e4f9ba0267e925a5afd1b41836c6c3d58de6b1"
+    },
+    {
+      "id": "S-03-set-page-pending-more",
+      "path": "weezy-pop-studio-captures/S-03-set-page-pending-normal-scroll-1.png",
+      "sha256": "3e2d0e118176fe046e8d95e50583cbf736a1757dbb6bb4f397d43cf74dc940bd"
+    },
+    {
+      "id": "S-03-set-page-snack",
+      "path": "weezy-pop-studio-captures/S-03-set-page-snack-normal.png",
+      "sha256": "3c0206f443e31452d875b557b5cc23c131711be1e108054cf1357497a9870ec8"
+    },
+    {
+      "id": "S-03-set-page-snack-more",
+      "path": "weezy-pop-studio-captures/S-03-set-page-snack-normal-scroll-1.png",
+      "sha256": "ca723473dc3b31c43feece7805143e4755965aa9767df045efadf284f58b3505"
+    },
+    {
+      "id": "S-04-set-all-in",
+      "path": "weezy-pop-studio-captures/S-04-set-all-in-normal.png",
+      "sha256": "860f4a2d86d32fd0134f205d592e545abb5917261543c7cb11197d45f8307bed"
+    },
+    {
+      "id": "S-05-product-in-set",
+      "path": "weezy-pop-studio-captures/S-05-product-in-set-normal.png",
+      "sha256": "b6d8a2fa895a440aad916b897a96a56835a48c79e3fbbf907562686226196151"
+    },
+    {
+      "id": "W-01-shared-wishlist",
+      "path": "web/W-01-shared-wishlist.png",
+      "sha256": "9115466784e004ea8a5ed4094e9b70d1f19b084f9d0830334c66ac2279b06c37"
+    },
+    {
+      "id": "W-01-shared-wishlist-more",
+      "path": "web/W-01-shared-wishlist-more.png",
+      "sha256": "862ecc957448120256e3250118b04264a2bfa83fb0c7c1c955dfb81ff250008b"
+    },
+    {
+      "id": "W-01-shared-wishlist-more-2",
+      "path": "web/W-01-shared-wishlist-more-2.png",
+      "sha256": "6e3dc5a868dd9471c48101d8b63d48bad95f3d4558e06ae4ff286407442d6b8d"
+    },
+    {
+      "id": "W-04-shared-stack",
+      "path": "web/W-04-shared-stack.png",
+      "sha256": "532d2d64fa7130068d09c2b48f9e11afc9e7438a752dce3c4799be7dc612fb28"
+    },
+    {
+      "id": "W-04-shared-stack-more",
+      "path": "web/W-04-shared-stack-more.png",
+      "sha256": "67f4420c2f1a834898be8ef716f78a931dc7ee37dd35341380c59b865105af10"
+    },
+    {
+      "id": "W-05-bestie-invite",
+      "path": "web/W-05-bestie-invite.png",
+      "sha256": "2e6d2335cc1b204826f11c37328f7b0de7cad42a67f125dc4240340ee13d8c6f"
+    },
+    {
+      "id": "W-05-bestie-invite-more",
+      "path": "web/W-05-bestie-invite-more.png",
+      "sha256": "6b651d9f941a26e839b17d75506e1c86d79f62836d407e7110c7b0ab9beefa9b"
+    },
+    {
+      "id": "purchase-registration-largest",
+      "path": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility.png",
+      "sha256": "bb6b1a4573af32abee3616d97b50491b210413f44ecdf49f0d6ae2e95e9838eb"
+    },
+    {
+      "id": "purchase-registration-largest-more",
+      "path": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility-scroll-1.png",
+      "sha256": "544da95318d918c2ff632802608fa3b47e625c8abb8cedfc6507f06301ffb1c6"
+    },
+    {
+      "id": "purchase-registration-largest-more-2",
+      "path": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility-scroll-2.png",
+      "sha256": "445d994545445f08da76f55e29391af12fc7db491c5754806891c290a6f6aaa5"
+    },
+    {
+      "id": "purchase-registration-largest-more-3",
+      "path": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility-scroll-3.png",
+      "sha256": "5834f3086518527beac734f859d2b305921abbecf4359d9f6a21fcd24fe01659"
+    },
+    {
+      "id": "purchase-registration-largest-more-4",
+      "path": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility-scroll-4.png",
+      "sha256": "1f735ff821d48709c2a62a1783283c1cee9124c797fedfd320feab3b1e2a6ff0"
+    },
+    {
+      "id": "purchase-registration-largest-proof",
+      "path": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility.png",
+      "sha256": "4d3cbee013ed9886cdd100693243a2062e90eeee38df8bcc9f9c0d630aa41b44"
+    },
+    {
+      "id": "purchase-registration-largest-proof-more",
+      "path": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-1.png",
+      "sha256": "eb3d9b6023a796ff6b17b9fbd95b2a90b483fc8a129cf78c58a9f29173789c97"
+    },
+    {
+      "id": "purchase-registration-largest-proof-more-2",
+      "path": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-2.png",
+      "sha256": "753d5b7c623b81f889744bf6554377522c563476d0c465c67cff3d3d194127fc"
+    },
+    {
+      "id": "purchase-registration-largest-proof-more-3",
+      "path": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-3.png",
+      "sha256": "4c18663159f7a2c5a0b5745f12dff15be35c816212e497848c1bd606cd7cf40c"
+    },
+    {
+      "id": "purchase-registration-largest-proof-more-4",
+      "path": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-4.png",
+      "sha256": "393b17c5f80a77b360f58763869a3bbb54a97f418d9dfb14dd1c291828a695f9"
+    },
+    {
+      "id": "purchase-registration-largest-proof-more-5",
+      "path": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-5.png",
+      "sha256": "b0c1659c71c80ac22c6f8c37d88a50a030b203d5d764aefb15d5556d0642ca2a"
+    }
+  ],
+  "web": {
+    "at": "2026-10-08T06:49:52.287Z",
+    "build": 33,
+    "releasedBuildBaseline": 32,
+    "implementation": "Current changed F-50 production templates in local synthetic service; not yet deployed",
+    "files": [
+      {
+        "path": "service/pop-web.mjs",
+        "sha256": "7c304d6799e1488788486eb895efc535bae44cb8bed161c253a2190dbc898053"
+      },
+      {
+        "path": "service/assets/pop-studio.css",
+        "sha256": "92fd2a13b65a48bc1e38de70a7c3631ecdd9d12e6b4caf0e990b06784a14a47a"
+      },
+      {
+        "path": "service/pop-web.test.mjs",
+        "sha256": "a83d24cdd3dcf6b1d5fc806ef63635faf1da6e4c857a271fdd26c6163964cb13"
+      },
+      {
+        "path": "service/qa/pop-web-fixture.mjs",
+        "sha256": "e8462b32342cc67fff8bc62b0c7a4eb3b230af369d4a65ab026179eabe726ac8"
+      },
+      {
+        "path": "scripts/design_agent_web_capture.mjs",
+        "sha256": "e717a132302c023f6e49afcf34b3e7a53e3d95230df6e14781c3c715a25960bc"
+      }
+    ],
+    "browserChrome": "none; actual browser content at controlled viewport",
+    "F50": {
+      "status": "partial",
+      "implemented": "Outlined 56px HTTPS context-preserving button below GET THE APP, one-line instruction",
+      "remaining": "A distinct associated origin and real installed-device Safari verification are required for reliable direct reopening from the same-domain page",
+      "appleReference": "https://developer.apple.com/documentation/technotes/tn3155-debugging-universal-links",
+      "fallback": "Existing Smart App Banner OPEN and invitation code entry",
+      "deferredInstallClaim": false
+    },
+    "tests": {
+      "focusedPassed": 10,
+      "focusedFailed": 0,
+      "browserLayoutChecks": "build/Release33F50/browser-audit.json"
+    }
+  },
+  "webLiveVerification": {
+    "release": 38,
+    "status": "complete",
+    "sameMachine": true,
+    "readOnlyChecks": [
+      {
+        "path": "/health",
+        "status": 200,
+        "sha256": "4062edaf750fb8074e7e83e0c9028c94e32468a8b6f1614774328ef045150f93"
+      },
+      {
+        "path": "/assets/pop-studio.css",
+        "status": 200,
+        "sha256": "92fd2a13b65a48bc1e38de70a7c3631ecdd9d12e6b4caf0e990b06784a14a47a"
+      }
+    ],
+    "remoteFilesMatch": true,
+    "customerWebsiteChanged": false
+  },
+  "captureResources": {
+    "at": "2026-10-08T06:49:29.785Z",
+    "server": {
+      "pid": 5066,
+      "port": 48194,
+      "bind": "127.0.0.1",
+      "fixture": "service/qa/pop-web-fixture.mjs, POP_WEB_REFERENCE=1, in-memory synthetic Claire",
+      "createdBy": "share_web agent",
+      "stoppedAfterCapture": true
+    },
+    "browser": {
+      "pid": 58651,
+      "debugPort": 48633,
+      "mode": "headless Chrome",
+      "profile": "<local device or runtime path omitted>",
+      "owner": "share_web agent",
+      "pageID": "0C7D605E3A924CC1826FF90A1C867CE3",
+      "pageClosedAfterCapture": true,
+      "userBrowserUntouched": true
+    },
+    "viewport": {
+      "width": 393,
+      "height": 852,
+      "scale": 3
+    },
+    "noSafariChrome": true,
+    "noDeployment": true,
+    "noCustomerWrites": true
+  },
+  "fixtureAuthority": "Isolated six-piece Celestial design fixture matches the supplied reference; current live Shopify definition remains five pieces. Screenshot assignments do not update live merchant definitions or customer ownership. Prices, actual variant identities and live membership remain Shopify-authoritative.",
+  "shippingAppRootProvedByContentRenders": false,
+  "deviceAcceptance": [
+    "Physical-device layout",
+    "Real-account checkout",
+    "APNs",
+    "F50 same-domain Safari reopening"
+  ],
+  "fixEvidence": {
+    "F-13": {
+      "status": "fixed",
+      "screens": [
+        "RELEASE28-SHOP",
+        "G-10-set-post",
+        "G-10I-incomplete-set-post"
+      ],
+      "description": "Whole set-member tiles and next-card edges remain visible without horizontal scroll indicators.",
+      "tests": [
+        "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+        "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+        "evidence/receipts/visual-review-077c87dfc341.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+        "evidence/receipts/visual-review-077c87dfc341.json": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T080020Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-077c87dfc341.json",
+          "sha256": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51",
+          "originalSourceSHA256": "077c87dfc341cbc26c7180056c330ead8357cc418d15c69eeb71859588702e10"
+        }
+      ]
+    },
+    "F-15": {
+      "status": "fixed",
+      "screens": [
+        "G-25-search-more-3",
+        "G-25-search",
+        "G-25-search-more",
+        "G-25-search-more-2",
+        "G-25-search-more-4",
+        "G-25-search-more-5"
+      ],
+      "description": "Search places each source photograph inside an inset rounded card and retains a readable heart control.",
+      "tests": [
+        "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+        "evidence/receipts/visual-review-077c87dfc341.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+        "evidence/receipts/visual-review-077c87dfc341.json": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T080020Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-077c87dfc341.json",
+          "sha256": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51",
+          "originalSourceSHA256": "077c87dfc341cbc26c7180056c330ead8357cc418d15c69eeb71859588702e10"
+        }
+      ]
+    },
+    "F-30": {
+      "status": "fixed",
+      "screens": [
+        "G-17-set-complete",
+        "G-18-share-the-stack"
+      ],
+      "description": "Verified owned white-studio circles have blush surrounds; exact finish and copy counts govern completion and sharing.",
+      "tests": [
+        "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+        "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+        "evidence/receipts/visual-review-077c87dfc341.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+        "evidence/receipts/visual-review-077c87dfc341.json": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T080020Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-077c87dfc341.json",
+          "sha256": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51",
+          "originalSourceSHA256": "077c87dfc341cbc26c7180056c330ead8357cc418d15c69eeb71859588702e10"
+        }
+      ]
+    },
+    "F-53": {
+      "status": "fixed",
+      "screens": [
+        "purchase-registration-largest",
+        "purchase-registration-largest-more-3",
+        "purchase-registration-largest-more-2",
+        "purchase-registration-largest-proof",
+        "purchase-registration-largest-more",
+        "purchase-registration-largest-more-4",
+        "purchase-registration-largest-proof-more",
+        "purchase-registration-largest-proof-more-2",
+        "purchase-registration-largest-proof-more-3",
+        "purchase-registration-largest-proof-more-4",
+        "purchase-registration-largest-proof-more-5"
+      ],
+      "description": "Registration keeps an opaque STEP bar and separator while accessibility body text and controls expand through overlapping continuations.",
+      "tests": [
+        "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+        "evidence/receipts/visual-review-077c87dfc341.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+        "evidence/receipts/visual-review-077c87dfc341.json": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T080020Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-077c87dfc341.json",
+          "sha256": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51",
+          "originalSourceSHA256": "077c87dfc341cbc26c7180056c330ead8357cc418d15c69eeb71859588702e10"
+        }
+      ]
+    },
+    "F-54": {
+      "status": "fixed",
+      "screens": [
+        "G-14-my-charms",
+        "RELEASE28-MY-CHARMS",
+        "G-14-my-charms-more",
+        "G-14-my-charms-more-2",
+        "RELEASE28-MY-CHARMS-more",
+        "RELEASE28-MY-CHARMS-more-2"
+      ],
+      "description": "Normal grouped archive matches Celestial4of6, Rodeo2of4, two Done sets and loose grid. Current AX gallery preserves full23/CHARMS, Zia Rainbow, Set of Two, Lucky Horseshoe and Battenberg Cake, with natural scrollable layout and exact final visual hashes.",
+      "tests": [
+        "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+        "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+        "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-55": {
+      "status": "fixed",
+      "screens": [
+        "RELEASE29-FLOWER-GALLERY-more",
+        "RELEASE29-LARGEST-GLITTER-more",
+        "RELEASE29-GLITTER-more",
+        "RELEASE29-GOLD-more",
+        "RELEASE29-RESTORED-more",
+        "RELEASE29-RESELECTED-more",
+        "RELEASE29-FLOWER-RESTORED-more",
+        "RELEASE29-RETRY-more",
+        "RELEASE29-RETRY-LOADED-more",
+        "RELEASE29-LARGEST-GLITTER-more-2",
+        "RELEASE29-LARGEST-GLITTER-more-3",
+        "RELEASE29-LARGEST-GLITTER-more-4",
+        "RELEASE29-LARGEST-GOLD-more",
+        "RELEASE29-LARGEST-GOLD-more-2",
+        "RELEASE29-LARGEST-GOLD-more-3",
+        "RELEASE29-LARGEST-RESTORED-more",
+        "RELEASE29-LARGEST-RESTORED-more-2",
+        "RELEASE29-LARGEST-RESTORED-more-3",
+        "RELEASE29-LARGEST-RESTORED-more-4"
+      ],
+      "description": "Scrolled product chrome retains identity and price; all reachable normal and accessibility Made from tails remain captured above the sticky action. This also addresses F-38.",
+      "tests": [
+        "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-56": {
+      "status": "fixed",
+      "screens": [
+        "RELEASE29-LARGEST-GOLD",
+        "RELEASE29-GOLD"
+      ],
+      "description": "Gold finish labels remain concise and unambiguous while retaining the exact Shopify variant identity.",
+      "tests": [
+        "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+        "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+        "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-57": {
+      "status": "fixed",
+      "screens": [
+        "RELEASE28-SHOP",
+        "G-10-set-post",
+        "G-10I-incomplete-set-post",
+        "S-01-sets-feed",
+        "S-01-sets-feed-largest",
+        "S-01-sets-feed-snack",
+        "S-03-set-page-snack"
+      ],
+      "description": "The Sets feed has whole member tiles, exact owned/add status, collection progress and See the set. Separate Celestial2of6 and Snack0of5 design fixtures are captured.",
+      "tests": [
+        "PopStudioCaptureTests/testCaptureBuild33Sets()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-58": {
+      "status": "fixed",
+      "screens": [
+        "S-02-feed-added",
+        "S-03-set-page-pending",
+        "S-03-set-page-pending-largest",
+        "S-03-set-page-pending-more",
+        "S-03-set-page-pending-largest-more"
+      ],
+      "description": "Exact current basket quantities supply pending stripes, add/remove/undo states and priced remainder; pending pieces never award badges or completion. Explicit passing unit: PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone().",
+      "tests": [
+        "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+        "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+        "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+        "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-59": {
+      "status": "fixed",
+      "screens": [
+        "S-03-set-page",
+        "S-03-set-page-largest",
+        "S-03-set-page-more",
+        "S-03-set-page-largest-more",
+        "S-03-set-page-largest-more-2",
+        "G-13-set-detail",
+        "G-13I-incomplete-set-detail",
+        "G-13-more-set-detail",
+        "S-01-sets-feed-snack",
+        "S-03-set-page-snack"
+      ],
+      "description": "Set pages retain current whole-photo member paging, tappable positions, variant/stock rows, Swirl quantity2 and normal/accessibility/pending/Snack states.",
+      "tests": [
+        "PopStudioCaptureTests/testCaptureBuild33Sets()",
+        "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+        "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-60": {
+      "status": "fixed",
+      "screens": [
+        "S-04-set-all-in"
+      ],
+      "description": "The lined-up basket state can be re-entered after removal without repeating its celebration; readiness never grants ownership. Shopify alone confirms complete-set savings. Explicit passing unit: PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone().",
+      "tests": [
+        "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+        "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+        "PopStudioCaptureTests/testCaptureBuild33Sets()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    },
+    "F-61": {
+      "status": "fixed",
+      "screens": [
+        "S-05-product-in-set",
+        "S-05-product-in-set-more"
+      ],
+      "description": "Set-origin product navigation retains the set context and position with exact member stepping and44pt targets; projected ownership is explicitly after checkout.",
+      "tests": [
+        "PopStudioCaptureTests/testCaptureBuild33Sets()"
+      ],
+      "visualInspection": {
+        "currentFinalScopedReceipt": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+        "acceptedCurrentNormalAndAX": true,
+        "scope": "Current canonical accepted frames plus independently reviewed unchanged specific normal screens. No blanket full-app, live-account, signing or physical-device certification."
+      },
+      "receipts": [
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "evidence/receipts/source-freeze-d94342b198fa.json",
+        "evidence/receipts/capture-receipt-746f2e64c983.json",
+        "evidence/receipts/visual-review-29545fccafb3.json",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json"
+      ],
+      "scope": "Exact isolated production-content capture and unit tests. Shipping AppRoot interaction QA, real payments, device layout and accessibility acceptance remain separately scoped.",
+      "receiptSHA256": {
+        "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "evidence/receipts/source-freeze-d94342b198fa.json": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+        "evidence/receipts/capture-receipt-746f2e64c983.json": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+        "evidence/receipts/visual-review-29545fccafb3.json": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+        "evidence/receipts/final-raw-verification-1a1aa1c5f355.json": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef"
+      },
+      "originalReceipts": [
+        {
+          "sourcePath": "build/Migration/20261008T085114Z-51e9f4.json",
+          "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+          "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+          "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json",
+          "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+          "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+          "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json",
+          "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+          "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+          "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558"
+        },
+        {
+          "sourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98"
+        },
+        {
+          "sourcePath": "work/build33/final-raw-verification.json",
+          "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+          "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+          "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf"
+        }
+      ]
+    }
+  },
+  "nativeVerificationPending": [],
+  "packagingToolPerformsPublishingOrDeployment": false,
+  "release": {
+    "signed": true,
+    "uploaded": true,
+    "deployedAppOnlyWeb": 38,
+    "testFlightAcceptanceClaimed": true,
+    "version": "1.0",
+    "build": 33,
+    "buildID": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+    "processingState": "VALID",
+    "betaReviewState": "APPROVED",
+    "internalBuildState": "IN_BETA_TESTING",
+    "externalBuildState": "IN_BETA_TESTING",
+    "groups": [
+      "Weezy Pop Internal",
+      "Lou & Nat"
+    ],
+    "autoNotifyPreserved": true,
+    "ipaSHA256": "e0ce1ee7e8eb655b4dc6a099434139d8d37c7cc69b509a7956b2c0674fafab8c",
+    "readBackAt": "2026-10-08T09:05:16.444852+00:00",
+    "receipts": [
+      {
+        "path": "evidence/receipts/package-verification-8fb0df2f0bb6.json",
+        "sha256": "2689480e0ca23171f0d3191b9f00ea5f2669ab0f878f92ef1712622b7da8521f",
+        "originalSourceSHA256": "8fb0df2f0bb6f6e811e03e4e0d530f8c12cad74ddc71311db9e7141191a9dfc8",
+        "originalSourcePath": "build/Release33/package-verification.json"
+      },
+      {
+        "path": "evidence/receipts/apple-validation-e517baf29521.json",
+        "sha256": "ec886766054658704802aed338a47f835738f4b83a427858d67f36567536da05",
+        "originalSourceSHA256": "e517baf29521160a5972eb1955a10e56e5837cd7b64ad9daf7ab2b5f056104e0",
+        "originalSourcePath": "build/Release33/apple-validation.json"
+      },
+      {
+        "path": "evidence/receipts/upload-ffc7b4e00fd6.json",
+        "sha256": "38d75d89476a1ba4f5dffd1caaa884a694222c7c3ebf25ffcd1ae65a74d52ec4",
+        "originalSourceSHA256": "ffc7b4e00fd651a1cc00921b0e7e3c197c490da7dba5e68b44c41967598bad2d",
+        "originalSourcePath": "build/Release33/upload.json"
+      },
+      {
+        "path": "evidence/receipts/groups-readback-5a99ababcdf0.json",
+        "sha256": "8d5f99bcfa7c6b1d5643cdacc562e67c41da68f12885e79ee4bed73d989fb03f",
+        "originalSourceSHA256": "5a99ababcdf0d092718714b4826257c757496efb2baf24026800b01a917ece4a",
+        "originalSourcePath": "build/Release33/groups-readback.json"
+      },
+      {
+        "path": "evidence/receipts/distribution-readback-d5405e05be72.json",
+        "sha256": "6c43ea41199278ef48e1b848723487ad2170d149711b27e901b246a9c93ff75e",
+        "originalSourceSHA256": "d5405e05be72ce2863a69779e3fb44795ff86b4ff2cc337eeb06dfdb62fb7fc5",
+        "originalSourcePath": "build/Release33/distribution-readback.json"
+      },
+      {
+        "path": "evidence/receipts/review-readback-f0bc15c683fb.json",
+        "sha256": "c83622144b8bfa1b8dc091afc27f2f57403b733280fcf1a2484575b3f3b183a0",
+        "originalSourceSHA256": "f0bc15c683fb6792c8d7a864c112e9715437ba8449c404f2034a867f53f5be84",
+        "originalSourcePath": "build/Release33/review-readback.json"
+      },
+      {
+        "path": "evidence/receipts/notes-readback-70931e3fadb6.json",
+        "sha256": "9b7944ef91e65de357a08285ebe0546914d33e19bfb3cd97a3d80ef068588e65",
+        "originalSourceSHA256": "70931e3fadb67d0d8ec519f51d4eb6c343f1e20ec0bec8a9f2f7b0b81087572c",
+        "originalSourcePath": "build/Release33/notes-readback.json"
+      },
+      {
+        "path": "evidence/receipts/web-live-verification-c5df9724c268.json",
+        "sha256": "9ef72b406c45982302ab5bfb58d3344aea802ca016959acb079373806f1552b9",
+        "originalSourceSHA256": "c5df9724c2686326e0a1d71e21501ce7edaf3f0348721685b9e586c6881b3365",
+        "originalSourcePath": "build/Release33/web-live-verification.json"
+      },
+      {
+        "path": "evidence/receipts/final-production-source-association-67bfda8ad9e7.json",
+        "sha256": "c4abaf38c719912037f99f1c08a7d16f73aa81cd71f374187021f37c01fd7841",
+        "originalSourceSHA256": "67bfda8ad9e75e0b3ccb96fa167d1bd67871303cc897e1f276e44c65e7205368",
+        "originalSourcePath": "build/Release33/final-production-source-association.json"
+      }
+    ]
+  },
+  "sourceFreeze": {
+    "receipt": {
+      "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+      "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+      "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json"
+    },
+    "sourceStillMatchesFinal": true,
+    "reason": "All281 current final input files independently match the immutable085114 SHA256 list. Final21-case capture records source unchanged and independent scoped normal/AX visual acceptance. Current3 shipping-root Debug/Release rechecks use the same final production source as explicitly documented in production-source-association.json."
+  },
+  "shippingRootQA": {
+    "path": "evidence/receipts/production-source-association-73bc362531ef.json",
+    "sha256": "fd698166e27b49778a8724a751a820049963f2990f970f890606d4a83f624242",
+    "originalSourceSHA256": "73bc362531efbab67ae77a83ce7396e946df407a60c8e07fcc8b372bf97f1010",
+    "originalSourcePath": "work/build33/production-source-association.json"
+  },
+  "captureRun": {
+    "status": "final-reviewed",
+    "receipt": {
+      "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+      "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+      "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+      "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+    },
+    "captureInputReceipt": {
+      "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+      "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+      "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json"
+    },
+    "visualReceipt": {
+      "path": "evidence/receipts/visual-review-29545fccafb3.json",
+      "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+      "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+    },
+    "parsedResults": {
+      "total": 21,
+      "passed": 21,
+      "failed": 0,
+      "skipped": 0
+    },
+    "finalSourceMatched": true,
+    "nativeRawCounts": {
+      "weezy-v26-captures": 78,
+      "weezy-pop-studio-captures": 110
+    },
+    "reason": "Actual latest canonical normal Sets/Story/archive and full My Charms/Wishlist AX base/tails independently accepted with exact current hashes. Three previous AX detail defects and two subsequent Wishlist-row midword findings are resolved by fresh visual evidence; legacy G13-more is excluded via reviewed actual S03 replacement. No global full-app/AX certification is claimed."
+  },
+  "scopedAcceptance": "All12 reopened/new native items tested and scoped canonical normal/largest-text renders visually reviewed. F50 remains partial; no global accessibility or real-account/device acceptance claimed."
+}

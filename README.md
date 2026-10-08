@@ -1,13 +1,11 @@
 # Weezy Pop · Design review
 
-[Open the build 32 review pack](review/build-32/README.md) · [Previous build31](review/build-31/README.md).
+[Open build 33](review/build-33/README.md) · [Build 32](review/build-32/README.md) · [Build 31](review/build-31/README.md).
 
-Build32 addresses the original51 numbered fixes plus F-52. Its169 fresh captures, largest-text continuations and one-line-per-fix RESPONSE.md are paired by the same screen IDs. Apple has approved build32 for both existing TestFlight groups. Open automated accessibility findings and uncaptured journeys are explicit in the pack.
+Build 33 introduces the updated Sets design and addresses the current native review fixes. Apple has approved it for both existing TestFlight groups. The review contains 157 fresh screenshots, actual largest-text continuations, a 5.3 second add/Undo recording and all 61 fix responses. F-50 remains partial for installed-device Safari reopening; its reason is explicit.
 
-The pack pairs current app content and app-only web previews with the exact Pop Studio screen IDs. Start with its README, then use `manifest.json` and `import-batches.json` to import up to 50 images at a time. Missing screens and their reasons are explicit.
+Use [manifest.json](review/build-33/manifest.json), [changes.json](review/build-33/changes.json) and [import-batches.json](review/build-33/import-batches.json) to compare only changed screens. Batches contain at most 50 images. Unchanged screens retain their original build 32 pointers; previous folders remain immutable. [TESTS.json](review/build-33/TESTS.json) records actual passes, failures and resolving rechecks, independently of screenshot renders.
 
-The standing [review protocol](docs/DESIGN-AGENT-REVIEW.md) is also enforced by this repository’s `AGENTS.md` and the native app’s working rules. Future builds get a new `review/build-N/` folder and `changes.json` for comparison with the previous baseline.
+The standing [review protocol](docs/DESIGN-AGENT-REVIEW.md) is enforced by AGENTS.md and the native project’s rules. Return the pinned review canvas, FIXES.md and a short summary using exact screen IDs.
 
-Return the pinned side-by-side canvas, `FIXES.md` and a short summary. Use the exact screen IDs in feedback so fixes can be traced to the correct design and capture.
-
-This repository contains synthetic review examples. It does not contain the application source, credentials or real customer account data.
+Only synthetic account examples and public review evidence are included. Application source, credentials and real customer records are excluded. Shopify remains the source of truth and the customer website is unchanged.

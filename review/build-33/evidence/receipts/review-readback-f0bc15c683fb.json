@@ -1,0 +1,37 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/review-readback.json",
+  "originalSourceSHA256": "f0bc15c683fb6792c8d7a864c112e9715437ba8449c404f2034a867f53f5be84",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "data": [
+      {
+        "type": "betaAppReviewSubmissions",
+        "id": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+        "attributes": {
+          "betaReviewState": "APPROVED"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/4d1e6abd-17f9-4279-9655-d1c8f737825f/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/4d1e6abd-17f9-4279-9655-d1c8f737825f/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/4d1e6abd-17f9-4279-9655-d1c8f737825f"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions?filter%5Bbuild%5D=4d1e6abd-17f9-4279-9655-d1c8f737825f"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T080738Z-ec0f66.json",
+  "originalSourceSHA256": "0b15684a17870ab6e61c321d46e27394f6f12b7efef9e87861aa1bcee7f366ab",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T080738Z-ec0f66.xcresult",
+    "tests": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 49144,
+      "cases": [
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 37000
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": true,
+    "durationMs": 51095,
+    "exitStatus": 0
+  }
+}

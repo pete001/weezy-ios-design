@@ -1,0 +1,15 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/upload.json",
+  "originalSourceSHA256": "ffc7b4e00fd651a1cc00921b0e7e3c197c490da7dba5e68b44c41967598bad2d",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "mode": "ipa_upload",
+    "buildId": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+    "buildVersion": "1.0",
+    "buildNumber": "33",
+    "uploaded": true,
+    "uploadOnly": true,
+    "processingState": "VALID"
+  }
+}

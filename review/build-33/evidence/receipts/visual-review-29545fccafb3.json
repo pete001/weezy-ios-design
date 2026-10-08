@@ -1,0 +1,919 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json",
+  "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "reviewedAtUTC": "2026-10-08T08:56:34.591515+00:00",
+    "batch": "20261008T085114Z",
+    "sourceUnchanged": true,
+    "sourceFreezeSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910",
+    "captureReceiptSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558",
+    "xcresults": [
+      "build/Migration/20261008T085114Z-51e9f4.xcresult"
+    ],
+    "scope": "Canonical normal Sets/story, normal My Charms and both complete refreshed accessibility5 My Charms/Wishlist journeys. All base images and real overlapping continuations checked; source/build/customer data untouched.",
+    "proof": "Isolated393 by852pt production-content renders with review chrome, not shipping AppRoot, TestFlight, physical-device, live purchase, real account or general accessibility-certification evidence. Display P3 converted to sRGB only in review contacts; raw files retained.",
+    "canonicalScopedVisualAccepted": true,
+    "targetedAXCorrectionsAccepted": true,
+    "overallAppAccepted": false,
+    "overallAppAcceptanceReason": "This receipt covers explicitly named inspected content renders. Runtime/UI/Release/live-service and other native/web journeys have independent evidence. It does not blanket-certify all app pixels or accessibility.",
+    "normalFindings": [
+      "S01: full 132pt member tiles, whole photo labels, owned state, 10pt meter, SEE THE SET plus separate Want action, compact next set preview and four-tab glass bar; no inner scroll indicator.",
+      "S02: owned plus pending striped meter, Add the last 2 exact quantity/price, visible Undo toast, no ownership earned from pending pieces.",
+      "S03: Sun at leading edge in 330 by 300pt cover hero with Star peek, no previous Moon or 15pt white letterbox; five unique member circles and one Swirl ×2 row.",
+      "S03 pending: Star and Planet in basket; owned2 plus pending2 of6; Swirl adds quantity2 for36; actual continuation reaches badge and whole-set offer with pinned footer clear.",
+      "S04: six actual quantity pieces lined up, 2owned plus4pending, one-checkout-away badge and Review basket74; no paid completion claim.",
+      "S05: exact selected Small Star photograph, labelled set Back, 69pt context strip with left caption and circles and right arrow buttons, Metal picker, projected count, full footer.",
+      "Snack feed/detail: all five product members and complete terminal badge/offer continuation present; compact next-set previews retain their actual product photography.",
+      "G13I: unavailable Croissant remains disabled; partial CTA names 4 available pieces for76; no complete-set offer claim.",
+      "F55/38: scrolling product headers show name plus Shopify-derived price instead of empty pink band; real overlapping continuations reach terminal body content.",
+      "F56: Gold photo chip reads GOLD rather than GOLD · GOLD. Glitter remains GLITTER · GOLD.",
+      "Gold, Glitter, restored, reselected and loaded-retry captures preserve finish-specific photograph and selected pill across all actual continuations.",
+      "Flower gallery/restored preserve White plus Gold selection, disclose missing exact photo truthfully, label fallback PRODUCT GALLERY, and show both Acrylic and Stainless steel material chips in the second continuation.",
+      "G12 third actual continuation contains How it wears, collection count and upsell with visible pinned Add button.",
+      "Normal My Charms retains photo/count badge and exact Celestial4of6 plus Rodeo2of4 in-progress ordering; Done contains Good Energy3of3 and Tiny Joy3of3, followed by all loose items through Zia Rainbow and Ice Cream.",
+      "50 of55 normal Sets/story images are byte-identical to084526. Five differing renders inspected side-by-side preserve geometry/text/photo identity; pending meter animation and a set render timing/glass composition change are not new layout differences."
+    ],
+    "AXFindings": [
+      {
+        "accepted": true,
+        "correction": "Count badge",
+        "evidence": "G-14-my-charms-largest-my-charms-largest-scroll-1.png",
+        "finding": "23 and CHARMS fully visible inside natural full-width card below photo, no clipping/overlap or body-font cap."
+      },
+      {
+        "accepted": true,
+        "correction": "Loose item grid",
+        "evidence": [
+          "G-14-my-charms-largest-my-charms-largest-scroll-14.png",
+          "G-14-my-charms-largest-my-charms-largest-scroll-15.png"
+        ],
+        "finding": "One-column grid preserves Zia Rainbow as a whole phrase; actual terminal Ice Cream fully visible."
+      },
+      {
+        "accepted": true,
+        "correction": "Featured variant identity",
+        "evidence": "G-15-wishlist-largest-wishlist-largest-scroll-1.png",
+        "finding": "Full actual Set of Two · £10 displayed. Exact fixture choice is Two; never relabel it Three."
+      },
+      {
+        "accepted": true,
+        "correction": "Wishlist product row width",
+        "evidence": [
+          "G-15-wishlist-largest-wishlist-largest-scroll-5.png",
+          "G-15-wishlist-largest-wishlist-largest-scroll-7.png",
+          "G-15-wishlist-largest-wishlist-largest-scroll-8.png"
+        ],
+        "finding": "Lucky Horseshoe and Battenberg Cake now wrap on whole-word boundaries; full prices visible. Image/removal row and full-width details preserve actual Dynamic Type."
+      },
+      {
+        "accepted": true,
+        "correction": "Full journey tails",
+        "finding": "15 archive continuations reach Ice Cream;9 Wishlist continuations reach full Shopify delivery explanation. All names, counts, prices and primary labels in inspected journeys are visible across actual overlapping scroll states. Headings and counters retain whole words."
+      }
+    ],
+    "remainingInCanonicalReviewedScope": [],
+    "legacyExcludedAliases": [
+      {
+        "parent": "G-13-more-set-detail",
+        "finding": "Synthetic isolated alias still places standalone title under Back; excluded from canonical acceptance/public pack. Actual S03 set page normal-scroll-1 is accepted replacement evidence.",
+        "replacement": {
+          "path": "raw/weezy-pop-studio-captures/S-03-set-page-normal-scroll-1.png",
+          "sha256": "49d1a63626e101ba2e415607353ee8a83d4e512079ac682f7f62ffed8d90d3e3"
+        }
+      }
+    ],
+    "factualAndPlatformExceptions": [
+      "Good Energy is58 from selected actual Shopify variants versus illustrative56. Prices and exact assigned photographs are not fabricated to match reference data.",
+      "Legacy G10/G13 aliases show their explicitly isolated4of6 ownership fixture and Planet initial hero; canonical S01/S03 use source Moon plus Sun2of6 and Sun hero. They share production components but are not identical fixture states.",
+      "Original studio-white photos remain intact. The missing exact Flower Gold/White photo is explicitly disclosed; another finish is not represented as the selected one.",
+      "Raw isolated captures omit the HTML mock status island/device frame. Actual system navigation, swipe-back, transactional verification and accessibility are separate QA responsibilities.",
+      "A real scroll viewport may show content under the opaque collapsed header at partial offsets; overlap-aware continuation metadata records the visible region and subsequent body coverage."
+    ],
+    "referenceSources": [
+      {
+        "path": "docs/design/pop-studio/build33-handoff/handoff_build32_sets/FIXES.md",
+        "sha256": "7bd6b67e9d8cc704a7950a0cdf0e48aa83662b31ac71c45b9f627204f4e180a8"
+      },
+      {
+        "path": "docs/design/pop-studio/build33-handoff/handoff_build32_sets/Pop Studio 10 Sets.dc.html",
+        "sha256": "fea7827ff6ec7780a5a16316286fdbf4aa1e02e51fec6832d51663bee946b372"
+      }
+    ],
+    "referenceImages": [
+      {
+        "path": "build/PopStudioReference33/S-01-sets-feed.png",
+        "sha256": "8a5233cd7e173b3e5fb7f8024b1c5f281bf7452fd0b22a2bddf7594cd2dd249f"
+      },
+      {
+        "path": "build/PopStudioReference33/S-02-feed-added.png",
+        "sha256": "c6702cd5a25e1234c40162d6835c4aa6180a1df52c21da0b4167b678ebd30f1c"
+      },
+      {
+        "path": "build/PopStudioReference33/S-03-set-page.png",
+        "sha256": "3d9da4fbc718aa56ab9906994ba58baf6547e106b1c4df472a0dfbf07631179a"
+      },
+      {
+        "path": "build/PopStudioReference33/S-04-set-all-in.png",
+        "sha256": "b16325487140c1c14b003044c05610a0bf263304aac09b8f74f8c020b1ceb612"
+      },
+      {
+        "path": "build/PopStudioReference33/S-05-product-in-set.png",
+        "sha256": "4458191df5d49bf9398e040bf496830f581622466d493527ee570673081c4d7b"
+      }
+    ],
+    "normalReviewedImages": [
+      {
+        "parent": "S-01-sets-feed",
+        "filename": "S-01-sets-feed-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-normal.png",
+        "sha256": "d36b7e1974a941c8ab403efa9da98a88d46803e6a51524840a858ff3a7dfb1a5"
+      },
+      {
+        "parent": "S-01-sets-feed",
+        "filename": "S-01-sets-feed-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-normal-scroll-1.png",
+        "sha256": "c2a2c2cbc3105f797a591e43a6aa4145c8ba1f88efb7ac1609cda7a8df3e53f3"
+      },
+      {
+        "parent": "S-01-sets-feed",
+        "filename": "S-01-sets-feed-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-normal-scroll-2.png",
+        "sha256": "90d1d79ea7a23dbb60336429ed4d405cf28c8868beb7406f1a885fc1362fda8b"
+      },
+      {
+        "parent": "S-01-sets-feed",
+        "filename": "S-01-sets-feed-normal-scroll-3.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-normal-scroll-3.png",
+        "sha256": "aec350317f76cd4262ca5e1147be236d55895ccdbfbedc669653749c55b958ed"
+      },
+      {
+        "parent": "S-02-feed-added",
+        "filename": "S-02-feed-added-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-02-feed-added-normal.png",
+        "sha256": "e85d67261e16d388f43b511b89717a211ca14c31afaacc5ab544c91ae11f430c"
+      },
+      {
+        "parent": "S-02-feed-added",
+        "filename": "S-02-feed-added-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/S-02-feed-added-normal-scroll-1.png",
+        "sha256": "08bb72f26e247caca674959380ce185e6abf28b0c7382b9cee9c668755e08936"
+      },
+      {
+        "parent": "S-02-feed-added",
+        "filename": "S-02-feed-added-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/S-02-feed-added-normal-scroll-2.png",
+        "sha256": "ae1c68d9d66242b7eaba4ea7be33ffd9a8e24a3cfe3133ab93bf5743e452b8d5"
+      },
+      {
+        "parent": "S-02-feed-added",
+        "filename": "S-02-feed-added-normal-scroll-3.png",
+        "path": "raw/weezy-pop-studio-captures/S-02-feed-added-normal-scroll-3.png",
+        "sha256": "2ce0c8cc454a8c440d1c1959afbcc222107426839fc8dfd01d876624a74f3a89"
+      },
+      {
+        "parent": "S-03-set-page",
+        "filename": "S-03-set-page-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-03-set-page-normal.png",
+        "sha256": "119d6ce53e2a5f7f18a33e1b05b102f3f9c3264c1ca2d79228c1383fc34b4a60"
+      },
+      {
+        "parent": "S-03-set-page",
+        "filename": "S-03-set-page-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/S-03-set-page-normal-scroll-1.png",
+        "sha256": "49d1a63626e101ba2e415607353ee8a83d4e512079ac682f7f62ffed8d90d3e3"
+      },
+      {
+        "parent": "S-03-set-page-pending",
+        "filename": "S-03-set-page-pending-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-03-set-page-pending-normal.png",
+        "sha256": "a7f3453096d7402a7ea189e9a07f10c58eeda7f8d9524c1509016a5894aa2ce2"
+      },
+      {
+        "parent": "S-03-set-page-pending",
+        "filename": "S-03-set-page-pending-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/S-03-set-page-pending-normal-scroll-1.png",
+        "sha256": "3e2d0e118176fe046e8d95e50583cbf736a1757dbb6bb4f397d43cf74dc940bd"
+      },
+      {
+        "parent": "S-03-set-page-snack",
+        "filename": "S-03-set-page-snack-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-03-set-page-snack-normal.png",
+        "sha256": "3c0206f443e31452d875b557b5cc23c131711be1e108054cf1357497a9870ec8"
+      },
+      {
+        "parent": "S-03-set-page-snack",
+        "filename": "S-03-set-page-snack-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/S-03-set-page-snack-normal-scroll-1.png",
+        "sha256": "ca723473dc3b31c43feece7805143e4755965aa9767df045efadf284f58b3505"
+      },
+      {
+        "parent": "S-04-set-all-in",
+        "filename": "S-04-set-all-in-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-04-set-all-in-normal.png",
+        "sha256": "860f4a2d86d32fd0134f205d592e545abb5917261543c7cb11197d45f8307bed"
+      },
+      {
+        "parent": "S-05-product-in-set",
+        "filename": "S-05-product-in-set-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-05-product-in-set-normal.png",
+        "sha256": "b6d8a2fa895a440aad916b897a96a56835a48c79e3fbbf907562686226196151"
+      },
+      {
+        "parent": "S-01-sets-feed-snack",
+        "filename": "S-01-sets-feed-snack-normal.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-snack-normal.png",
+        "sha256": "5007decd489471d57b38af9508e5f394fb448d0a3cbd43aa14b0bc8f72852b60"
+      },
+      {
+        "parent": "S-01-sets-feed-snack",
+        "filename": "S-01-sets-feed-snack-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-snack-normal-scroll-1.png",
+        "sha256": "9bfe90aaf31ffc44a526708b241c357a73282820f6dadfff80cae9bb9690b110"
+      },
+      {
+        "parent": "S-01-sets-feed-snack",
+        "filename": "S-01-sets-feed-snack-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-snack-normal-scroll-2.png",
+        "sha256": "c8ce34691b02331111092bd89a4e02ad5e6c2a000d0f724042b90e1e41327328"
+      },
+      {
+        "parent": "S-01-sets-feed-snack",
+        "filename": "S-01-sets-feed-snack-normal-scroll-3.png",
+        "path": "raw/weezy-pop-studio-captures/S-01-sets-feed-snack-normal-scroll-3.png",
+        "sha256": "aec350317f76cd4262ca5e1147be236d55895ccdbfbedc669653749c55b958ed"
+      },
+      {
+        "parent": "G-10-set-post",
+        "filename": "G-10-set-post-normal.png",
+        "path": "raw/weezy-pop-studio-captures/G-10-set-post-normal.png",
+        "sha256": "c81cbd485732a932162889ae641e34b3b80f8d0b699910a4025751de99da0b65"
+      },
+      {
+        "parent": "G-10I-incomplete-set-post",
+        "filename": "G-10I-incomplete-set-post-normal.png",
+        "path": "raw/weezy-pop-studio-captures/G-10I-incomplete-set-post-normal.png",
+        "sha256": "9eced0a8d5d05b5663f6cf18f97a4cd29faed8941b99c9b2f556762508093d51"
+      },
+      {
+        "parent": "G-13-set-detail",
+        "filename": "G-13-set-detail-normal.png",
+        "path": "raw/weezy-pop-studio-captures/G-13-set-detail-normal.png",
+        "sha256": "346f4fa70d7665ab9e4a0c0a76ee5ec0213a6dd8e7498b572cc24d9cb08d0cc7"
+      },
+      {
+        "parent": "G-13-set-detail",
+        "filename": "G-13-set-detail-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/G-13-set-detail-normal-scroll-1.png",
+        "sha256": "39436e8aa2d4659653d74421c01ea75c83071f79e99b05efa2ead8997cc53d49"
+      },
+      {
+        "parent": "G-13-more-set-detail",
+        "filename": "G-13-more-set-detail-normal.png",
+        "path": "raw/weezy-pop-studio-captures/G-13-more-set-detail-normal.png",
+        "sha256": "421172a1a874a58563d4c6a4f17e92e0265a4de48b67df5b3f6616562d55e42b"
+      },
+      {
+        "parent": "G-13I-incomplete-set-detail",
+        "filename": "G-13I-incomplete-set-detail-normal.png",
+        "path": "raw/weezy-pop-studio-captures/G-13I-incomplete-set-detail-normal.png",
+        "sha256": "0b608bef434bc8cb758a1d2892e781f3d0863072aeaa7057325721ded8ace35a"
+      },
+      {
+        "parent": "G-13I-incomplete-set-detail",
+        "filename": "G-13I-incomplete-set-detail-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/G-13I-incomplete-set-detail-normal-scroll-1.png",
+        "sha256": "c16e8b99d06c26cf4674cd6f77a955bc4e6adeacb425190239cef00d33993584"
+      },
+      {
+        "parent": "G-12-charm-story",
+        "filename": "G-12-charm-story-normal.png",
+        "path": "raw/weezy-pop-studio-captures/G-12-charm-story-normal.png",
+        "sha256": "e0dc5cbd5e9a515784cf1640fc7e58f93002f3af8ccfb9b58d5ba4b396c54403"
+      },
+      {
+        "parent": "G-12-charm-story",
+        "filename": "G-12-charm-story-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/G-12-charm-story-normal-scroll-1.png",
+        "sha256": "47e130e5e745ddc8318a801f70b647683df2e0a51024ad5025a972206e3953d9"
+      },
+      {
+        "parent": "G-12-charm-story",
+        "filename": "G-12-charm-story-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/G-12-charm-story-normal-scroll-2.png",
+        "sha256": "a9db33f947dd44c30d5c65ed940c6509f8327fa0e70253438d398eee2837843c"
+      },
+      {
+        "parent": "G-12-charm-story",
+        "filename": "G-12-charm-story-normal-scroll-3.png",
+        "path": "raw/weezy-pop-studio-captures/G-12-charm-story-normal-scroll-3.png",
+        "sha256": "bacb8f2082865be9a874c80b9d793c98932167433a6291991a122d3b4de9bb95"
+      },
+      {
+        "parent": "RELEASE29-GOLD",
+        "filename": "RELEASE29-GOLD-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-GOLD-normal.png",
+        "sha256": "30c57052d3e5349e944406ffc9002db33c617f7ae8a80ca7b2b02e7e043dbb28"
+      },
+      {
+        "parent": "RELEASE29-GOLD",
+        "filename": "RELEASE29-GOLD-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-GOLD-normal-scroll-1.png",
+        "sha256": "d2fa283f404984caa5e45cdd33e8233ac83d23910d60c01530c69c26926d4f13"
+      },
+      {
+        "parent": "RELEASE29-GOLD",
+        "filename": "RELEASE29-GOLD-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-GOLD-normal-scroll-2.png",
+        "sha256": "486b51b4e27060f7f5957320deb3bac4800205e496387daf718890449750c444"
+      },
+      {
+        "parent": "RELEASE29-GLITTER",
+        "filename": "RELEASE29-GLITTER-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-GLITTER-normal.png",
+        "sha256": "ef0d5df89f0962bee71d4f7c1be8fbf1866ec1584c5884fa487db62cc83f22a8"
+      },
+      {
+        "parent": "RELEASE29-GLITTER",
+        "filename": "RELEASE29-GLITTER-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-GLITTER-normal-scroll-1.png",
+        "sha256": "bb398e5a8b6b6eebb56ab1c8a15c54d2f75c37124f9b5141ca0efd052b1cd1b7"
+      },
+      {
+        "parent": "RELEASE29-GLITTER",
+        "filename": "RELEASE29-GLITTER-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-GLITTER-normal-scroll-2.png",
+        "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+      },
+      {
+        "parent": "RELEASE29-FLOWER-GALLERY",
+        "filename": "RELEASE29-FLOWER-GALLERY-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-FLOWER-GALLERY-normal.png",
+        "sha256": "6be9fc17373fa2d4351b843c71c00ac5e26fbc9f1a3fba9a6692f4f26892aceb"
+      },
+      {
+        "parent": "RELEASE29-FLOWER-GALLERY",
+        "filename": "RELEASE29-FLOWER-GALLERY-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-FLOWER-GALLERY-normal-scroll-1.png",
+        "sha256": "1521f923b25cc15dea337f0178a1ba428f55e5ac30d91063397abc2bf180bddb"
+      },
+      {
+        "parent": "RELEASE29-FLOWER-GALLERY",
+        "filename": "RELEASE29-FLOWER-GALLERY-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-FLOWER-GALLERY-normal-scroll-2.png",
+        "sha256": "17aba6b667750268b86a2071e1caa60ad7f974ecb740a61290bb7c31956f8260"
+      },
+      {
+        "parent": "RELEASE29-FLOWER-RESTORED",
+        "filename": "RELEASE29-FLOWER-RESTORED-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-FLOWER-RESTORED-normal.png",
+        "sha256": "6be9fc17373fa2d4351b843c71c00ac5e26fbc9f1a3fba9a6692f4f26892aceb"
+      },
+      {
+        "parent": "RELEASE29-FLOWER-RESTORED",
+        "filename": "RELEASE29-FLOWER-RESTORED-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-FLOWER-RESTORED-normal-scroll-1.png",
+        "sha256": "1521f923b25cc15dea337f0178a1ba428f55e5ac30d91063397abc2bf180bddb"
+      },
+      {
+        "parent": "RELEASE29-FLOWER-RESTORED",
+        "filename": "RELEASE29-FLOWER-RESTORED-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-FLOWER-RESTORED-normal-scroll-2.png",
+        "sha256": "17aba6b667750268b86a2071e1caa60ad7f974ecb740a61290bb7c31956f8260"
+      },
+      {
+        "parent": "RELEASE29-RESTORED",
+        "filename": "RELEASE29-RESTORED-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RESTORED-normal.png",
+        "sha256": "ef0d5df89f0962bee71d4f7c1be8fbf1866ec1584c5884fa487db62cc83f22a8"
+      },
+      {
+        "parent": "RELEASE29-RESTORED",
+        "filename": "RELEASE29-RESTORED-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RESTORED-normal-scroll-1.png",
+        "sha256": "bb398e5a8b6b6eebb56ab1c8a15c54d2f75c37124f9b5141ca0efd052b1cd1b7"
+      },
+      {
+        "parent": "RELEASE29-RESTORED",
+        "filename": "RELEASE29-RESTORED-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RESTORED-normal-scroll-2.png",
+        "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+      },
+      {
+        "parent": "RELEASE29-RESELECTED",
+        "filename": "RELEASE29-RESELECTED-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RESELECTED-normal.png",
+        "sha256": "ef0d5df89f0962bee71d4f7c1be8fbf1866ec1584c5884fa487db62cc83f22a8"
+      },
+      {
+        "parent": "RELEASE29-RESELECTED",
+        "filename": "RELEASE29-RESELECTED-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RESELECTED-normal-scroll-1.png",
+        "sha256": "bb398e5a8b6b6eebb56ab1c8a15c54d2f75c37124f9b5141ca0efd052b1cd1b7"
+      },
+      {
+        "parent": "RELEASE29-RESELECTED",
+        "filename": "RELEASE29-RESELECTED-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RESELECTED-normal-scroll-2.png",
+        "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+      },
+      {
+        "parent": "RELEASE29-RETRY",
+        "filename": "RELEASE29-RETRY-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RETRY-normal.png",
+        "sha256": "b4df17ae430b699c02c808530981a7f7e0b4fd0b2d52b3d6921631b91081e029"
+      },
+      {
+        "parent": "RELEASE29-RETRY",
+        "filename": "RELEASE29-RETRY-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RETRY-normal-scroll-1.png",
+        "sha256": "95bdaddd32f33ff45ba18409153f0f7f75a46348706c6530f22064bb1c37d5e9"
+      },
+      {
+        "parent": "RELEASE29-RETRY",
+        "filename": "RELEASE29-RETRY-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RETRY-normal-scroll-2.png",
+        "sha256": "84ff89b15dd69a163075fe10cc8d7c66955ec3db29992648257e41dde390ef8a"
+      },
+      {
+        "parent": "RELEASE29-RETRY-LOADED",
+        "filename": "RELEASE29-RETRY-LOADED-normal.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RETRY-LOADED-normal.png",
+        "sha256": "93bf123e7ae4927b3807305daeb247d9655ab91a7b64aae539b9da433cf1dc0c"
+      },
+      {
+        "parent": "RELEASE29-RETRY-LOADED",
+        "filename": "RELEASE29-RETRY-LOADED-normal-scroll-1.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RETRY-LOADED-normal-scroll-1.png",
+        "sha256": "ce5d04aeab86a403ff010bc90000aa9eb9c03a2a7cf58e8fe9ef6e43d034f4ef"
+      },
+      {
+        "parent": "RELEASE29-RETRY-LOADED",
+        "filename": "RELEASE29-RETRY-LOADED-normal-scroll-2.png",
+        "path": "raw/weezy-pop-studio-captures/RELEASE29-RETRY-LOADED-normal-scroll-2.png",
+        "sha256": "12c60cc67d5fd729531b4e1476f39cb3b72ad19fa4ab39e768798cb7aabf9022"
+      }
+    ],
+    "normalArchiveImages": [
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms.png",
+        "sha256": "76b28478f0f7f12457ab07831ae0c98339dcf5304be2151fd68c44a5175204fd"
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-scroll-1.png",
+        "sha256": "87d42a89ba52d84581e81b1b3cd351ce5603a0fd3682306918c09babd1ccbb22",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-scroll-1.png",
+        "parentFilename": "G-14-my-charms.png",
+        "scrollHeight": 1843.3333333333333,
+        "scrollOffset": 435,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-scroll-2.png",
+        "sha256": "8224e65ac53c6edba7f798ea1762be0ef11dae61b6907f87b5cfa639561d1bf4",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-scroll-2.png",
+        "parentFilename": "G-14-my-charms.png",
+        "scrollHeight": 1814.3333333333333,
+        "scrollOffset": 932,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-scroll-3.png",
+        "sha256": "f87477ecc50fd3bc8589938d0fd875382763b7fd38a07de7e9fb03f391bd1f6f",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-scroll-3.png",
+        "parentFilename": "G-14-my-charms.png",
+        "scrollHeight": 1814.3333333333333,
+        "scrollOffset": 1145.3333333333333,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      }
+    ],
+    "AXReviewedImages": [
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest.png",
+        "sha256": "89b50a2d9d04d119ddf222ea073ac46b65437952f0507386c37fd0060ceda9e1",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "filename": "G-14-my-charms-largest-my-charms-largest.png"
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-1.png",
+        "sha256": "b123c4f38816cde45b883e16a500b8532f52559657135bf672d2eb2000619182",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-1.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 435,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-2.png",
+        "sha256": "8457f15ad2dfbadfc6f0b33630b62ff06730eaa88847070452aada7252b62df2",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-2.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 932,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-3.png",
+        "sha256": "d0f3098ea0ad0e30cb9db3d8586a24b96c154af6dcaf05a80fc0dcd6dd79d1d6",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-3.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 1429,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-4.png",
+        "sha256": "f93ba1f27f2aeae1b275004939b8e4c339041431fc3d05c1a2e60cb2111a5c1b",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-4.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 1926,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-5.png",
+        "sha256": "16565fc36e54faef57c7c39ba204456803c9cb59216e2611bb1f7ca67acbd2a8",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-5.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 2423,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-6.png",
+        "sha256": "9ab2a44a26fe3dd2372f91d9d227e2068e2caaaefa4961137ecade82fa6b0908",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-6.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 2920,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-7.png",
+        "sha256": "cc53a2d6329d1b6f74bda543c854a250a3b87ab6e125d31fa530bfdb8ae7e403",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-7.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 3417,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-8.png",
+        "sha256": "8cff6bb09f2a385b0bc26e2e2e16102540a53b54e49317dc91e01a90e1157485",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-8.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 3914,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-9.png",
+        "sha256": "ef29baeb4aa4edcfbc9b4830ade39733b547d9e86e174427f790078f66efb9fb",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-9.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 4411,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-10.png",
+        "sha256": "88897887beb49f1eaccd5367a051e1d7f94617d06477c8479de16869329673d8",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-10.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 4908,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-11.png",
+        "sha256": "832ee06071c3056e364fd068987ec33dbc095cb44e8960fce8c3b3f2b3bed480",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-11.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 5405,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-12.png",
+        "sha256": "388d58fdf3c6ee6bcc77902edf93d65450ecbad91878458c05a238ca3e45539b",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-12.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 5902,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-13.png",
+        "sha256": "26082625e1a1dfb6dd412ed96e7a84686ca1bc9fbd50cf7b7db5f9a477d187e7",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-13.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 6399,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-14.png",
+        "sha256": "ce7c61af5f38a707c46506930bb64a6f13b89c1002b7d6e6d39eb751d8e23243",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-14.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 8093,
+        "scrollOffset": 6896,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scroll-15.png",
+        "sha256": "74bc693fc1097b407ee206015718d90338ddbb85215166dc249dc2df053243f5",
+        "parent": "G-14-my-charms-largest-my-charms-largest",
+        "adjustedInsetBottom": 0,
+        "adjustedInsetTop": 62,
+        "filename": "G-14-my-charms-largest-my-charms-largest-scroll-15.png",
+        "parentFilename": "G-14-my-charms-largest-my-charms-largest.png",
+        "scrollHeight": 7815,
+        "scrollOffset": 7146,
+        "viewportHeight": 669,
+        "visibleContentHeight": 607
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest.png",
+        "sha256": "1e1b63dacb58c8e00f4667d8739925783fc53e1a2c3d2503242014cf076d21c7",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "filename": "G-15-wishlist-largest-wishlist-largest.png"
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-1.png",
+        "sha256": "20a8870de931cfa66f8ce5ec188c6186f0a93b3be7558bfb4c85e52f3485007b",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-1.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 6541.666666666666,
+        "scrollOffset": 353.3333333333333,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-2.png",
+        "sha256": "0b47d787a1f26c7004289ed6e855f870c5968f87e798656019eb3e21755b381a",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-2.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 6078.666666666666,
+        "scrollOffset": 768.6666666666666,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-3.png",
+        "sha256": "f4473ada6d37d0d21e952b2eb0dbedc84cf05bc687ae915eb94e58630ab4dd1f",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-3.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 5630.666666666666,
+        "scrollOffset": 1184,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-4.png",
+        "sha256": "d1c58af20b7e850af4bd2649562506778b44bcc107eb8b538f0dc1c6c375e573",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-4.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 5135.666666666666,
+        "scrollOffset": 1599.3333333333333,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-5.png",
+        "sha256": "5c0be4d0fdbb2d2337168bbb981e794d6802c6804c221b18a33b726b91ad4889",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-5.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 4741.666666666666,
+        "scrollOffset": 2014.6666666666667,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-6.png",
+        "sha256": "30e890157b37fd11d48f003fcaf1e546029be9656ea9ea8294ac482dd5d8356b",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-6.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 4240.666666666666,
+        "scrollOffset": 2430,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-7.png",
+        "sha256": "28b377cefec70933d747f60f8d6e25dfae025ed61c38afd0e1488020444a469c",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-7.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 4240.666666666666,
+        "scrollOffset": 2845.3333333333335,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-8.png",
+        "sha256": "64bcfae54fd3e90c077951c12646d0c476b0a545614b89f7d81e0dbf6c4798de",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-8.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 4240.666666666666,
+        "scrollOffset": 3260.6666666666665,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scroll-9.png",
+        "sha256": "b89a29569371d928d06aa2ae5a87e8895c88810d3678ee274ccf2761ed00ce22",
+        "parent": "G-15-wishlist-largest-wishlist-largest",
+        "adjustedInsetBottom": 264.66666666666663,
+        "adjustedInsetTop": 62,
+        "filename": "G-15-wishlist-largest-wishlist-largest-scroll-9.png",
+        "parentFilename": "G-15-wishlist-largest-wishlist-largest.png",
+        "scrollHeight": 4240.666666666666,
+        "scrollOffset": 3653.3333333333335,
+        "viewportHeight": 852,
+        "visibleContentHeight": 525.3333333333334
+      }
+    ],
+    "AXAndArchiveScrollSidecars": [
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-largest-my-charms-largest-scrolls.json",
+        "sha256": "104cd0ffd231691da1eb9d3d513fcdfd74477c89b3583d10fa6ab63dd66b9716",
+        "actualContinuations": 15
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-15-wishlist-largest-wishlist-largest-scrolls.json",
+        "sha256": "b04324738c404e5b8f953ac6bd4058b07e7a3be93025945763d687ed8812a108",
+        "actualContinuations": 9
+      },
+      {
+        "path": "raw/weezy-v26-captures/G-14-my-charms-scrolls.json",
+        "sha256": "27e65805c79649241f35e6c9f651dba01179938d8339620168d8d872b1653aae",
+        "actualContinuations": 3
+      }
+    ],
+    "normalHashComparison": {
+      "comparedImages": 55,
+      "differences": [
+        {
+          "path": "raw/weezy-pop-studio-captures/S-02-feed-added-normal.png",
+          "oldSHA256": "74cfd75bac5f6812f0833ecc553cc0cac8b7571feb60f9e30a4ccb5169c53d89",
+          "newSHA256": "e85d67261e16d388f43b511b89717a211ca14c31afaacc5ab544c91ae11f430c",
+          "pixelDifferenceBBox": [
+            425,
+            1291,
+            754,
+            1321
+          ]
+        },
+        {
+          "path": "raw/weezy-pop-studio-captures/S-03-set-page-pending-normal.png",
+          "oldSHA256": "8f8a7b59f9814e17fd62b5afdd5184570c87f405658ff882740caa20f1a6a503",
+          "newSHA256": "a7f3453096d7402a7ea189e9a07f10c58eeda7f8d9524c1509016a5894aa2ce2",
+          "pixelDifferenceBBox": [
+            409,
+            1312,
+            770,
+            1342
+          ]
+        },
+        {
+          "path": "raw/weezy-pop-studio-captures/S-03-set-page-pending-normal-scroll-1.png",
+          "oldSHA256": "12a23aad24cf20a849ebf544bb6f347cba3953e23e55fa736c96ae02eb2b7cb1",
+          "newSHA256": "3e2d0e118176fe046e8d95e50583cbf736a1757dbb6bb4f397d43cf74dc940bd",
+          "pixelDifferenceBBox": [
+            289,
+            0,
+            848,
+            1513
+          ]
+        },
+        {
+          "path": "raw/weezy-pop-studio-captures/S-04-set-all-in-normal.png",
+          "oldSHA256": "049fcf164b08f5ae977275964f6e893925a2b1ac528e8c7ec3402fcecf121686",
+          "newSHA256": "860f4a2d86d32fd0134f205d592e545abb5917261543c7cb11197d45f8307bed",
+          "pixelDifferenceBBox": [
+            46,
+            196,
+            1131,
+            1666
+          ]
+        },
+        {
+          "path": "raw/weezy-pop-studio-captures/G-10-set-post-normal.png",
+          "oldSHA256": "e3a9ca496d7a9437848d912d672d17028c1cc1c5676657d17a56d77078ec3e8a",
+          "newSHA256": "c81cbd485732a932162889ae641e34b3b80f8d0b699910a4025751de99da0b65",
+          "pixelDifferenceBBox": [
+            231,
+            809,
+            347,
+            1032
+          ]
+        }
+      ]
+    },
+    "previousReceipt": {
+      "path": "evidence/receipts/visual-review-d9656a1ec6ca.json",
+      "sha256": "8ae12b5247855d7584e73620ab51ffa12ce1df05b384691a53652cd390214ef5",
+      "originalSourceSHA256": "d9656a1ec6cad66971e6264efb94c517418b245e93ec5495c34f31b8f3143e00",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T084526Z/visual-review.json"
+    },
+    "contactSheets": [
+      "visual-check/ax-final-01.png",
+      "visual-check/ax-final-02.png",
+      "visual-check/ax-final-03.png",
+      "visual-check/ax-final-04.png",
+      "visual-check/ax-final-05.png",
+      "visual-check/normal-different-hashes.png"
+    ],
+    "changesMade": "Review JSON and contact sheets only."
+  }
+}

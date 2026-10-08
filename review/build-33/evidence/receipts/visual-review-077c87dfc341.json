@@ -1,0 +1,250 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T080020Z/visual-review.json",
+  "originalSourceSHA256": "077c87dfc341cbc26c7180056c330ead8357cc418d15c69eeb71859588702e10",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "xcresult": "build/Migration/20261008T080021Z-0f2763.xcresult",
+    "tests": {
+      "passed": 21,
+      "failed": 0,
+      "skipped": 0
+    },
+    "sourceUnchanged": true,
+    "captureProof": "Isolated production SwiftUI content, with exact local review data. This is not shipping AppRoot or live Shopify/customer evidence. Root owns separate actual touch and Release verification.",
+    "reviewed": [
+      "S01 normal and accessibility5, including final continuation",
+      "S03 normal, two pending pieces, largest text and final continuation",
+      "S05 normal context, metal picker and complete footer",
+      "S04 all pieces lined up with truthful pending state",
+      "Snack feed and Good Energy compact preview",
+      "Flower gallery and restored variant, both continuations",
+      "Gold, Glitter and restored largest-text final continuations"
+    ],
+    "resolvedFindings": [
+      {
+        "id": "S-03-set-page",
+        "evidence": "Correct Sun selected and labelled2 of5. The330 by300 cover starts atx0, next Star peeks on right. No Moon peek or white letterbox."
+      },
+      {
+        "id": "S-01-sets-feed-largest",
+        "evidence": "Owned is now a complete readable word inside196pt accessibility tiles. Normal132pt tiles retain the reference geometry."
+      },
+      {
+        "id": "S-05-product-in-set",
+        "evidence": "The69pt context strip uses the left eyebrow and circles stack with arrows on right. Metal heading,32pt Prata title and full56pt footer remain visible."
+      },
+      {
+        "id": "RELEASE29-FLOWER-GALLERY-more-2",
+        "evidence": "Actual second continuation shows both Acrylic and Stainless steel chips above the pinned footer. Restored variant has the same complete tail."
+      },
+      {
+        "id": "RELEASE29-LARGEST-GOLD",
+        "evidence": "Final actual continuation shows Gold once, Wishlist action and full checkout explanation above the large Add to basket footer."
+      }
+    ],
+    "materialRemainingVisualBlockers": [
+      "F54 isolated Rodeo example is1of4 instead of requested2of4; fixture-only correction and fresh G14/RELEASE28-MY-CHARMS capture required."
+    ],
+    "factualExceptions": [
+      "Good Energy prices currently derive58 pounds from Shopify, versus the illustrative56 pounds.",
+      "The review-only six-piece Celestial fixture is explicitly labelled; actual live Shopify membership remains authoritative.",
+      "The exact Gold hoops and White Flower photo has no assigned exact source. The product gallery and notice truthfully retain the selected variant.",
+      "Largest native Dynamic Type naturally expands into overlapping, scrollable continuations. It is not forced to fit an illustrative normal-size viewport."
+    ],
+    "contactSheets": [
+      "visual-check/final-geometry-and-flower.png",
+      "visual-check/final-story-and-accessibility-tails.png",
+      "visual-check/final-registration.png",
+      "visual-check/final-archive-completion-share.png",
+      "visual-check/final-shop-search.png",
+      "visual-check/final-search-remaining-tiles.png"
+    ],
+    "nativeRawCounts": {
+      "weezy-v26-captures": 52,
+      "weezy-pop-studio-captures": 110
+    },
+    "rawReplacement": "Both native raw trees contain only this latest batch. Prior images are archived outside raw; web files are unchanged.",
+    "sourceFreezeSHA256": "d331bca61aa82801543a191e3967cde8f1111afe2664193e70f0ad6c34f35a19",
+    "freshVisualReview": "Actual latest-batch images were opened after the final lineup regression passed. No earlier image is substituted. Same-byte images remain fresh captures with the current source receipt.",
+    "reviewedImageHashes": [
+      {
+        "file": "S-01-sets-feed-normal.png",
+        "sha256": "d36b7e1974a941c8ab403efa9da98a88d46803e6a51524840a858ff3a7dfb1a5"
+      },
+      {
+        "file": "S-03-set-page-normal.png",
+        "sha256": "119d6ce53e2a5f7f18a33e1b05b102f3f9c3264c1ca2d79228c1383fc34b4a60"
+      },
+      {
+        "file": "S-05-product-in-set-normal.png",
+        "sha256": "b6d8a2fa895a440aad916b897a96a56835a48c79e3fbbf907562686226196151"
+      },
+      {
+        "file": "S-01-sets-feed-largest-normal.png",
+        "sha256": "0eb949cac3ac80193df03339979fd6cebfa069fc22ffb1444e10f0addf0d6894"
+      },
+      {
+        "file": "RELEASE29-FLOWER-GALLERY-normal-scroll-2.png",
+        "sha256": "17aba6b667750268b86a2071e1caa60ad7f974ecb740a61290bb7c31956f8260"
+      },
+      {
+        "file": "RELEASE29-FLOWER-RESTORED-normal-scroll-2.png",
+        "sha256": "17aba6b667750268b86a2071e1caa60ad7f974ecb740a61290bb7c31956f8260"
+      },
+      {
+        "file": "G-12-charm-story-normal-scroll-3.png",
+        "sha256": "bacb8f2082865be9a874c80b9d793c98932167433a6291991a122d3b4de9bb95"
+      },
+      {
+        "file": "RELEASE29-GOLD-normal-scroll-2.png",
+        "sha256": "a28691a93e331632c1314e0e333aa22d021ca06f3f65848054c372e335fe7620"
+      },
+      {
+        "file": "RELEASE29-GLITTER-normal-scroll-2.png",
+        "sha256": "42694ab93b07d419d8c87737816150818b50932b06dadb7c38a082514ce96040"
+      },
+      {
+        "file": "RELEASE29-LARGEST-GOLD-normal-scroll-4.png",
+        "sha256": "1f05324bf146b17a8cb455ca39122af1556ac4aa8a2e64af1eb9d2383ec11df0"
+      },
+      {
+        "file": "RELEASE29-LARGEST-GLITTER-normal-scroll-5.png",
+        "sha256": "3faa6a1a71f695d7b92c9ee80553d3ef0c1eda63fbae5c017799aebc6667493f"
+      },
+      {
+        "file": "RELEASE29-LARGEST-RESTORED-normal-scroll-5.png",
+        "sha256": "3faa6a1a71f695d7b92c9ee80553d3ef0c1eda63fbae5c017799aebc6667493f"
+      }
+    ],
+    "reopenedFixVisualExtension": [
+      {
+        "fix": "F-53",
+        "status": "Visually verified",
+        "finding": "Step1 and Step3 sticky chrome have opaque blush backing and a small Step label. Body remains accessibility5 and scrolls below the bar; Fenwick, date, proof guidance and privacy tail are present in real continuations.",
+        "imageHashes": [
+          {
+            "file": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility.png",
+            "sha256": "bb6b1a4573af32abee3616d97b50491b210413f44ecdf49f0d6ae2e95e9838eb"
+          },
+          {
+            "file": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility-scroll-3.png",
+            "sha256": "5834f3086518527beac734f859d2b305921abbecf4359d9f6a21fcd24fe01659"
+          },
+          {
+            "file": "weezy-v26-captures/purchase-registration-largest-register-a-charm-accessibility-scroll-4.png",
+            "sha256": "1f735ff821d48709c2a62a1783283c1cee9124c797fedfd320feab3b1e2a6ff0"
+          },
+          {
+            "file": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility.png",
+            "sha256": "4d3cbee013ed9886cdd100693243a2062e90eeee38df8bcc9f9c0d630aa41b44"
+          },
+          {
+            "file": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-3.png",
+            "sha256": "4c18663159f7a2c5a0b5745f12dff15be35c816212e497848c1bd606cd7cf40c"
+          },
+          {
+            "file": "weezy-v26-captures/purchase-registration-largest-proof-purchase-photo-accessibility-scroll-5.png",
+            "sha256": "b0c1659c71c80ac22c6f8c37d88a50a030b203d5d764aefb15d5556d0642ca2a"
+          }
+        ]
+      },
+      {
+        "fix": "F-54",
+        "status": "Grouping visually verified; exact illustrative count pending fixture correction",
+        "finding": "Celestial4of6 and Rodeo are both listed in progress, followed by Done with Good Energy and Tiny Joy, then Everything else. Rodeo displays1of4 instead of the specified2of4; root will adjust only isolated fixture ownership and recapture. Do not claim this exact illustrative count accepted yet.",
+        "imageHashes": [
+          {
+            "file": "weezy-v26-captures/G-14-my-charms.png",
+            "sha256": "3ecefb089c378ceae5e1e417433574650a067162cba816e2862f3abb75df17e9"
+          },
+          {
+            "file": "weezy-v26-captures/G-14-my-charms-scroll-1.png",
+            "sha256": "a3f6bcef6376117cb0a9ad3af928bf3fb0612e28ea8e88cb8b975cc9647cee7f"
+          },
+          {
+            "file": "weezy-v26-captures/G-14-my-charms-scroll-2.png",
+            "sha256": "60d0b82d72f2bbfd69fc91a8da6235e15498a4d786ab7a1105ca7aecae5d5c34"
+          },
+          {
+            "file": "weezy-v26-captures/G-14-my-charms-scroll-3.png",
+            "sha256": "0de12289b934dd42e90d7c94b0bb67b68c11338033d9b10f41c52f560420fa76"
+          },
+          {
+            "file": "weezy-v26-captures/RELEASE28-MY-CHARMS-my-charms.png",
+            "sha256": "3ecefb089c378ceae5e1e417433574650a067162cba816e2862f3abb75df17e9"
+          }
+        ]
+      },
+      {
+        "fix": "F-13",
+        "status": "Visually verified",
+        "finding": "Main Shop, normal set card and incomplete card show whole horizontal photo tiles with a peeking next item. No vertical white scroll-indicator pill is visible at the photo right edge.",
+        "imageHashes": [
+          {
+            "file": "weezy-v26-captures/RELEASE28-SHOP-shop.png",
+            "sha256": "bd68fac71a296cd4bd434e011b16aa6a7efd552e50c6721019564808d308ef6b"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-10-set-post-normal.png",
+            "sha256": "e3a9ca496d7a9437848d912d672d17028c1cc1c5676657d17a56d77078ec3e8a"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-10I-incomplete-set-post-normal.png",
+            "sha256": "9eced0a8d5d05b5663f6cf18f97a4cd29faed8941b99c9b2f556762508093d51"
+          }
+        ]
+      },
+      {
+        "fix": "F-15",
+        "status": "Visually verified",
+        "finding": "All seven literal Search viewports were inspected. Cherry and other coloured/white photographs remain inset in uniform white rounded cards; heart buttons sit on visible glass discs. The hot-pink Cherry photo does not bleed across the entire tile.",
+        "imageHashes": [
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal.png",
+            "sha256": "8645bef9b3ba9f531018ef36d0abc80331c4b9af8545dd785b07c4d1b7d966b3"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal-scroll-1.png",
+            "sha256": "462cf1654c327695033f1ec45938d647250ac5b47a9b62b40a336cb5ee9741f3"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal-scroll-2.png",
+            "sha256": "6fffea3f47b1c7fa8ba69c9c7f0caa486baa429dc272fe5957bdfcf21d7878c5"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal-scroll-3.png",
+            "sha256": "d849fc0d373b81b397ae67004c62d2da7af8d6da6cbc7ccc52d65bab87a09f77"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal-scroll-4.png",
+            "sha256": "d36dbf073b2e848931bbf973989f8046566b49efc928f1f11bc0a7bc29eac878"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal-scroll-5.png",
+            "sha256": "ca5b18b34ef542fc7c69d9e4d4df908d9cebefdeb72d97a0d1cd31dfb121702c"
+          },
+          {
+            "file": "weezy-pop-studio-captures/G-25-search-normal-scroll-6.png",
+            "sha256": "067b12e80ef5eed0d6060c0da1c67f299567ff20182439c8dda6af7c0f298df4"
+          }
+        ]
+      },
+      {
+        "fix": "F-30",
+        "status": "Visually verified",
+        "finding": "Completion and actual share preview show six quantity slots. Moon and both Swirls have visible pink surrounds around their unchanged white studio photographs; coloured Sun, Star and Planet retain their own photographed backgrounds. Share uses the same surround in the exported composition.",
+        "imageHashes": [
+          {
+            "file": "weezy-v26-captures/G-17-set-complete.png",
+            "sha256": "16961cb3883e99c22720ede6914f8a5dff39705e89c85dfd347063f313af01de"
+          },
+          {
+            "file": "weezy-v26-captures/G-18-share-the-stack.png",
+            "sha256": "17acb908b75aa3e9df99c67c8023ebeb2190b4ffad065371a17d0a03687509a8"
+          }
+        ]
+      }
+    ]
+  }
+}

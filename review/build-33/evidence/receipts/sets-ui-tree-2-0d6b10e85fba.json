@@ -1,0 +1,87 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/sets-ui-tree-2.json",
+  "originalSourceSHA256": "0d6b10e85fbad25bea0885e003d742c97e58c93d6c07047e9009b6aacecd1be8",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "devices": [
+      {
+        "architecture": "arm64",
+        "deviceId": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "deviceName": "Weezy Pop QA",
+        "modelName": "iPhone 18 Pro",
+        "osBuildNumber": "24A434",
+        "osVersion": "27.0",
+        "platform": "iOS Simulator"
+      }
+    ],
+    "testNodes": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "name": "XCTAssertTrue failed - Native swipe-back must return to the set",
+                        "nodeType": "Failure Message",
+                        "sourceLocation": {
+                          "filePath": "WeezyPopUITests/Build33SetsUITests.swift",
+                          "lineNumber": 66
+                        }
+                      }
+                    ],
+                    "duration": "28s",
+                    "durationInSeconds": 28.751914978027344,
+                    "name": "testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+                    "nodeIdentifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+                    "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition",
+                    "nodeType": "Test Case",
+                    "result": "Failed"
+                  },
+                  {
+                    "duration": "17s",
+                    "durationInSeconds": 17.707569003105164,
+                    "name": "testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+                    "nodeIdentifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+                    "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership",
+                    "nodeType": "Test Case",
+                    "result": "Passed"
+                  },
+                  {
+                    "duration": "31s",
+                    "durationInSeconds": 31.806486010551453,
+                    "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+                    "nodeIdentifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+                    "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable",
+                    "nodeType": "Test Case",
+                    "result": "Passed"
+                  }
+                ],
+                "name": "Build33SetsUITests",
+                "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/Build33SetsUITests",
+                "nodeType": "Test Suite",
+                "result": "Failed"
+              }
+            ],
+            "name": "WeezyPopUITests",
+            "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests",
+            "nodeType": "UI test bundle",
+            "result": "Failed"
+          }
+        ],
+        "name": "WeezyPop",
+        "nodeType": "Test Plan",
+        "result": "Failed"
+      }
+    ],
+    "testPlanConfigurations": [
+      {
+        "configurationId": "1",
+        "configurationName": "Test Scheme Action"
+      }
+    ]
+  }
+}

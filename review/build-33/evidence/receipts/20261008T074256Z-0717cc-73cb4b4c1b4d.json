@@ -1,0 +1,59 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T074256Z-0717cc.json",
+  "originalSourceSHA256": "73cb4b4c1b4d0c385e13266f6e847b0e4534894ba1efb48f7ca266b8f4355a40",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T074256Z-0717cc.xcresult",
+    "tests": {
+      "total": 3,
+      "passed": 2,
+      "failed": 1,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 100777,
+      "cases": [
+        {
+          "identifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "name": "testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 34000
+        },
+        {
+          "identifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "name": "testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "className": "Build33SetsUITests",
+          "status": "failed",
+          "durationMs": 17000,
+          "message": "XCTAssertTrue failed"
+        },
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 30000
+        }
+      ],
+      "failures": [
+        {
+          "identifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "message": "XCTAssertTrue failed"
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": false,
+    "durationMs": 103319,
+    "exitStatus": 65
+  }
+}

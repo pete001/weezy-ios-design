@@ -1,0 +1,25 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/web-live-verification.json",
+  "originalSourceSHA256": "c5df9724c2686326e0a1d71e21501ce7edaf3f0348721685b9e586c6881b3365",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "release": 38,
+    "status": "complete",
+    "sameMachine": true,
+    "readOnlyChecks": [
+      {
+        "path": "/health",
+        "status": 200,
+        "sha256": "4062edaf750fb8074e7e83e0c9028c94e32468a8b6f1614774328ef045150f93"
+      },
+      {
+        "path": "/assets/pop-studio.css",
+        "status": 200,
+        "sha256": "92fd2a13b65a48bc1e38de70a7c3631ecdd9d12e6b4caf0e990b06784a14a47a"
+      }
+    ],
+    "remoteFilesMatch": true,
+    "customerWebsiteChanged": false
+  }
+}

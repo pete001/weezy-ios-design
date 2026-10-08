@@ -1,0 +1,45 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Migration/20261008T082559Z-24ebce.json",
+  "originalSourceSHA256": "71884eb05d27633d2d752ed61809999319ccdfb17dd30f36c738d65f9c6d7e7a",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "project": "WeezyPop.xcodeproj",
+    "scheme": "WeezyPop",
+    "action": "test",
+    "destinations": [
+      "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    ],
+    "derivedDataPath": "build/HandoffVerification",
+    "resultBundlePath": "build/Migration/20261008T082559Z-24ebce.xcresult",
+    "tests": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 55524,
+      "cases": [
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "failed",
+          "durationMs": 32000,
+          "message": "XCTAssertTrue failed"
+        }
+      ],
+      "failures": [
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "message": "XCTAssertTrue failed"
+        }
+      ]
+    },
+    "clean": false,
+    "noCodeSigning": false,
+    "success": false,
+    "durationMs": 57621,
+    "exitStatus": 65
+  }
+}

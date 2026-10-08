@@ -1,0 +1,298 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Weezy Pop build33 public test evidence",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "build",
+    "status",
+    "globalAccessibilityClean",
+    "sourceFreeze",
+    "runs",
+    "failureResolution",
+    "captureRun",
+    "accessibility",
+    "remainingGates",
+    "release"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "build": {
+      "const": 33
+    },
+    "status": {
+      "enum": [
+        "draft-awaiting-final-root-evidence",
+        "verified-with-open-gates"
+      ]
+    },
+    "globalAccessibilityClean": {
+      "const": false
+    },
+    "sourceFreeze": {
+      "type": "object",
+      "required": [
+        "receipt",
+        "sourceStillMatchesFinal",
+        "reason"
+      ],
+      "properties": {
+        "receipt": {
+          "$ref": "#/$defs/receipt"
+        },
+        "sourceStillMatchesFinal": {
+          "type": "boolean"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 20
+        }
+      }
+    },
+    "runs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "result",
+          "scope",
+          "receipt",
+          "finalSourceMatched"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 3
+          },
+          "kind": {
+            "enum": [
+              "native-unit",
+              "native-ui",
+              "service",
+              "browser",
+              "live-readonly"
+            ]
+          },
+          "result": {
+            "enum": [
+              "passed",
+              "failed",
+              "skipped",
+              "not-run"
+            ]
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 20
+          },
+          "receipt": {
+            "$ref": "#/$defs/receipt"
+          },
+          "finalSourceMatched": {
+            "type": "boolean"
+          },
+          "finalRun": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "failureResolution": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "test",
+          "failedReceipt",
+          "observedFailureMessages",
+          "laterRunPassed",
+          "scopeNote"
+        ],
+        "properties": {
+          "test": {
+            "type": "string"
+          },
+          "failedReceipt": {
+            "$ref": "#/$defs/receipt"
+          },
+          "observedFailureMessages": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "laterRunPassed": {
+            "type": "boolean"
+          },
+          "laterReceipt": {
+            "oneOf": [
+              {
+                "$ref": "#/$defs/receipt"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "scopeNote": {
+            "type": "string",
+            "minLength": 20
+          }
+        }
+      }
+    },
+    "captureRun": {
+      "type": "object",
+      "required": [
+        "status",
+        "receipt",
+        "finalSourceMatched",
+        "reason"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "superseded-before-final-polish",
+            "final-captured-awaiting-visual",
+            "final-reviewed"
+          ]
+        },
+        "receipt": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/receipt"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "finalSourceMatched": {
+          "type": "boolean"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 20
+        }
+      }
+    },
+    "accessibility": {
+      "type": "object",
+      "required": [
+        "claim",
+        "findings",
+        "finalAuditReceipt"
+      ],
+      "properties": {
+        "claim": {
+          "type": "string",
+          "minLength": 20
+        },
+        "findings": {
+          "type": "array"
+        },
+        "finalAuditReceipt": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/receipt"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "remainingGates": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "release": {
+      "type": "object"
+    }
+  },
+  "$defs": {
+    "receipt": {
+      "type": "object",
+      "required": [
+        "path",
+        "sha256"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 3
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "verified-with-open-gates"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "sourceFreeze": {
+            "properties": {
+              "sourceStillMatchesFinal": {
+                "const": true
+              }
+            }
+          },
+          "captureRun": {
+            "properties": {
+              "status": {
+                "const": "final-reviewed"
+              },
+              "finalSourceMatched": {
+                "const": true
+              },
+              "receipt": {
+                "$ref": "#/$defs/receipt"
+              }
+            }
+          },
+          "runs": {
+            "contains": {
+              "properties": {
+                "kind": {
+                  "enum": [
+                    "native-unit",
+                    "native-ui"
+                  ]
+                },
+                "result": {
+                  "const": "passed"
+                },
+                "finalSourceMatched": {
+                  "const": true
+                },
+                "finalRun": {
+                  "const": true
+                }
+              },
+              "required": [
+                "finalRun"
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

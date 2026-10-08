@@ -1,0 +1,59 @@
+id,fixIDs,textSize,kind,reason
+purchase-registration-largest-more-3,F-53,accessibility5,native,Largest-text registration header collides with scrolled content
+purchase-registration-largest-more-2,F-53,accessibility5,native,Largest-text registration header collides with scrolled content
+RELEASE29-FLOWER-GALLERY-more,F-55,normal,native,Collapsed product header is an empty pink strip that slices content
+RELEASE29-LARGEST-GLITTER-more,F-55,accessibility5,native,Collapsed product header is an empty pink strip that slices content
+G-25-search-more-3,F-15,normal,native,One search tile bleeds its photo edge to edge
+W-04-shared-stack-more,F-50,normal,browser,"""Open it in the app"" is a heading, not a button"
+W-01-shared-wishlist-more-2,F-50,normal,browser,"""Open it in the app"" is a heading, not a button"
+G-25-search-more,F-15,normal,native,Search tile component changed; include the Cherry and full scroll coverage
+G-25-search-more-2,F-15,normal,native,Search tile component changed; include the Cherry and full scroll coverage
+G-25-search-more-4,F-15,normal,native,Search tile component changed; include the Cherry and full scroll coverage
+G-25-search-more-5,F-15,normal,native,Search tile component changed; include the Cherry and full scroll coverage
+RELEASE29-GLITTER-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-GOLD-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-RESTORED-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-RESELECTED-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-FLOWER-RESTORED-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-RETRY-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-RETRY-LOADED-more,F-55,normal,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-GLITTER-more-2,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-GLITTER-more-3,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-GLITTER-more-4,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-GOLD-more,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-GOLD-more-2,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-GOLD-more-3,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-RESTORED-more,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-RESTORED-more-2,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-RESTORED-more-3,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+RELEASE29-LARGEST-RESTORED-more-4,F-55,accessibility5,native,Changed collapsed product header shared by these continuations
+purchase-registration-largest-more,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+purchase-registration-largest-more-4,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+purchase-registration-largest-proof-more,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+purchase-registration-largest-proof-more-2,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+purchase-registration-largest-proof-more-3,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+purchase-registration-largest-proof-more-4,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+purchase-registration-largest-proof-more-5,F-53,accessibility5,native,Opaque sticky header and field/proof scroll coverage
+G-14-my-charms-more,F-54,normal,native,"Required scroll coverage of all in-progress, Done and Everything else; retire only with an explicit no-additional-viewport reason"
+G-14-my-charms-more-2,F-54,normal,native,"Required scroll coverage of all in-progress, Done and Everything else; retire only with an explicit no-additional-viewport reason"
+RELEASE28-MY-CHARMS-more,F-54,normal,native,"Required scroll coverage of all in-progress, Done and Everything else; retire only with an explicit no-additional-viewport reason"
+RELEASE28-MY-CHARMS-more-2,F-54,normal,native,"Required scroll coverage of all in-progress, Done and Everything else; retire only with an explicit no-additional-viewport reason"
+S-01-sets-feed,F-57,normal,native,Sets feed shows every piece
+S-02-feed-added,F-58,normal,native,"Tap + to add, with an in-your-basket meter"
+S-03-set-page,F-59,normal,native,Set page clean-up
+S-04-set-all-in,F-60,normal,native,All missing pieces in basket
+S-05-product-in-set,F-61,normal,native,Way back to the set from a product
+S-03-set-page-pending,F-58,normal,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-01-sets-feed-largest,F-57,accessibility5,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-largest,F-59,accessibility5,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-pending-largest,F-58,accessibility5,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-more,F-59,normal,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-pending-more,F-58,normal,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-largest-more,F-59,accessibility5,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-largest-more-2,F-59,accessibility5,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-03-set-page-pending-largest-more,F-58,accessibility5,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-05-product-in-set-more,F-61,normal,native,Explicit additional state or overlapping continuation; declare absence if no extra viewport is necessary
+S-01-sets-feed-snack,F-57 F-59,normal,native,"Explicit user request: Snack 0 of 5, every piece reachable without clipping."
+S-03-set-page-snack,F-57 F-59,normal,native,"Explicit user request: Snack 0 of 5, every piece reachable without clipping."
+G-14-my-charms-largest,F-54,accessibility5,native,Additional actual largest-text reflow found during shipping-root QA; base plus every actual overlapping scroll continuation.
+G-15-wishlist-largest,F-54,accessibility5,native,Additional actual largest-text reflow found during shipping-root QA; base plus every actual overlapping scroll continuation.

@@ -1,0 +1,10 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33/apple-validation.json",
+  "originalSourceSHA256": "e517baf29521160a5972eb1955a10e56e5837cd7b64ad9daf7ab2b5f056104e0",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "ipa_path": "build/Release33/WeezyPop-33.ipa",
+    "validated": true
+  }
+}

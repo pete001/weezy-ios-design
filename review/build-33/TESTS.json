@@ -1,0 +1,3345 @@
+{
+  "schemaVersion": 1,
+  "build": 33,
+  "status": "verified-with-open-gates",
+  "globalAccessibilityClean": false,
+  "sourceFreeze": {
+    "receipt": {
+      "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+      "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+      "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json"
+    },
+    "sourceStillMatchesFinal": true,
+    "reason": "All281 current final input files independently match the immutable085114 SHA256 list. Final21-case capture records source unchanged and independent scoped normal/AX visual acceptance. Current3 shipping-root Debug/Release rechecks use the same final production source as explicitly documented in production-source-association.json."
+  },
+  "runs": [
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetAvailablePurchaseTests/testCurrentVariantPriceWinsAndVerifiedCopiesReduceRemainingQuantity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetAvailablePurchaseTests/testExplicitAllowedVariantUsesCanonicalShopifyIdentityAndRejectsAnotherFinish()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetAvailablePurchaseTests/testSetAllowedFinishCannotBeReplacedBySelectedFinishOutsideItsScope()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetAvailablePurchaseTests/testSoldOutMemberIsExcludedAndRepeatedMemberKeepsBothCopiesWithoutSetDiscount()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "earlier focused unit run; source association with final package pending",
+      "receipt": {
+        "path": "evidence/receipts/focused-initial-unit-53f7d9dddc47.json",
+        "sha256": "2bde276305ce4909b21362dc4bb341f23f3ac9791fc2fea1285522088c4efb78",
+        "originalSourceSHA256": "53f7d9dddc476ad97fda1214ea9c90cf2276865256e403ffed5cfd7ebde717cd",
+        "originalSourcePath": "build/Release33/focused-initial-unit.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "LaunchReadinessUITests/testCompleteSetInteractions()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "LaunchReadinessUITests/testRegistrationInteractions()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "kind": "native-ui",
+      "result": "failed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "VariantPhotographyUITests/testMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "earlier primary QA interaction run; subsequent UI polish requires final rerun association",
+      "receipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "pop-web focused integration suite",
+      "kind": "service",
+      "result": "passed",
+      "scope": "F50 exactHTTPScontext/AASA/native entitlement plus prior gift/privacy guards:10passed0failed",
+      "receipt": {
+        "path": "evidence/receipts/focused-tests-4bd41e93900f.json",
+        "sha256": "42bc8cc7acbae18608e476e088842b61974fe39716e87ef7f03a62153f464cdc",
+        "originalSourceSHA256": "4bd41e93900fcff8b0c232164527b622736e7f7d9f175bd6f38bab8f3743fb6d",
+        "originalSourcePath": "build/Release33F50/focused-tests.log"
+      },
+      "finalSourceMatched": true
+    },
+    {
+      "id": "F50 browser layout cases",
+      "kind": "browser",
+      "result": "passed",
+      "scope": "9screens375/393/1440; all fonts/photos loaded, outline2px, target56px, contextpreserved, nohorizontaloverflow. OS app-opening not tested.",
+      "receipt": {
+        "path": "evidence/receipts/browser-audit-e204d32b800a.json",
+        "sha256": "95f8b93676e2fa1c8f974b08d46276a934b2c60614128afa413359f7572aa515",
+        "originalSourceSHA256": "e204d32b800a56ecd1c5d124d05cb7e0d70b39ff91aae9a7f2fe8c49d7911563",
+        "originalSourcePath": "build/Release33F50/browser-audit.json"
+      },
+      "finalSourceMatched": true
+    },
+    {
+      "id": "App-only live web38 readback",
+      "kind": "live-readonly",
+      "result": "passed",
+      "scope": "Existing Flymachine health/CSS and deployedtemplates bytehashreadback; customerwebsiteunchanged",
+      "receipt": {
+        "path": "evidence/receipts/web-live-verification-c5df9724c268.json",
+        "sha256": "9ef72b406c45982302ab5bfb58d3344aea802ca016959acb079373806f1552b9",
+        "originalSourceSHA256": "c5df9724c2686326e0a1d71e21501ce7edaf3f0348721685b9e586c6881b3365",
+        "originalSourcePath": "build/Release33/web-live-verification.json"
+      },
+      "finalSourceMatched": true
+    },
+    {
+      "id": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "kind": "native-ui",
+      "result": "failed",
+      "scope": "Parsed individual result from 20261008T073605Z-dcca85; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T073605Z-dcca85-38667590ccfb.json",
+        "sha256": "f3342c4bc6a7ad64eb09a64c824e41e2c80b1763a24cd820f3445e4fdf79bc79",
+        "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+        "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "observedFailureMessage": "XCTAssertTrue failed"
+    },
+    {
+      "id": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T073605Z-dcca85; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T073605Z-dcca85-38667590ccfb.json",
+        "sha256": "f3342c4bc6a7ad64eb09a64c824e41e2c80b1763a24cd820f3445e4fdf79bc79",
+        "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+        "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T073605Z-dcca85; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T073605Z-dcca85-38667590ccfb.json",
+        "sha256": "f3342c4bc6a7ad64eb09a64c824e41e2c80b1763a24cd820f3445e4fdf79bc79",
+        "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+        "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T073605Z-dcca85; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T073605Z-dcca85-38667590ccfb.json",
+        "sha256": "f3342c4bc6a7ad64eb09a64c824e41e2c80b1763a24cd820f3445e4fdf79bc79",
+        "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+        "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T074256Z-0717cc; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T074256Z-0717cc-73cb4b4c1b4d.json",
+        "sha256": "f9efa633523fc98a8453201345cb02adef8508709461edf1678a1cd2a2a41255",
+        "originalSourceSHA256": "73cb4b4c1b4d0c385e13266f6e847b0e4534894ba1efb48f7ca266b8f4355a40",
+        "originalSourcePath": "build/Migration/20261008T074256Z-0717cc.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+      "kind": "native-ui",
+      "result": "failed",
+      "scope": "Parsed individual result from 20261008T074256Z-0717cc; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T074256Z-0717cc-73cb4b4c1b4d.json",
+        "sha256": "f9efa633523fc98a8453201345cb02adef8508709461edf1678a1cd2a2a41255",
+        "originalSourceSHA256": "73cb4b4c1b4d0c385e13266f6e847b0e4534894ba1efb48f7ca266b8f4355a40",
+        "originalSourcePath": "build/Migration/20261008T074256Z-0717cc.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "observedFailureMessage": "XCTAssertTrue failed"
+    },
+    {
+      "id": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T074256Z-0717cc; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T074256Z-0717cc-73cb4b4c1b4d.json",
+        "sha256": "f9efa633523fc98a8453201345cb02adef8508709461edf1678a1cd2a2a41255",
+        "originalSourceSHA256": "73cb4b4c1b4d0c385e13266f6e847b0e4534894ba1efb48f7ca266b8f4355a40",
+        "originalSourcePath": "build/Migration/20261008T074256Z-0717cc.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T074534Z-eb6a09; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T074534Z-eb6a09-9e781531adea.json",
+        "sha256": "bb4f7e88c9e01feb8c88f80938b826f3d10512b8614a943e8182300e8d2cae82",
+        "originalSourceSHA256": "9e781531adea5faf146c1182539791eefc187c45d03aa73a6cec29262ccbf89a",
+        "originalSourcePath": "build/Migration/20261008T074534Z-eb6a09.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Parsed individual result from 20261008T075523Z-86e10b; parent source association at this run precedes the final lined-up re-entry fix, so this is not final app acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T075523Z-86e10b-889d94615081.json",
+        "sha256": "388a00f2f0d6141adc96619bbd6403ce284a7c51a896fbf398e9d60e061af87c",
+        "originalSourceSHA256": "889d94615081d340c5c439b7a750320327476d0fa5e87e65a9729ee87a1c47ec",
+        "originalSourcePath": "build/Migration/20261008T075523Z-86e10b.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Final frozen-source21-case unit/capture batch; exact per-test result parsed from the receipt. Content captures use isolated fixtures; this does not prove shipping AppRoot, live transactions or physical-device accessibility.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080021Z-0f2763-a6e54026b55e.json",
+        "sha256": "9a0acdd4a83f77d7a64f533c4e4b3e93f86f1482c306d232c9f36dc665c9b863",
+        "originalSourceSHA256": "a6e54026b55e6253f850d63baac31505890ff3a7b40a778e4b852388048592dc",
+        "originalSourcePath": "build/Migration/20261008T080021Z-0f2763.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on primary native402×874pt simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080342Z-8dc5ab-cc4622499882.json",
+        "sha256": "71c5211372fbe095f4db08ae57d9f3c72bba8e7738dbf28494a87ecc3fc82675",
+        "originalSourceSHA256": "cc4622499882b4aa4aaa13d52ee1ec061fff068f8f5c01c382aea0c42733700e",
+        "originalSourcePath": "build/Migration/20261008T080342Z-8dc5ab.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    },
+    {
+      "id": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on primary native402×874pt simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080342Z-8dc5ab-cc4622499882.json",
+        "sha256": "71c5211372fbe095f4db08ae57d9f3c72bba8e7738dbf28494a87ecc3fc82675",
+        "originalSourceSHA256": "cc4622499882b4aa4aaa13d52ee1ec061fff068f8f5c01c382aea0c42733700e",
+        "originalSourcePath": "build/Migration/20261008T080342Z-8dc5ab.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    },
+    {
+      "id": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "kind": "native-ui",
+      "result": "failed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on primary native402×874pt simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080342Z-8dc5ab-cc4622499882.json",
+        "sha256": "71c5211372fbe095f4db08ae57d9f3c72bba8e7738dbf28494a87ecc3fc82675",
+        "originalSourceSHA256": "cc4622499882b4aa4aaa13d52ee1ec061fff068f8f5c01c382aea0c42733700e",
+        "originalSourcePath": "build/Migration/20261008T080342Z-8dc5ab.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608",
+      "observedFailureMessage": "XCTAssertEqual failed: (\"XCTWaiterResult(rawValue: 2)\") is not equal to (\"XCTWaiterResult(rawValue: 1)\")"
+    },
+    {
+      "id": "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on primary native402×874pt simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080342Z-8dc5ab-cc4622499882.json",
+        "sha256": "71c5211372fbe095f4db08ae57d9f3c72bba8e7738dbf28494a87ecc3fc82675",
+        "originalSourceSHA256": "cc4622499882b4aa4aaa13d52ee1ec061fff068f8f5c01c382aea0c42733700e",
+        "originalSourcePath": "build/Migration/20261008T080342Z-8dc5ab.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    },
+    {
+      "id": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on primary native402×874pt simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080738Z-ec0f66-0b15684a1787.json",
+        "sha256": "fb3c7d4a0448ce21dd56a5ce1e2d3f45cf9e78729274c9081aa3ef5dd8e47d31",
+        "originalSourceSHA256": "0b15684a17870ab6e61c321d46e27394f6f12b7efef9e87861aa1bcee7f366ab",
+        "originalSourcePath": "build/Migration/20261008T080738Z-ec0f66.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+    },
+    {
+      "id": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on small simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080830Z-4b80c5-5014d67964f9.json",
+        "sha256": "1b916a462a62962e595bcd49b2fb652a222f0c70af30ebae2d1008623e15c19c",
+        "originalSourceSHA256": "5014d67964f9c1d2ba8b39a7b95822ad6ae5d94b6f94ea76ce209b7dfcad7d8b",
+        "originalSourcePath": "build/Migration/20261008T080830Z-4b80c5.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on small simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080830Z-4b80c5-5014d67964f9.json",
+        "sha256": "1b916a462a62962e595bcd49b2fb652a222f0c70af30ebae2d1008623e15c19c",
+        "originalSourceSHA256": "5014d67964f9c1d2ba8b39a7b95822ad6ae5d94b6f94ea76ce209b7dfcad7d8b",
+        "originalSourcePath": "build/Migration/20261008T080830Z-4b80c5.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on small simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080830Z-4b80c5-5014d67964f9.json",
+        "sha256": "1b916a462a62962e595bcd49b2fb652a222f0c70af30ebae2d1008623e15c19c",
+        "originalSourceSHA256": "5014d67964f9c1d2ba8b39a7b95822ad6ae5d94b6f94ea76ce209b7dfcad7d8b",
+        "originalSourcePath": "build/Migration/20261008T080830Z-4b80c5.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on small simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080830Z-4b80c5-5014d67964f9.json",
+        "sha256": "1b916a462a62962e595bcd49b2fb652a222f0c70af30ebae2d1008623e15c19c",
+        "originalSourceSHA256": "5014d67964f9c1d2ba8b39a7b95822ad6ae5d94b6f94ea76ce209b7dfcad7d8b",
+        "originalSourcePath": "build/Migration/20261008T080830Z-4b80c5.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping AppRoot interaction through isolated UI fixture on small simulator (Debug). Exact per-test result parsed; final refreshed fixture/sourcefreeze association pending. No live merchant/customer ownership or transaction is exercised.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T080830Z-4b80c5-5014d67964f9.json",
+        "sha256": "1b916a462a62962e595bcd49b2fb652a222f0c70af30ebae2d1008623e15c19c",
+        "originalSourceSHA256": "5014d67964f9c1d2ba8b39a7b95822ad6ae5d94b6f94ea76ce209b7dfcad7d8b",
+        "originalSourcePath": "build/Migration/20261008T080830Z-4b80c5.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual Release shipping AppRoot normal/largest-text tab geometry on primary simulator. Debug-only review, fake authentication and simulated offline flags are inactive; no controlled-offline or live-account claim follows from this Release pass.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081256Z-4428c1-c415f9ef51e8.json",
+        "sha256": "456f2051f6391330cb67a9013aa9adb85729e24172decf567e85811f6ac3e6c0",
+        "originalSourceSHA256": "c415f9ef51e85a668a626db8a5be4486feccfa52d61ec0b0f88f01ff524f922f",
+        "originalSourcePath": "build/Migration/20261008T081256Z-4428c1.json"
+      },
+      "finalSourceMatched": false,
+      "productionSourceMatched": true,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+      "controlledUnavailableProved": false
+    },
+    {
+      "id": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual Release shipping AppRoot normal/largest-text tab geometry on primary simulator. Debug-only review, fake authentication and simulated offline flags are inactive; no controlled-offline or live-account claim follows from this Release pass.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081256Z-4428c1-c415f9ef51e8.json",
+        "sha256": "456f2051f6391330cb67a9013aa9adb85729e24172decf567e85811f6ac3e6c0",
+        "originalSourceSHA256": "c415f9ef51e85a668a626db8a5be4486feccfa52d61ec0b0f88f01ff524f922f",
+        "originalSourcePath": "build/Migration/20261008T081256Z-4428c1.json"
+      },
+      "finalSourceMatched": false,
+      "productionSourceMatched": true,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+      "controlledUnavailableProved": false
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual Release shipping AppRoot normal/largest-text tab geometry on small simulator. Debug-only review, fake authentication and simulated offline flags are inactive; no controlled-offline or live-account claim follows from this Release pass.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081528Z-0457d6-22ed98390933.json",
+        "sha256": "9d27553dfab0508ae34d18c86944c70e74ddfb5e9e234d7a9e442e31f1c14a05",
+        "originalSourceSHA256": "22ed98390933d623eba06679c6bf447a9d3b7de75dc5a9770f62110a0df2dde0",
+        "originalSourcePath": "build/Migration/20261008T081528Z-0457d6.json"
+      },
+      "finalSourceMatched": false,
+      "productionSourceMatched": true,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E",
+      "controlledUnavailableProved": false
+    },
+    {
+      "id": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual Release shipping AppRoot normal/largest-text tab geometry on small simulator. Debug-only review, fake authentication and simulated offline flags are inactive; no controlled-offline or live-account claim follows from this Release pass.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081528Z-0457d6-22ed98390933.json",
+        "sha256": "9d27553dfab0508ae34d18c86944c70e74ddfb5e9e234d7a9e442e31f1c14a05",
+        "originalSourceSHA256": "22ed98390933d623eba06679c6bf447a9d3b7de75dc5a9770f62110a0df2dde0",
+        "originalSourcePath": "build/Migration/20261008T081528Z-0457d6.json"
+      },
+      "finalSourceMatched": false,
+      "productionSourceMatched": true,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E",
+      "controlledUnavailableProved": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact per-case result from081705Z normal-design refresh, including isolated Rodeo2of4 assertions. Separately discovered actual shipping-root AX My Charms typography needs a targeted source fix and newer QA/captures, so this is not final acceptance.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T081706Z-006d8a-ecb6f007c67b.json",
+        "sha256": "77dc49898fafc9c65dcd72cb79654efe48cc7959e5f6d834e4ea0d1929c193b4",
+        "originalSourceSHA256": "ecb6f007c67b24dac6b4b20559f315d1f3aeee5984802320bf72ca05b37b0de3",
+        "originalSourcePath": "build/Migration/20261008T081706Z-006d8a.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "failed",
+      "scope": "Actual shipping-root largest-text My Charms/Wishlist header word/width checks after targeted AX source correction on small Debug simulator. Production header behavior is tested; final content capture/source association is pending. Release Debug flags are inactive, so no simulated-offline or fake-account claim is made.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T082559Z-24ebce-71884eb05d27.json",
+        "sha256": "4392aa65b192b021f2670cde6c5de03f829150756954d696ca9e99f5fd0df749",
+        "originalSourceSHA256": "71884eb05d27633d2d752ed61809999319ccdfb17dd30f36c738d65f9c6d7e7a",
+        "originalSourcePath": "build/Migration/20261008T082559Z-24ebce.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "scheme": "WeezyPop",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E",
+      "observedFailureMessage": "XCTAssertTrue failed"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping-root largest-text My Charms/Wishlist header word/width checks after targeted AX source correction on small Debug simulator. Production header behavior is tested; final content capture/source association is pending. Release Debug flags are inactive, so no simulated-offline or fake-account claim is made.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T082820Z-87dbce-b89e753c5dbc.json",
+        "sha256": "f8008fda0219e3ea9b52b4a86f89ed8062ed3f054c6a3d6f60c0938b19597f00",
+        "originalSourceSHA256": "b89e753c5dbc0af5222d7742677b2365b4d46a23a955d7a205c9ed087f914bb2",
+        "originalSourcePath": "build/Migration/20261008T082820Z-87dbce.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "scheme": "WeezyPop",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping-root largest-text My Charms/Wishlist header word/width checks after targeted AX source correction on primary Release simulator. Production header behavior is tested; final content capture/source association is pending. Release Debug flags are inactive, so no simulated-offline or fake-account claim is made.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T082905Z-10dbeb-3aa771eb063e.json",
+        "sha256": "504e9de57ce6f7b0b13fa79b62a4e10e88cfd64b9ea3b0d6e1f73592987aa3c2",
+        "originalSourceSHA256": "3aa771eb063ea5e25050e0fedbea2423e4d11cef0f0a14aee9d45c60eecf5ff2",
+        "originalSourcePath": "build/Migration/20261008T082905Z-10dbeb.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual shipping-root largest-text My Charms/Wishlist header word/width checks after targeted AX source correction on small Release simulator. Production header behavior is tested; final content capture/source association is pending. Release Debug flags are inactive, so no simulated-offline or fake-account claim is made.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083059Z-923532-ce5a3678b52a.json",
+        "sha256": "b4ae322b463f48a7b3c90626fdfaf5d0e2bf0ccd4aa3941a4e30563e046c910a",
+        "originalSourceSHA256": "ce5a3678b52a8f00bdf596c8c903a345c803c465e05c0e79260b9a4c4899a152",
+        "originalSourcePath": "build/Migration/20261008T083059Z-923532.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Exact individual result from083230Z21-case capture batch including new AX My Charms/Wishlist production-content renders. Its source input matched, but independent visual review found three real residuals; a passing render test does not prove those layouts accepted.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T083231Z-7bc500-890d29ffb074.json",
+        "sha256": "1a20dcfd1ae87d4b570ef395bb422a38bd89f036b3fc970ec2ffab738d7226d3",
+        "originalSourceSHA256": "890d29ffb0746e2e32ade9cae94e5b6a5e8557ca529b75707a38caf3dad8fb8a",
+        "originalSourcePath": "build/Migration/20261008T083231Z-7bc500.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual small Debug or primary/small Release shipping-root largest-text recheck after the three targeted AX detail corrections. Exact word/width/variant checks passed. Actual final gallery visual acceptance and source/capture receipt still pending; Release debug flags remain inactive.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084141Z-06ec28-47f573276c6c.json",
+        "sha256": "f22c182d4b32b8df447a473fcf448c40772ec12375d7a7cb6b516ee47f716b3e",
+        "originalSourceSHA256": "47f573276c6caba6a61e559e9024d3b3f250e9b0df5f82c25dd0631b296d7046",
+        "originalSourcePath": "build/Migration/20261008T084141Z-06ec28.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Debug",
+      "scheme": "WeezyPop",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual small Debug or primary/small Release shipping-root largest-text recheck after the three targeted AX detail corrections. Exact word/width/variant checks passed. Actual final gallery visual acceptance and source/capture receipt still pending; Release debug flags remain inactive.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084236Z-b85eb5-101b32298ce7.json",
+        "sha256": "72699f39d1eea11591a5de1036c7742581c1f37d5ba12aab8f5b084db85a6e7d",
+        "originalSourceSHA256": "101b32298ce7fa31cee9a712f414916e73d6b943bd7ad2dd7f94eb033dd1734f",
+        "originalSourcePath": "build/Migration/20261008T084236Z-b85eb5.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Actual small Debug or primary/small Release shipping-root largest-text recheck after the three targeted AX detail corrections. Exact word/width/variant checks passed. Actual final gallery visual acceptance and source/capture receipt still pending; Release debug flags remain inactive.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084430Z-aaa0d4-eb405f8535e9.json",
+        "sha256": "2ed4ac1bc6159598e646d203551f783cb93d8cf167523f52c7c3b78234cb6157",
+        "originalSourceSHA256": "eb405f8535e954415db80bcbc254acc83adb3b04d9ba8a79178dd530b4391cf3",
+        "originalSourcePath": "build/Migration/20261008T084430Z-aaa0d4.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destination": "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Earlier source-matched21-case content batch; independent Wishlist-row visual findings remained open and were subsequently corrected. Preserve this exact per-case pass without falsely accepting the old visual defects.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T084526Z-9078ac-8139de21a401.json",
+        "sha256": "334722c7b108a918cb7f6883b61f5e8d896bdaeba6e19a2017491aa2bf9fcf85",
+        "originalSourceSHA256": "8139de21a40136e79a36e403b9692beadd59bb68dfb426b88610baf598e4ebe2",
+        "originalSourcePath": "build/Migration/20261008T084526Z-9078ac.json"
+      },
+      "finalSourceMatched": false,
+      "finalRun": false
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureDesignReviewInventory()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "DesignReviewCaptureV26Tests/testCaptureLiteralSocial()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureBuild33Sets()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "PopStudioCaptureTests/testCaptureLiteralDiscoveryFinishBasket()",
+      "kind": "native-unit",
+      "result": "passed",
+      "scope": "Current final production-content capture and exact unit result with accepted scoped normal/AX visual evidence; no blanket shipping-root/live-account/physical-device proof.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+        "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+        "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+        "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Final shipping-root AX Wishlist row/header/control recheck: small-debug-wishlist-rows-verified; actual Debug simulator, Release debug-only flags inactive. No real-account or physical-device claim.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085433Z-6834d7-d2bf0b13cde9.json",
+        "sha256": "47f65571e9cc7666e0a537f72cfd0603e97d3a4753683a962b23e544fe2b625c",
+        "originalSourceSHA256": "d2bf0b13cde919fd4adeae92fc6be47d7dd389da35a650f2cc91f004bd3244fa",
+        "originalSourcePath": "build/Migration/20261008T085433Z-6834d7.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true,
+      "configuration": "Debug",
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ]
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Final shipping-root AX Wishlist row/header/control recheck: primary-release-wishlist-rows-verified; actual Release simulator, Release debug-only flags inactive. No real-account or physical-device claim.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085527Z-a950de-069ad3fbb3cb.json",
+        "sha256": "588a52104712f16e2c42866a4016c461687687ce227cef7b93de2a637309a120",
+        "originalSourceSHA256": "069ad3fbb3cb5ffed64b8178f27992dd16b33a787b6c8f7d55f773baec8cf123",
+        "originalSourcePath": "build/Migration/20261008T085527Z-a950de.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ]
+    },
+    {
+      "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "kind": "native-ui",
+      "result": "passed",
+      "scope": "Final shipping-root AX Wishlist row/header/control recheck: small-release-wishlist-rows-verified; actual Release simulator, Release debug-only flags inactive. No real-account or physical-device claim.",
+      "receipt": {
+        "path": "evidence/receipts/20261008T085728Z-4a100a-0f3e849f1f05.json",
+        "sha256": "43afa23af8179e1926124e9f4fe69c9c3fd562718df7f9ead9cfdc0fec828f6a",
+        "originalSourceSHA256": "0f3e849f1f057de6bb1a1dbe3da0b661f23fdf32ebbc6f876f24c2b1eeb493e6",
+        "originalSourcePath": "build/Migration/20261008T085728Z-4a100a.json"
+      },
+      "finalSourceMatched": true,
+      "finalRun": true,
+      "configuration": "Release",
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ]
+    }
+  ],
+  "failureResolution": [
+    {
+      "test": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "failedReceipt": {
+        "path": "evidence/receipts/sets-ui-tree-1cb101af5a95.json",
+        "sha256": "c6861f9c8a5ab25967e56070b5025f9f5870bfdb44196a2bbac77a23c6671b74",
+        "originalSourceSHA256": "1cb101af5a958c39d49daea0b484bca3540f409b4a171cef218161cf101b6e07",
+        "originalSourcePath": "build/Release33/sets-ui-tree.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertTrue failed"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "scopeNote": "Later exact same-test pass resolves this observed run failure only. The original failed case and messages remain retained. Final source-matched21-case content capture and current scoped visual/AX rechecks are separately identified; earlier passes are not relabelled current or global accessibility acceptance."
+    },
+    {
+      "test": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "failedReceipt": {
+        "path": "evidence/receipts/sets-ui-tree-2-0d6b10e85fba.json",
+        "sha256": "7462e43b5c11bd7dca2a7d2fc5fd99ceb9cd2de5183f4035b7f38ce48a15d9bd",
+        "originalSourceSHA256": "0d6b10e85fbad25bea0885e003d742c97e58c93d6c07047e9009b6aacecd1be8",
+        "originalSourcePath": "build/Release33/sets-ui-tree-2.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertTrue failed - Native swipe-back must return to the set"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "scopeNote": "Later exact same-test pass resolves this observed run failure only. The original failed case and messages remain retained. Final source-matched21-case content capture and current scoped visual/AX rechecks are separately identified; earlier passes are not relabelled current or global accessibility acceptance."
+    },
+    {
+      "test": "VariantPhotographyUITests/testLargestTextMappedFinishChangesActualPhotoAndRestoresOriginal()",
+      "failedReceipt": {
+        "path": "evidence/receipts/primary-qa-tree-e8a3b2e1c2a0.json",
+        "sha256": "19c15c89c46e85ba853b687d02390b16dcecaed55528b211b26130d9f064d115",
+        "originalSourceSHA256": "e8a3b2e1c2a0da9bd288570a2b809901c8e408948f7ebe1c2eea20238e49623c",
+        "originalSourcePath": "build/Release33/primary-qa-tree.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertLessThan failed: (\"1.0050048828125\") is not less than (\"0.5\") - Returning to the original finish must restore its photograph"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/20261008T073605Z-dcca85-38667590ccfb.json",
+        "sha256": "f3342c4bc6a7ad64eb09a64c824e41e2c80b1763a24cd820f3445e4fdf79bc79",
+        "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+        "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json"
+      },
+      "scopeNote": "Later exact same-test pass resolves this observed run failure only. The original failed case and messages remain retained. Final source-matched21-case content capture and current scoped visual/AX rechecks are separately identified; earlier passes are not relabelled current or global accessibility acceptance."
+    },
+    {
+      "test": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+      "failedReceipt": {
+        "path": "evidence/receipts/20261008T073605Z-dcca85-38667590ccfb.json",
+        "sha256": "f3342c4bc6a7ad64eb09a64c824e41e2c80b1763a24cd820f3445e4fdf79bc79",
+        "originalSourceSHA256": "38667590ccfbc1bc8846216a377bbb3f056ef6ddc04f68597088c4316434b89d",
+        "originalSourcePath": "build/Migration/20261008T073605Z-dcca85.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertTrue failed"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/20261008T074256Z-0717cc-73cb4b4c1b4d.json",
+        "sha256": "f9efa633523fc98a8453201345cb02adef8508709461edf1678a1cd2a2a41255",
+        "originalSourceSHA256": "73cb4b4c1b4d0c385e13266f6e847b0e4534894ba1efb48f7ca266b8f4355a40",
+        "originalSourcePath": "build/Migration/20261008T074256Z-0717cc.json"
+      },
+      "scopeNote": "Later exact same-test pass resolves this observed run failure only. The original failed case and messages remain retained. Final source-matched21-case content capture and current scoped visual/AX rechecks are separately identified; earlier passes are not relabelled current or global accessibility acceptance."
+    },
+    {
+      "test": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+      "failedReceipt": {
+        "path": "evidence/receipts/20261008T074256Z-0717cc-73cb4b4c1b4d.json",
+        "sha256": "f9efa633523fc98a8453201345cb02adef8508709461edf1678a1cd2a2a41255",
+        "originalSourceSHA256": "73cb4b4c1b4d0c385e13266f6e847b0e4534894ba1efb48f7ca266b8f4355a40",
+        "originalSourcePath": "build/Migration/20261008T074256Z-0717cc.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertTrue failed"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/20261008T074534Z-eb6a09-9e781531adea.json",
+        "sha256": "bb4f7e88c9e01feb8c88f80938b826f3d10512b8614a943e8182300e8d2cae82",
+        "originalSourceSHA256": "9e781531adea5faf146c1182539791eefc187c45d03aa73a6cec29262ccbf89a",
+        "originalSourcePath": "build/Migration/20261008T074534Z-eb6a09.json"
+      },
+      "scopeNote": "Later exact same-test pass resolves this observed run failure only. The original failed case and messages remain retained. Final source-matched21-case content capture and current scoped visual/AX rechecks are separately identified; earlier passes are not relabelled current or global accessibility acceptance."
+    },
+    {
+      "test": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+      "failedReceipt": {
+        "path": "evidence/receipts/20261008T080342Z-8dc5ab-cc4622499882.json",
+        "sha256": "71c5211372fbe095f4db08ae57d9f3c72bba8e7738dbf28494a87ecc3fc82675",
+        "originalSourceSHA256": "cc4622499882b4aa4aaa13d52ee1ec061fff068f8f5c01c382aea0c42733700e",
+        "originalSourcePath": "build/Migration/20261008T080342Z-8dc5ab.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertEqual failed: (\"XCTWaiterResult(rawValue: 2)\") is not equal to (\"XCTWaiterResult(rawValue: 1)\")"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/20261008T080738Z-ec0f66-0b15684a1787.json",
+        "sha256": "fb3c7d4a0448ce21dd56a5ce1e2d3f45cf9e78729274c9081aa3ef5dd8e47d31",
+        "originalSourceSHA256": "0b15684a17870ab6e61c321d46e27394f6f12b7efef9e87861aa1bcee7f366ab",
+        "originalSourcePath": "build/Migration/20261008T080738Z-ec0f66.json"
+      },
+      "scopeNote": "Parent diagnosed a largest-text Welcome Browse button initially offscreen: the harness incorrectly waited for hittability before scrolling. The recheck performs a real user-like scroll before waiting, without app-layout changes, and the exact test passed. Small-device recheck also passed. This resolves the harness predicate failure, not a global accessibility audit."
+    },
+    {
+      "test": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+      "failedReceipt": {
+        "path": "evidence/receipts/20261008T082559Z-24ebce-71884eb05d27.json",
+        "sha256": "4392aa65b192b021f2670cde6c5de03f829150756954d696ca9e99f5fd0df749",
+        "originalSourceSHA256": "71884eb05d27633d2d752ed61809999319ccdfb17dd30f36c738d65f9c6d7e7a",
+        "originalSourcePath": "build/Migration/20261008T082559Z-24ebce.json"
+      },
+      "observedFailureMessages": [
+        "XCTAssertTrue failed"
+      ],
+      "laterRunPassed": true,
+      "laterReceipt": {
+        "path": "evidence/receipts/20261008T082820Z-87dbce-b89e753c5dbc.json",
+        "sha256": "f8008fda0219e3ea9b52b4a86f89ed8062ed3f054c6a3d6f60c0938b19597f00",
+        "originalSourceSHA256": "b89e753c5dbc0af5222d7742677b2365b4d46a23a955d7a205c9ed087f914bb2",
+        "originalSourcePath": "build/Migration/20261008T082820Z-87dbce.json"
+      },
+      "scopeNote": "After the genuine AX header/source correction, this intermediate recheck failed a case-sensitive accessibility label assertion. The harness comparison was corrected to case-insensitive matching without altering app display or weakening the real word/width bounds; the exact small Debug case passed, then primary/small Release rechecks passed. The original failed receipt remains retained."
+    }
+  ],
+  "captureRun": {
+    "status": "final-reviewed",
+    "receipt": {
+      "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+      "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+      "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+      "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+    },
+    "captureInputReceipt": {
+      "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+      "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+      "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json"
+    },
+    "visualReceipt": {
+      "path": "evidence/receipts/visual-review-29545fccafb3.json",
+      "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+      "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+    },
+    "parsedResults": {
+      "total": 21,
+      "passed": 21,
+      "failed": 0,
+      "skipped": 0
+    },
+    "finalSourceMatched": true,
+    "nativeRawCounts": {
+      "weezy-v26-captures": 78,
+      "weezy-pop-studio-captures": 110
+    },
+    "reason": "Actual latest canonical normal Sets/Story/archive and full My Charms/Wishlist AX base/tails independently accepted with exact current hashes. Three previous AX detail defects and two subsequent Wishlist-row midword findings are resolved by fresh visual evidence; legacy G13-more is excluded via reviewed actual S03 replacement. No global full-app/AX certification is claimed."
+  },
+  "accessibility": {
+    "claim": "Exact named shipping-root AX checks and independent current scoped gallery visual review passed. Historical genuine findings and their evidence remain retained. No blanket full-app accessibility audit or physical-device certification is claimed.",
+    "findings": [
+      {
+        "id": "build33-shipping-my-charms-accessibility5-midword",
+        "status": "resolved-with-exact-ui-and-fresh-visual-evidence",
+        "observedBy": "Root actual shipping AppRoot largest-text visual inspection",
+        "observedIssue": "My Charms, IN PROGRESS and SHARE wrap within words at accessibility5. Normal content-canvas gallery does not prove the absence of this actual shipping-root finding.",
+        "receipt": null,
+        "resolution": "Small Debug, primary/small Release exact checks passed; actual083230Z AX images now show full My Charms/In Progress/Share words. Independent review still detected three separate residuals recorded below. This resolves the named header defect only.",
+        "passingReceipts": [
+          {
+            "path": "evidence/receipts/20261008T082820Z-87dbce-b89e753c5dbc.json",
+            "sha256": "f8008fda0219e3ea9b52b4a86f89ed8062ed3f054c6a3d6f60c0938b19597f00",
+            "originalSourceSHA256": "b89e753c5dbc0af5222d7742677b2365b4d46a23a955d7a205c9ed087f914bb2",
+            "originalSourcePath": "build/Migration/20261008T082820Z-87dbce.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T082905Z-10dbeb-3aa771eb063e.json",
+            "sha256": "504e9de57ce6f7b0b13fa79b62a4e10e88cfd64b9ea3b0d6e1f73592987aa3c2",
+            "originalSourceSHA256": "3aa771eb063ea5e25050e0fedbea2423e4d11cef0f0a14aee9d45c60eecf5ff2",
+            "originalSourcePath": "build/Migration/20261008T082905Z-10dbeb.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T083059Z-923532-ce5a3678b52a.json",
+            "sha256": "b4ae322b463f48a7b3c90626fdfaf5d0e2bf0ccd4aa3941a4e30563e046c910a",
+            "originalSourceSHA256": "ce5a3678b52a8f00bdf596c8c903a345c803c465e05c0e79260b9a4c4899a152",
+            "originalSourcePath": "build/Migration/20261008T083059Z-923532.json"
+          }
+        ],
+        "visualReceipt": {
+          "path": "evidence/receipts/visual-review-ax-b124e36143c8.json",
+          "sha256": "457985bab1deb194dc459c6213b88c1f67ad72e9135c65136c93a41810359349",
+          "originalSourceSHA256": "b124e36143c886692a4b327d920b8f5d8e56d5e3d411ed98335fafbb131c13f1",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T083230Z/visual-review-ax.json"
+        }
+      },
+      {
+        "id": "build33-083230-ax-residual-1",
+        "status": "resolved-with-exact-ui-and-fresh-visual-evidence",
+        "screen": "G-14-my-charms-largest",
+        "observedIssue": "Fixed106pt count badge cannot contain accessibility5 count23 and CHARMS; number overflows and CHARMS clips/overlaps below the hero.",
+        "source": "WeezyPop/SocialPersonal.swift hero count overlay",
+        "visualReceipt": {
+          "path": "evidence/receipts/visual-review-ax-b124e36143c8.json",
+          "sha256": "457985bab1deb194dc459c6213b88c1f67ad72e9135c65136c93a41810359349",
+          "originalSourceSHA256": "b124e36143c886692a4b327d920b8f5d8e56d5e3d411ed98335fafbb131c13f1",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T083230Z/visual-review-ax.json"
+        },
+        "resolution": "Current085114Z actual scoped AX frames independently verify unclipped23/CHARMS, whole Zia Rainbow and full Set of Two variant. Original failed visual receipt remains preserved; exact final QA is separately recorded.",
+        "passingReceipts": [
+          {
+            "path": "evidence/receipts/20261008T084141Z-06ec28-47f573276c6c.json",
+            "sha256": "f22c182d4b32b8df447a473fcf448c40772ec12375d7a7cb6b516ee47f716b3e",
+            "originalSourceSHA256": "47f573276c6caba6a61e559e9024d3b3f250e9b0df5f82c25dd0631b296d7046",
+            "originalSourcePath": "build/Migration/20261008T084141Z-06ec28.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T084236Z-b85eb5-101b32298ce7.json",
+            "sha256": "72699f39d1eea11591a5de1036c7742581c1f37d5ba12aab8f5b084db85a6e7d",
+            "originalSourceSHA256": "101b32298ce7fa31cee9a712f414916e73d6b943bd7ad2dd7f94eb033dd1734f",
+            "originalSourcePath": "build/Migration/20261008T084236Z-b85eb5.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T084430Z-aaa0d4-eb405f8535e9.json",
+            "sha256": "2ed4ac1bc6159598e646d203551f783cb93d8cf167523f52c7c3b78234cb6157",
+            "originalSourceSHA256": "eb405f8535e954415db80bcbc254acc83adb3b04d9ba8a79178dd530b4391cf3",
+            "originalSourcePath": "build/Migration/20261008T084430Z-aaa0d4.json"
+          }
+        ],
+        "resolvedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+        }
+      },
+      {
+        "id": "build33-083230-ax-residual-2",
+        "status": "resolved-with-exact-ui-and-fresh-visual-evidence",
+        "screen": "G-14-my-charms-largest-more-9",
+        "observedIssue": "Two-column loose grid splits Zia Rainbow into Rainbo and w. Needs natural accessibility layout that retains whole words.",
+        "source": "WeezyPop/SocialPersonal.swift loose item grid",
+        "visualReceipt": {
+          "path": "evidence/receipts/visual-review-ax-b124e36143c8.json",
+          "sha256": "457985bab1deb194dc459c6213b88c1f67ad72e9135c65136c93a41810359349",
+          "originalSourceSHA256": "b124e36143c886692a4b327d920b8f5d8e56d5e3d411ed98335fafbb131c13f1",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T083230Z/visual-review-ax.json"
+        },
+        "resolution": "Current085114Z actual scoped AX frames independently verify unclipped23/CHARMS, whole Zia Rainbow and full Set of Two variant. Original failed visual receipt remains preserved; exact final QA is separately recorded.",
+        "passingReceipts": [
+          {
+            "path": "evidence/receipts/20261008T084141Z-06ec28-47f573276c6c.json",
+            "sha256": "f22c182d4b32b8df447a473fcf448c40772ec12375d7a7cb6b516ee47f716b3e",
+            "originalSourceSHA256": "47f573276c6caba6a61e559e9024d3b3f250e9b0df5f82c25dd0631b296d7046",
+            "originalSourcePath": "build/Migration/20261008T084141Z-06ec28.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T084236Z-b85eb5-101b32298ce7.json",
+            "sha256": "72699f39d1eea11591a5de1036c7742581c1f37d5ba12aab8f5b084db85a6e7d",
+            "originalSourceSHA256": "101b32298ce7fa31cee9a712f414916e73d6b943bd7ad2dd7f94eb033dd1734f",
+            "originalSourcePath": "build/Migration/20261008T084236Z-b85eb5.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T084430Z-aaa0d4-eb405f8535e9.json",
+            "sha256": "2ed4ac1bc6159598e646d203551f783cb93d8cf167523f52c7c3b78234cb6157",
+            "originalSourceSHA256": "eb405f8535e954415db80bcbc254acc83adb3b04d9ba8a79178dd530b4391cf3",
+            "originalSourcePath": "build/Migration/20261008T084430Z-aaa0d4.json"
+          }
+        ],
+        "resolvedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+        }
+      },
+      {
+        "id": "build33-083230-ax-residual-3",
+        "status": "resolved-with-exact-ui-and-fresh-visual-evidence",
+        "screen": "G-15-wishlist-largest-more",
+        "observedIssue": "Most Wanted selected variant shows Set of T...; full Set of Two versus Three distinction is not visible.",
+        "source": "WeezyPop/SocialPersonal.swift wishlist featured item subtitle",
+        "visualReceipt": {
+          "path": "evidence/receipts/visual-review-ax-b124e36143c8.json",
+          "sha256": "457985bab1deb194dc459c6213b88c1f67ad72e9135c65136c93a41810359349",
+          "originalSourceSHA256": "b124e36143c886692a4b327d920b8f5d8e56d5e3d411ed98335fafbb131c13f1",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T083230Z/visual-review-ax.json"
+        },
+        "resolution": "Current085114Z actual scoped AX frames independently verify unclipped23/CHARMS, whole Zia Rainbow and full Set of Two variant. Original failed visual receipt remains preserved; exact final QA is separately recorded.",
+        "passingReceipts": [
+          {
+            "path": "evidence/receipts/20261008T084141Z-06ec28-47f573276c6c.json",
+            "sha256": "f22c182d4b32b8df447a473fcf448c40772ec12375d7a7cb6b516ee47f716b3e",
+            "originalSourceSHA256": "47f573276c6caba6a61e559e9024d3b3f250e9b0df5f82c25dd0631b296d7046",
+            "originalSourcePath": "build/Migration/20261008T084141Z-06ec28.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T084236Z-b85eb5-101b32298ce7.json",
+            "sha256": "72699f39d1eea11591a5de1036c7742581c1f37d5ba12aab8f5b084db85a6e7d",
+            "originalSourceSHA256": "101b32298ce7fa31cee9a712f414916e73d6b943bd7ad2dd7f94eb033dd1734f",
+            "originalSourcePath": "build/Migration/20261008T084236Z-b85eb5.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T084430Z-aaa0d4-eb405f8535e9.json",
+            "sha256": "2ed4ac1bc6159598e646d203551f783cb93d8cf167523f52c7c3b78234cb6157",
+            "originalSourceSHA256": "eb405f8535e954415db80bcbc254acc83adb3b04d9ba8a79178dd530b4391cf3",
+            "originalSourcePath": "build/Migration/20261008T084430Z-aaa0d4.json"
+          }
+        ],
+        "resolvedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+        }
+      },
+      {
+        "id": "build33-084526-wishlist-row-midword-1",
+        "status": "resolved-with-exact-ui-and-fresh-visual-evidence",
+        "observedIssue": "Lucky Horseshoe originally split within a word in an AX wishlist row.",
+        "failedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-d9656a1ec6ca.json",
+          "sha256": "8ae12b5247855d7584e73620ab51ffa12ce1df05b384691a53652cd390214ef5",
+          "originalSourceSHA256": "d9656a1ec6cad66971e6264efb94c517418b245e93ec5495c34f31b8f3143e00",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T084526Z/visual-review.json"
+        },
+        "resolvedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+        },
+        "resolution": "The production AX row places full-width details beneath the photograph/remove control. Final085114 actual full-tail visual verifies whole product names; the exact shipping-root test passed on small Debug and primary/small Release. No guest fixture is substituted for these UI checks.",
+        "passingReceipts": [
+          {
+            "path": "evidence/receipts/20261008T085433Z-6834d7-d2bf0b13cde9.json",
+            "sha256": "47f65571e9cc7666e0a537f72cfd0603e97d3a4753683a962b23e544fe2b625c",
+            "originalSourceSHA256": "d2bf0b13cde919fd4adeae92fc6be47d7dd389da35a650f2cc91f004bd3244fa",
+            "originalSourcePath": "build/Migration/20261008T085433Z-6834d7.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T085527Z-a950de-069ad3fbb3cb.json",
+            "sha256": "588a52104712f16e2c42866a4016c461687687ce227cef7b93de2a637309a120",
+            "originalSourceSHA256": "069ad3fbb3cb5ffed64b8178f27992dd16b33a787b6c8f7d55f773baec8cf123",
+            "originalSourcePath": "build/Migration/20261008T085527Z-a950de.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T085728Z-4a100a-0f3e849f1f05.json",
+            "sha256": "43afa23af8179e1926124e9f4fe69c9c3fd562718df7f9ead9cfdc0fec828f6a",
+            "originalSourceSHA256": "0f3e849f1f057de6bb1a1dbe3da0b661f23fdf32ebbc6f876f24c2b1eeb493e6",
+            "originalSourcePath": "build/Migration/20261008T085728Z-4a100a.json"
+          }
+        ],
+        "source": "WeezyPop/SocialPersonal.swift PersonalWishRow AX branch"
+      },
+      {
+        "id": "build33-084526-wishlist-row-midword-2",
+        "status": "resolved-with-exact-ui-and-fresh-visual-evidence",
+        "observedIssue": "Battenberg Cake originally split within a word in an AX wishlist row.",
+        "failedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-d9656a1ec6ca.json",
+          "sha256": "8ae12b5247855d7584e73620ab51ffa12ce1df05b384691a53652cd390214ef5",
+          "originalSourceSHA256": "d9656a1ec6cad66971e6264efb94c517418b245e93ec5495c34f31b8f3143e00",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T084526Z/visual-review.json"
+        },
+        "resolvedVisualReceipt": {
+          "path": "evidence/receipts/visual-review-29545fccafb3.json",
+          "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+          "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+          "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+        },
+        "resolution": "The production AX row places full-width details beneath the photograph/remove control. Final085114 actual full-tail visual verifies whole product names; the exact shipping-root test passed on small Debug and primary/small Release. No guest fixture is substituted for these UI checks.",
+        "passingReceipts": [
+          {
+            "path": "evidence/receipts/20261008T085433Z-6834d7-d2bf0b13cde9.json",
+            "sha256": "47f65571e9cc7666e0a537f72cfd0603e97d3a4753683a962b23e544fe2b625c",
+            "originalSourceSHA256": "d2bf0b13cde919fd4adeae92fc6be47d7dd389da35a650f2cc91f004bd3244fa",
+            "originalSourcePath": "build/Migration/20261008T085433Z-6834d7.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T085527Z-a950de-069ad3fbb3cb.json",
+            "sha256": "588a52104712f16e2c42866a4016c461687687ce227cef7b93de2a637309a120",
+            "originalSourceSHA256": "069ad3fbb3cb5ffed64b8178f27992dd16b33a787b6c8f7d55f773baec8cf123",
+            "originalSourcePath": "build/Migration/20261008T085527Z-a950de.json"
+          },
+          {
+            "path": "evidence/receipts/20261008T085728Z-4a100a-0f3e849f1f05.json",
+            "sha256": "43afa23af8179e1926124e9f4fe69c9c3fd562718df7f9ead9cfdc0fec828f6a",
+            "originalSourceSHA256": "0f3e849f1f057de6bb1a1dbe3da0b661f23fdf32ebbc6f876f24c2b1eeb493e6",
+            "originalSourcePath": "build/Migration/20261008T085728Z-4a100a.json"
+          }
+        ],
+        "source": "WeezyPop/SocialPersonal.swift PersonalWishRow AX branch"
+      }
+    ],
+    "finalAuditReceipt": null
+  },
+  "remainingGates": [
+    "F50 distinct associated origin and installed-device Safari opening",
+    "Physical-device layout/real-account checkout/APNs acceptance"
+  ],
+  "release": {
+    "signed": true,
+    "uploaded": true,
+    "deployedAppOnlyWeb": 38,
+    "testFlightAcceptanceClaimed": true,
+    "version": "1.0",
+    "build": 33,
+    "buildID": "4d1e6abd-17f9-4279-9655-d1c8f737825f",
+    "processingState": "VALID",
+    "betaReviewState": "APPROVED",
+    "internalBuildState": "IN_BETA_TESTING",
+    "externalBuildState": "IN_BETA_TESTING",
+    "groups": [
+      "Weezy Pop Internal",
+      "Lou & Nat"
+    ],
+    "autoNotifyPreserved": true,
+    "ipaSHA256": "e0ce1ee7e8eb655b4dc6a099434139d8d37c7cc69b509a7956b2c0674fafab8c",
+    "readBackAt": "2026-10-08T09:05:16.444852+00:00",
+    "receipts": [
+      {
+        "path": "evidence/receipts/package-verification-8fb0df2f0bb6.json",
+        "sha256": "2689480e0ca23171f0d3191b9f00ea5f2669ab0f878f92ef1712622b7da8521f",
+        "originalSourceSHA256": "8fb0df2f0bb6f6e811e03e4e0d530f8c12cad74ddc71311db9e7141191a9dfc8",
+        "originalSourcePath": "build/Release33/package-verification.json"
+      },
+      {
+        "path": "evidence/receipts/apple-validation-e517baf29521.json",
+        "sha256": "ec886766054658704802aed338a47f835738f4b83a427858d67f36567536da05",
+        "originalSourceSHA256": "e517baf29521160a5972eb1955a10e56e5837cd7b64ad9daf7ab2b5f056104e0",
+        "originalSourcePath": "build/Release33/apple-validation.json"
+      },
+      {
+        "path": "evidence/receipts/upload-ffc7b4e00fd6.json",
+        "sha256": "38d75d89476a1ba4f5dffd1caaa884a694222c7c3ebf25ffcd1ae65a74d52ec4",
+        "originalSourceSHA256": "ffc7b4e00fd651a1cc00921b0e7e3c197c490da7dba5e68b44c41967598bad2d",
+        "originalSourcePath": "build/Release33/upload.json"
+      },
+      {
+        "path": "evidence/receipts/groups-readback-5a99ababcdf0.json",
+        "sha256": "8d5f99bcfa7c6b1d5643cdacc562e67c41da68f12885e79ee4bed73d989fb03f",
+        "originalSourceSHA256": "5a99ababcdf0d092718714b4826257c757496efb2baf24026800b01a917ece4a",
+        "originalSourcePath": "build/Release33/groups-readback.json"
+      },
+      {
+        "path": "evidence/receipts/distribution-readback-d5405e05be72.json",
+        "sha256": "6c43ea41199278ef48e1b848723487ad2170d149711b27e901b246a9c93ff75e",
+        "originalSourceSHA256": "d5405e05be72ce2863a69779e3fb44795ff86b4ff2cc337eeb06dfdb62fb7fc5",
+        "originalSourcePath": "build/Release33/distribution-readback.json"
+      },
+      {
+        "path": "evidence/receipts/review-readback-f0bc15c683fb.json",
+        "sha256": "c83622144b8bfa1b8dc091afc27f2f57403b733280fcf1a2484575b3f3b183a0",
+        "originalSourceSHA256": "f0bc15c683fb6792c8d7a864c112e9715437ba8449c404f2034a867f53f5be84",
+        "originalSourcePath": "build/Release33/review-readback.json"
+      },
+      {
+        "path": "evidence/receipts/notes-readback-70931e3fadb6.json",
+        "sha256": "9b7944ef91e65de357a08285ebe0546914d33e19bfb3cd97a3d80ef068588e65",
+        "originalSourceSHA256": "70931e3fadb67d0d8ec519f51d4eb6c343f1e20ec0bec8a9f2f7b0b81087572c",
+        "originalSourcePath": "build/Release33/notes-readback.json"
+      },
+      {
+        "path": "evidence/receipts/web-live-verification-c5df9724c268.json",
+        "sha256": "9ef72b406c45982302ab5bfb58d3344aea802ca016959acb079373806f1552b9",
+        "originalSourceSHA256": "c5df9724c2686326e0a1d71e21501ce7edaf3f0348721685b9e586c6881b3365",
+        "originalSourcePath": "build/Release33/web-live-verification.json"
+      },
+      {
+        "path": "evidence/receipts/final-production-source-association-67bfda8ad9e7.json",
+        "sha256": "c4abaf38c719912037f99f1c08a7d16f73aa81cd71f374187021f37c01fd7841",
+        "originalSourceSHA256": "67bfda8ad9e75e0b3ccb96fa167d1bd67871303cc897e1f276e44c65e7205368",
+        "originalSourcePath": "build/Release33/final-production-source-association.json"
+      }
+    ]
+  },
+  "videoEvidence": {
+    "receipt": {
+      "path": "evidence/receipts/video-provenance-3abb34dd907d.json",
+      "sha256": "e2e89afe955782011b841a6229997c1bb1cee26bb1c7679e221a35facbabb1f3",
+      "originalSourceSHA256": "3abb34dd907dc813fb0a39044192109da54d95d82842b780e0bcefcf98fb78e6",
+      "originalSourcePath": "build/Release33/final-qa/video-provenance.json"
+    },
+    "file": "S-02-tap-to-add.mp4",
+    "sha256": "57c083f326248454eb8819060c8ea80947236e85e7aa8ee32ba55e5f000ccc34",
+    "durationSeconds": 5.3,
+    "viewport": {
+      "width": 402,
+      "height": 874,
+      "scale": 3
+    },
+    "fixture": "Isolated Claire/Moon+Sun owned2of6; two-set functional fixture, not all8set screenshot fixture",
+    "interaction": "actual + tap, stripe/pending change, toast and UNDO",
+    "noPlaybackSpeedChange": true,
+    "visualVerification": "Root verified original and final5.3s clip: before, plus tap, pending stripe/toast, Undo and the same before state. Child verified final MP4 byte hash and metadata.",
+    "scope": "Actual native simulator shipping AppRoot UI recording, two-set isolated functional fixture. Not the393pt content-canvas gallery or live customer/checkout evidence.",
+    "clipTiming": "Trim points verified against exact video frames: original57.2seconds before tap,58.0pending+toast,62.0afterUndo. Recorder startup differs from wall-clock attachment timestamps; no speed change or UI edits."
+  },
+  "productionSourceAssociation": {
+    "path": "evidence/receipts/production-source-association-73bc362531ef.json",
+    "sha256": "fd698166e27b49778a8724a751a820049963f2990f970f890606d4a83f624242",
+    "originalSourceSHA256": "73bc362531efbab67ae77a83ce7396e946df407a60c8e07fcc8b372bf97f1010",
+    "originalSourcePath": "work/build33/production-source-association.json"
+  },
+  "designFixEvidenceReceipts": [
+    {
+      "path": "evidence/receipts/visual-review-077c87dfc341.json",
+      "sha256": "f050efbf59a6113cccea75372e71408c5241d0879ea84cff060137e227e33c51",
+      "originalSourceSHA256": "077c87dfc341cbc26c7180056c330ead8357cc418d15c69eeb71859588702e10",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T080020Z/visual-review.json"
+    },
+    {
+      "path": "evidence/receipts/capture-receipt-746f2e64c983.json",
+      "sha256": "784d3259b0fb66eac524ca709c8b108397d74d457e2ce5d332c13314bf283dd4",
+      "originalSourceSHA256": "746f2e64c9835be66214fdc0ffb7c52e75ffbf93c2b0c3e10f8da127dd2ec558",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/capture-receipt.json"
+    },
+    {
+      "path": "evidence/receipts/source-freeze-d94342b198fa.json",
+      "sha256": "cbd5b76a478de2397fcc4afcff782fd888e2d56230659c2071ffb8c5184cf302",
+      "originalSourceSHA256": "d94342b198fa3cbc2e148ff70ccc8b1269f6b331deb07d3941d2539caf73d910",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/source-freeze.json"
+    },
+    {
+      "path": "evidence/receipts/visual-review-29545fccafb3.json",
+      "sha256": "95c34ac330ba49b30a4c02a3111e35e7c46c6fe2e557bf35a13e3f3f8de74e23",
+      "originalSourceSHA256": "29545fccafb39082a0c876d66345e69b0b05ae51cbc7a6037519a75de2218a98",
+      "originalSourcePath": "build/DesignAgentReview33/final-native-batch/20261008T085114Z/visual-review.json"
+    },
+    {
+      "path": "evidence/receipts/20261008T085114Z-51e9f4-7bf485e9d2a1.json",
+      "sha256": "f227f6466460ceec3eb5035553f42d9992a2a181b5db0a9246714d4b1a661e40",
+      "originalSourceSHA256": "7bf485e9d2a14f4de51aab0fecb78d3257e4a360d61613d492283ead2190a807",
+      "originalSourcePath": "build/Migration/20261008T085114Z-51e9f4.json"
+    },
+    {
+      "path": "evidence/receipts/20261008T085433Z-6834d7-d2bf0b13cde9.json",
+      "sha256": "47f65571e9cc7666e0a537f72cfd0603e97d3a4753683a962b23e544fe2b625c",
+      "originalSourceSHA256": "d2bf0b13cde919fd4adeae92fc6be47d7dd389da35a650f2cc91f004bd3244fa",
+      "originalSourcePath": "build/Migration/20261008T085433Z-6834d7.json"
+    },
+    {
+      "path": "evidence/receipts/20261008T085527Z-a950de-069ad3fbb3cb.json",
+      "sha256": "588a52104712f16e2c42866a4016c461687687ce227cef7b93de2a637309a120",
+      "originalSourceSHA256": "069ad3fbb3cb5ffed64b8178f27992dd16b33a787b6c8f7d55f773baec8cf123",
+      "originalSourcePath": "build/Migration/20261008T085527Z-a950de.json"
+    },
+    {
+      "path": "evidence/receipts/20261008T085728Z-4a100a-0f3e849f1f05.json",
+      "sha256": "43afa23af8179e1926124e9f4fe69c9c3fd562718df7f9ead9cfdc0fec828f6a",
+      "originalSourceSHA256": "0f3e849f1f057de6bb1a1dbe3da0b661f23fdf32ebbc6f876f24c2b1eeb493e6",
+      "originalSourcePath": "build/Migration/20261008T085728Z-4a100a.json"
+    },
+    {
+      "path": "evidence/receipts/final-raw-verification-1a1aa1c5f355.json",
+      "sha256": "8b1fcfd6df94e8bed97308c54db8005bc91dd37ad0dbe880d8e0531dc35edfef",
+      "originalSourceSHA256": "1a1aa1c5f3554f7b43dd6b4d1a06064c385d0d9c4741682bd6471fa336fed9bf",
+      "originalSourcePath": "work/build33/final-raw-verification.json"
+    },
+    {
+      "path": "evidence/receipts/production-source-association-73bc362531ef.json",
+      "sha256": "fd698166e27b49778a8724a751a820049963f2990f970f890606d4a83f624242",
+      "originalSourceSHA256": "73bc362531efbab67ae77a83ce7396e946df407a60c8e07fcc8b372bf97f1010",
+      "originalSourcePath": "work/build33/production-source-association.json"
+    }
+  ],
+  "publicNormalization": {
+    "status": "final public evidence with actual approved TestFlight release",
+    "receiptOriginalsPreservedBySHA256": true,
+    "localAbsolutePathsOmitted": true,
+    "relativePublishedPaths": true,
+    "scope": "Normalized public evidence summaries distinguish their own byte hashes from original private receipt hashes. This draft retains every failure and open acceptance gate."
+  }
+}

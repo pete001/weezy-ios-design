@@ -1,0 +1,9 @@
+{
+  "format": "public normalized evidence summary; not the untouched original receipt",
+  "originalSourcePath": "build/Release33F50/focused-tests.log",
+  "originalSourceSHA256": "4bd41e93900fcff8b0c232164527b622736e7f7d9f175bd6f38bab8f3743fb6d",
+  "normalization": "Local absolute paths and credential-named values are omitted. Structured results, statuses and observed failure history are retained. Original bytes remain privately identified by SHA256.",
+  "content": {
+    "text": "✔ private edits require selected explicit review, old link never revives, stale privacy requests fail (40.695625ms)\n✔ besties-only projection requires a live reciprocal authenticated connection (23.569583ms)\n✔ shared stack resolves exact Shopify finish, escapes captions, requires opt-in and scoped revocation (21.544375ms)\n✔ JPEG sanitizer rejects oversized/non-JPEG content and strips metadata without changing scan pixels (0.542041ms)\n✔ gift review is explicit, signed, price-bound, replay-safe and never fabricates payment (29.750709ms)\n✔ AASA restricts app routes; app-only assets use the approved native type and accessible action token (2.14125ms)\n✔ F-50 wishlist, stack and invitation buttons preserve exact HTTPS app context below install actions (11.85925ms)\n✔ Club deletion erases browser gift notes and migration removes unowned retry rows (15.772084ms)\n✔ public gift moments require the recipient’s current paid event and omit all prices (27.960916ms)\n✔ ordinary signed receipt confirms payment without claiming an unverified gift or delivery (0.207375ms)\nℹ tests 10\nℹ suites 0\nℹ pass 10\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 233.399875\n"
+  }
+}
