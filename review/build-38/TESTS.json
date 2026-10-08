@@ -1,0 +1,1989 @@
+{
+  "build": 38,
+  "reviewBuild": 38,
+  "verifiedAt": "2026-10-08T23:34:55.181458+00:00",
+  "functional": {
+    "finalModelPassed": 50,
+    "nativeInteractionPassesByDeviceAndConfiguration": 13,
+    "allSelectedFinalChecksPassed": true,
+    "skipped": 0
+  },
+  "freshNativeCaptureTestsPassed": 1,
+  "finalRuns": [
+    {
+      "receipt": "build/Migration/20261008T232623Z-8a4f98.json",
+      "sha256": "3b819348cbf9e94c86fe160853e6d9e63d9580e2d4aae911bfc9cd81fea66d6a",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "summary": {
+        "total": 51,
+        "passed": 51,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 46634,
+        "cases": [
+          {
+            "identifier": "LaunchJobsTests/testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "name": "testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "LaunchJobsTests/testAppStoryOverridesAndRestoresShopifyDescription()",
+            "name": "testAppStoryOverridesAndRestoresShopifyDescription()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "LaunchJobsTests/testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "name": "testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "name": "testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 10
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteSetHasEveryExactFinishAndOneChain()",
+            "name": "testCompleteSetHasEveryExactFinishAndOneChain()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 11
+          },
+          {
+            "identifier": "LaunchJobsTests/testEveryPublishedCharmHasShopifyStoryCopy()",
+            "name": "testEveryPublishedCharmHasShopifyStoryCopy()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 57
+          },
+          {
+            "identifier": "LaunchJobsTests/testHeaderOrderMatchesMerchantRequest()",
+            "name": "testHeaderOrderMatchesMerchantRequest()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "name": "testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 17
+          },
+          {
+            "identifier": "LaunchJobsTests/testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "name": "testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 13
+          },
+          {
+            "identifier": "LaunchJobsTests/testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "name": "testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 180
+          },
+          {
+            "identifier": "LaunchJobsTests/testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "name": "testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "name": "testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "name": "testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "name": "testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "name": "testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "name": "testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "LaunchJobsTests/testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "name": "testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "name": "testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "name": "testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "name": "testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+            "name": "testReselectReturnsSameExactVariant()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+            "name": "testSingleOptionRemainsPresentAndPreselected()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+            "name": "testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "name": "testLengthAndHardwareRetainExactShopifyCombination()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "name": "testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "name": "testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild38Shop()",
+            "name": "testCaptureBuild38Shop()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 36000
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "name": "testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "name": "testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "name": "testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "name": "testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 24
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "name": "testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+            "name": "testTappingSameVariantRequestsItsPhotoAgain()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "name": "testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "name": "testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 27
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "name": "testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "name": "testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 33
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "name": "testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 39
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+            "name": "testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 17
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T231550Z-004785.json",
+      "sha256": "564f649561af9db5000d7b1ca0613800fa72c4b738bb8527c8ceabbe1c86c9de",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 102562,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 42000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+            "name": "testPhotoPushesPageAndBackPreservesFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          },
+          {
+            "identifier": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "name": "testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          },
+          {
+            "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 12000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T231736Z-a43e8d.json",
+      "sha256": "934ed37a61df89435d6e91e97e7aea60537a567c6b7832e42a83b3ddc2761516",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 136000,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 44000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 29000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 26000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T231956Z-19f770.json",
+      "sha256": "fdb53983a86ba1f21d40de6693817c485b1a0590e3a02dd9f2f7e935cc626573",
+      "success": true,
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 160753,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 35000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T232240Z-dbd22f.json",
+      "sha256": "09153a3b0a71c4cab3886d72a8f97daad83d1ce827e444728597ce1d66a07a70",
+      "success": true,
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 72884,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 34000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T232542Z-6bb379.json",
+      "sha256": "56a2aeef0c099ef79c2f8c43f566dd2665850dfd32fbcd70a92c41522f7d085f",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 37009,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testStyleDropdownKeepsCategoryAndNativeBack()",
+            "name": "testStyleDropdownKeepsCategoryAndNativeBack()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      }
+    }
+  ],
+  "failedOrSupersededInitialUIRuns": [
+    {
+      "receipt": "build/Migration/20261008T225035Z-e334b9.json",
+      "sha256": "f03a36809da67fad3c33b326cb64753c9934ef6bab5c191ee91944cfffdf35c7",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 2,
+        "failed": 2,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 105016,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 32000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+            "name": "testPhotoPushesPageAndBackPreservesFeed()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 27000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "name": "testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 15000
+          },
+          {
+            "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T225426Z-d1a6c9.json",
+      "sha256": "842863bbfcddbc2b2adee41cdf5ee92b4c0782c8eb7b5b3702befb6e263c4cf1",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 3,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 127058,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 59000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+            "name": "testPhotoPushesPageAndBackPreservesFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 16000
+          },
+          {
+            "identifier": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "name": "testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          },
+          {
+            "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 12000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T225731Z-b59cf6.json",
+      "sha256": "f3e4575b70ea6e79671a477fec69d6dbe995be544741c3b66357373e495f7d31",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 123558,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 63000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+            "name": "testPhotoPushesPageAndBackPreservesFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 15000
+          },
+          {
+            "identifier": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "name": "testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          },
+          {
+            "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T225938Z-e9405f.json",
+      "sha256": "5b6cbd6325e6add639fb84da1ac0476f4ee7efb092346b95d5ea0f32f0410f19",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 3,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 133851,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 24000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 26000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 25000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T230325Z-f3b148.json",
+      "sha256": "153bc709c9e70e07fd9e8519f29a7ca4c68317d79a74b588584f7aad0b551f90",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 122868,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 61000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+            "name": "testPhotoPushesPageAndBackPreservesFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 13000
+          },
+          {
+            "identifier": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "name": "testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 16000
+          },
+          {
+            "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 12000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T230532Z-9b0e3a.json",
+      "sha256": "4499972a948cf9db880451cb9d60e7e2af790aba9467855fc942b9533d0a96f9",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 160148,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+            "name": "testLargestFeedAndProductRemainScrollable()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 63000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T230816Z-1909c1.json",
+      "sha256": "745a497dd8587d281d8a7ee2d9787df10ea97b3a802669f9b7f7526846e03f79",
+      "success": true,
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 174059,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 35000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T231114Z-9c3158.json",
+      "sha256": "8fceb11462dd84af64497dd28ef484b57c3ef1338b8ad987e4b8c0528977b4db",
+      "success": true,
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 74001,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 35000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      }
+    }
+  ],
+  "supersededModelRuns": [
+    {
+      "receipt": "build/Migration/20261008T224934Z-62df6c.json",
+      "sha256": "22023d5016d5d14598b17e8481fe8a9b444f33d0f3c090767b28432827c0f506",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 17,
+        "passed": 16,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 28763,
+        "cases": [
+          {
+            "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+            "name": "testReselectReturnsSameExactVariant()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+            "name": "testSingleOptionRemainsPresentAndPreselected()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 13
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "name": "testLengthAndHardwareRetainExactShopifyCombination()",
+            "className": "PopShop38RulesTests",
+            "status": "failed",
+            "durationMs": 370,
+            "message": "XCTAssertEqual failed: (\"[\"Colour\", \"Hardware\"]\") is not equal to (\"[\"Length\", \"Hardware\"]\")"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "name": "testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 12
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "name": "testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "message": "XCTAssertEqual failed: (\"[\"Colour\", \"Hardware\"]\") is not equal to (\"[\"Length\", \"Hardware\"]\")"
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T225305Z-7598d5.json",
+      "sha256": "9170af61b4e13b4b529513f84fc9795aa9c521f3dbd431091008bae511ce1d59",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "summary": {
+        "total": 49,
+        "passed": 48,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 59321,
+        "cases": [
+          {
+            "identifier": "LaunchJobsTests/testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "name": "testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "LaunchJobsTests/testAppStoryOverridesAndRestoresShopifyDescription()",
+            "name": "testAppStoryOverridesAndRestoresShopifyDescription()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "name": "testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "name": "testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 12
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteSetHasEveryExactFinishAndOneChain()",
+            "name": "testCompleteSetHasEveryExactFinishAndOneChain()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 10
+          },
+          {
+            "identifier": "LaunchJobsTests/testEveryPublishedCharmHasShopifyStoryCopy()",
+            "name": "testEveryPublishedCharmHasShopifyStoryCopy()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 58
+          },
+          {
+            "identifier": "LaunchJobsTests/testHeaderOrderMatchesMerchantRequest()",
+            "name": "testHeaderOrderMatchesMerchantRequest()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "name": "testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 14
+          },
+          {
+            "identifier": "LaunchJobsTests/testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "name": "testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "LaunchJobsTests/testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "name": "testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 87
+          },
+          {
+            "identifier": "LaunchJobsTests/testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "name": "testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "name": "testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "name": "testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "name": "testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "name": "testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "name": "testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "LaunchJobsTests/testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "name": "testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "name": "testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "name": "testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "name": "testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+            "name": "testReselectReturnsSameExactVariant()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+            "name": "testSingleOptionRemainsPresentAndPreselected()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "name": "testLengthAndHardwareRetainExactShopifyCombination()",
+            "className": "PopShop38RulesTests",
+            "status": "failed",
+            "durationMs": 300,
+            "message": "XCTAssertEqual failed: (\"[\"Colour\", \"Hardware\"]\") is not equal to (\"[\"Length\", \"Hardware\"]\")"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "name": "testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "name": "testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild38Shop()",
+            "name": "testCaptureBuild38Shop()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 36000
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "name": "testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "name": "testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "name": "testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "name": "testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "name": "testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+            "name": "testTappingSameVariantRequestsItsPhotoAgain()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "name": "testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "name": "testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 43
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "name": "testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "name": "testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 16
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "name": "testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 70
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "message": "XCTAssertEqual failed: (\"[\"Colour\", \"Hardware\"]\") is not equal to (\"[\"Length\", \"Hardware\"]\")"
+          }
+        ]
+      }
+    }
+  ],
+  "currentAccessibilityAudits": [
+    {
+      "receipt": "build/Migration/20261008T232713Z-55b980.json",
+      "sha256": "2df269989624df1a06253d17d5d843829fe4ab681b6c60d250d65179cb7f0fe9",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 1,
+        "passed": 0,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 23089,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+            "name": "testUnsuppressedShopAccessibility()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 15000,
+            "message": "Text clipped"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+            "message": "Text clipped"
+          }
+        ]
+      }
+    }
+  ],
+  "accessibilityFindings": [
+    {
+      "type": "Contrast failed",
+      "description": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "Attributes: StaticText, {{51.0, 830.0}, {31.0, 13.7}}, identifier: 'shop-piece-photo', label: '2 / 35'",
+      "sourceReceipt": "build/Migration/20261008T232713Z-55b980.json",
+      "attachmentSHA256": "1927a3e2ca2484523c73f6e71e5281b31a5dc4d7f9c592cfbb937f2a7fa4309d",
+      "status": "open accessibility track"
+    },
+    {
+      "type": "Text clipped",
+      "description": "Text of this SwiftUI.AccessibilityNode may be clipped at larger Dynamic Type sizes.",
+      "element": "Attributes: Button, {{34.0, 713.0}, {270.0, 54.0}}, identifier: 'feed-add-to-basket', label: 'ADD TO BASKET · £36'",
+      "sourceReceipt": "build/Migration/20261008T232713Z-55b980.json",
+      "attachmentSHA256": "2e6d29d1c040d90a712039f70ffe241d8f8ff7256a0fa1007a8747c90d233ced",
+      "status": "open accessibility track"
+    },
+    {
+      "type": "Text clipped",
+      "description": "Text of this SwiftUI.AccessibilityNode may be clipped at larger Dynamic Type sizes.",
+      "element": "Attributes: StaticText, {{34.0, 657.0}, {331.0, 32.0}}, label: 'Designed to wear as an earring or a necklace charm! Meet the Freak Charm, the bold half of our iconic Freak Show Earrings, now available to buy as a standalone charm. Handcrafted from high quality mirrored and pearl acrylic, the statement arrow design features the word “Freak” and is finished with vibrant yellow Swarovski crystals for that extra pop of sparkle. Each Freak Charm comes complete with our Signature Connector, made from stainless steel and finished in 18k PVD gold plating or stainless silver. Our hardware is waterproof, tarnish resistant and hypoallergenic. Love the full look? Freak is also available as part of our matching Freak Show Earrings set, pairing the Freak and Show charms together.'",
+      "sourceReceipt": "build/Migration/20261008T232713Z-55b980.json",
+      "attachmentSHA256": "2d5ef4a630392cf3e2bed1c27ae6ce7e64a8c276d9deb50e7546dbafadc40b46",
+      "status": "open accessibility track"
+    }
+  ],
+  "accessibilityReview": {
+    "reviewedAt": "2026-10-08T23:29:03.294164+00:00",
+    "decision": "TestFlight beta may proceed; launch accessibility acceptance remains open",
+    "findings": [
+      {
+        "type": "Contrast failed",
+        "description": "Contrast failed for SwiftUI.AccessibilityNode",
+        "element": "Attributes: StaticText, {{51.0, 830.0}, {31.0, 13.7}}, identifier: 'shop-piece-photo', label: '2 / 35'",
+        "sourceReceipt": "build/Migration/20261008T232713Z-55b980.json",
+        "attachmentSHA256": "1927a3e2ca2484523c73f6e71e5281b31a5dc4d7f9c592cfbb937f2a7fa4309d",
+        "status": "open accessibility track"
+      },
+      {
+        "type": "Text clipped",
+        "description": "Text of this SwiftUI.AccessibilityNode may be clipped at larger Dynamic Type sizes.",
+        "element": "Attributes: Button, {{34.0, 713.0}, {270.0, 54.0}}, identifier: 'feed-add-to-basket', label: 'ADD TO BASKET · £36'",
+        "sourceReceipt": "build/Migration/20261008T232713Z-55b980.json",
+        "attachmentSHA256": "2e6d29d1c040d90a712039f70ffe241d8f8ff7256a0fa1007a8747c90d233ced",
+        "status": "open accessibility track"
+      },
+      {
+        "type": "Text clipped",
+        "description": "Text of this SwiftUI.AccessibilityNode may be clipped at larger Dynamic Type sizes.",
+        "element": "Attributes: StaticText, {{34.0, 657.0}, {331.0, 32.0}}, label: 'Designed to wear as an earring or a necklace charm! Meet the Freak Charm, the bold half of our iconic Freak Show Earrings, now available to buy as a standalone charm. Handcrafted from high quality mirrored and pearl acrylic, the statement arrow design features the word “Freak” and is finished with vibrant yellow Swarovski crystals for that extra pop of sparkle. Each Freak Charm comes complete with our Signature Connector, made from stainless steel and finished in 18k PVD gold plating or stainless silver. Our hardware is waterproof, tarnish resistant and hypoallergenic. Love the full look? Freak is also available as part of our matching Freak Show Earrings set, pairing the Freak and Show charms together.'",
+        "sourceReceipt": "build/Migration/20261008T232713Z-55b980.json",
+        "attachmentSHA256": "2d5ef4a630392cf3e2bed1c27ae6ce7e64a8c276d9deb50e7546dbafadc40b46",
+        "status": "open accessibility track"
+      }
+    ],
+    "evidence": "Largest feed and product screenshots/continuations show complete action labels/prices and full body text; primary/small actual UI and optimized Release passed. Normal teaser deliberately limited to2 lines per design, largest teaser expands. Contrast report targets next-card2/35 beneath native tab glass. No issue handler suppression.",
+    "requiredFollowup": "Manual VoiceOver/contrast acceptance and further automated audit review before public launch."
+  },
+  "earlierAccessibilityAudits": [
+    {
+      "receipt": "build/Migration/20261008T231326Z-b08660.json",
+      "sha256": "063c6ae6cb5bf4b9216b143d2260437d0c31c5c9b9b15f276d17a4532f6fe23d",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 1,
+        "passed": 0,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 20023,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+            "name": "testUnsuppressedShopAccessibility()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 14000,
+            "message": "Text clipped"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+            "message": "Text clipped"
+          }
+        ]
+      }
+    }
+  ],
+  "preAnchorCaptures": [
+    {
+      "receipt": "build/Migration/20261008T231239Z-9928a7.json",
+      "sha256": "07da829c0e779e93a7b322d5626865258249aa11306f52c26432b731c883cc28",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "summary": {
+        "total": 51,
+        "passed": 51,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 44317,
+        "cases": [
+          {
+            "identifier": "LaunchJobsTests/testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "name": "testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "LaunchJobsTests/testAppStoryOverridesAndRestoresShopifyDescription()",
+            "name": "testAppStoryOverridesAndRestoresShopifyDescription()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "name": "testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "name": "testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 8
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteSetHasEveryExactFinishAndOneChain()",
+            "name": "testCompleteSetHasEveryExactFinishAndOneChain()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "LaunchJobsTests/testEveryPublishedCharmHasShopifyStoryCopy()",
+            "name": "testEveryPublishedCharmHasShopifyStoryCopy()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 49
+          },
+          {
+            "identifier": "LaunchJobsTests/testHeaderOrderMatchesMerchantRequest()",
+            "name": "testHeaderOrderMatchesMerchantRequest()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "name": "testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 14
+          },
+          {
+            "identifier": "LaunchJobsTests/testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "name": "testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 12
+          },
+          {
+            "identifier": "LaunchJobsTests/testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "name": "testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 130
+          },
+          {
+            "identifier": "LaunchJobsTests/testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "name": "testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "name": "testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "name": "testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "name": "testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "name": "testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "name": "testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "LaunchJobsTests/testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "name": "testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "name": "testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "name": "testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "name": "testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+            "name": "testReselectReturnsSameExactVariant()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+            "name": "testSingleOptionRemainsPresentAndPreselected()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+            "name": "testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "name": "testLengthAndHardwareRetainExactShopifyCombination()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "name": "testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "name": "testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+            "className": "PopShop38RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild38Shop()",
+            "name": "testCaptureBuild38Shop()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 35000
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "name": "testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "name": "testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "name": "testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "name": "testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 11
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "name": "testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+            "name": "testTappingSameVariantRequestsItsPhotoAgain()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 8
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "name": "testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "name": "testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 31
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "name": "testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "name": "testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "name": "testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 43
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+            "name": "testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 6
+          }
+        ]
+      }
+    }
+  ],
+  "initialStyleRuns": [
+    {
+      "receipt": "build/Migration/20261008T232422Z-d608e3.json",
+      "sha256": "96c3382e62e40fcf4487341d78cc0361f1b15d1e04684d844d27fe63a5a2803a",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 1,
+        "passed": 0,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 35917,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testStyleDropdownKeepsCategoryAndNativeBack()",
+            "name": "testStyleDropdownKeepsCategoryAndNativeBack()",
+            "className": "Shop38UITests",
+            "status": "failed",
+            "durationMs": 28000,
+            "message": "XCTAssertTrue failed"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Shop38UITests/testStyleDropdownKeepsCategoryAndNativeBack()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      }
+    }
+  ],
+  "accessibilityTrack": "Unsuppressed fresh Shop audit retained separately. Automated findings do not become functional passes. No blanket accessibility sign-off.",
+  "initialCorrections": "Functional tests caught feed reset on native Back; initialization now runs once and preserves category/card. Length regex initially lacked regular-expression matching; exact-option regression caught and fixed it. Final inspection caught default bottom alignment on tall feed cards; top anchor and full-height product names now verified, with flexible photo sizing. Single-choice products no longer claim other finish photos exist. Fresh-install QA caught a malformed bundled catalogue date; numeric Codable date encoding restored and a cold-install regression now verifies all9 sets and published Freak record. Larger-text Terry story requires more than16 scrolling gestures; the bounded harness now allows48 and verifies the real end action. Prior failed runs retained.",
+  "serviceSimulation": {
+    "createdAt": "20261008T225607Z",
+    "isolation": "Synthetic loopback customers/database/Shopify events; browser blocks external writes; no production mutations",
+    "runs": [
+      {
+        "stage": "services",
+        "exitCode": 0,
+        "log": "services.log",
+        "logSHA256": "475d3cb689fad21dc2a189b78fcfea4e3ac0b94172c7535a1917723b34599652"
+      }
+    ],
+    "allSelectedStagesPassed": true
+  },
+  "serviceCases": 465,
+  "editorCases": 24,
+  "merchantReadback": {
+    "source": "Shopify charm_club.app_sets compare-and-set/read-back",
+    "updatedCampaigns": 8,
+    "chain": "charm-necklace-chain",
+    "chainPrice": "16.00",
+    "protectedProductsBefore": "925a179ed78868f3226010e774352960e2ac2c4b298f7bb1e6e4b2aeda27313c",
+    "protectedProductsAfter": "925a179ed78868f3226010e774352960e2ac2c4b298f7bb1e6e4b2aeda27313c",
+    "membershipsUnchanged": true,
+    "websiteMutations": 0,
+    "checkedAt": "2026-10-08T22:51:18.758Z"
+  },
+  "editorReadback": {
+    "activeVersion": "app-editor-28",
+    "status": "active",
+    "versionId": "gid://shopify/Version/1160440315905",
+    "scopesUnchanged": true,
+    "websiteThemeUnchanged": true
+  },
+  "serviceReadback": {
+    "checkedAt": "2026-10-08T22:55:10.562Z",
+    "setsHTTP": 200,
+    "sets": 9,
+    "eligibleCampaigns": 8,
+    "chainHandle": "charm-necklace-chain",
+    "chainPrice": "16.00",
+    "weeklyHTTP": 200,
+    "weeklyWindowDays": 7,
+    "weeklyItems": 7,
+    "websiteChanges": 0,
+    "realCheckoutOrPaymentPerformed": false
+  },
+  "scopedDeployment": {
+    "protectedModulesUnchanged": true,
+    "protectedModules": [
+      "/app/pop-web.mjs",
+      "/app/set-checkout.mjs",
+      "/app/gifts.mjs",
+      "/app/assets/pop-studio.css"
+    ],
+    "scopedLayer": true,
+    "otherLocalGiftChangesExcluded": true
+  },
+  "acceptedPlatformStandard": "Native fitted PopSheet inset accepted in Review36. Prior approved non-Shop surfaces preserved.",
+  "carryOverEvidence": {
+    "browser36": "Previously passed; no public web/share/cart-handler changes. Scoped production deployment preserves hashes of those modules."
+  },
+  "liveAcceptanceRemaining": [
+    "Real Shopify OAuth/MFA, payment/tax/shipping/stock and email/wallet acceptance.",
+    "Physical Safari universal links, APNs, manual VoiceOver and older supported OS acceptance.",
+    "Merchant exact Silver/missing photographs and actual chain Length variants."
+  ],
+  "proofBoundary": "Synthetic Claire captures, no real customer or checkout mutation. Review content renders do not replace shipping AppRoot and optimized Release checks. Public Hot rank examples synthetic; service live read-only ranking tested separately."
+}

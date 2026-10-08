@@ -1,0 +1,101 @@
+{
+  "build": 38,
+  "version": "1.0",
+  "appID": "6808889322",
+  "buildID": "ec70d2e3-86f4-4714-b26d-9215c99bb24d",
+  "uploaded": true,
+  "processingState": "VALID",
+  "verifiedAt": "2026-10-08T23:34:20.226707+00:00",
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "470682e7014c158926af22a6b363f77c3ffc822be79d238fe0ada2f513eb9232",
+  "dSYMUUID": "7C7F51A4-FAF5-3CE8-85AA-B54050424775",
+  "notesReadBackLocales": [
+    "en-GB",
+    "en-US"
+  ],
+  "distribution": {
+    "data": [
+      {
+        "type": "buildBetaDetails",
+        "id": "ec70d2e3-86f4-4714-b26d-9215c99bb24d",
+        "attributes": {
+          "autoNotifyEnabled": true,
+          "internalBuildState": "IN_BETA_TESTING",
+          "externalBuildState": "IN_BETA_TESTING"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/ec70d2e3-86f4-4714-b26d-9215c99bb24d/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/ec70d2e3-86f4-4714-b26d-9215c99bb24d/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/ec70d2e3-86f4-4714-b26d-9215c99bb24d"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails?filter%5Bbuild%5D=ec70d2e3-86f4-4714-b26d-9215c99bb24d"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  },
+  "review": {
+    "data": [
+      {
+        "type": "betaAppReviewSubmissions",
+        "id": "ec70d2e3-86f4-4714-b26d-9215c99bb24d",
+        "attributes": {
+          "betaReviewState": "APPROVED"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/ec70d2e3-86f4-4714-b26d-9215c99bb24d/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/ec70d2e3-86f4-4714-b26d-9215c99bb24d/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/ec70d2e3-86f4-4714-b26d-9215c99bb24d"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions?filter%5Bbuild%5D=ec70d2e3-86f4-4714-b26d-9215c99bb24d"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  },
+  "assignedGroups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external",
+      "membership": "explicit",
+      "hasAccessToAllBuilds": false
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal",
+      "membership": "explicit",
+      "hasAccessToAllBuilds": false
+    }
+  ],
+  "testFlightURL": "https://testflight.apple.com/join/5m9QyaSa",
+  "reviewURL": "https://github.com/pete001/weezy-ios-design/tree/review/build-38",
+  "designStatus": "Pop Studio11–15 Shop sections implemented and captured. Whole sets use app-only £16 chain; weekly mixed-type Hot verified. Native sheet standard and non-Shop approved surfaces retained; merchant photography/Length variants and F50 physical link acceptance remain.",
+  "accessibilityStatus": "Consult TESTS.json for fresh changed-flow audit and functional results; no blanket accessibility sign-off."
+}
