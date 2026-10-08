@@ -1,0 +1,476 @@
+{
+  "reviewBuild": 35,
+  "binaryConfigurationBuild": 34,
+  "generatedAt": "2026-10-08T16:55:19.576324+00:00",
+  "frozenInputs": {
+    "reviewBuild": 35,
+    "binaryConfigurationBuild": 34,
+    "createdAt": "2026-10-08T16:53:01.705238+00:00",
+    "requestedIDs": [
+      "S-03-set-page",
+      "S-03-set-page-largest",
+      "S-03-set-page-pending",
+      "S-03-set-page-pending-largest",
+      "S-04-set-all-in",
+      "S-03-set-page-snack",
+      "S-03-set-page-snack-largest",
+      "complete-set-finish-review",
+      "largest-text-set-finish-review",
+      "complete-set-finish-review-snack",
+      "largest-text-set-finish-review-snack",
+      "brand-basket-set-snack-pieces",
+      "brand-basket-set-snack-summary",
+      "brand-basket-set-375-pieces",
+      "brand-basket-set-440-pieces",
+      "brand-basket-set-375-summary",
+      "brand-basket-set-440-summary",
+      "brand-basket-set-verified-summary",
+      "largest-text-set-basket",
+      "largest-text-set-summary",
+      "largest-text-set-pending-summary",
+      "M-12-basket-quote-failed",
+      "M-12-basket-quote-failed-largest"
+    ],
+    "files": [
+      {
+        "path": "WeezyPop/AccountWishlist.swift",
+        "sha256": "32983cb8402bb1787449474e252fe9730cb3ef0ab139439b65efd349bc32c952"
+      },
+      {
+        "path": "WeezyPop/AchievementsV25.swift",
+        "sha256": "90c59f551f7b70894efa12afd92a93a657a14d94bbfa5e1c21b94e35d57e56b2"
+      },
+      {
+        "path": "WeezyPop/BestieViewsV25.swift",
+        "sha256": "337ec69b2ef848abfc42572c399aeceebd22c0048b728cad22c5658485b48298"
+      },
+      {
+        "path": "WeezyPop/BoardInteractions.swift",
+        "sha256": "ad1e2360b68e56d15e1f8265b5b606d22f97f9ad988518addace5763d118c74d"
+      },
+      {
+        "path": "WeezyPop/ClubAndSets.swift",
+        "sha256": "e3ea0516725b338bda1b3381d9dc3c85a682382ad3d0f78de9302f779c524130"
+      },
+      {
+        "path": "WeezyPop/ClubV25.swift",
+        "sha256": "09a48bf478574600e671cd235e048e8870e875c144e3d411718de29bc8daac46"
+      },
+      {
+        "path": "WeezyPop/CollectionDesign.swift",
+        "sha256": "a2efc18309ceb078a1f6c721dba35d0df686d403e1ba7f952a56501e276901ef"
+      },
+      {
+        "path": "WeezyPop/Collections.swift",
+        "sha256": "1026e2ce654379fe6e19b554bb1f70150117bf488110b4d82acf80d060adf8f3"
+      },
+      {
+        "path": "WeezyPop/CompleteSetOffers.swift",
+        "sha256": "639684ea96bfefa7a8b816873d24541fea61e211ac6667d60cc9c284268a9670"
+      },
+      {
+        "path": "WeezyPop/CuratedSets.swift",
+        "sha256": "7b8514ceecdbef77551abf022d20d15573aae7254d49c2e8874e2e69b45c5634"
+      },
+      {
+        "path": "WeezyPop/Design.swift",
+        "sha256": "35f9111e5e2f3e0264bcdef7c467f5af8231f0dfeac9e3652ac8476ce9cd4024"
+      },
+      {
+        "path": "WeezyPop/FeedPhotoCarousel.swift",
+        "sha256": "5a02e18c7b1531a8fad1b118e9c5788eba6efd4b999699a04a053ab686784ccc"
+      },
+      {
+        "path": "WeezyPop/FriendCodes.swift",
+        "sha256": "c13b95af596992ffc24e34caa338ce615d5299f54e3fe5353e448f4723e78b2e"
+      },
+      {
+        "path": "WeezyPop/Gallery.swift",
+        "sha256": "dcd5f0a47ef05538e141fc367915a6b8abdaafd1d38373f0c8205390129768e2"
+      },
+      {
+        "path": "WeezyPop/GiftActivity.swift",
+        "sha256": "4a83f19504fc3cbe2f4b0f2f3ef11e94c323f34d3bd63019818f04673af06858"
+      },
+      {
+        "path": "WeezyPop/IncomingWishlist.swift",
+        "sha256": "bb72191dd62869316236a41a4d967e6084cfee29fb0e7eebac71d8a409b24f4f"
+      },
+      {
+        "path": "WeezyPop/LaunchMerchandising.swift",
+        "sha256": "f92b6a981552f4bbf16c73ebe598f80b316f9014c5dc748dd2cc38644e80fe6c"
+      },
+      {
+        "path": "WeezyPop/ManualCollection.swift",
+        "sha256": "ba3ca377b8ee8fdbc82a75e8883f4bd4bc236fa1cb4b451a9ffe17b1650e4d66"
+      },
+      {
+        "path": "WeezyPop/Models.swift",
+        "sha256": "f9397b12b5bfda21c4da7d6e444efddf87800da930762d19929a98bad76614d7"
+      },
+      {
+        "path": "WeezyPop/MomentShareV25.swift",
+        "sha256": "ac0f168a87e5694e888075051ffefb1247b3418488528583e9e4655ac57b60e4"
+      },
+      {
+        "path": "WeezyPop/PersonalCodes.swift",
+        "sha256": "39ba182cd0f47e133056e7e60f1f9ded70ccef0f9e27b0f7791bb7ec11d6ed76"
+      },
+      {
+        "path": "WeezyPop/PopArchiveGrouping.swift",
+        "sha256": "91f654a2eec5695db11a838d58359b675487a0db04379ae453364fcd4a96e798"
+      },
+      {
+        "path": "WeezyPop/PopCollectionComponents.swift",
+        "sha256": "351b866735f7c26ff8ca788df0fe126514af8edb1b0d36dedc4a562e0bba0c1e"
+      },
+      {
+        "path": "WeezyPop/PopCollectionSnap.swift",
+        "sha256": "708bbf71f72fc0091be02f83118e74e4bc3b221354473f0173944737d6e86328"
+      },
+      {
+        "path": "WeezyPop/PopCollectionVisibility.swift",
+        "sha256": "077e4da8efe2bdf8f2d740f10ce1e044c91763a62af52f411711e27f45e36f39"
+      },
+      {
+        "path": "WeezyPop/PopCompleteSetFinishReview.swift",
+        "sha256": "4ec2a6db308157f108da9f0f013394d16bd751b1824ec27474b1329558c65fbb"
+      },
+      {
+        "path": "WeezyPop/PopFinishPicker.swift",
+        "sha256": "6115bb502fea6ebfa19b6344c2866f190425d24e66c224e9288e9de89a2ad23d"
+      },
+      {
+        "path": "WeezyPop/PopGiftSentConfirmation.swift",
+        "sha256": "a3f50f1eb05f654c5c80063a1c38fd2cbfc5b350f54820f4d2fba46fc1d0330a"
+      },
+      {
+        "path": "WeezyPop/PopLiteralTypography.swift",
+        "sha256": "c1a404019679cc2b6b125721da4514dd6041e26451d6d7ecef6a2912755e2137"
+      },
+      {
+        "path": "WeezyPop/PopOrders.swift",
+        "sha256": "7558aff122c8426d1d9ce9ab81132dfe8c4e714156d4fdcb12c07c6cf7427865"
+      },
+      {
+        "path": "WeezyPop/PopPhotoGallery.swift",
+        "sha256": "44af8c26252431323e85e60a775b4f0323ca9bda7f2f8398b6f98c99825cf02c"
+      },
+      {
+        "path": "WeezyPop/PopSetMosaic.swift",
+        "sha256": "1dca39a07fe4740d9c09ef2c959c3fe6b662796120afa815a3fc07621284aca2"
+      },
+      {
+        "path": "WeezyPop/PopSets.swift",
+        "sha256": "58c094a9364f06366e911cbea195def7a6386d6813de2d980279fd416ce98e9d"
+      },
+      {
+        "path": "WeezyPop/PopShareLanding.swift",
+        "sha256": "f51d5097abb799a3170cb59248ec846003ea2f2852de3427ecb97cbccbc59c8a"
+      },
+      {
+        "path": "WeezyPop/PopSharePublisher.swift",
+        "sha256": "21cefc0e0902428903dac2d3a44fdf4c39983580271a8c5cd156e70f0b4cf506"
+      },
+      {
+        "path": "WeezyPop/PopStudioLiteralComponents.swift",
+        "sha256": "8a04d78311253b3e642db30c1a088e8f3317b3a1ef06752adba5d344a5a0d17a"
+      },
+      {
+        "path": "WeezyPop/PopStudioTheme.swift",
+        "sha256": "83693558d967dc4245c5934fdf776805f7b5faebb89a9dee12e1a8febed0b5af"
+      },
+      {
+        "path": "WeezyPop/PopTerryCollection.swift",
+        "sha256": "e1d80d2a56d1a479bce02fee709106c02da6b2da0d76745774fc8da7072afefa"
+      },
+      {
+        "path": "WeezyPop/PopWishlistPrivacy.swift",
+        "sha256": "656820906207bca0673e36f8b83cb1d43719d19ce78adaf91576fdec9f7336d2"
+      },
+      {
+        "path": "WeezyPop/ProductCopy.swift",
+        "sha256": "3af327e8367e4e444a7ff23d22f56e8e8c37f36d6c9943c5455c488629b28334"
+      },
+      {
+        "path": "WeezyPop/ProductDetail.swift",
+        "sha256": "2a14db6e085ce4cfbc0136bb6b84d423d7ad83d25a46ad3e142b0d71d4259e9e"
+      },
+      {
+        "path": "WeezyPop/PublicCatalogueClient.swift",
+        "sha256": "b0d8b8d6679b93d05dcd7ac4b7a731967896ef31fa13335097d661b037525f18"
+      },
+      {
+        "path": "WeezyPop/PurchaseRegistration.swift",
+        "sha256": "b22ab050bdcf47d68467a96c7e40bef3b25e29eb6953f6cbae5ffaf14d39faa0"
+      },
+      {
+        "path": "WeezyPop/ShopifyAccount.swift",
+        "sha256": "e4829e47a10b00f47e18bfd4568c451843b07754bcc0343c253a7636e87350af"
+      },
+      {
+        "path": "WeezyPop/Shopping.swift",
+        "sha256": "9d24c8fe017d3c0226c07bdbaeb1289ac5ef66da08b703b571b4c0eb3b427910"
+      },
+      {
+        "path": "WeezyPop/SocialArrival.swift",
+        "sha256": "db9f6df482373f7698c3e77f03da2a73735d37eeda9fb14f0b0f72269634b363"
+      },
+      {
+        "path": "WeezyPop/SocialBasket.swift",
+        "sha256": "c1f537750694c73484863b08465824fc406fe58147a24df37b28342440f337d8"
+      },
+      {
+        "path": "WeezyPop/SocialDesign.swift",
+        "sha256": "6072fe7d8f7e09d5f50c33f0d72a47298af7c09735bf09a48470055f32c7a2da"
+      },
+      {
+        "path": "WeezyPop/SocialFeed.swift",
+        "sha256": "5545c3e1ae98ae0a4790806e749fd858136cea99b065141ff965128e72e6bb8a"
+      },
+      {
+        "path": "WeezyPop/SocialPersonal.swift",
+        "sha256": "ece5c9697e28a23d2e06efb5f2f59785860ee7c68b6ca88d46ca7e0fd16477d3"
+      },
+      {
+        "path": "WeezyPop/SocialSheets.swift",
+        "sha256": "4df2ebdf0242cd02b572fecf15394e8dafa621c8b91a29b65b093fc9fc3fa78d"
+      },
+      {
+        "path": "WeezyPop/SocialStory.swift",
+        "sha256": "9b11c5bbdb02e0089d7cf991ac81932c1136685f53040bf7d450bfb16adf2f2c"
+      },
+      {
+        "path": "WeezyPop/Store.swift",
+        "sha256": "edf52150c910827a8bbaf31b9b30c45af5e31c7707a398b7b8870effea2fb17e"
+      },
+      {
+        "path": "WeezyPop/WeezyDiagnostics.swift",
+        "sha256": "b6c6eaed5d71c995ee31909dfab5aeff7363f4519985e4885d1f89f12528a42a"
+      },
+      {
+        "path": "WeezyPop/WeezyPopApp.swift",
+        "sha256": "88198bc56bcb1f8d4061e8f9714a72705c36502c1b1dfdc0af0c0435c8c351aa"
+      },
+      {
+        "path": "WeezyPop/WeezySetsInteractionFixture.swift",
+        "sha256": "b7d9af23e01ccd3a5a009dc31f338e7ca201d9402ad49930e022606663b8b7f7"
+      },
+      {
+        "path": "WeezyPop/WeezyUITestConfiguration.swift",
+        "sha256": "738cccfe8f90befd2c84c9a4bbe934bfee2219e61342ac4a757ba3726e71ed64"
+      },
+      {
+        "path": "WeezyPop/WishlistDesign.swift",
+        "sha256": "d30e1c6d9446530833d73538aeaffdca20bca9f543c6e668927f78beb044d6e8"
+      },
+      {
+        "path": "WeezyPop/WishlistSharing.swift",
+        "sha256": "1838f5a9c9b05d6b51e5bf7bfc7e494eda36f7303c9b91de767323244717d397"
+      },
+      {
+        "path": "WeezyPopTests/AccountScopeTests.swift",
+        "sha256": "04114fa811efbf327a4ac93eaadc5ba5171bb714a89a99ed1076cf0c34338835"
+      },
+      {
+        "path": "WeezyPopTests/AchievementsV25Tests.swift",
+        "sha256": "1d61ebb4b7346a19d3e35cae05d97ffd657e593249d5e6220de1efefc8b153b8"
+      },
+      {
+        "path": "WeezyPopTests/ArchiveTests.swift",
+        "sha256": "bf081ebd2d69e4e60e42864a4c5ef3f3ac2a9df9a3f3296f996d459067cb3026"
+      },
+      {
+        "path": "WeezyPopTests/BasketV26Tests.swift",
+        "sha256": "47efd8653bcf99050b53fcc3786397aa8b737393caf066d2755a82426ce32203"
+      },
+      {
+        "path": "WeezyPopTests/BestieViewsV25Tests.swift",
+        "sha256": "5139a60bd3322ec1bbf718284325258c967fbad49453d363bfbcee54fb5b0a61"
+      },
+      {
+        "path": "WeezyPopTests/BestieVisualV25Tests.swift",
+        "sha256": "2f8847687948b03546000f46bab95b6019b2f061c207561163f6051aa203e7ca"
+      },
+      {
+        "path": "WeezyPopTests/Build33ArchiveTests.swift",
+        "sha256": "ca1ba1a6701bc3f909baa8260a237e27afe9a1f1b29cec845155410d3d00f55e"
+      },
+      {
+        "path": "WeezyPopTests/CollectionDesignTests.swift",
+        "sha256": "d3886bcf25ac67f7e9aa9063f942ace3ebe6794998f0124726264a2127c37a2d"
+      },
+      {
+        "path": "WeezyPopTests/CollectionFixtures.swift",
+        "sha256": "0983e1630bea7ec39a7aab6a765ba7c15ad39b9bb0000a9d40da7389895668a9"
+      },
+      {
+        "path": "WeezyPopTests/DesignAgentReviewSupport.swift",
+        "sha256": "a62d2ec00d778d9dd00066171ac2192f22bda52df9d4c9d0df85fb609f79812d"
+      },
+      {
+        "path": "WeezyPopTests/DesignReviewCaptureV26Tests.swift",
+        "sha256": "2a46faaa26871103c74b2f11d9f86b14703279a8b6a20d5417c05468f1c42149"
+      },
+      {
+        "path": "WeezyPopTests/FeedPhotoCarouselTests.swift",
+        "sha256": "e4dea828c24f324ccbb87c34ea1cb3f69e9f9b0425f1a3dd93047d78d712f711"
+      },
+      {
+        "path": "WeezyPopTests/InvitationTests.swift",
+        "sha256": "96b28355b270e77bf14d7905e840005ad517a11e6da04445d791d5c59f331760"
+      },
+      {
+        "path": "WeezyPopTests/LaunchJobsTests.swift",
+        "sha256": "1cd2316f57c615bbacb23173184b1a649c177b76178d5211c16198b9e1428087"
+      },
+      {
+        "path": "WeezyPopTests/LaunchRecoveryTests.swift",
+        "sha256": "4b0055b8b376b7e6883afc81a787135171929a677077245265117f88e19b521e"
+      },
+      {
+        "path": "WeezyPopTests/PersonalCodeTests.swift",
+        "sha256": "430a814322c1415449656eff9dd3a5cffb6dfed17060175e094c6a26b4a3ecdc"
+      },
+      {
+        "path": "WeezyPopTests/PopBasketSetScopeTests.swift",
+        "sha256": "fc246ad06fdfc8ec4787957a899313fa21fb1e0953df21be299022817ee66b0f"
+      },
+      {
+        "path": "WeezyPopTests/PopButtonEnvironmentTests.swift",
+        "sha256": "97a8ffbb5395353ec4e4ce3700b8109ef8bc8fc38a2a051828a1a6c09611a1f3"
+      },
+      {
+        "path": "WeezyPopTests/PopCollectingPrivacyTests.swift",
+        "sha256": "25085f481a0495b201d63ebeacd293dd1ef7c9e9d358e689c5e8ce4a8235eb98"
+      },
+      {
+        "path": "WeezyPopTests/PopCollectionSnapTests.swift",
+        "sha256": "b10ea49d316f0bbaf7e3f297e251a356fd701d1721d318f54558f9d89e58cd4a"
+      },
+      {
+        "path": "WeezyPopTests/PopFinishOptionsTests.swift",
+        "sha256": "efbbe524db4f1a8a7359c03de578a4438bfba612318f899871bebee7bea0acbb"
+      },
+      {
+        "path": "WeezyPopTests/PopGiftSentConfirmationTests.swift",
+        "sha256": "3871c6864fa23d0dea4077a94a5ff64f7241ab968b9c85d988a68102774ef47d"
+      },
+      {
+        "path": "WeezyPopTests/PopOrderPresentationTests.swift",
+        "sha256": "cd992c76618bcda828a36e8c8398f48a6c23e24cca2cb65a71ba9c18537abce1"
+      },
+      {
+        "path": "WeezyPopTests/PopSetAvailablePurchaseTests.swift",
+        "sha256": "a5dc2c84b4e7580601e16884fe77b0e23b6d9f5c7be20413f0c7093bf71f4585"
+      },
+      {
+        "path": "WeezyPopTests/PopSetBasketProgressTests.swift",
+        "sha256": "aced0c0950e088235667b52a03399b8f81fe3bfbf3ff6632265346a7cd3d28e1"
+      },
+      {
+        "path": "WeezyPopTests/PopStudioCaptureTests.swift",
+        "sha256": "ba5f025a2ca0b702f1393ab7641c8cd3cea9cbf91f08b3f10d28465cb5417a73"
+      },
+      {
+        "path": "WeezyPopTests/PopStudioLiteralSocialFixtures.swift",
+        "sha256": "1175e8c3d4b620f00a89ad1b03c19391a41418317664e24e96f763c19d862c72"
+      },
+      {
+        "path": "WeezyPopTests/PopWebLinkTests.swift",
+        "sha256": "2217134745724c2089b10e8ee7f111be05d8084395750ae8e418df2aad5ada01"
+      },
+      {
+        "path": "WeezyPopTests/ProductCopyTests.swift",
+        "sha256": "905600b338b988c40c67a0ef36c558e435b602ffaa0082579d117f0ff46c535c"
+      },
+      {
+        "path": "WeezyPopTests/ProductPhotoRequestTests.swift",
+        "sha256": "626d8b843a1d1930b73ca8065af7214cc4605b7bb9be71e1e662a316bf954e6d"
+      },
+      {
+        "path": "WeezyPopTests/PublicCatalogueClientTests.swift",
+        "sha256": "a2069bc7506d4506d79d59c7830f2cef612aa93c9acd086223fd6ecda36df2ed"
+      },
+      {
+        "path": "WeezyPopTests/ShopifyAccountTests.swift",
+        "sha256": "0f27144998ea5c210a10a9df9e6f0d6a52bf26fbe52b579bf05bb9ecaedba40b"
+      },
+      {
+        "path": "WeezyPopTests/ShopifyCollectionTests.swift",
+        "sha256": "332631d8501d232373b83ec98858319bd6874847de5f14c366cdbd3de6fc6790"
+      },
+      {
+        "path": "WeezyPopTests/ShoppingTests.swift",
+        "sha256": "d204b37a71783c531dad94e240f61ca30b8b54716460d1db2386c541d19241cc"
+      },
+      {
+        "path": "WeezyPopTests/SocialArrivalV25Tests.swift",
+        "sha256": "61469ff9cb3965c152602984db642701b049f9db1f28b51b9632441c17e04b91"
+      },
+      {
+        "path": "WeezyPopTests/SocialFeedTests.swift",
+        "sha256": "7f0625e11bdd9e48a3cd570c8654943dd6c875801c19a5028914da29e247f6f3"
+      },
+      {
+        "path": "WeezyPopTests/SocialStoryTests.swift",
+        "sha256": "802b20272c877323416ea74b6ce692ae2ed820d7b99ec96b232c3fdf7d7351c1"
+      },
+      {
+        "path": "WeezyPopTests/UserJourneyHTTPTests.swift",
+        "sha256": "c7e289594159086e9107f37125718e09eb1090f2331eebe08f561ce0b6cf20c1"
+      },
+      {
+        "path": "WeezyPopTests/WishlistAccountPrivacyTests.swift",
+        "sha256": "6d7c881b9d9f53310515b1905c7da13733af0c76e4828541e81c02560619ff5f"
+      },
+      {
+        "path": "WeezyPopTests/WishlistLiveInvitationTests.swift",
+        "sha256": "4e2702a8227b4c52ce26b1fc989fe8cbb61866ea8fccaff3212f055ced2ccf49"
+      },
+      {
+        "path": "WeezyPopUITests/Build33SetsUITests.swift",
+        "sha256": "7d9a49d7117346bfb152c037dff1f9818db37d295018eafcb26895ec03aa6452"
+      },
+      {
+        "path": "WeezyPopUITests/LaunchReadinessUITests.swift",
+        "sha256": "66397b96062d5f0f797acf4f1dcaca7b312a3226a1bbbc4f2347c5eab84e6646"
+      },
+      {
+        "path": "WeezyPopUITests/MigrationUITests.swift",
+        "sha256": "fb611ba367a7a66985c81df446958e9cb615d4b8a63ec4ed2e051df6d7942b55"
+      },
+      {
+        "path": "WeezyPopUITests/TabViewportUITests.swift",
+        "sha256": "337ed9682d1964b70ead3ba810c4e532f52783a10be10fd257367337a3fe0aed"
+      },
+      {
+        "path": "WeezyPopUITests/VariantPhotographyUITests.swift",
+        "sha256": "37d42f4ada9c04db5bf29353152b76bdbde80c1e3217c4d09c4c087e72df2891"
+      },
+      {
+        "path": "project.yml",
+        "sha256": "7664856ba6a3eae28f4d4eeae4084be5be81110a5e63d5a1d3b1e929e4820f50"
+      }
+    ]
+  },
+  "sourceHashesVerified": true,
+  "actualSimulator": "iPhone16 Pro / iOS27; native402×874pt",
+  "controlledViewport": {
+    "width": 393,
+    "height": 852,
+    "scale": 3
+  },
+  "fixtureAuthority": "Isolated Claire: Sets Moon+Sun owned 2/6; canonical Board4 basket4/6 and £138; Snack0/5. Fixture stock/photos and six-piece Celestial do not mutate Shopify. Heart is synthetic ordinary reference, not live personalised eligibility.",
+  "shippingAppRootProvedByContentRenders": false,
+  "F50": "Accepted partial infrastructure; associated link origin and physical-device Safari acceptance remain.",
+  "merchantMutations": 0,
+  "websiteMutations": 0,
+  "testFlightUpload": false,
+  "historicalFoldersPreserved": [
+    "../build-31",
+    "../build-32",
+    "../build-33",
+    "../build-34"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "reviewBuild": 35,
+  "binaryBuild": 34,
+  "requestedIDs": [
+    "S-03-set-page",
+    "S-03-set-page-largest",
+    "S-03-set-page-pending",
+    "S-03-set-page-pending-largest",
+    "S-04-set-all-in",
+    "S-03-set-page-snack",
+    "S-03-set-page-snack-largest",
+    "complete-set-finish-review",
+    "largest-text-set-finish-review",
+    "complete-set-finish-review-snack",
+    "largest-text-set-finish-review-snack",
+    "brand-basket-set-snack-pieces",
+    "brand-basket-set-snack-summary",
+    "brand-basket-set-375-pieces",
+    "brand-basket-set-440-pieces",
+    "brand-basket-set-375-summary",
+    "brand-basket-set-440-summary",
+    "brand-basket-set-verified-summary",
+    "largest-text-set-basket",
+    "largest-text-set-summary",
+    "largest-text-set-pending-summary",
+    "M-12-basket-quote-failed",
+    "M-12-basket-quote-failed-largest"
+  ],
+  "missingRequestedIDs": [],
+  "freshImages": 80,
+  "jpegQuality": 80,
+  "embeddedICC": "sRGB",
+  "pixelSize": [
+    1179,
+    2556
+  ],
+  "batches": [
+    50,
+    30
+  ],
+  "sourceHashesVerified": true,
+  "manifestRows": 313,
+  "supersededOldContinuations": [],
+  "historicalFileHashesVerified": true,
+  "continuationEndsVerified": true,
+  "largestSetContinuationOverlapPt": 360,
+  "privateContentScan": "passed",
+  "exifAbsent": true,
+  "allFreshJpegsVerified": true
+}

@@ -1,0 +1,393 @@
+{
+  "reviewBuild": 35,
+  "localCandidate": true,
+  "runs": [
+    {
+      "receipt": "build/Migration/20261008T131345Z-15fb03.json",
+      "sha256": "c2e8147eb70b3b74928c37600ca9b1882f9a3d775a47a13d8e4487820020f8e4",
+      "kind": "functional interaction/model verification",
+      "success": true,
+      "tests": {
+        "total": 27,
+        "passed": 27,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 29418,
+        "cases": [
+          {
+            "identifier": "LaunchJobsTests/testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "name": "testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "LaunchJobsTests/testAppStoryOverridesAndRestoresShopifyDescription()",
+            "name": "testAppStoryOverridesAndRestoresShopifyDescription()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "name": "testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "name": "testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 12
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteSetHasEveryExactFinishAndOneChain()",
+            "name": "testCompleteSetHasEveryExactFinishAndOneChain()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 11
+          },
+          {
+            "identifier": "LaunchJobsTests/testEveryPublishedCharmHasShopifyStoryCopy()",
+            "name": "testEveryPublishedCharmHasShopifyStoryCopy()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 63
+          },
+          {
+            "identifier": "LaunchJobsTests/testHeaderOrderMatchesMerchantRequest()",
+            "name": "testHeaderOrderMatchesMerchantRequest()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "name": "testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 42
+          },
+          {
+            "identifier": "LaunchJobsTests/testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "name": "testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "LaunchJobsTests/testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "name": "testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 110
+          },
+          {
+            "identifier": "LaunchJobsTests/testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "name": "testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "name": "testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "name": "testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "name": "testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "name": "testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "name": "testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "LaunchJobsTests/testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "name": "testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "name": "testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "name": "testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "name": "testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          }
+        ]
+      },
+      "configuration": "Debug"
+    },
+    {
+      "receipt": "build/Migration/20261008T131426Z-d704f1.json",
+      "sha256": "5e695d7875c8331a3dea3804c49ecf061f53ef0bc200a81f3ca4cc5c7fc7128d",
+      "kind": "functional interaction/model verification",
+      "success": false,
+      "tests": {
+        "total": 6,
+        "passed": 4,
+        "failed": 2,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 165101,
+        "cases": [
+          {
+            "identifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+            "name": "testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 37000
+          },
+          {
+            "identifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+            "name": "testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 19000
+          },
+          {
+            "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+            "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 33000
+          },
+          {
+            "identifier": "Build33SetsUITests/testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "name": "testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "className": "Build33SetsUITests",
+            "status": "failed",
+            "durationMs": 17000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Build33SetsUITests/testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "name": "testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "className": "Build33SetsUITests",
+            "status": "failed",
+            "durationMs": 26000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Build33SetsUITests/testNatScrolledSetBackReturnsToFeed()",
+            "name": "testNatScrolledSetBackReturnsToFeed()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 19000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Build33SetsUITests/testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Build33SetsUITests/testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "configuration": "Debug"
+    },
+    {
+      "receipt": "build/Migration/20261008T131854Z-a65aca.json",
+      "sha256": "8cb3accf40f1d6e517e9768ba5a714251c7668350eb0b7add4be472e5997039e",
+      "kind": "functional interaction/model verification",
+      "success": true,
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 97113,
+        "cases": [
+          {
+            "identifier": "Build33SetsUITests/testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "name": "testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 24000
+          },
+          {
+            "identifier": "Build33SetsUITests/testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "name": "testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 56000
+          }
+        ]
+      },
+      "configuration": "Debug"
+    },
+    {
+      "receipt": "build/Migration/20261008T132046Z-af6981.json",
+      "sha256": "4ea3f6c9c00d54136e22d68e0745cfcd99369a5654bbd23d2847b37aa1057b91",
+      "kind": "functional interaction/model verification",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 66684,
+        "cases": [
+          {
+            "identifier": "Build33SetsUITests/testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "name": "testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 59000
+          }
+        ]
+      },
+      "configuration": "Debug"
+    },
+    {
+      "receipt": "build/Migration/20261008T132221Z-0022cb.json",
+      "sha256": "ddc6d290af08d3f6a4c0ebaf565eae4dca8f4324685046c5e89202976b5dc838",
+      "kind": "functional interaction/model verification",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 109019,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 32000
+          }
+        ]
+      },
+      "configuration": "Release"
+    },
+    {
+      "receipt": "build/Migration/20261008T165302Z-f5f742.json",
+      "sha256": "16a90225ed61707e14298e6400910a98fc59e1fa0121040b748dcd97ebe8f0e3",
+      "kind": "fresh production-content capture validation",
+      "success": true,
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 72281,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild35NatBasket()",
+            "name": "testCaptureBuild35NatBasket()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 29000
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild35NatSets()",
+            "name": "testCaptureBuild35NatSets()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      },
+      "configuration": "Debug"
+    }
+  ],
+  "focusedFunctionalChecks": {
+    "uniquePassed": 35,
+    "model": 27,
+    "primaryUI": 6,
+    "smallPhoneLargestText": 1,
+    "optimizedReleaseTabs": 1
+  },
+  "freshCaptureChecks": 2,
+  "rechecks": "The first UI run had two failing selectors caused by parent accessibility-ID propagation. Corrected and both tests rechecked successfully. Earlier compile/capture-harness failures retained locally, not represented as passes.",
+  "retainedGates": [
+    "Four unsuppressed accessibility-audit findings from the earlier broad simulation remain open.",
+    "No live paid order or Shopify merchant mutation was performed for this design review.",
+    "F50 associated-origin plus real-device Safari reopening remains partial.",
+    "Merchant free-chain identity and missing silver photographs remain decisions/work."
+  ],
+  "proofBoundary": "Mock verified quotes prove presentation only; real shipping-root interaction tests are separate. No claim of exhaustive combinations or physical-device acceptance."
+}
