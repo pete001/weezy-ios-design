@@ -1,0 +1,49 @@
+{
+  "reviewBuild": 37,
+  "binaryBuild": 37,
+  "requestedIDs": [
+    "G-20B-bestie-club-page",
+    "M-12-basket-quote-failed-largest",
+    "SHEET-quick-add",
+    "SHEET-delete-account",
+    "CLUB-profile-largest"
+  ],
+  "missingRequestedParentIDs": [],
+  "freshImages": 18,
+  "jpegQuality": 80,
+  "embeddedICC": "sRGB",
+  "pixelSize": [
+    1179,
+    2556
+  ],
+  "batches": [
+    18
+  ],
+  "sourceHashesVerified": true,
+  "manifestRows": 355,
+  "supersededOldContinuations": [
+    "G-11-quick-add",
+    "M-08-delete-account",
+    "M-12-basket-quote-failed-largest-more-11",
+    "M-12-basket-quote-failed-largest-more-12",
+    "M-12-basket-quote-failed-largest-more-13",
+    "M-12-basket-quote-failed-largest-more-14",
+    "M-12-basket-quote-failed-largest-more-15",
+    "M-12-basket-quote-failed-largest-more-16",
+    "M-12-basket-quote-failed-largest-more-17",
+    "M-12-basket-quote-failed-largest-more-18",
+    "M-12-basket-quote-failed-largest-more-19",
+    "M-12-basket-quote-failed-largest-more-20",
+    "M-12-basket-quote-failed-largest-more-21",
+    "M-12-basket-quote-failed-largest-more-22",
+    "M-12-basket-quote-failed-largest-more-23",
+    "M-12-basket-quote-failed-largest-more-24",
+    "largest-text-set-basket",
+    "largest-text-set-basket-more",
+    "largest-text-set-basket-more-2",
+    "largest-text-set-basket-more-3",
+    "largest-text-set-basket-more-4",
+    "largest-text-set-basket-more-5",
+    "largest-text-set-basket-more-6"
+  ]
+}

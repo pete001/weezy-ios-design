@@ -1,0 +1,35 @@
+{
+  "SHEET-quick-add": {
+    "sheetX": 0,
+    "containerHeight": 852,
+    "containerWidth": 393,
+    "sheetHeight": 534,
+    "sheetWidth": 393,
+    "windowWidth": 393,
+    "sheetY": 0,
+    "windowHeight": 852,
+    "sheetSafeBottom": 12
+  },
+  "SHEET-delete-account": {
+    "sheetY": 0,
+    "sheetWidth": 393,
+    "sheetX": 0,
+    "sheetHeight": 619.6666666666666,
+    "sheetSafeBottom": 12,
+    "windowWidth": 393,
+    "containerWidth": 393,
+    "containerHeight": 852,
+    "windowHeight": 852
+  },
+  "M-12-basket-quote-failed-largest": {
+    "sheetX": 0,
+    "sheetSafeBottom": 12,
+    "sheetWidth": 393,
+    "containerHeight": 852,
+    "sheetHeight": 790,
+    "windowWidth": 393,
+    "containerWidth": 393,
+    "windowHeight": 852,
+    "sheetY": 0
+  }
+}

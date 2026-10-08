@@ -1,0 +1,139 @@
+{
+ "review": 36,
+ "verified": [
+  "F-64",
+  "F-78",
+  "F-79",
+  "F-80",
+  "F-81",
+  "F-82",
+  "F-83",
+  "F-84",
+  "F-85",
+  "F-86",
+  "F-88",
+  "F-89",
+  "F-90",
+  "F-91",
+  "F-93",
+  "F-94",
+  "F-95",
+  "F-98",
+  "F-96 / F-97"
+ ],
+ "closed": {
+  "F-96": "native inset accepted",
+  "F-97": "native inset accepted"
+ },
+ "accessibilityTrack": [
+  "F-92"
+ ],
+ "merchant": [
+  "F-75",
+  "F-77",
+  "F-78",
+  "F-87",
+  "F-91"
+ ],
+ "infrastructure": [
+  "F-50"
+ ],
+ "open": [
+  {
+   "id": "F-99",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Regression",
+   "title": "Bestie page still has a white band under the status bar",
+   "fix": "F-93 is fixed on your profile and badge detail, but the bestie Club page still shows a white strip with a hard edge between the status bar and the pink header. Use the same shared tinted header so the pink runs to the top edge.",
+   "pins": [
+    {
+     "screen": "G-20B-bestie-club-page",
+     "xPct": 50,
+     "yPct": 7
+    }
+   ],
+   "alsoOn": [
+    "any other pushed page not yet on the shared header"
+   ]
+  },
+  {
+   "id": "F-100",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "Quote-failed footer still crowds the basket at largest text",
+   "fix": "At accessibility5 the title and the two footer actions take about 70% of the screen, and the alert body is cut off behind the footer (\"Prices and…\"). This is also what the accessibility audit flags under F-92. At accessibility sizes, move CHECK PRICES FIRST and Continue browsing into the end of the scroll content, as the set page already does, and keep only CHECK AGAIN visible near the top.",
+   "pins": [
+    {
+     "screen": "M-12-basket-quote-failed-largest",
+     "xPct": 50,
+     "yPct": 64
+    }
+   ],
+   "alsoOn": [
+    "M-12-basket-quote-failed-largest-more",
+    "G-35-basket-sheet at largest text"
+   ]
+  },
+  {
+   "id": "F-101",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Quick add shows a collectible number and unlabelled options",
+   "fix": "\"No. 67 · £18\" shows a collectible number, which product surfaces don’t show (README rule 4). And the two pill rows have no labels, so Glitter / Gold could be colour or metal. Show \"Smiley · £18\", and label the rows \"Colour\" and \"Metal\", as the finish chooser does.",
+   "pins": [
+    {
+     "screen": "SHEET-quick-add",
+     "xPct": 30,
+     "yPct": 55
+    },
+    {
+     "screen": "SHEET-quick-add",
+     "xPct": 8,
+     "yPct": 63
+    }
+   ],
+   "alsoOn": [
+    "G-11-quick-add"
+   ]
+  },
+  {
+   "id": "F-102",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Delete account uses an ink outline and leaves a big gap",
+   "fix": "Destructive actions are outlined deep red #B0123B (README rule 1), not ink. Make DELETE MY ACCOUNT a #B0123B outline with #B0123B label. This sheet is short content, so give it the fitted height and drop the empty middle.",
+   "pins": [
+    {
+     "screen": "SHEET-delete-account",
+     "xPct": 50,
+     "yPct": 85
+    }
+   ],
+   "alsoOn": [
+    "M-08-delete-account"
+   ]
+  },
+  {
+   "id": "F-103",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "Badge shelf heading collides with See all at largest text",
+   "fix": "\"THE BADGE SHELF\" wraps to three lines and squeezes \"See all\" beside it. At accessibility sizes, put See all on its own line under the heading, left-aligned, 44pt target.",
+   "pins": [
+    {
+     "screen": "CLUB-profile-largest",
+     "xPct": 55,
+     "yPct": 57
+    }
+   ],
+   "alsoOn": [
+    "G-20-club at largest text"
+   ]
+  }
+ ]
+}

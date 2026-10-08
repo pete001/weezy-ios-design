@@ -42,4 +42,6 @@ Include a full-window `SHEET-*` capture of every scoped sheet actually opened, w
 
 Record native platform differences explicitly. On iOS 27, fitted native sheets retain a small system inset; large native sheets attach to the edges. Do not hide this difference with screenshot editing or silently replace native presentation. Verify keyboard-open dismissal restores the presenting tab navigation.
 
+Review 36 explicitly accepted and closed the native sheet-edge items F-96/F-97. Preserve that standard. At accessibility sizes, basket checkout and Continue browsing follow the scrolling content; capture through that endpoint and verify retry remains reachable near the top. Keep each fresh accessibility finding tied to the actual audited element, separately from interaction passes.
+
 Each numbered response uses `fixed`, `partial`, `deferred` or `merchant`, with a reason whenever not fixed. Preserve failed accessibility audits and full assertion failures separately from successful interaction checks; an audit failure is not an accessibility pass. Publish the verified Apple processing/distribution status, not an intended future release.
