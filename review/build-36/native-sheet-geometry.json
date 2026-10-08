@@ -1,0 +1,189 @@
+{
+  "SHEET-quick-add": {
+    "windowWidth": 393,
+    "windowHeight": 852,
+    "sheetSafeBottom": 12,
+    "containerWidth": 393,
+    "containerHeight": 852,
+    "sheetHeight": 478,
+    "sheetX": 0,
+    "sheetY": 0,
+    "sheetWidth": 393
+  },
+  "SHEET-wishlist-visibility": {
+    "sheetWidth": 393,
+    "sheetHeight": 532.6666666666666,
+    "containerHeight": 852,
+    "windowHeight": 852,
+    "sheetSafeBottom": 12,
+    "sheetY": 0,
+    "sheetX": 0,
+    "containerWidth": 393,
+    "windowWidth": 393
+  },
+  "complete-set-finish-review": {
+    "containerWidth": 393,
+    "windowHeight": 852,
+    "containerHeight": 852,
+    "sheetWidth": 393,
+    "sheetY": 0,
+    "sheetSafeBottom": 12,
+    "sheetX": 0,
+    "windowWidth": 393,
+    "sheetHeight": 790
+  },
+  "SHEET-gift": {
+    "containerHeight": 852,
+    "sheetHeight": 643,
+    "sheetX": 0,
+    "sheetWidth": 393,
+    "sheetSafeBottom": 12,
+    "windowWidth": 393,
+    "windowHeight": 852,
+    "containerWidth": 393,
+    "sheetY": 0
+  },
+  "SHEET-basket": {
+    "sheetX": 0,
+    "sheetSafeBottom": 12,
+    "containerWidth": 393,
+    "windowWidth": 393,
+    "sheetY": 0,
+    "containerHeight": 852,
+    "windowHeight": 852,
+    "sheetWidth": 393,
+    "sheetHeight": 790
+  },
+  "complete-set-finish-review-snack": {
+    "containerWidth": 393,
+    "windowWidth": 393,
+    "containerHeight": 852,
+    "sheetY": 0,
+    "sheetX": 0,
+    "windowHeight": 852,
+    "sheetSafeBottom": 12,
+    "sheetWidth": 393,
+    "sheetHeight": 790
+  },
+  "M-12-basket-quote-failed": {
+    "sheetHeight": 790,
+    "sheetY": 0,
+    "sheetSafeBottom": 12,
+    "windowWidth": 393,
+    "containerWidth": 393,
+    "containerHeight": 852,
+    "sheetX": 0,
+    "sheetWidth": 393,
+    "windowHeight": 852
+  },
+  "SHEET-delete-account": {
+    "sheetHeight": 790,
+    "containerHeight": 852,
+    "sheetY": 0,
+    "windowHeight": 852,
+    "containerWidth": 393,
+    "sheetWidth": 393,
+    "windowWidth": 393,
+    "sheetSafeBottom": 12,
+    "sheetX": 0
+  },
+  "SHEET-add-bestie": {
+    "sheetSafeBottom": 12,
+    "sheetWidth": 393,
+    "containerHeight": 852,
+    "sheetHeight": 351.66666666666663,
+    "containerWidth": 393,
+    "sheetX": 0,
+    "windowHeight": 852,
+    "windowWidth": 393,
+    "sheetY": 0
+  },
+  "SHEET-finish-chooser": {
+    "sheetX": 0,
+    "containerHeight": 852,
+    "sheetY": 0,
+    "windowWidth": 393,
+    "sheetHeight": 790,
+    "sheetSafeBottom": 12,
+    "windowHeight": 852,
+    "containerWidth": 393,
+    "sheetWidth": 393
+  },
+  "M-12-basket-quote-failed-largest": {
+    "sheetWidth": 393,
+    "sheetHeight": 790,
+    "containerWidth": 393,
+    "containerHeight": 852,
+    "windowWidth": 393,
+    "sheetY": 0,
+    "windowHeight": 852,
+    "sheetX": 0,
+    "sheetSafeBottom": 12
+  },
+  "SHEET-badge-detail": {
+    "containerHeight": 852,
+    "sheetSafeBottom": 12,
+    "sheetY": 0,
+    "sheetX": 0,
+    "windowWidth": 393,
+    "windowHeight": 852,
+    "sheetHeight": 669,
+    "containerWidth": 393,
+    "sheetWidth": 393
+  },
+  "brand-basket-set-snack-pieces": {
+    "sheetHeight": 790,
+    "windowHeight": 852,
+    "sheetY": 0,
+    "sheetSafeBottom": 12,
+    "containerWidth": 393,
+    "containerHeight": 852,
+    "sheetX": 0,
+    "windowWidth": 393,
+    "sheetWidth": 393
+  },
+  "SHEET-finish-chooser-rodeo": {
+    "sheetSafeBottom": 12,
+    "sheetY": 0,
+    "containerHeight": 852,
+    "windowWidth": 393,
+    "sheetHeight": 790,
+    "windowHeight": 852,
+    "sheetWidth": 393,
+    "sheetX": 0,
+    "containerWidth": 393
+  },
+  "BUILD29-BADGE-DETAIL": {
+    "sheetWidth": 393,
+    "containerHeight": 852,
+    "sheetHeight": 669,
+    "windowHeight": 852,
+    "containerWidth": 393,
+    "sheetSafeBottom": 12,
+    "sheetX": 0,
+    "sheetY": 0,
+    "windowWidth": 393
+  },
+  "complete-set-finish-review-rodeo": {
+    "windowHeight": 852,
+    "windowWidth": 393,
+    "sheetSafeBottom": 12,
+    "containerWidth": 393,
+    "containerHeight": 852,
+    "sheetHeight": 790,
+    "sheetX": 0,
+    "sheetY": 0,
+    "sheetWidth": 393
+  },
+  "SHEET-sharing-privacy": {
+    "sheetWidth": 393,
+    "windowWidth": 393,
+    "containerHeight": 852,
+    "windowHeight": 852,
+    "sheetHeight": 532.6666666666666,
+    "containerWidth": 393,
+    "sheetSafeBottom": 12,
+    "sheetY": 0,
+    "sheetX": 0
+  }
+}

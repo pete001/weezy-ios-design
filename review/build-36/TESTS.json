@@ -1,0 +1,961 @@
+{
+  "build": 36,
+  "reviewBuild": 36,
+  "verifiedAt": "2026-10-08T19:57:38.099132+00:00",
+  "functional": {
+    "finalModelPassed": 63,
+    "nativeInteractionPassesByDeviceAndConfiguration": 21,
+    "nativeInteractionsAllSelectedFinalChecksPassed": true,
+    "serviceTestsPassed": 462,
+    "browserJourneyAssertionsPassed": 36,
+    "modelSkipped": 0
+  },
+  "freshNativeCaptureTestsPassed": 2,
+  "finalRuns": [
+    {
+      "receipt": "build/Migration/20261008T195218Z-f32d67.json",
+      "sha256": "9c49018684d55f74b83570b5646e98287700e088e7b46d94135ec05ba948f7e5",
+      "kind": "frozen final models and native capture validation",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "summary": {
+        "total": 65,
+        "passed": 65,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 86944,
+        "cases": [
+          {
+            "identifier": "Build33ArchiveTests/testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+            "name": "testEveryStartedSetIsGroupedByVerifiedCompletionWithStableTies()",
+            "className": "Build33ArchiveTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "Build33ArchiveTests/testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+            "name": "testEveryWhiteStudioOwnedCircleHasBlushSurroundWithoutRecolouringPhoto()",
+            "className": "Build33ArchiveTests",
+            "status": "passed",
+            "durationMs": 88
+          },
+          {
+            "identifier": "Build33ArchiveTests/testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+            "name": "testWrongSetFinishStaysLooseAndOneDuplicateCopyDoesNotCompleteASet()",
+            "className": "Build33ArchiveTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "name": "testAppOnlyFinishPhotoOverridesWebsiteAndClearsWhenRemoved()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testAppStoryOverridesAndRestoresShopifyDescription()",
+            "name": "testAppStoryOverridesAndRestoresShopifyDescription()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "name": "testCharmStoryDoesNotUseWebsiteCrossSellAsItsNarrative()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "name": "testCompleteGroupQuantitiesStayTogetherAndLooseCharmsStaySeparate()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "LaunchJobsTests/testCompleteSetHasEveryExactFinishAndOneChain()",
+            "name": "testCompleteSetHasEveryExactFinishAndOneChain()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "LaunchJobsTests/testEveryPublishedCharmHasShopifyStoryCopy()",
+            "name": "testEveryPublishedCharmHasShopifyStoryCopy()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 51
+          },
+          {
+            "identifier": "LaunchJobsTests/testHeaderOrderMatchesMerchantRequest()",
+            "name": "testHeaderOrderMatchesMerchantRequest()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "name": "testOneCopyDoesNotEarnRepeatedSetOrVerifiedShare()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 17
+          },
+          {
+            "identifier": "LaunchJobsTests/testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "name": "testOnlyShopifyConfirmedTenPoundsAndFreeChainPermitCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 18
+          },
+          {
+            "identifier": "LaunchJobsTests/testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "name": "testProofPhotoIsBoundedReadableAndHasNoLocationMetadata()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 140
+          },
+          {
+            "identifier": "LaunchJobsTests/testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "name": "testShopifyMemberQuantitiesDecodeAndRejectUnknownOrInvalidCounts()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "LaunchJobsTests/testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "name": "testSnackCompleteSetPreviewIncludesCurrentChainValueAndGroupedCheckout()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "name": "testStoriesSkipTitleAndFallBackFromEmptyRetainedExcerpt()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "name": "testTerryExcludedEvenIfAddedToOrdinaryCharmsCollection()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "name": "testTerryUpsellIsEighteenPoundPaperclipChainAboveShippingThreshold()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchJobsTests/testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "name": "testTwoCopiesStayInSetBasketAndQuantitiesMultiplyTogether()",
+            "className": "LaunchJobsTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "LaunchJobsTests/testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "name": "testVariantPhotosNeverSubstituteHeroOrHiddenVariant()",
+            "className": "LaunchJobsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "name": "testIncludedChainUsesCurrentCatalogueChoicesAndStock()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "name": "testMissingCurrentSetMemberOrCatalogueRecordHasNoEditableProduct()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopBasketSetScopeTests/testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "name": "testPersistedBasketCannotOfferFinishRemovedFromCurrentShopifySet()",
+            "className": "PopBasketSetScopeTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+            "name": "testReselectReturnsSameExactVariant()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+            "name": "testSingleOptionRemainsPresentAndPreselected()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testAStalePaidResponseCannotOverwriteNewerUnconfirmedCheck()",
+            "name": "testAStalePaidResponseCannotOverwriteNewerUnconfirmedCheck()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testCancelledReadCannotPublishLatePaidConfirmation()",
+            "name": "testCancelledReadCannotPublishLatePaidConfirmation()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testExactPaidAndPartiallyRefundedRemainingGiftCanConfirm()",
+            "name": "testExactPaidAndPartiallyRefundedRemainingGiftCanConfirm()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed",
+            "durationMs": 21
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testExplicitRetryUsesSameReferenceAndNoReceiptIsNotSuccess()",
+            "name": "testExplicitRetryUsesSameReferenceAndNoReceiptIsNotSuccess()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testPendingCancelledRefundedWrongFinishAndIncompleteReceiptsCannotConfirm()",
+            "name": "testPendingCancelledRefundedWrongFinishAndIncompleteReceiptsCannotConfirm()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testPreparedCheckoutRejectsAnUnavailableOrUnrelatedExactVariant()",
+            "name": "testPreparedCheckoutRejectsAnUnavailableOrUnrelatedExactVariant()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testPreparedCheckoutRequiresExactlyOneTrackedReceiptCapability()",
+            "name": "testPreparedCheckoutRequiresExactlyOneTrackedReceiptCapability()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopGiftSentConfirmationTests/testSenderShareHasNoRecipientCapabilityPrivateIdentityOrReceiptLink()",
+            "name": "testSenderShareHasNoRecipientCapabilityPrivateIdentityOrReceiptLink()",
+            "className": "PopGiftSentConfirmationTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopReview36RulesTests/testAllMissingPiecesPendingOrAlreadyVerifiedHidesOffer()",
+            "name": "testAllMissingPiecesPendingOrAlreadyVerifiedHidesOffer()",
+            "className": "PopReview36RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopReview36RulesTests/testMerchantCanDisableCompactCopyWithoutRestoringDuplicateUpsell()",
+            "name": "testMerchantCanDisableCompactCopyWithoutRestoringDuplicateUpsell()",
+            "className": "PopReview36RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopReview36RulesTests/testOfferDoesNotUpsellOwnedOrPendingPiecesAsAnotherFullSet()",
+            "name": "testOfferDoesNotUpsellOwnedOrPendingPiecesAsAnotherFullSet()",
+            "className": "PopReview36RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopReview36RulesTests/testProfileCountCopyForZeroOneAndSeveral()",
+            "name": "testProfileCountCopyForZeroOneAndSeveral()",
+            "className": "PopReview36RulesTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "name": "testExactVariantScopeDuplicateCapsAndWrongProductAreRespected()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "name": "testLineupRestoresAfterBasketRemovalWithoutRepeatingCelebration()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "name": "testMixedFinishPendingUsesEachCurrentPriceAndRemovalKeepsExcess()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "name": "testPendingPiecesNeverCountTowardsBadgesOrSetsDone()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "name": "testRemainderUsesCurrentPricesAndOwnedCopiesAreNotBoughtAgain()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "name": "testRepeatedMemberAddsAtomicallyAndUndoPreservesOtherUnits()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "PopSetBasketProgressTests/testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "name": "testUnresolvedSetMemberCannotAdvertiseACompleteRemainder()",
+            "className": "PopSetBasketProgressTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild36NativeSheetsAndProfile()",
+            "name": "testCaptureBuild36NativeSheetsAndProfile()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 43000
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild36Sets()",
+            "name": "testCaptureBuild36Sets()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 32000
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "name": "testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "name": "testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "name": "testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "name": "testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "name": "testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+            "name": "testTappingSameVariantRequestsItsPhotoAgain()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 6
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testCustomerFilesDoNotContainRawIdentityOrEscapeGuestDirectory()",
+            "name": "testCustomerFilesDoNotContainRawIdentityOrEscapeGuestDirectory()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testFriendsSwitchAToGuestToBWithoutCopyingListsOrPendingInvitations()",
+            "name": "testFriendsSwitchAToGuestToBWithoutCopyingListsOrPendingInvitations()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testLateOwnershipCheckCannotCacheIdentityForAnotherAccount()",
+            "name": "testLateOwnershipCheckCannotCacheIdentityForAnotherAccount()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 23
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testLatePublicFetchCannotSaveToNewAccountEvenBeforeRootRefresh()",
+            "name": "testLatePublicFetchCannotSaveToNewAccountEvenBeforeRootRefresh()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testOwnWishlistCannotBeSavedByCodeAliasOrFile()",
+            "name": "testOwnWishlistCannotBeSavedByCodeAliasOrFile()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testOwnWishlistIsRejectedOnNewInstallationUsingPublishedIdentity()",
+            "name": "testOwnWishlistIsRejectedOnNewInstallationUsingPublishedIdentity()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testOwnWishlistValidationDoesNotCrossAccounts()",
+            "name": "testOwnWishlistValidationDoesNotCrossAccounts()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testPublisherIDsAndNamesNeverAdoptGuestOrAnotherCustomer()",
+            "name": "testPublisherIDsAndNamesNeverAdoptGuestOrAnotherCustomer()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 4
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T194146Z-3a411f.json",
+      "sha256": "ef543d87292bf203b655d6fa907bba7dd7957d153660f284c9625cbe51a535dd",
+      "kind": "keyboard-recheck-primary-offline",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 71183,
+        "cases": [
+          {
+            "identifier": "MigrationUITests/testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+            "name": "testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+            "className": "MigrationUITests",
+            "status": "passed",
+            "durationMs": 22000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 28000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T194302Z-2b5c94.json",
+      "sha256": "54d3bea55064e2bead5f53d65e3e6207bf3d29d35e2dba82bfff958b5ecd7138",
+      "kind": "small-normal-largest-offline-and-set",
+      "success": true,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 5,
+        "passed": 5,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 219952,
+        "cases": [
+          {
+            "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+            "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 42000
+          },
+          {
+            "identifier": "Build33SetsUITests/testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "name": "testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+            "className": "Build33SetsUITests",
+            "status": "passed",
+            "durationMs": 58000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 32000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 29000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T194647Z-8b9c1b.json",
+      "sha256": "fc52eed03dfe701ba3c20d40d5275b50d3024f33b22c6c224d99ba44eaa95686",
+      "kind": "primary-release-tabs",
+      "success": true,
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 189996,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 37000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T195000Z-89fe2b.json",
+      "sha256": "07e719ff66d6eec7c0f2cec42de1c9fba697da4a0362b8d651531c2fa9fc613f",
+      "kind": "small-release-tabs",
+      "success": true,
+      "scheme": "WeezyPopReleaseRendering",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 73759,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 34000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 31000
+          }
+        ]
+      }
+    }
+  ],
+  "initialRun": {
+    "receipt": "build/Migration/20261008T193137Z-fd8ff5.json",
+    "sha256": "c537a7738781530dd09b973062a723c1fc1d579427a5303c5f17f0e2596715ce",
+    "kind": "initial primary functional run, retain failure and ten passes",
+    "success": false,
+    "scheme": "WeezyPop",
+    "destinations": [
+      "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+    ],
+    "summary": {
+      "total": 11,
+      "passed": 10,
+      "failed": 1,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 330661,
+      "cases": [
+        {
+          "identifier": "Build33SetsUITests/testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "name": "testExactDuplicateAddsAndProductSwipeBackPreservesSetPosition()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 37000
+        },
+        {
+          "identifier": "Build33SetsUITests/testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "name": "testFeedTapGrowsPendingStripeAndUndoDoesNotAwardOwnership()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 22000
+        },
+        {
+          "identifier": "Build33SetsUITests/testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "name": "testLargestTextSetActionsAndProductPriceRemainReachable()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 36000
+        },
+        {
+          "identifier": "Build33SetsUITests/testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+          "name": "testNatCompleteSetActionIncludesChainAndOfferBeforePieces()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 20000
+        },
+        {
+          "identifier": "Build33SetsUITests/testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+          "name": "testNatLargestTextCompleteSetActionIncludesChainAndOfferBeforePieces()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 57000
+        },
+        {
+          "identifier": "Build33SetsUITests/testNatScrolledSetBackReturnsToFeed()",
+          "name": "testNatScrolledSetBackReturnsToFeed()",
+          "className": "Build33SetsUITests",
+          "status": "passed",
+          "durationMs": 20000
+        },
+        {
+          "identifier": "LaunchReadinessUITests/testFilledBasketRecoveryInteractions()",
+          "name": "testFilledBasketRecoveryInteractions()",
+          "className": "LaunchReadinessUITests",
+          "status": "passed",
+          "durationMs": 19000
+        },
+        {
+          "identifier": "MigrationUITests/testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+          "name": "testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+          "className": "MigrationUITests",
+          "status": "failed",
+          "durationMs": 19000,
+          "message": "Failed to get matching snapshot: No matches found for Descendants matching type TabBar from input {(\n    Application, pid: 58161, label: 'Weezy Pop'\n)}\nPossibly caused by runtime issues:\nAutomation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 20;\n    \"XC_kAXXCAttributeElementBaseType\" = UIAccessibilityElement;\n    \"XC_kAXXCAttributeElementType\" = UIAccessibilityElementKBKey;\n    \"XC_kAXXCAttributeTraits\" = 8589934649;\n}\nAutomation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 20;\n    \"XC_kAXXCAttributeElementBaseType\" = UIAccessibilityElement;\n    \"XC_kAXXCAttributeElementType\" = UIAccessibilityElementKBKey;\n    \"XC_kAXXCAttributeTraits\" = 8589934641;\n}\nSee test report attachments for more detail."
+        },
+        {
+          "identifier": "MigrationUITests/testWelcomeTabsAndBasketDismissal()",
+          "name": "testWelcomeTabsAndBasketDismissal()",
+          "className": "MigrationUITests",
+          "status": "passed",
+          "durationMs": 24000
+        },
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 30000
+        },
+        {
+          "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 27000
+        }
+      ],
+      "failures": [
+        {
+          "identifier": "MigrationUITests/testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+          "message": "Failed to get matching snapshot: No matches found for Descendants matching type TabBar from input {(\n    Application, pid: 58161, label: 'Weezy Pop'\n)}\nPossibly caused by runtime issues:\nAutomation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 20;\n    \"XC_kAXXCAttributeElementBaseType\" = UIAccessibilityElement;\n    \"XC_kAXXCAttributeElementType\" = UIAccessibilityElementKBKey;\n    \"XC_kAXXCAttributeTraits\" = 8589934649;\n}\nAutomation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 20;\n    \"XC_kAXXCAttributeElementBaseType\" = UIAccessibilityElement;\n    \"XC_kAXXCAttributeElementType\" = UIAccessibilityElementKBKey;\n    \"XC_kAXXCAttributeTraits\" = 8589934641;\n}\nSee test report attachments for more detail."
+        }
+      ]
+    }
+  },
+  "failedAttempts": [
+    {
+      "receipt": "build/Migration/20261008T191736Z-b25b41.json",
+      "sha256": "09db5a7fe6cc85b1f8a9e4fc10584d799fb686de43c410e8c17e875ee05023e5",
+      "kind": "retained earlier failed attempt",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 25870
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T192347Z-5d62a7.json",
+      "sha256": "5c7209638626e109cdee3bd61a9551b853992929d445d0140b7b403dfc78b5d2",
+      "kind": "retained earlier failed attempt",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "summary": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 3602
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T193819Z-c5dda8.json",
+      "sha256": "1f13b5321c582c300d4e63605d3867e7ad50e0bb584f4c6568ae9319a62e8adc",
+      "kind": "retained earlier failed attempt",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 1,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 79644,
+        "cases": [
+          {
+            "identifier": "MigrationUITests/testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+            "name": "testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+            "className": "MigrationUITests",
+            "status": "failed",
+            "durationMs": 24000,
+            "message": "XCTAssertTrue failed - Native dismissal must finish before querying the underlying tab"
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 28000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "MigrationUITests/testBestieCodeKeepsControlsReachableWithNativeKeyboard()",
+            "message": "XCTAssertTrue failed - Native dismissal must finish before querying the underlying tab"
+          }
+        ]
+      }
+    },
+    {
+      "receipt": "build/Migration/20261008T194040Z-a42d37.json",
+      "sha256": "e6d7a67dca8f99e833be6d2174152dbd36c8a2fd078262affc3b6bfff3cba9b2",
+      "kind": "retained earlier failed attempt",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 13111
+      }
+    }
+  ],
+  "currentAccessibilityAudits": [
+    {
+      "receipt": "build/Migration/20261008T195349Z-1457a5.json",
+      "sha256": "8ef82d3bd9219e8468d32cf7c192766d121936bb71300b84f333ca65954a0ba4",
+      "kind": "unsuppressed changed-flow accessibility audit",
+      "success": false,
+      "scheme": "WeezyPop",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ],
+      "summary": {
+        "total": 2,
+        "passed": 0,
+        "failed": 2,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 133048,
+        "cases": [
+          {
+            "identifier": "LaunchReadinessUITests/testFilledBasketRecoveryKeepsPiecesAndOffersRetry()",
+            "name": "testFilledBasketRecoveryKeepsPiecesAndOffersRetry()",
+            "className": "LaunchReadinessUITests",
+            "status": "failed",
+            "durationMs": 24000,
+            "message": "Text clipped"
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetReview()",
+            "name": "testLargestTextCompleteSetReview()",
+            "className": "LaunchReadinessUITests",
+            "status": "failed",
+            "durationMs": 99000,
+            "message": "Text clipped"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "LaunchReadinessUITests/testFilledBasketRecoveryKeepsPiecesAndOffersRetry()",
+            "message": "Text clipped"
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetReview()",
+            "message": "Text clipped"
+          }
+        ]
+      },
+      "fullTestTree": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Text clipped",
+                          "nodeType": "Failure Message"
+                        }
+                      ],
+                      "duration": "24s",
+                      "durationInSeconds": 24.588489890098572,
+                      "name": "testFilledBasketRecoveryKeepsPiecesAndOffersRetry()",
+                      "nodeIdentifier": "LaunchReadinessUITests/testFilledBasketRecoveryKeepsPiecesAndOffersRetry()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/LaunchReadinessUITests/testFilledBasketRecoveryKeepsPiecesAndOffersRetry",
+                      "nodeType": "Test Case",
+                      "result": "Failed"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Text clipped",
+                          "nodeType": "Failure Message"
+                        },
+                        {
+                          "name": "Contrast failed",
+                          "nodeType": "Failure Message"
+                        },
+                        {
+                          "name": "XCTAssertTrue failed - The offers and totals must be reachable at the largest text size",
+                          "nodeType": "Failure Message"
+                        },
+                        {
+                          "name": "XCTAssertLessThanOrEqual failed: (\"891.0\") is greater than (\"549.6666666666666\") - Check again must be fully revealed above the pinned footer",
+                          "nodeType": "Failure Message"
+                        },
+                        {
+                          "name": "Text clipped",
+                          "nodeType": "Failure Message"
+                        },
+                        {
+                          "name": "Contrast failed",
+                          "nodeType": "Failure Message"
+                        }
+                      ],
+                      "duration": "1m 39s",
+                      "durationInSeconds": 99.95714294910431,
+                      "name": "testLargestTextCompleteSetReview()",
+                      "nodeIdentifier": "LaunchReadinessUITests/testLargestTextCompleteSetReview()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/LaunchReadinessUITests/testLargestTextCompleteSetReview",
+                      "nodeType": "Test Case",
+                      "result": "Failed"
+                    }
+                  ],
+                  "name": "LaunchReadinessUITests",
+                  "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/LaunchReadinessUITests",
+                  "nodeType": "Test Suite",
+                  "result": "Failed"
+                }
+              ],
+              "name": "WeezyPopUITests",
+              "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests",
+              "nodeType": "UI test bundle",
+              "result": "Failed"
+            }
+          ],
+          "name": "WeezyPop",
+          "nodeType": "Test Plan",
+          "result": "Failed"
+        }
+      ]
+    }
+  ],
+  "priorAuditGates": "Four earlier unsuppressed accessibility-audit findings were retained in Review35. No blanket closure claimed. Changed recovery/chooser audits are rerun here without suppression and their results are separate from functional passes.",
+  "isolatedServiceEvidence": {
+    "receipt": "build/UserSimulation/20261008T192433Z/receipt.json",
+    "sha256": "e2154e8000ad50fdd7d4052398f768b6e6935e77c12829a71d683d19b4b0bb7c",
+    "allSelectedStagesPassed": true
+  },
+  "isolatedBrowserEvidence": {
+    "receipt": "build/UserSimulation/20261008T192445Z/receipt.json",
+    "sha256": "8f459f7f35b00d50609eab9576d2dcd6ce34d6f0ec5b069b6cc2e96223e7061b",
+    "allSelectedStagesPassed": true
+  },
+  "rechecks": "The first bestie keyboard-dismissal failure persisted with an animation wait. Removing a carried-over tabBar-hidden preference from native sheet contents restored navigation; the same keyboard-open dismissal test then passed. A diagnostic attachment had a shadowed add() call during one compile attempt, corrected before final checks. Compile/capture failures remain recorded, not counted as tests.",
+  "platformExceptions": {
+    "F96": "Native fitted sheets retain the small iOS27 system inset. Large native sheets attach to edges; no private/custom presentation used.",
+    "F97": "Shared native fitted wishlist sheet implemented; same OS inset boundary remains.",
+    "F50": "Accepted partial, separate app-link origin plus physical Safari acceptance outstanding."
+  },
+  "liveAcceptanceRemaining": [
+    "Real Shopify OAuth/MFA, payment/tax/shipping/stock and email/wallet acceptance.",
+    "Physical-device Safari universal links and APNs foreground/background/terminated delivery.",
+    "Manual VoiceOver and older supported OS/device performance.",
+    "Merchant free-chain identity, consistent chain name, compact owner copy, silver and missing product photography."
+  ],
+  "proofBoundary": "Synthetic users/orders/quotes prove our handlers and presentation, not real payment or production customer ownership. Native UIKit sheet renders do not substitute for separate shipping AppRoot/Release interaction checks. No live Shopify, website, purchase or customer mutations.",
+  "accessibilityAcceptance": "Not passed. Two audit runs failed. Findings flag the disabled checkout button for possible clipping and contrast; the audit-enabled largest-text journey additionally fails retry reachability and bounds assertions after auditing. Separate audit-free interaction runs pass. Treat this discrepancy as unresolved, not as a false positive or universal accessibility sign-off."
+}

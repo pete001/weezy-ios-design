@@ -1,11 +1,15 @@
 # Weezy Pop · Design review
 
-[Open build 34](review/build-34/README.md) · [Build 33](review/build-33/README.md) · [Build 32](review/build-32/README.md) · [Build 31](review/build-31/README.md).
+[Open build 36](review/build-36/README.md) · [Build 35](review/build-35/README.md) · [Build 34](review/build-34/README.md) · [Build 33](review/build-33/README.md) · [Build 32](review/build-32/README.md) · [Build 31](review/build-31/README.md).
 
-Build 34 addresses F-62 through F-69 in the accepted Sets design. The review contains 42 fresh screenshots covering the ten requested IDs and their actual scroll continuations, including largest text, plus a five-second tap-and-scroll recording. F-50 remains the accepted partial infrastructure follow-up for installed-device Safari reopening. Apple submission and distribution evidence is recorded in [RELEASE.json](review/build-34/RELEASE.json).
+Build 36 implements the Review 35 shared native sheet standard and scoped finish, Sets, basket, profile and sharing corrections. It contains 107 fresh screenshots covering 28 parent states with real scroll continuations and largest text, including all ten opened native sheets. Earlier folders remain preserved.
 
-Use [manifest.json](review/build-34/manifest.json), [changes.json](review/build-34/changes.json) and [import-batches.json](review/build-34/import-batches.json) to compare against build 33. Batches contain at most 50 images. Unchanged screens retain direct pointers to their original build 31, 32 or 33 images; previous folders remain immutable. [RESPONSE.md](review/build-34/RESPONSE.md) answers all eight fixes. [TESTS.json](review/build-34/TESTS.json) records 25 final passes, earlier failures and their resolving rechecks, independently of screenshot renders.
+Start with [RESPONSE.md](review/build-36/RESPONSE.md), [manifest.json](review/build-36/manifest.json), [changes.json](review/build-36/changes.json) and [import-batches.json](review/build-36/import-batches.json). Import batches contain 50, 50 and 7 JPEGs. Historical captures are explicitly labelled as unchanged or superseded; they are not fresh evidence. The supplied feedback is preserved in the inventory.
 
-The standing [review protocol](docs/DESIGN-AGENT-REVIEW.md) is enforced by AGENTS.md and the native project’s rules. Return the pinned review canvas, FIXES.md and a short summary using exact screen IDs.
+For the requested F-64 and F-78 through F-98: 16 fixed, 3 merchant and 3 partial. F-96/F-97 retain the public native partial-height sheet inset; F-92 retains an unresolved audit-enabled retry visibility discrepancy. F-50 remains the accepted Safari/domain infrastructure follow-up. [TESTS.json](review/build-36/TESTS.json) records successful functional coverage and failed unsuppressed accessibility audits separately.
 
-Only synthetic account examples and public review evidence are included. Application source, credentials and real customer records are excluded. Shopify remains the source of truth and the customer website is unchanged.
+Apple has approved and enabled build 36 for internal and external TestFlight testing. [Release evidence](review/build-36/release-state.json) records the verified upload, groups and testing notes.
+
+The standing [review protocol](docs/DESIGN-AGENT-REVIEW.md) uses exact screen IDs. Return the pinned review canvas, FIXES.md and a short summary.
+
+Only isolated example accounts and public review evidence are included. Application source, credentials and real customer records are excluded. Shopify remains the source of truth; the customer website was unchanged.

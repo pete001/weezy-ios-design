@@ -35,3 +35,11 @@ python3 scripts/dev.py test-unit \
 Copy the two fresh capture directories from this simulator's app container into ignored `build/DesignAgentReviewN/raw/`. Export with `scripts/design_agent_review.py`; see its `--help`. Do not mix older capture runs. Web capture tooling is `scripts/design_agent_web_capture.mjs`, using the isolated `service/qa/pop-web-fixture.mjs` and a dedicated QA Chrome profile.
 
 For a numbered design review, publish on `review/build-N` or append commits on the public design repository’s `main`. Include `RESPONSE.md` with one line for every received fix: its ID, fixed/deferred/merchant status, screen IDs and a specific reason for anything outstanding. Preserve the preceding build’s filenames for comparison. Always recapture largest-text product selection, basket quantity/header, registration finishes/proof, wishlist action and multi-line shop input when those are reviewed. A new user-reported fix joins the numbered response (build 32 includes F-52). Deduplicate automatic continuations against canonical inventory continuation IDs without silently omitting an inventory screen.
+
+## Native sheets, Review 36 onward
+
+Include a full-window `SHEET-*` capture of every scoped sheet actually opened, with its presenting page, native dim, grabber and corners. Content-only previews do not prove presentation. Propagate accessibility5 into the presented content, and export only fresh referenced media and genuine end-of-scroll continuations. Declare the simulator’s physical viewport and any controlled review canvas separately.
+
+Record native platform differences explicitly. On iOS 27, fitted native sheets retain a small system inset; large native sheets attach to the edges. Do not hide this difference with screenshot editing or silently replace native presentation. Verify keyboard-open dismissal restores the presenting tab navigation.
+
+Each numbered response uses `fixed`, `partial`, `deferred` or `merchant`, with a reason whenever not fixed. Preserve failed accessibility audits and full assertion failures separately from successful interaction checks; an audit failure is not an accessibility pass. Publish the verified Apple processing/distribution status, not an intended future release.

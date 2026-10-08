@@ -1,0 +1,101 @@
+{
+  "build": 36,
+  "version": "1.0",
+  "appID": "6808889322",
+  "buildID": "fe56beff-2d8c-469c-b200-e76827d8db32",
+  "uploaded": true,
+  "processingState": "VALID",
+  "verifiedAt": "2026-10-08T20:04:22.017098+00:00",
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "1a4eab8fd5f3af453c82f8617e38dd1e5575fdd0d395d12bce89e1c858f97b9c",
+  "dSYMUUID": "97D6E271-EBC2-3FBE-A4D9-69A2C404C64E",
+  "notesReadBackLocales": [
+    "en-US",
+    "en-GB"
+  ],
+  "distribution": {
+    "data": [
+      {
+        "type": "buildBetaDetails",
+        "id": "fe56beff-2d8c-469c-b200-e76827d8db32",
+        "attributes": {
+          "autoNotifyEnabled": true,
+          "internalBuildState": "IN_BETA_TESTING",
+          "externalBuildState": "IN_BETA_TESTING"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/fe56beff-2d8c-469c-b200-e76827d8db32/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/fe56beff-2d8c-469c-b200-e76827d8db32/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/fe56beff-2d8c-469c-b200-e76827d8db32"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails?filter%5Bbuild%5D=fe56beff-2d8c-469c-b200-e76827d8db32"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  },
+  "review": {
+    "data": [
+      {
+        "type": "betaAppReviewSubmissions",
+        "id": "fe56beff-2d8c-469c-b200-e76827d8db32",
+        "attributes": {
+          "betaReviewState": "APPROVED"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/fe56beff-2d8c-469c-b200-e76827d8db32/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/fe56beff-2d8c-469c-b200-e76827d8db32/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/fe56beff-2d8c-469c-b200-e76827d8db32"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions?filter%5Bbuild%5D=fe56beff-2d8c-469c-b200-e76827d8db32"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  },
+  "assignedGroups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external",
+      "membership": "explicit",
+      "hasAccessToAllBuilds": false
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal",
+      "membership": "explicit",
+      "hasAccessToAllBuilds": false
+    }
+  ],
+  "testFlightURL": "https://testflight.apple.com/join/5m9QyaSa",
+  "reviewURL": "https://github.com/pete001/weezy-ios-design/tree/review/build-36",
+  "designStatus": "16 fixed, 3 merchant, 3 partial for requested F64/F78-F98. F50 infrastructure remains accepted partial.",
+  "accessibilityStatus": "Audit-free functional checks passed. Unsuppressed audits remain failed; full failures preserved in TESTS.json. Not a blanket accessibility sign-off."
+}

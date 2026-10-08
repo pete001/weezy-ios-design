@@ -1,0 +1,444 @@
+{
+ "review": 35,
+ "builtAsSpecified": [
+  "F-70",
+  "F-71",
+  "F-72",
+  "F-74",
+  "F-76",
+  "F-73"
+ ],
+ "merchant": {
+  "F-75": "workflow approved",
+  "F-77": "decision pending"
+ },
+ "open": [
+  {
+   "id": "F-88",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "The finish chooser’s back arrow hangs off the sheet",
+   "fix": "The chooser opens as a sheet, but its ‹ button sits half outside the sheet’s rounded top edge, clipped by the corner, over the set page peeking behind. A back arrow is also the wrong control for a sheet. Give the sheet a grabber and put a 44pt × close inside it, top right with 16pt inset, and title the sheet underneath. Close returns to the set with nothing added. If it must stay a pushed page, use the normal navigation bar back button instead.",
+   "pins": [
+    {
+     "screen": "device-rodeo-finish-review.png",
+     "xPct": 9,
+     "yPct": 9
+    }
+   ],
+   "alsoOn": [
+    "complete-set-finish-review",
+    "complete-set-finish-review-snack",
+    "all largest-text chooser captures"
+   ]
+  },
+  {
+   "id": "F-89",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Smiley’s row breaks the chooser’s layout",
+   "fix": "Every row uses a compact Gold / Silver pill on the right, but Smiley switches to a different layout: \"Smiley · Gold\" as the title, a separate \"Metal · Gold\" line with a big swatch, then full-width product-page pills. Keep one row pattern for every piece. Fixed options (Smiley’s Gold glitter colour) go as a subtitle under the name; the metal uses the same compact pill on the right. If a charm genuinely has two choosable options, add a second compact pill row under the name, never the product-page pills.",
+   "pins": [
+    {
+     "screen": "device-rodeo-finish-review.png",
+     "xPct": 30,
+     "yPct": 44
+    }
+   ],
+   "alsoOn": [
+    "any charm with more than one option axis"
+   ]
+  },
+  {
+   "id": "F-78",
+   "priority": "P2",
+   "owner": "Native + Nat",
+   "type": "UX",
+   "title": "The set offer pushes duplicates once pieces are owned or in the basket",
+   "fix": "Claire owns Moon and Sun, but the card still leads with \"Buy the complete set & save £28 · £100\" and CHOOSE FINISHES FOR ALL 6. That buys a second Moon and Sun. On S-04 the full card still sits above REVIEW BASKET after all 4 missing pieces are already in. Recommendation: with 0 owned, keep the card as built. With some owned or pending, collapse it to one compact row under the meter: \"Or get the whole set + free chain · £100. Includes Moon and Sun, which you own.\" with a text link. When every missing piece is in the basket, hide it. Nat to confirm the compact copy.",
+   "pins": [
+    {
+     "screen": "S-03-set-page",
+     "xPct": 50,
+     "yPct": 42
+    },
+    {
+     "screen": "S-04-set-all-in",
+     "xPct": 50,
+     "yPct": 62
+    }
+   ],
+   "alsoOn": [
+    "S-03-set-page-pending",
+    "S-04-set-all-in-more",
+    "all -largest Celestial captures"
+   ]
+  },
+  {
+   "id": "F-79",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Finish chooser has no visible selection at normal text",
+   "fix": "\"Make them all\" Gold / Silver / Mix and every row’s Gold / Silver pill look identical, so you can’t tell what will be added. Largest text already shows the right treatment (ink outline + tick on Gold). Use it at every size: selected = white fill, 1.5pt ink outline, tick; unselected = #FBE3EC fill, no outline. Selected segment in \"Make them all\" gets the same white lens.",
+   "pins": [
+    {
+     "screen": "complete-set-finish-review-snack",
+     "xPct": 78,
+     "yPct": 41
+    },
+    {
+     "screen": "complete-set-finish-review",
+     "xPct": 78,
+     "yPct": 43
+    }
+   ],
+   "alsoOn": [
+    "largest-text-set-finish-review (already correct)"
+   ]
+  },
+  {
+   "id": "F-80",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "Collapsed set header fills a quarter of the screen at largest text",
+   "fix": "At accessibility5 the scrolled header wraps to four lines (\"Snack to the Future / 0 of 5 owned\") and covers the content beneath. Cap the collapsed header at .accessibility1, one line for the name with tail truncation, and drop the \"0 of 5 owned\" line at accessibility sizes (the count is in the page).",
+   "pins": [
+    {
+     "screen": "S-03-set-page-snack-largest-more",
+     "xPct": 40,
+     "yPct": 22
+    },
+    {
+     "screen": "S-03-set-page-largest-more-6",
+     "xPct": 40,
+     "yPct": 22
+    }
+   ],
+   "alsoOn": [
+    "S-03-set-page-snack-largest-more-7",
+    "S-03-set-page-pending-largest continuations"
+   ]
+  },
+  {
+   "id": "F-81",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Two buttons do the same thing when nothing is owned",
+   "fix": "On Snack at 0 of 5, the card’s CHOOSE FINISHES FOR ALL 5 and the footer’s COMPLETE THE SET · £94 both open the same chooser. When the footer is the complete-set action, drop the card’s outlined button and keep the card as information.",
+   "pins": [
+    {
+     "screen": "S-03-set-page-snack",
+     "xPct": 40,
+     "yPct": 69
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-82",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "A sliced line of card text shows under the collapsed header",
+   "fix": "Scrolled, the bottom of the offer card (\"Individual charm offers don’t stack.\") peeks out cut in half just under the header. Extend the header ground 8pt and add the hairline, or let the iOS 26 soft scroll edge cover that band.",
+   "pins": [
+    {
+     "screen": "S-03-set-page-snack-more",
+     "xPct": 50,
+     "yPct": 17
+    },
+    {
+     "screen": "S-03-set-page-more",
+     "xPct": 50,
+     "yPct": 17
+    }
+   ],
+   "alsoOn": [
+    "S-03-set-page-pending-more"
+   ]
+  },
+  {
+   "id": "F-83",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "A missing coloured-shot piece looks owned",
+   "fix": "Croissant is missing (0 of 5) but shows as a solid lilac disc at full strength, the same as owned pieces in Celestial. Missing should always read as missing: dashed #F2C4D6 ring and 70% photo, whatever the photo’s ground colour.",
+   "pins": [
+    {
+     "screen": "S-03-set-page-snack",
+     "xPct": 78,
+     "yPct": 83
+    },
+    {
+     "screen": "complete-set-finish-review-snack",
+     "xPct": 8,
+     "yPct": 79
+    }
+   ],
+   "alsoOn": [
+    "S-03-set-page-snack-more"
+   ]
+  },
+  {
+   "id": "F-84",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Regression",
+   "title": "Tile grounds from F-62 are missing in the chooser and basket",
+   "fix": "White-studio photos (Moon, Swirl, the chain, Snack pieces) sit on bare white in the finish chooser rows and the basket set grid, while coloured shots get tiles. Reuse the F-62 rule there: blush #FFF3F8 rounded ground behind every white-studio shot.",
+   "pins": [
+    {
+     "screen": "complete-set-finish-review",
+     "xPct": 12,
+     "yPct": 46
+    },
+    {
+     "screen": "M-12-basket-quote-failed",
+     "xPct": 20,
+     "yPct": 52
+    },
+    {
+     "screen": "brand-basket-set-snack-pieces",
+     "xPct": 21,
+     "yPct": 63
+    }
+   ],
+   "alsoOn": [
+    "brand-basket-set-verified-summary",
+    "largest-text basket grids"
+   ]
+  },
+  {
+   "id": "F-85",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "All-in line-up is clipped at both screen edges",
+   "fix": "The five member circles now run edge to edge, so Moon and Swirl are cut off. Overlap them by 14pt and centre the row with 16pt side margins (as in Pop Studio 10 S-04), shrinking circles to fit.",
+   "pins": [
+    {
+     "screen": "S-04-set-all-in",
+     "xPct": 4,
+     "yPct": 21
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-86",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "Quote-failed footer takes 40% of the screen at largest text",
+   "fix": "Recovery works (F-76), but at accessibility5 the disabled CHECKOUT AFTER PRICE CHECK wraps to three lines and with Continue browsing fills the lower 40%. Use the short label \"CHECK PRICES FIRST\" at accessibility sizes. The Total card has also shrunk to half width; keep it full width.",
+   "pins": [
+    {
+     "screen": "M-12-basket-quote-failed-largest",
+     "xPct": 50,
+     "yPct": 64
+    },
+    {
+     "screen": "M-12-basket-quote-failed-largest-more-12",
+     "xPct": 35,
+     "yPct": 30
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-87",
+   "priority": "P3",
+   "owner": "Nat",
+   "type": "Copy",
+   "title": "The free chain has two names",
+   "fix": "The basket banner says \"Wear It Your Way paperclip chain\"; the set card, chooser and summary say \"paperclip chain\". Use the Shopify product name everywhere once F-77 is decided.",
+   "pins": [
+    {
+     "screen": "brand-basket-set-snack-pieces",
+     "xPct": 50,
+     "yPct": 15
+    }
+   ],
+   "alsoOn": [
+    "S-03-set-page-snack",
+    "complete-set-finish-review-snack"
+   ]
+  },
+  {
+   "id": "F-90",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "The basket sheet has a hard square top edge",
+   "fix": "The basket opens as a sheet, but it starts with a straight full-width edge, no rounded corners and no grabber. The set page behind shows as a dim purple band with its buttons cut in half. Present it like every other sheet: 32pt top corners, a 5pt grabber, the page behind scaled and dimmed by the system. Use the native .presentationDetents([.large]) with .presentationCornerRadius(32) and .presentationDragIndicator(.visible), not a custom full-screen cover. The × stays inside the sheet.",
+   "pins": [
+    {
+     "screen": "device-basket-quote-failed.png",
+     "xPct": 50,
+     "yPct": 11
+    }
+   ],
+   "alsoOn": [
+    "M-12-basket-quote-failed",
+    "G-35-basket-sheet",
+    "brand-basket-set-* summaries"
+   ]
+  },
+  {
+   "id": "F-91",
+   "priority": "P2",
+   "owner": "Native + Nat",
+   "type": "Visual",
+   "title": "Pieces without a photo show their name wrapped inside the tile",
+   "fix": "Glitter Thunder Bolt and Colour Story Mini Charms show their own name in the thumbnail, broken mid-word (\"Thund / er Bolt\") and clipped top and bottom. The fallback should be the Weezy sparkle on blush, never text. Separately, the photos for those two pieces are missing in Shopify, which is a job for Nat.",
+   "pins": [
+    {
+     "screen": "device-basket-quote-failed.png",
+     "xPct": 14,
+     "yPct": 70
+    }
+   ],
+   "alsoOn": [
+    "any list using the product thumbnail fallback"
+   ]
+  },
+  {
+   "id": "F-92",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "The list card ends in a hard edge behind the footer",
+   "fix": "The white list card is cut square where it meets the checkout footer, so its last row looks chopped. End the scroll content above the footer with the card’s 24pt bottom corners intact, and let the iOS 26 soft scroll edge blend whatever scrolls under it.",
+   "pins": [
+    {
+     "screen": "device-basket-quote-failed.png",
+     "xPct": 50,
+     "yPct": 90
+    }
+   ],
+   "alsoOn": [
+    "M-12-basket-quote-failed-more"
+   ]
+  },
+  {
+   "id": "F-93",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Regression",
+   "title": "Profile header stops below the status bar (F-52 is back)",
+   "fix": "The pale-pink header starts about 54pt down, leaving a lighter blush band behind the status bar with a hard line under it. That is the F-52 problem on the pushed profile page. Extend the header background under the status bar with .ignoresSafeArea(edges: .top), keep the back and settings buttons at the safe-area top, and check every pushed page with a tinted header (profile, bestie page, badge detail).",
+   "pins": [
+    {
+     "screen": "device-club-profile.png",
+     "xPct": 50,
+     "yPct": 6
+    }
+   ],
+   "alsoOn": [
+    "G-20-club",
+    "G-20B-bestie-club-page",
+    "BUILD29-BADGE-DETAIL"
+   ]
+  },
+  {
+   "id": "F-94",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Stat chips say \"1 PIECES\" and \"1 BADGES\"",
+   "fix": "Pluralise properly: \"1 PIECE\", \"0 SETS\", \"1 BADGE\". Use stringsdict or inflect, not a fixed \"S\".",
+   "pins": [
+    {
+     "screen": "device-club-profile.png",
+     "xPct": 50,
+     "yPct": 27
+    }
+   ],
+   "alsoOn": [
+    "G-20B-bestie-club-page"
+   ]
+  },
+  {
+   "id": "F-95",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Half the profile is empty below the badge shelf",
+   "fix": "With one badge the page ends at 58% of the screen. Below the shelf, add what the profile is for: a \"Your sets\" row with progress for each set in progress and, when you own pieces, the snap from your stack. If neither exists yet, a single blush card \"Start your stack\" linking to Shop. No filler.",
+   "pins": [
+    {
+     "screen": "device-club-profile.png",
+     "xPct": 50,
+     "yPct": 75
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-97",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Wishlist visibility sheet floats inset instead of full width",
+   "fix": "This sheet is a floating card with 12pt gaps at each side and its own bottom corners, unlike the basket (F-90) and the finish chooser (F-88). Apply the F-96 sheet standard: full width, 32pt top corners, size to content so it ends after DONE instead of leaving a white gap, × close top right.",
+   "pins": [
+    {
+     "screen": "device-wishlist-visibility.png",
+     "xPct": 50,
+     "yPct": 70
+    }
+   ],
+   "alsoOn": [
+    "M-01-sharing-privacy",
+    "G-22-gift-sheet",
+    "G-11-quick-add",
+    "X-02-add-friend-by-code"
+   ]
+  },
+  {
+   "id": "F-98",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "The link row never shows the link",
+   "fix": "\"Your shareable wishlist link\" is a label with no link. Show the actual URL, truncated in the middle (weezypop.com/w/cla…7k2), with COPY LINK beside it. After copying, the button reads COPIED with a tick for 2 seconds. Hide the row when the wishlist is Private.",
+   "pins": [
+    {
+     "screen": "device-wishlist-visibility.png",
+     "xPct": 40,
+     "yPct": 73
+    }
+   ],
+   "alsoOn": [
+    "M-01-sharing-privacy"
+   ]
+  }
+ ],
+ "carryOver": [
+  "F-64",
+  "F-50"
+ ],
+ "sheetStandard": {
+  "id": "F-96",
+  "priority": "P2",
+  "rules": {
+   "Presentation": "Native .sheet, full width edge to edge. Never a floating card inset from the screen sides, never a custom full-screen cover.",
+   "Corners + grabber": "32pt top corners (.presentationCornerRadius(32)); bottom follows the device. Grabber always visible (.presentationDragIndicator(.visible)).",
+   "Height": "Pickers and short choices (wishlist visibility, quick add, gift, sharing) size to content: .presentationDetents([.height(content)]) so the sheet ends after its button, no empty white. Long flows (basket, finish chooser) use .large.",
+   "Header": "Prata 28 title left at 20pt inset. 44pt × close top right on every sheet, 16pt inset, inside the sheet. No back arrows on sheets.",
+   "Surface": "White #FFFFFF sheet on the system dim. Inner cards #FFF3F8 or white with a #F6DFE9 hairline, 24pt corners, 20pt side padding.",
+   "Footer": "Primary action 56pt pinned above the home indicator with 16pt sides. Secondary text action 44pt below it."
+  },
+  "covers": [
+   "F-88",
+   "F-90",
+   "F-97"
+  ]
+ }
+}
