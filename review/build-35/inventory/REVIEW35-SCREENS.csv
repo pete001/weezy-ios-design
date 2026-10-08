@@ -5,13 +5,13 @@ S-03-set-page-pending,large,Nat set-offer/navigation and recovery delta,S-03-set
 S-03-set-page-pending-largest,accessibility5,Nat set-offer/navigation and recovery delta,S-03-set-page-pending-largest,false
 S-04-set-all-in,large,Nat set-offer/navigation and recovery delta,S-04-set-all-in,false
 S-03-set-page-snack,large,Nat set-offer/navigation and recovery delta,S-03-set-page-snack,false
-S-03-set-page-snack-largest,accessibility5,Nat set-offer/navigation and recovery delta,S-03-set-page,true
+S-03-set-page-snack-largest,accessibility5,Nat set-offer/navigation and recovery delta,S-03-set-page-snack,true
 complete-set-finish-review,large,Nat set-offer/navigation and recovery delta,complete-set-finish-review,false
 largest-text-set-finish-review,accessibility5,Nat set-offer/navigation and recovery delta,largest-text-set-finish-review,false
 complete-set-finish-review-snack,large,Nat set-offer/navigation and recovery delta,complete-set-finish-review,true
 largest-text-set-finish-review-snack,accessibility5,Nat set-offer/navigation and recovery delta,largest-text-set-finish-review,true
-brand-basket-set-snack-pieces,large,Nat set-offer/navigation and recovery delta,brand-basket-set-pieces,true
-brand-basket-set-snack-summary,large,Nat set-offer/navigation and recovery delta,brand-basket-set-summary,true
+brand-basket-set-snack-pieces,large,Nat set-offer/navigation and recovery delta,brand-basket-set-375-pieces,true
+brand-basket-set-snack-summary,large,Nat set-offer/navigation and recovery delta,brand-basket-set-verified-summary,true
 brand-basket-set-375-pieces,large,Nat set-offer/navigation and recovery delta,brand-basket-set-375-pieces,false
 brand-basket-set-440-pieces,large,Nat set-offer/navigation and recovery delta,brand-basket-set-440-pieces,false
 brand-basket-set-375-summary,large,Nat set-offer/navigation and recovery delta,brand-basket-set-375-summary,false
@@ -19,6 +19,6 @@ brand-basket-set-440-summary,large,Nat set-offer/navigation and recovery delta,b
 brand-basket-set-verified-summary,large,Nat set-offer/navigation and recovery delta,brand-basket-set-verified-summary,false
 largest-text-set-basket,accessibility5,Nat set-offer/navigation and recovery delta,largest-text-set-basket,false
 largest-text-set-summary,accessibility5,Nat set-offer/navigation and recovery delta,largest-text-set-summary,false
-largest-text-set-pending-summary,accessibility5,Nat set-offer/navigation and recovery delta,largest-text-set-pending-summary,true
+largest-text-set-pending-summary,accessibility5,Nat set-offer/navigation and recovery delta,brand-basket-set-375-summary,true
 M-12-basket-quote-failed,large,Nat set-offer/navigation and recovery delta,M-12-basket-quote-failed,false
 M-12-basket-quote-failed-largest,accessibility5,Nat set-offer/navigation and recovery delta,M-12-basket-quote-failed,true
