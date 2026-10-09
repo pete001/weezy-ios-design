@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "build": 45,
+  "buildId": "1697c9a1-ba69-4285-a5b8-36029820630e",
+  "verifiedAt": "2026-10-09T19:54:01.439479+00:00",
+  "processingState": "VALID",
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "groups": [
+    "Lou & Nat",
+    "Weezy Pop Internal"
+  ],
+  "autoNotifyEnabled": true,
+  "notificationPreferenceChanged": false,
+  "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1",
+  "ipaSHA256": "20fa38976ed71e80c81ea100f3fa2a6fd52d08aa030bfc253b1c84e2f1bbbc15",
+  "dSYMUUID": "BE8045BA-881B-3978-9EBF-DDBA56669E35",
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "sdk": "iphoneos27.0",
+  "minimumIOS": "17.0",
+  "appleValidationPassed": true,
+  "apiUploadChecksum": "Apple supplied no checksum; local IPA SHA256 verified before upload",
+  "testNotesLocalesVerified": [
+    "en-US",
+    "en-GB"
+  ],
+  "testflightURL": "https://testflight.apple.com/join/5m9QyaSa",
+  "appStoreDraft": {
+    "version": "1.0",
+    "build": 44,
+    "state": "PREPARE_FOR_SUBMISSION",
+    "submitted": false
+  },
+  "scope": [
+    "F123: readable largest-text basket",
+    "F124: one Swirl badge tile with quantity ×2"
+  ],
+  "functionalVerification": "Final relevant badge, content, smaller-iPhone DEBUG and optimized Release root checks passed; superseded failed runs retained in Review45 TESTS.json",
+  "acceptanceBoundaries": [
+    "Real iPhone OAuth/payment/order sync",
+    "Physical VoiceOver and haptics",
+    "APNs delivery",
+    "F50 Safari reopening",
+    "Open unsuppressed accessibility track"
+  ],
+  "publicReviewPreserved": "review/build-45 remains the original published candidate evidence; this release record is a separate later event",
+  "shopifyOrWebsiteMutated": false,
+  "betaReviewState": "APPROVED",
+  "testingNotesAdjustment": "Apple rejected a checkmark in testing notes; wording replaced with owned, quantity 2; failed attempt retained privately"
+}
