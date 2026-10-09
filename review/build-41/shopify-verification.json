@@ -1,0 +1,47 @@
+{
+  "verifiedAt": "2026-10-09T07:04:30.101Z",
+  "changed": 28,
+  "websiteCustomerFacingProductDataUnchanged": true,
+  "platformUpdatedTimestampsExcluded": true,
+  "protectedWebsiteProducts": 115,
+  "unrelatedAppProducts": 87,
+  "allSilverMappingsPreserved": true,
+  "allStoriesCategoriesVisibilityPreserved": true,
+  "nativeFixtureEqualsLiveFeed": true,
+  "exceptions": [
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-zia-rainbow-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-zia-platino-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "bertrude-bat-halloween-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "pamela-pumpkin-halloween-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "boo-the-ghost-halloween-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    }
+  ],
+  "serviceDeployment": false,
+  "editorDeployment": false
+}

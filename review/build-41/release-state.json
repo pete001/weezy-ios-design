@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "build": 41,
+  "appleBuildId": "6cacc346-f4e4-4dd0-aee7-18dadbd8670c",
+  "processingState": "VALID",
+  "betaReviewState": "APPROVED",
+  "autoNotifyEnabled": true,
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "testFlight": "https://testflight.apple.com/join/5m9QyaSa",
+  "reviewBranch": "https://github.com/pete001/weezy-ios-design/tree/review/build-41",
+  "ipaSHA256": "ade12cedcbe43fe346e3a4dcee4b7d92d9b84d6af4e8f1cd729bcb871971cb33",
+  "websiteCustomerFacingDataUnchanged": true,
+  "appOnlyShopifyProductsUpdated": 28,
+  "livePhotoReadbackConfirmed": 28,
+  "flyRelease": 39,
+  "shopifyEditorRelease": 28,
+  "newServiceOrEditorDeployment": false,
+  "nativePhotosModifiedOrGenerated": false,
+  "freshReviewImages": 16,
+  "physicalDeviceAcceptanceClaimed": false
+}

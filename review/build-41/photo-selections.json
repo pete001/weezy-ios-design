@@ -1,0 +1,297 @@
+{
+  "scope": "Only charm_club.app_images: front-load one existing visible image and replace one exact Gold variant-photo assignment per charm. Preserve all other settings.",
+  "photos": [
+    {
+      "handle": "bow-charm",
+      "title": "Pink Marble Bow Charm",
+      "variantID": "54746403799378",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56767485641042",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/FBDC636A-7686-4593-A2F3-D465785F4151.jpg?v=1771244474",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "roller-skate-charm",
+      "title": "Roller Skate Charm",
+      "variantID": "54746403635538",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768270041426",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/BA5598BC-1A35-4D84-ACF1-1361323D17E7.jpg?v=1771247733",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "shrimp-charm",
+      "title": "Shrimp Charm",
+      "variantID": "54746400915794",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768083525970",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/24FDDADA-BD35-417B-83A0-27C09AD0F344.jpg?v=1771246868",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "hot-sauce-charm",
+      "title": "Hot Sauce Charm",
+      "variantID": "54746400555346",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56767154618706",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/F8195A45-A307-447D-A69A-8600D63DF7A7.jpg?v=1771243247",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "poodle-charm",
+      "title": "Poodle Charm",
+      "variantID": "54746400457042",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56801318994258",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8098.jpg?v=1771330506",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "circus-tent-charm",
+      "title": "Circus Tent Charm",
+      "variantID": "54746400325970",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/60916445118802",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9598.png?v=1790250995",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "cowboy-boot-charm",
+      "title": "Cowboy Boot Charm",
+      "variantID": "54746400194898",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/60917231518034",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9607.png?v=1790253145",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "large-star-charm",
+      "title": "Large Star Charm",
+      "variantID": "54746400063826",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768190579026",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8051.jpg?v=1771247223",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "smiley-charm",
+      "title": "Smiley Charm",
+      "variantID": "54746399703378",
+      "variantTitle": "Gold / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/57203997245778",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9040.jpg?v=1773315263",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "jelly-charm",
+      "title": "Jelly Charm",
+      "variantID": "54746399506770",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768620757330",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8073.jpg?v=1771248866",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "egg-on-toast-charm",
+      "title": "Egg on Toast Charm",
+      "variantID": "54746399408466",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/57398825976146",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9221.jpg?v=1774360722",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "planet-charm",
+      "title": "Planet Charm",
+      "variantID": "54746399277394",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768248316242",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8055.jpg?v=1771247504",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "ice-cream-charm",
+      "title": "Ice Cream Charm",
+      "variantID": "54746399179090",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768518848850",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8069.jpg?v=1771248592",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "thunder-bolt-charm",
+      "title": "Glitter Thunder Bolt Charm",
+      "variantID": "54746398851410",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56767448285522",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8036.jpg?v=1771244278",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "swirl-charm",
+      "title": "Swirl Charm",
+      "variantID": "54746398785874",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56767541346642",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/C5D6203C-DC71-48B3-85FF-A49385A235FE.jpg?v=1771244680",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "moon-charm",
+      "title": "Moon Charm",
+      "variantID": "54746398622034",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56767993282898",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/8D248240-0740-4054-BE39-AC31BD9943EB.jpg?v=1771246460",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "sun-charm",
+      "title": "Sun Charm",
+      "variantID": "54746398458194",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768048169298",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8044.jpg?v=1771246699",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "mini-thunder-bolt-charm",
+      "title": "Pink Thunder Bolt Charm",
+      "variantID": "54746398359890",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56768365101394",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8064.jpg?v=1771248172",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "small-star-charm",
+      "title": "Small Star Charm",
+      "variantID": "54746398228818",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56767297487186",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/1D2DD189-6312-4B8E-81A4-8112E1CE3258.jpg?v=1771243744",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "mini-diamond-charm",
+      "title": "Diamond Charm",
+      "variantID": "54746398097746",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/56766561386834",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/9EEF4E4B-5C20-4CBF-8F6C-310D119C17C7.jpg?v=1771242086",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "chunky-heart-toon-stripes-charm-black-white",
+      "title": "Chunky Heart \u2013 Toon Stripes Charm (Black & White)",
+      "variantID": "54746397376850",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/60917515092306",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9616.png?v=1790254085",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "cherry-charm",
+      "title": "Cherry Charm",
+      "variantID": "54746395509074",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/60916857405778",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9603.png?v=1790251962",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "lucky-horseshoe-charm",
+      "title": "Lucky Horseshoe Charm",
+      "variantID": "52731354612050",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/57399255073106",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9225.jpg?v=1774362512",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "croissant-charm",
+      "title": "Croissant Charm",
+      "variantID": "54746394591570",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/57398947578194",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9223.jpg?v=1774361051",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "burger-charm",
+      "title": "Burger Charm",
+      "variantID": "54746394231122",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/60917658419538",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9620.png?v=1790254596",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "heart-eyes-smiley-charm",
+      "title": "Heart Eyes Smiley Charm",
+      "variantID": "53374563058002",
+      "variantTitle": "Glitter / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/58378094379346",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-2034.jpg?v=1779366174",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "battenberg-cake-charm",
+      "title": "Battenberg Cake Charm",
+      "variantID": "53522719703378",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/58378201825618",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-2037.png?v=1779366783",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    },
+    {
+      "handle": "freak-charm",
+      "title": "Freak Charm with Swarovski Crystals",
+      "variantID": "54721937670482",
+      "variantTitle": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "mediaID": "gid://shopify/MediaImage/60645482332498",
+      "source": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/Coloured_Charm.png?v=1789233792",
+      "evidence": "Visually checked existing isolated product photograph; exact Gold hardware, coloured/contrasting studio background. Toon Heart uses its existing black studio photograph."
+    }
+  ],
+  "exceptions": [
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-zia-rainbow-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-zia-platino-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "bertrude-bat-halloween-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "pamela-pumpkin-halloween-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    },
+    {
+      "handle": "boo-the-ghost-halloween-charm",
+      "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+    }
+  ],
+  "specialCases": [
+    {
+      "handle": "smiley-charm",
+      "reason": "Pink-background photo shows plain Gold design with Gold hardware. Glitter and Silver retain their own exact photos; native default follows this matched Gold hero."
+    }
+  ]
+}

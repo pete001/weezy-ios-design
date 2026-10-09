@@ -1,3 +1,7 @@
+## Current scoped review · build41
+
+[Gold and coloured charm photography](review/build-41/README.md) · [16-frame gallery](review/build-41/index.html). Exact Gold defaults and existing Silver/Glitter selections verified; prior builds31–40 preserved.
+
 # Weezy Pop · Design review
 
 [Open build40](review/build-40/README.md) · [Full build39 review](review/build-39/README.md) · [Build38](review/build-38/README.md) · [Build37](review/build-37/README.md) · [Build36](review/build-36/README.md) · [Build35](review/build-35/README.md) · [Build34](review/build-34/README.md) · [Build33](review/build-33/README.md) · [Build32](review/build-32/README.md) · [Build31](review/build-31/README.md).

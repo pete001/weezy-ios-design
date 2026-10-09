@@ -1,0 +1,328 @@
+[
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "S-01-sets-feed",
+    "file": "S-01-sets-feed.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "S-01-sets-feed-normal.png",
+    "sha256": "e50a789648094790c30288369ad214802991df9a12ba4fe8edd70d73f7bc73fc",
+    "title": "S-01-sets-feed",
+    "journey": "Set photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "S-03-set-page",
+    "file": "S-03-set-page.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "S-03-set-page-normal.png",
+    "sha256": "099aecd550dd9cc59544e0acf38fcd40a1fd566006bb205e7495be7bb4f5323f",
+    "title": "S-03-set-page",
+    "journey": "Set photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "S-03-set-page-more",
+    "file": "S-03-set-page-more.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "S-03-set-page-normal-scroll-1.png",
+    "sha256": "116ac5673bc9e03fad96ef3b85784a0b274b7ced87496fec324c01be6b8385a0",
+    "parentId": "S-03-set-page",
+    "scrollOffset": 431.3333333333333,
+    "scrollHeight": 1195.3333333333333,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "large"
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "S-01-sets-feed-snack",
+    "file": "S-01-sets-feed-snack.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "S-01-sets-feed-snack-normal.png",
+    "sha256": "382d9910183652c866430147f5c3a51159c0e2b85442a045452ff4103ebbbf82",
+    "title": "S-01-sets-feed-snack",
+    "journey": "Set photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-01-charms-feed",
+    "file": "C-01-charms-feed.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-01-charms-feed-normal.png",
+    "sha256": "27e255bf743d0f411ea1159f20f28ba40ba68646693063d79b6d38ef267016a3",
+    "title": "C-01-charms-feed",
+    "journey": "Charm photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page",
+    "file": "C-03-charm-page.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-normal.png",
+    "sha256": "8d8febfffeb00e4ef89570a84d4fee1c316d5406ea9fc4b0287dd3871b682aa5",
+    "title": "C-03-charm-page",
+    "journey": "Charm photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-largest",
+    "file": "C-03-charm-page-largest.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-largest-normal.png",
+    "sha256": "52a8ebcc592cf1870ec658f5b7569c8aa7a8085312adc539b0590a3c85d21e72",
+    "title": "C-03-charm-page-largest",
+    "journey": "Charm photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-largest-more",
+    "file": "C-03-charm-page-largest-more.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-largest-normal-scroll-1.png",
+    "sha256": "f4f3fc79e5c086a82390fa32afedf30ea55704cc751445f34b17b2c5415e8b0d",
+    "parentId": "C-03-charm-page-largest",
+    "scrollOffset": 730,
+    "scrollHeight": 1684.3333333333333,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "accessibility5"
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-largest-more-2",
+    "file": "C-03-charm-page-largest-more-2.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-largest-normal-scroll-2.png",
+    "sha256": "a1000250e6ba3820247d10a61760f98cfd1db630fb283145ee5eab3b090c7250",
+    "parentId": "C-03-charm-page-largest",
+    "scrollOffset": 844.3333333333334,
+    "scrollHeight": 1684.3333333333333,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "accessibility5"
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-smiley-default",
+    "file": "C-03-charm-page-smiley-default.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-smiley-default-normal.png",
+    "sha256": "093f2a9b194e3bb1d92a94fb844f96b6d5bbf3455c67db4ae0310e2a4c232b6f",
+    "title": "C-03-charm-page-smiley-default",
+    "journey": "Charm photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-smiley-default-more",
+    "file": "C-03-charm-page-smiley-default-more.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-smiley-default-normal-scroll-1.png",
+    "sha256": "de2057c1660b7e43909d505bce8304d275c9c258d15f68a3555d8121c9b5ffc3",
+    "parentId": "C-03-charm-page-smiley-default",
+    "scrollOffset": 162.33333333333334,
+    "scrollHeight": 926.3333333333333,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "large"
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-smiley-glitter",
+    "file": "C-03-charm-page-smiley-glitter.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-smiley-glitter-normal.png",
+    "sha256": "50632c71bb865a68c4ec32c2040d37f9476897261bc2757bc49601ee2a13bce5",
+    "title": "C-03-charm-page-smiley-glitter",
+    "journey": "Charm photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-smiley-glitter-more",
+    "file": "C-03-charm-page-smiley-glitter-more.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-smiley-glitter-normal-scroll-1.png",
+    "sha256": "a09f5af45b2196122d2993e0a6c1b6941a8c0c17d3702dbc9406dabc7fd88fc6",
+    "parentId": "C-03-charm-page-smiley-glitter",
+    "scrollOffset": 162.33333333333334,
+    "scrollHeight": 926.3333333333333,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "large"
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "C-03-charm-page-silver",
+    "file": "C-03-charm-page-silver.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "C-03-charm-page-silver-normal.png",
+    "sha256": "15d4b27263181e8b2d4d30607a34de8449a18bf5533c12535fc776955d39eff3",
+    "title": "C-03-charm-page-silver",
+    "journey": "Charm photography",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "E-02-earring-page",
+    "file": "E-02-earring-page.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "E-02-earring-page-normal.png",
+    "sha256": "2fe7c33b8d0fb2746a94547e12c047abf57909a64787fb231073cde6109f2da5",
+    "title": "E-02-earring-page",
+    "journey": "Unchanged earring control",
+    "designOwner": "Native app",
+    "view": "Production SwiftUI / build41 / current read-back Shopify app-only photo settings, actual set registry, isolated Claire with Moon/Sun owned. Controlled393\u00d7852pt; not live authentication or payment evidence."
+  },
+  {
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "E-02-earring-page-more",
+    "file": "E-02-earring-page-more.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "E-02-earring-page-normal-scroll-1.png",
+    "sha256": "ca4b9d3d2036d90fc7d752a583eedbf62cab987e895a1a2ad1f88c3734809ac6",
+    "parentId": "E-02-earring-page",
+    "scrollOffset": 117.66666666666667,
+    "scrollHeight": 881.6666666666666,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "large"
+  }
+]

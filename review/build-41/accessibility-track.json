@@ -1,0 +1,23 @@
+{
+  "auditPassed": false,
+  "betaAcceptanceOnly": true,
+  "findingCount": 2,
+  "reviewed": true,
+  "findings": [
+    {
+      "type": "contrast",
+      "element": "Shop photo counter 2 / 37 beneath native bottom tab overlay",
+      "status": "open-accessibility-track",
+      "evidence": "AFBE477E-877A-4D02-822E-B0AB6767C459.txt"
+    },
+    {
+      "type": "potential Dynamic Type clipping",
+      "element": "normal-text ADD TO BASKET \u00b7 \u00a34",
+      "status": "open-accessibility-track",
+      "evidence": "196D5C7C-5A4E-49EC-981C-69C2B8746CCF.txt",
+      "manualReview": "Fresh normal screenshot renders the full button label. Actual largest-text interaction tests pass on both sizes. Apple warning is retained rather than suppressed."
+    }
+  ],
+  "reason": "Unchanged Shop layout and button styling; this change is source selection, app-only media metadata and Gold browsing defaults. The two existing unsuppressed findings remain open; no fresh full accessibility audit is claimed.",
+  "inheritedFromBuild": 39
+}

@@ -1,0 +1,3345 @@
+[
+  {
+    "id": "S-01-sets-feed",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "S-01-sets-feed.jpg",
+    "sha256": "e50a789648094790c30288369ad214802991df9a12ba4fe8edd70d73f7bc73fc",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "S-03-set-page",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "S-03-set-page.jpg",
+    "sha256": "099aecd550dd9cc59544e0acf38fcd40a1fd566006bb205e7495be7bb4f5323f",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "S-03-set-page-more",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "S-03-set-page-more.jpg",
+    "sha256": "116ac5673bc9e03fad96ef3b85784a0b274b7ced87496fec324c01be6b8385a0",
+    "parentId": "S-03-set-page",
+    "scrollOffset": 431.3333333333333,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "S-01-sets-feed-snack",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "S-01-sets-feed-snack.jpg",
+    "sha256": "382d9910183652c866430147f5c3a51159c0e2b85442a045452ff4103ebbbf82",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-01-charms-feed",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-01-charms-feed.jpg",
+    "sha256": "27e255bf743d0f411ea1159f20f28ba40ba68646693063d79b6d38ef267016a3",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page.jpg",
+    "sha256": "8d8febfffeb00e4ef89570a84d4fee1c316d5406ea9fc4b0287dd3871b682aa5",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page-largest",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-largest.jpg",
+    "sha256": "52a8ebcc592cf1870ec658f5b7569c8aa7a8085312adc539b0590a3c85d21e72",
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "C-03-charm-page-largest-more",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-largest-more.jpg",
+    "sha256": "f4f3fc79e5c086a82390fa32afedf30ea55704cc751445f34b17b2c5415e8b0d",
+    "parentId": "C-03-charm-page-largest",
+    "scrollOffset": 730,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "C-03-charm-page-largest-more-2",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-largest-more-2.jpg",
+    "sha256": "a1000250e6ba3820247d10a61760f98cfd1db630fb283145ee5eab3b090c7250",
+    "parentId": "C-03-charm-page-largest",
+    "scrollOffset": 844.3333333333334,
+    "captureKind": "native-content",
+    "textSize": "accessibility5"
+  },
+  {
+    "id": "C-03-charm-page-smiley-default",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-smiley-default.jpg",
+    "sha256": "093f2a9b194e3bb1d92a94fb844f96b6d5bbf3455c67db4ae0310e2a4c232b6f",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page-smiley-default-more",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-smiley-default-more.jpg",
+    "sha256": "de2057c1660b7e43909d505bce8304d275c9c258d15f68a3555d8121c9b5ffc3",
+    "parentId": "C-03-charm-page-smiley-default",
+    "scrollOffset": 162.33333333333334,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page-smiley-glitter",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-smiley-glitter.jpg",
+    "sha256": "50632c71bb865a68c4ec32c2040d37f9476897261bc2757bc49601ee2a13bce5",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page-smiley-glitter-more",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-smiley-glitter-more.jpg",
+    "sha256": "a09f5af45b2196122d2993e0a6c1b6941a8c0c17d3702dbc9406dabc7fd88fc6",
+    "parentId": "C-03-charm-page-smiley-glitter",
+    "scrollOffset": 162.33333333333334,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page-silver",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "C-03-charm-page-silver.jpg",
+    "sha256": "15d4b27263181e8b2d4d30607a34de8449a18bf5533c12535fc776955d39eff3",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "E-02-earring-page",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "E-02-earring-page.jpg",
+    "sha256": "2fe7c33b8d0fb2746a94547e12c047abf57909a64787fb231073cde6109f2da5",
+    "captureKind": "native-content"
+  },
+  {
+    "id": "E-02-earring-page-more",
+    "build": 41,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "file": "E-02-earring-page-more.jpg",
+    "sha256": "ca4b9d3d2036d90fc7d752a583eedbf62cab987e895a1a2ad1f88c3734809ac6",
+    "parentId": "E-02-earring-page",
+    "scrollOffset": 117.66666666666667,
+    "captureKind": "native-content"
+  },
+  {
+    "id": "A-01-page-length-example",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 40,
+    "reference": "../build-40/A-01-page-length-example.jpg"
+  },
+  {
+    "id": "A-01-page-length-example-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 40,
+    "reference": "../build-40/A-01-page-length-example-more.jpg"
+  },
+  {
+    "id": "A-01-page-length-example-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 40,
+    "reference": "../build-40/A-01-page-length-example-largest.jpg"
+  },
+  {
+    "id": "A-01-page-length-example-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 40,
+    "reference": "../build-40/A-01-page-length-example-largest-more.jpg"
+  },
+  {
+    "id": "A-01-page-length-example-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 40,
+    "reference": "../build-40/A-01-page-length-example-largest-more-2.jpg"
+  },
+  {
+    "id": "A-01-page-length-example-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 40,
+    "reference": "../build-40/A-01-page-length-example-largest-more-3.jpg"
+  },
+  {
+    "id": "C-01-charms-feed-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/C-01-charms-feed-largest.jpg"
+  },
+  {
+    "id": "C-01-charms-feed-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/C-01-charms-feed-largest-more.jpg"
+  },
+  {
+    "id": "C-01-charms-feed-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/C-01-charms-feed-largest-more-2.jpg"
+  },
+  {
+    "id": "C-03-charm-page-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/C-03-charm-page-more.jpg"
+  },
+  {
+    "id": "C-05-charms-feed-no-set",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/C-05-charms-feed-no-set.jpg"
+  },
+  {
+    "id": "E-02-earring-page-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/E-02-earring-page-largest.jpg"
+  },
+  {
+    "id": "E-02-earring-page-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/E-02-earring-page-largest-more.jpg"
+  },
+  {
+    "id": "E-02-earring-page-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/E-02-earring-page-largest-more-2.jpg"
+  },
+  {
+    "id": "E-02-earring-page-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/E-02-earring-page-largest-more-3.jpg"
+  },
+  {
+    "id": "A-01-page",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/A-01-page.jpg"
+  },
+  {
+    "id": "A-01-page-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/A-01-page-more.jpg"
+  },
+  {
+    "id": "A-01-page-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/A-01-page-more-2.jpg"
+  },
+  {
+    "id": "A-01-page-description-fallback",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/A-01-page-description-fallback.jpg"
+  },
+  {
+    "id": "A-01-page-description-fallback-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/A-01-page-description-fallback-more.jpg"
+  },
+  {
+    "id": "A-01-page-description-fallback-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/A-01-page-description-fallback-more-2.jpg"
+  },
+  {
+    "id": "E-02-earring-page-silver",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/E-02-earring-page-silver.jpg"
+  },
+  {
+    "id": "E-02-earring-page-silver-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 39,
+    "reference": "../build-39/E-02-earring-page-silver-more.jpg"
+  },
+  {
+    "id": "A-01-feed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/A-01-feed.jpg"
+  },
+  {
+    "id": "A-02-feed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/A-02-feed.jpg"
+  },
+  {
+    "id": "A-02-page",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/A-02-page.jpg"
+  },
+  {
+    "id": "A-02-page-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/A-02-page-more.jpg"
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/BUILD29-BADGE-DETAIL.jpg"
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/BUILD29-BADGE-DETAIL-more.jpg"
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/BUILD29-FIRST-NAME.jpg"
+  },
+  {
+    "id": "C-02-charms-added",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/C-02-charms-added.jpg"
+  },
+  {
+    "id": "C-03-charm-page-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-39/C-03-charm-page-largest-more-3.jpg"
+  },
+  {
+    "id": "C-03-charm-page-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-39/C-03-charm-page-largest-more-4.jpg"
+  },
+  {
+    "id": "C-03-charm-page-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-39/C-03-charm-page-largest-more-5.jpg"
+  },
+  {
+    "id": "C-03-charm-page-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-39/C-03-charm-page-largest-more-6.jpg"
+  },
+  {
+    "id": "C-04-charm-page-no-set",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/C-04-charm-page-no-set.jpg"
+  },
+  {
+    "id": "C-04-charm-page-no-set-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/C-04-charm-page-no-set-more.jpg"
+  },
+  {
+    "id": "CLUB-profile",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/CLUB-profile.jpg"
+  },
+  {
+    "id": "CLUB-profile-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/CLUB-profile-largest.jpg"
+  },
+  {
+    "id": "CLUB-profile-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/CLUB-profile-largest-more.jpg"
+  },
+  {
+    "id": "CLUB-profile-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/CLUB-profile-largest-more-2.jpg"
+  },
+  {
+    "id": "CLUB-profile-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/CLUB-profile-more.jpg"
+  },
+  {
+    "id": "E-01-earrings-feed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/E-01-earrings-feed.jpg"
+  },
+  {
+    "id": "E-02-earring-page-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-39/E-02-earring-page-more-2.jpg"
+  },
+  {
+    "id": "G-01-splash",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-01-splash.jpg"
+  },
+  {
+    "id": "G-02-welcome",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-02-welcome.jpg"
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-03-shopify-sign-in.jpg"
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-05-syncing-purchases.jpg"
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-06-purchases-found.jpg"
+  },
+  {
+    "id": "G-08-alerts-primer",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-08-alerts-primer.jpg"
+  },
+  {
+    "id": "G-09-shop-piece",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-09-shop-piece.jpg"
+  },
+  {
+    "id": "G-10-set-post",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-10-set-post.jpg"
+  },
+  {
+    "id": "G-10I-incomplete-set-post",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-10I-incomplete-set-post.jpg"
+  },
+  {
+    "id": "G-11-quick-add",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-11-quick-add.jpg"
+  },
+  {
+    "id": "G-12-charm-story",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-12-charm-story.jpg"
+  },
+  {
+    "id": "G-12-charm-story-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-12-charm-story-more.jpg"
+  },
+  {
+    "id": "G-12-charm-story-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-12-charm-story-more-2.jpg"
+  },
+  {
+    "id": "G-12-more-charm-story",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-12-more-charm-story.jpg"
+  },
+  {
+    "id": "G-13-more-set-detail",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/G-13-more-set-detail.jpg"
+  },
+  {
+    "id": "G-13-set-detail",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-13-set-detail.jpg"
+  },
+  {
+    "id": "G-13-set-detail-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-13-set-detail-more.jpg"
+  },
+  {
+    "id": "G-13I-incomplete-set-detail",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-13I-incomplete-set-detail.jpg"
+  },
+  {
+    "id": "G-13I-incomplete-set-detail-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-13I-incomplete-set-detail-more.jpg"
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-10",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-10.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-11",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-11.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-12",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-12.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-13",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-13.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-14",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-14.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-15",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-15.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-2.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-3.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-4.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-5.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-6.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-7",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-7.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-8",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-8.jpg"
+  },
+  {
+    "id": "G-14-my-charms-largest-more-9",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-14-my-charms-largest-more-9.jpg"
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/G-14-my-charms-more.jpg"
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/G-14-my-charms-more-2.jpg"
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/G-14-my-charms-more-3.jpg"
+  },
+  {
+    "id": "G-15-more-wishlist-shipping",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-15-more-wishlist-shipping.jpg"
+  },
+  {
+    "id": "G-15-wishlist",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-15-wishlist.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-2.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-3.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-4.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-5.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-6.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-7",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-7.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-8",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-8.jpg"
+  },
+  {
+    "id": "G-15-wishlist-largest-more-9",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-15-wishlist-largest-more-9.jpg"
+  },
+  {
+    "id": "G-15-wishlist-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-15-wishlist-more.jpg"
+  },
+  {
+    "id": "G-15-wishlist-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-15-wishlist-more-2.jpg"
+  },
+  {
+    "id": "G-17-set-complete",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-17-set-complete.jpg"
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-18-share-the-stack.jpg"
+  },
+  {
+    "id": "G-19-achievements",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-19-achievements.jpg"
+  },
+  {
+    "id": "G-20-club",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-20-club.jpg"
+  },
+  {
+    "id": "G-20B-bestie-club-page",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/G-20B-bestie-club-page.jpg"
+  },
+  {
+    "id": "G-21-invite",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-21-invite.jpg"
+  },
+  {
+    "id": "G-22-gift-sheet",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-22-gift-sheet.jpg"
+  },
+  {
+    "id": "G-23-gift-confirmed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-23-gift-confirmed.jpg"
+  },
+  {
+    "id": "G-24-more-settings",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-24-more-settings.jpg"
+  },
+  {
+    "id": "G-24-settings",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-24-settings.jpg"
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-24-settings-more.jpg"
+  },
+  {
+    "id": "G-25-search",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search.jpg"
+  },
+  {
+    "id": "G-25-search-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search-more.jpg"
+  },
+  {
+    "id": "G-25-search-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search-more-2.jpg"
+  },
+  {
+    "id": "G-25-search-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search-more-3.jpg"
+  },
+  {
+    "id": "G-25-search-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search-more-4.jpg"
+  },
+  {
+    "id": "G-25-search-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search-more-5.jpg"
+  },
+  {
+    "id": "G-25-search-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/G-25-search-more-6.jpg"
+  },
+  {
+    "id": "G-28-pick-your-code",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/G-28-pick-your-code.jpg"
+  },
+  {
+    "id": "G-29-a-bestie-s-charms",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-29-a-bestie-s-charms.jpg"
+  },
+  {
+    "id": "G-29-a-bestie-s-charms-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-29-a-bestie-s-charms-more.jpg"
+  },
+  {
+    "id": "G-29-a-bestie-s-charms-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-29-a-bestie-s-charms-more-2.jpg"
+  },
+  {
+    "id": "G-29-more-a-bestie-s-charms",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-29-more-a-bestie-s-charms.jpg"
+  },
+  {
+    "id": "G-30-a-bestie-s-wishlist",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-30-a-bestie-s-wishlist.jpg"
+  },
+  {
+    "id": "G-30-a-bestie-s-wishlist-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/G-30-a-bestie-s-wishlist-more.jpg"
+  },
+  {
+    "id": "G-30-more-a-bestie-s-wishlist",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-30-more-a-bestie-s-wishlist.jpg"
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-31-badge-catalogue.jpg"
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-31-badge-catalogue-more.jpg"
+  },
+  {
+    "id": "G-31-more-badge-catalogue",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-31-more-badge-catalogue.jpg"
+  },
+  {
+    "id": "G-32-share-new-snap",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-32-share-new-snap.jpg"
+  },
+  {
+    "id": "G-33-share-gift",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-33-share-gift.jpg"
+  },
+  {
+    "id": "G-34-share-badge",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-34-share-badge.jpg"
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-35-basket-sheet.jpg"
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-35E-basket-empty.jpg"
+  },
+  {
+    "id": "G-35R-basket-verified-reward",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/G-35R-basket-verified-reward.jpg"
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-35U-basket-removal-undo.jpg"
+  },
+  {
+    "id": "G-9B-shop-second-photo",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-9B-shop-second-photo.jpg"
+  },
+  {
+    "id": "G-9C-shop-long-title",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/G-9C-shop-long-title.jpg"
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/H-01-hot-set.jpg"
+  },
+  {
+    "id": "H-02-hot-charm",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/H-02-hot-charm.jpg"
+  },
+  {
+    "id": "H-03-hot-earrings",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/H-03-hot-earrings.jpg"
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-01-sharing-privacy.jpg"
+  },
+  {
+    "id": "M-01-sharing-privacy-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-01-sharing-privacy-more.jpg"
+  },
+  {
+    "id": "M-01-sharing-privacy-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-01-sharing-privacy-more-2.jpg"
+  },
+  {
+    "id": "M-02-private-review",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-02-private-review.jpg"
+  },
+  {
+    "id": "M-03-your-orders",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-03-your-orders.jpg"
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-04-your-orders-empty.jpg"
+  },
+  {
+    "id": "M-05-checkout-return",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-05-checkout-return.jpg"
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-06-sync-zero.jpg"
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-07-registration-history.jpg"
+  },
+  {
+    "id": "M-08-delete-account",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-08-delete-account.jpg"
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-09-sign-in-failed.jpg"
+  },
+  {
+    "id": "M-10-sync-failed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-10-sync-failed.jpg"
+  },
+  {
+    "id": "M-11-offline",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-11-offline.jpg"
+  },
+  {
+    "id": "M-11-offline-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-11-offline-more.jpg"
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/M-11-offline-more-2.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-10",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-10.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-11",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-11.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-12",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-12.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-13",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-13.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-14",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-14.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-15",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-15.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-16",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-16.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-17",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-17.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-18",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-18.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-19",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-19.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-2.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-20",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-20.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-21",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-21.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-22",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-22.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-23",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-23.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-24",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-largest-more-24.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-3.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-4.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-5.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-6.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-7",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-7.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-8",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-8.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-largest-more-9",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/M-12-basket-quote-failed-largest-more-9.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-more.jpg"
+  },
+  {
+    "id": "M-12-basket-quote-failed-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/M-12-basket-quote-failed-more-2.jpg"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/OFFLINE-REGISTRATION.jpg"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/OFFLINE-REGISTRATION-more.jpg"
+  },
+  {
+    "id": "RELEASE28-CLUB",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/RELEASE28-CLUB.jpg"
+  },
+  {
+    "id": "RELEASE28-MY-CHARMS",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE28-MY-CHARMS.jpg"
+  },
+  {
+    "id": "RELEASE28-MY-CHARMS-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE28-MY-CHARMS-more.jpg"
+  },
+  {
+    "id": "RELEASE28-MY-CHARMS-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE28-MY-CHARMS-more-2.jpg"
+  },
+  {
+    "id": "RELEASE28-MY-CHARMS-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE28-MY-CHARMS-more-3.jpg"
+  },
+  {
+    "id": "RELEASE28-SHOP",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE28-SHOP.jpg"
+  },
+  {
+    "id": "RELEASE28-WISHLIST",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/RELEASE28-WISHLIST.jpg"
+  },
+  {
+    "id": "RELEASE28-WISHLIST-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/RELEASE28-WISHLIST-more.jpg"
+  },
+  {
+    "id": "RELEASE28-WISHLIST-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/RELEASE28-WISHLIST-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-FLOWER-GALLERY",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-FLOWER-GALLERY.jpg"
+  },
+  {
+    "id": "RELEASE29-FLOWER-GALLERY-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-FLOWER-GALLERY-more.jpg"
+  },
+  {
+    "id": "RELEASE29-FLOWER-GALLERY-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-FLOWER-GALLERY-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-FLOWER-RESTORED",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-FLOWER-RESTORED.jpg"
+  },
+  {
+    "id": "RELEASE29-FLOWER-RESTORED-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-FLOWER-RESTORED-more.jpg"
+  },
+  {
+    "id": "RELEASE29-FLOWER-RESTORED-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-FLOWER-RESTORED-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-GLITTER",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-GLITTER.jpg"
+  },
+  {
+    "id": "RELEASE29-GLITTER-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-GLITTER-more.jpg"
+  },
+  {
+    "id": "RELEASE29-GLITTER-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-GLITTER-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-GOLD",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-GOLD.jpg"
+  },
+  {
+    "id": "RELEASE29-GOLD-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-GOLD-more.jpg"
+  },
+  {
+    "id": "RELEASE29-GOLD-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-GOLD-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GLITTER.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GLITTER-more.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GLITTER-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GLITTER-more-3.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GLITTER-more-4.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GLITTER-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GLITTER-more-5.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GOLD.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GOLD-more.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GOLD-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GOLD-more-3.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-GOLD-more-4.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-GOLD-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/RELEASE29-LARGEST-GOLD-more-5.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-RESTORED.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-RESTORED-more.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-RESTORED-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-RESTORED-more-3.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-RESTORED-more-4.jpg"
+  },
+  {
+    "id": "RELEASE29-LARGEST-RESTORED-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-LARGEST-RESTORED-more-5.jpg"
+  },
+  {
+    "id": "RELEASE29-RESELECTED",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RESELECTED.jpg"
+  },
+  {
+    "id": "RELEASE29-RESELECTED-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RESELECTED-more.jpg"
+  },
+  {
+    "id": "RELEASE29-RESELECTED-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RESELECTED-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-RESTORED",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RESTORED.jpg"
+  },
+  {
+    "id": "RELEASE29-RESTORED-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RESTORED-more.jpg"
+  },
+  {
+    "id": "RELEASE29-RESTORED-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RESTORED-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-RETRY",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RETRY.jpg"
+  },
+  {
+    "id": "RELEASE29-RETRY-LOADED",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RETRY-LOADED.jpg"
+  },
+  {
+    "id": "RELEASE29-RETRY-LOADED-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RETRY-LOADED-more.jpg"
+  },
+  {
+    "id": "RELEASE29-RETRY-LOADED-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RETRY-LOADED-more-2.jpg"
+  },
+  {
+    "id": "RELEASE29-RETRY-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RETRY-more.jpg"
+  },
+  {
+    "id": "RELEASE29-RETRY-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/RELEASE29-RETRY-more-2.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-10",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-10.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-11",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-11.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-12",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-12.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-13",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-13.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-14",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-14.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-15",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-15.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-16",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-16.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-17",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-17.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-2.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-3.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-4.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-5.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-6.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-7",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-7.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-8",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-8.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-largest-more-9",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-01-sets-feed-largest-more-9.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-01-sets-feed-more.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-01-sets-feed-more-2.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-01-sets-feed-more-3.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-snack-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-01-sets-feed-snack-more.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-snack-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-01-sets-feed-snack-more-2.jpg"
+  },
+  {
+    "id": "S-01-sets-feed-snack-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-01-sets-feed-snack-more-3.jpg"
+  },
+  {
+    "id": "S-02-feed-added",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-02-feed-added.jpg"
+  },
+  {
+    "id": "S-02-feed-added-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-02-feed-added-more.jpg"
+  },
+  {
+    "id": "S-02-feed-added-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-02-feed-added-more-2.jpg"
+  },
+  {
+    "id": "S-02-feed-added-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-34/S-02-feed-added-more-3.jpg"
+  },
+  {
+    "id": "S-02-tap-to-add",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/S-02-tap-to-add.mp4"
+  },
+  {
+    "id": "S-03-set-page-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-largest.jpg"
+  },
+  {
+    "id": "S-03-set-page-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-largest-more.jpg"
+  },
+  {
+    "id": "S-03-set-page-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-largest-more-2.jpg"
+  },
+  {
+    "id": "S-03-set-page-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-largest-more-3.jpg"
+  },
+  {
+    "id": "S-03-set-page-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-largest-more-4.jpg"
+  },
+  {
+    "id": "S-03-set-page-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-largest-more-5.jpg"
+  },
+  {
+    "id": "S-03-set-page-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/S-03-set-page-largest-more-6.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-largest.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-largest-more.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-largest-more-2.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-largest-more-3.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-largest-more-4.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-largest-more-5.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/S-03-set-page-pending-largest-more-6.jpg"
+  },
+  {
+    "id": "S-03-set-page-pending-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-pending-more.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest-more.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest-more-2.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest-more-3.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest-more-4.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest-more-5.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-largest-more-6.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-largest-more-7",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/S-03-set-page-snack-largest-more-7.jpg"
+  },
+  {
+    "id": "S-03-set-page-snack-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-03-set-page-snack-more.jpg"
+  },
+  {
+    "id": "S-04-set-all-in",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-04-set-all-in.jpg"
+  },
+  {
+    "id": "S-04-set-all-in-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/S-04-set-all-in-more.jpg"
+  },
+  {
+    "id": "S-05-product-in-set",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/S-05-product-in-set.jpg"
+  },
+  {
+    "id": "S-05-product-in-set-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S-05-product-in-set-more.jpg"
+  },
+  {
+    "id": "S2-01-sets-feed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-01-sets-feed.jpg"
+  },
+  {
+    "id": "S2-01-sets-feed-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-01-sets-feed-largest.jpg"
+  },
+  {
+    "id": "S2-01-sets-feed-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-01-sets-feed-largest-more.jpg"
+  },
+  {
+    "id": "S2-01-sets-feed-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-01-sets-feed-largest-more-2.jpg"
+  },
+  {
+    "id": "S2-02-sets-feed-owned",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-02-sets-feed-owned.jpg"
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-03-sets-feed-in-basket.jpg"
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-04-set-page.jpg"
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/S2-04-set-page-more.jpg"
+  },
+  {
+    "id": "SHEET-add-bestie",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-add-bestie.jpg"
+  },
+  {
+    "id": "SHEET-add-bestie-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-add-bestie-more.jpg"
+  },
+  {
+    "id": "SHEET-badge-detail",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-badge-detail.jpg"
+  },
+  {
+    "id": "SHEET-badge-detail-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-badge-detail-more.jpg"
+  },
+  {
+    "id": "SHEET-basket",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-basket.jpg"
+  },
+  {
+    "id": "SHEET-basket-drag",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/SHEET-basket-drag.jpg"
+  },
+  {
+    "id": "SHEET-basket-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-basket-more.jpg"
+  },
+  {
+    "id": "SHEET-basket-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-basket-more-2.jpg"
+  },
+  {
+    "id": "SHEET-delete-account",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/SHEET-delete-account.jpg"
+  },
+  {
+    "id": "SHEET-delete-account-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/SHEET-delete-account-more.jpg"
+  },
+  {
+    "id": "SHEET-finish-chooser",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-finish-chooser.jpg"
+  },
+  {
+    "id": "SHEET-finish-chooser-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-finish-chooser-more.jpg"
+  },
+  {
+    "id": "SHEET-finish-chooser-rodeo",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-finish-chooser-rodeo.jpg"
+  },
+  {
+    "id": "SHEET-finish-chooser-rodeo-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-finish-chooser-rodeo-more.jpg"
+  },
+  {
+    "id": "SHEET-gift",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-gift.jpg"
+  },
+  {
+    "id": "SHEET-gift-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-gift-more.jpg"
+  },
+  {
+    "id": "SHEET-quick-add",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-37/SHEET-quick-add.jpg"
+  },
+  {
+    "id": "SHEET-sharing-privacy",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-sharing-privacy.jpg"
+  },
+  {
+    "id": "SHEET-wishlist-visibility",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/SHEET-wishlist-visibility.jpg"
+  },
+  {
+    "id": "SHOPIFY-CHECKOUT",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/SHOPIFY-CHECKOUT.jpg"
+  },
+  {
+    "id": "SHOPIFY-CODE",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/SHOPIFY-CODE.jpg"
+  },
+  {
+    "id": "TERRY-COLLECTION",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/TERRY-COLLECTION.jpg"
+  },
+  {
+    "id": "TERRY-COLLECTION-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/TERRY-COLLECTION-more.jpg"
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-01-shared-wishlist.jpg"
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-01-shared-wishlist-more.jpg"
+  },
+  {
+    "id": "W-01-shared-wishlist-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-01-shared-wishlist-more-2.jpg"
+  },
+  {
+    "id": "W-02-gift-bag",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/W-02-gift-bag.jpg"
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/W-02-gift-bag-more.jpg"
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/W-03-gift-thanks.jpg"
+  },
+  {
+    "id": "W-04-shared-stack",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-04-shared-stack.jpg"
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-04-shared-stack-more.jpg"
+  },
+  {
+    "id": "W-05-bestie-invite",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-05-bestie-invite.jpg"
+  },
+  {
+    "id": "W-05-bestie-invite-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/W-05-bestie-invite-more.jpg"
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/W-06-private-link.jpg"
+  },
+  {
+    "id": "W-06-private-link-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/W-06-private-link-more.jpg"
+  },
+  {
+    "id": "W-07-app-first-open",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/W-07-app-first-open.jpg"
+  },
+  {
+    "id": "X-01-gift-inbox-signed-out",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-01-gift-inbox-signed-out.jpg"
+  },
+  {
+    "id": "X-02-add-friend-by-code",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-02-add-friend-by-code.jpg"
+  },
+  {
+    "id": "X-03-friend-code-management",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-03-friend-code-management.jpg"
+  },
+  {
+    "id": "X-04-import-shared-wishlist",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-04-import-shared-wishlist.jpg"
+  },
+  {
+    "id": "X-05-private-bestie-wishlist",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-05-private-bestie-wishlist.jpg"
+  },
+  {
+    "id": "X-06-your-snap-crop",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-06-your-snap-crop.jpg"
+  },
+  {
+    "id": "X-08-gift-inbox-signed-in-empty",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-08-gift-inbox-signed-in-empty.jpg"
+  },
+  {
+    "id": "X-09-gift-inbox-paid-and-revealed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-09-gift-inbox-paid-and-revealed.jpg"
+  },
+  {
+    "id": "X-09P-gift-inbox-paid-concealed",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/X-09P-gift-inbox-paid-concealed.jpg"
+  },
+  {
+    "id": "brand-basket-set-375-pieces",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-375-pieces.jpg"
+  },
+  {
+    "id": "brand-basket-set-375-pieces-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-375-pieces-more.jpg"
+  },
+  {
+    "id": "brand-basket-set-375-summary",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-375-summary.jpg"
+  },
+  {
+    "id": "brand-basket-set-440-pieces",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-440-pieces.jpg"
+  },
+  {
+    "id": "brand-basket-set-440-pieces-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-440-pieces-more.jpg"
+  },
+  {
+    "id": "brand-basket-set-440-summary",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-440-summary.jpg"
+  },
+  {
+    "id": "brand-basket-set-snack-pieces",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/brand-basket-set-snack-pieces.jpg"
+  },
+  {
+    "id": "brand-basket-set-snack-pieces-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/brand-basket-set-snack-pieces-more.jpg"
+  },
+  {
+    "id": "brand-basket-set-snack-summary",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-snack-summary.jpg"
+  },
+  {
+    "id": "brand-basket-set-verified-summary",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/brand-basket-set-verified-summary.jpg"
+  },
+  {
+    "id": "complete-set-finish-review",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/complete-set-finish-review.jpg"
+  },
+  {
+    "id": "complete-set-finish-review-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/complete-set-finish-review-more.jpg"
+  },
+  {
+    "id": "complete-set-finish-review-rodeo",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/complete-set-finish-review-rodeo.jpg"
+  },
+  {
+    "id": "complete-set-finish-review-rodeo-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/complete-set-finish-review-rodeo-more.jpg"
+  },
+  {
+    "id": "complete-set-finish-review-snack",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/complete-set-finish-review-snack.jpg"
+  },
+  {
+    "id": "complete-set-finish-review-snack-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-36/complete-set-finish-review-snack-more.jpg"
+  },
+  {
+    "id": "largest-text-set-basket",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket.jpg"
+  },
+  {
+    "id": "largest-text-set-basket-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket-more.jpg"
+  },
+  {
+    "id": "largest-text-set-basket-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket-more-2.jpg"
+  },
+  {
+    "id": "largest-text-set-basket-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket-more-3.jpg"
+  },
+  {
+    "id": "largest-text-set-basket-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket-more-4.jpg"
+  },
+  {
+    "id": "largest-text-set-basket-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket-more-5.jpg"
+  },
+  {
+    "id": "largest-text-set-basket-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-basket-more-6.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-more.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-more-2.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-more-3.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-more-4.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-more-5.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-more-6.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack-more.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack-more-2.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack-more-3.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack-more-4.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack-more-5.jpg"
+  },
+  {
+    "id": "largest-text-set-finish-review-snack-more-6",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-finish-review-snack-more-6.jpg"
+  },
+  {
+    "id": "largest-text-set-pending-summary",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-pending-summary.jpg"
+  },
+  {
+    "id": "largest-text-set-summary",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-35/largest-text-set-summary.jpg"
+  },
+  {
+    "id": "purchase-registration-largest",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-more.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-more-2.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-more-3.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-more-4.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-proof",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-proof.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-proof-more.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-2",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-proof-more-2.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-3",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-proof-more-3.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-4",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-proof-more-4.jpg"
+  },
+  {
+    "id": "purchase-registration-largest-proof-more-5",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-33/purchase-registration-largest-proof-more-5.jpg"
+  },
+  {
+    "id": "purchase-registration-proof",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/purchase-registration-proof.jpg"
+  },
+  {
+    "id": "purchase-registration-proof-more",
+    "build": 41,
+    "notCaptured": true,
+    "reason": "Outside this scoped photography review. Existing layout is retained; charm photos may change with live app-only settings. Earlier capture is a historical reference, not a fresh build41 verification.",
+    "referenceBuild": 38,
+    "reference": "../build-38/../build-32/purchase-registration-proof-more.jpg"
+  }
+]

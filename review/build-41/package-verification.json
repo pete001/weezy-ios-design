@@ -1,0 +1,92 @@
+{
+  "CFBundleIdentifier": "com.weezypop.charmclub",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleVersion": "41",
+  "DTSDKName": "iphoneos27.0",
+  "MinimumOSVersion": "17.0",
+  "ITSAppUsesNonExemptEncryption": false,
+  "signatureVerified": true,
+  "entitlements": {
+    "application-identifier": "N5GGJF75LB.com.weezypop.charmclub",
+    "aps-environment": "production",
+    "beta-reports-active": true,
+    "com.apple.developer.associated-domains": [
+      "applinks:weezy-pop-club.fly.dev"
+    ],
+    "com.apple.developer.icloud-container-environment": "Production",
+    "com.apple.developer.icloud-container-identifiers": [
+      "iCloud.com.weezypop.charmclub"
+    ],
+    "com.apple.developer.icloud-services": [
+      "CloudKit"
+    ],
+    "com.apple.developer.team-identifier": "N5GGJF75LB",
+    "get-task-allow": false
+  },
+  "privacyManifest": {
+    "NSPrivacyAccessedAPITypes": [
+      {
+        "NSPrivacyAccessedAPIType": "NSPrivacyAccessedAPICategoryUserDefaults",
+        "NSPrivacyAccessedAPITypeReasons": [
+          "CA92.1"
+        ]
+      }
+    ],
+    "NSPrivacyCollectedDataTypes": [
+      {
+        "NSPrivacyCollectedDataType": "NSPrivacyCollectedDataTypePhotosorVideos",
+        "NSPrivacyCollectedDataTypeLinked": true,
+        "NSPrivacyCollectedDataTypePurposes": [
+          "NSPrivacyCollectedDataTypePurposeAppFunctionality"
+        ],
+        "NSPrivacyCollectedDataTypeTracking": false
+      },
+      {
+        "NSPrivacyCollectedDataType": "NSPrivacyCollectedDataTypeName",
+        "NSPrivacyCollectedDataTypeLinked": true,
+        "NSPrivacyCollectedDataTypePurposes": [
+          "NSPrivacyCollectedDataTypePurposeAppFunctionality"
+        ],
+        "NSPrivacyCollectedDataTypeTracking": false
+      },
+      {
+        "NSPrivacyCollectedDataType": "NSPrivacyCollectedDataTypeUserID",
+        "NSPrivacyCollectedDataTypeLinked": true,
+        "NSPrivacyCollectedDataTypePurposes": [
+          "NSPrivacyCollectedDataTypePurposeAppFunctionality"
+        ],
+        "NSPrivacyCollectedDataTypeTracking": false
+      },
+      {
+        "NSPrivacyCollectedDataType": "NSPrivacyCollectedDataTypeOtherUserContent",
+        "NSPrivacyCollectedDataTypeLinked": true,
+        "NSPrivacyCollectedDataTypePurposes": [
+          "NSPrivacyCollectedDataTypePurposeAppFunctionality"
+        ],
+        "NSPrivacyCollectedDataTypeTracking": false
+      },
+      {
+        "NSPrivacyCollectedDataType": "NSPrivacyCollectedDataTypePurchaseHistory",
+        "NSPrivacyCollectedDataTypeLinked": true,
+        "NSPrivacyCollectedDataTypePurposes": [
+          "NSPrivacyCollectedDataTypePurposeAppFunctionality"
+        ],
+        "NSPrivacyCollectedDataTypeTracking": false
+      },
+      {
+        "NSPrivacyCollectedDataType": "NSPrivacyCollectedDataTypeDeviceID",
+        "NSPrivacyCollectedDataTypeLinked": true,
+        "NSPrivacyCollectedDataTypePurposes": [
+          "NSPrivacyCollectedDataTypePurposeAppFunctionality"
+        ],
+        "NSPrivacyCollectedDataTypeTracking": false
+      }
+    ],
+    "NSPrivacyTracking": false,
+    "NSPrivacyTrackingDomains": []
+  },
+  "debugTestBypassAbsent": true,
+  "dSYMUUID": "B91AAC5E-93BA-3108-B722-8812FB94DC9D",
+  "ipaBytes": 20803671,
+  "ipaSHA256": "ade12cedcbe43fe346e3a4dcee4b7d92d9b84d6af4e8f1cd729bcb871971cb33"
+}

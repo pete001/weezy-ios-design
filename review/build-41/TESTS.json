@@ -1,0 +1,448 @@
+{
+  "build": 41,
+  "checks": [
+    {
+      "name": "final-models-and-captures",
+      "xcresult": "build/Migration/20261009T070616Z-566cd4.xcresult",
+      "tests": {
+        "total": 37,
+        "passed": 37,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 30003,
+        "cases": [
+          {
+            "identifier": "CharmPhotoPriorityTests/testDefaultGoldDesignMatchesMerchantFirstPhotoWithoutChangingShopifyOrder()",
+            "name": "testDefaultGoldDesignMatchesMerchantFirstPhotoWithoutChangingShopifyOrder()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testExplicitGlitterAndSilverAlwaysWinAndCanBeReselected()",
+            "name": "testExplicitGlitterAndSilverAlwaysWinAndCanBeReselected()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testOtherCategoriesKeepExistingDefaultAndHiddenPhotosCannotDriveDefault()",
+            "name": "testOtherCategoriesKeepExistingDefaultAndHiddenPhotosCannotDriveDefault()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testSetRestrictionsWinAndOutOfStockGoldIsNotMisrepresented()",
+            "name": "testSetRestrictionsWinAndOutOfStockGoldIsNotMisrepresented()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testTwentyEightShopifyGoldPhotosReachDefaultFeedBentoAndExactSelection()",
+            "name": "testTwentyEightShopifyGoldPhotosReachDefaultFeedBentoAndExactSelection()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed",
+            "durationMs": 110
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testBestieInvitationRoutesUseMetadataPreview()",
+            "name": "testBestieInvitationRoutesUseMetadataPreview()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testBestieSetDoesNotCountOwnedGoldAsMissingGlitterOrInferDuplicateCopies()",
+            "name": "testBestieSetDoesNotCountOwnedGoldAsMissingGlitterOrInferDuplicateCopies()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testCollectionPhotoUsesVerifiedFinishRatherThanFirstAvailable()",
+            "name": "testCollectionPhotoUsesVerifiedFinishRatherThanFirstAvailable()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testCompleteSetShareRetainsRequiredDuplicateCopies()",
+            "name": "testCompleteSetShareRetainsRequiredDuplicateCopies()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testDeclineCopyIsFriendlyAndDoesNotAwardOwnership()",
+            "name": "testDeclineCopyIsFriendlyAndDoesNotAwardOwnership()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testDefaultMemberFinishRespectsStockSetScopeAndMissingPhotoWithoutBorrowing()",
+            "name": "testDefaultMemberFinishRespectsStockSetScopeAndMissingPhotoWithoutBorrowing()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testGiftNoteDecodesBackwardCompatiblyAndIsNotARequiredEventField()",
+            "name": "testGiftNoteDecodesBackwardCompatiblyAndIsNotARequiredEventField()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testGiftShareRetainsExplicitEventAndExactFinish()",
+            "name": "testGiftShareRetainsExplicitEventAndExactFinish()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testGiftStaysConcealedUntilAnExplicitReveal()",
+            "name": "testGiftStaysConcealedUntilAnExplicitReveal()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testMissingMemberRequiresAnUnambiguousAllowedFinishOrExplicitSelection()",
+            "name": "testMissingMemberRequiresAnUnambiguousAllowedFinishOrExplicitSelection()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testMissingSelectedFinishDoesNotBorrowAnOwnedFinishPhotograph()",
+            "name": "testMissingSelectedFinishDoesNotBorrowAnOwnedFinishPhotograph()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testMissingSummaryKeepsSecondCopyOutstandingWhenEveryHandleIsOwned()",
+            "name": "testMissingSummaryKeepsSecondCopyOutstandingWhenEveryHandleIsOwned()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testPrivateGiftNoteRequiresPaidStatusAndExplicitReveal()",
+            "name": "testPrivateGiftNoteRequiresPaidStatusAndExplicitReveal()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testPublicWishlistRoutesDoNotBecomeInvitations()",
+            "name": "testPublicWishlistRoutesDoNotBecomeInvitations()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testSetPhotoCannotBorrowAnOwnedButExcludedFinish()",
+            "name": "testSetPhotoCannotBorrowAnOwnedButExcludedFinish()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testSetPhotoExistsBeforeSavingAndSurvivesWishlistSaveRemoveAndRelaunch()",
+            "name": "testSetPhotoExistsBeforeSavingAndSurvivesWishlistSaveRemoveAndRelaunch()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed",
+            "durationMs": 46
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testSharedWantedPieceAppearsWithoutInferringOwnershipOrASet()",
+            "name": "testSharedWantedPieceAppearsWithoutInferringOwnershipOrASet()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopCollectingPrivacyTests/testVerifiedShareExportsNeutralStickerWithoutInferringAnotherFinishPhoto()",
+            "name": "testVerifiedShareExportsNeutralStickerWithoutInferringAnotherFinishPhoto()",
+            "className": "PopCollectingPrivacyTests",
+            "status": "passed",
+            "durationMs": 78
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+            "name": "testReselectReturnsSameExactVariant()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+            "name": "testSingleOptionRemainsPresentAndPreselected()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+            "className": "PopFinishOptionsTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild41GoldPhotography()",
+            "name": "testCaptureBuild41GoldPhotography()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 16000
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "name": "testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "name": "testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "name": "testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "name": "testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "name": "testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+            "name": "testTappingSameVariantRequestsItsPhotoAgain()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 7
+          }
+        ]
+      },
+      "configuration": "WeezyPop",
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ]
+    },
+    {
+      "name": "fresh-continuations",
+      "xcresult": "build/Migration/20261009T070747Z-e9ecf3.xcresult",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 32864,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureBuild41GoldPhotography()",
+            "name": "testCaptureBuild41GoldPhotography()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 16000
+          }
+        ]
+      },
+      "configuration": "WeezyPop",
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ]
+    },
+    {
+      "name": "actual-live-native-decoder-and-offline-export",
+      "xcresult": "build/Migration/20261009T070515Z-1b04e6.xcresult",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 11516,
+        "cases": [
+          {
+            "identifier": "PublicCatalogueClientTests/testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+            "name": "testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 150
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+            "name": "testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 97
+          }
+        ]
+      },
+      "configuration": "WeezyPop",
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ]
+    },
+    {
+      "name": "primary-UI",
+      "xcresult": "build/Migration/20261009T070922Z-513ad7.xcresult",
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 149498,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+            "name": "testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 59000
+          },
+          {
+            "identifier": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+            "name": "testDesignSwatchesPreserveHardwareSelection()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 44000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "name": "testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 33000
+          }
+        ]
+      },
+      "configuration": "WeezyPop",
+      "device": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ]
+    },
+    {
+      "name": "smaller-optimized-UI",
+      "xcresult": "build/Migration/20261009T071245Z-022345.xcresult",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 194095,
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+            "name": "testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 46000
+          },
+          {
+            "identifier": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+            "name": "testDesignSwatchesPreserveHardwareSelection()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 42000
+          }
+        ]
+      },
+      "configuration": "WeezyPopReleaseRendering",
+      "device": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ]
+    }
+  ],
+  "servicePhotoReaderTests": {
+    "passed": 9,
+    "failed": 0,
+    "skipped": 0,
+    "scope": "Existing app-only image schema and photography reader"
+  },
+  "accessibility": {
+    "freshAuditRun": false,
+    "priorUnsuppressedFindings": 2,
+    "status": "open separate track; unchanged layouts"
+  },
+  "liveShopifyReadback": {
+    "verifiedAt": "2026-10-09T07:04:30.101Z",
+    "changed": 28,
+    "websiteCustomerFacingProductDataUnchanged": true,
+    "platformUpdatedTimestampsExcluded": true,
+    "protectedWebsiteProducts": 115,
+    "unrelatedAppProducts": 87,
+    "allSilverMappingsPreserved": true,
+    "allStoriesCategoriesVisibilityPreserved": true,
+    "nativeFixtureEqualsLiveFeed": true,
+    "exceptions": [
+      {
+        "handle": "terry-de-havilland-x-weezy-pop-zia-rainbow-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "terry-de-havilland-x-weezy-pop-zia-platino-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "bertrude-bat-halloween-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "pamela-pumpkin-halloween-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      },
+      {
+        "handle": "boo-the-ghost-halloween-charm",
+        "reason": "No existing coloured-background isolated charm photograph; retain current exact Gold-hardware photo."
+      }
+    ],
+    "serviceDeployment": false,
+    "editorDeployment": false
+  },
+  "limits": [
+    "No real phone/customer OAuth/payment or physical VoiceOver acceptance claimed.",
+    "Review content canvases are controlled393pt; actual simulator sizes are recorded separately."
+  ]
+}
