@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "G-24-settings",
+    "file": "G-24-settings.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-more",
+    "file": "G-24-settings-more.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-more-settings",
+    "file": "G-24-more-settings.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest",
+    "file": "G-24-settings-largest.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest-more",
+    "file": "G-24-settings-largest-more.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest-more-2",
+    "file": "G-24-settings-largest-more-2.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest-more-3",
+    "file": "G-24-settings-largest-more-3.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest-more-4",
+    "file": "G-24-settings-largest-more-4.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest-more-5",
+    "file": "G-24-settings-largest-more-5.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-24-settings-largest-more-6",
+    "file": "G-24-settings-largest-more-6.jpg",
+    "status": "unreleased post-build-42 source",
+    "kind": "native-content"
+  },
+  {
+    "id": "APP-diagnostics-privacy",
+    "file": "APP-diagnostics-privacy.jpg",
+    "status": "deployed app-only web page",
+    "kind": "live-public-web"
+  },
+  {
+    "id": "G-01-splash",
+    "file": "../build-42/G-01-splash.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-02-welcome",
+    "file": "../build-42/G-02-welcome.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "file": "../build-42/G-03-shopify-sign-in.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "file": "../build-42/G-05-syncing-purchases.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-06-purchases-found",
+    "file": "../build-42/G-06-purchases-found.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-06-purchases-found-more",
+    "file": "../build-42/G-06-purchases-found-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-06-sync-zero",
+    "file": "../build-42/M-06-sync-zero.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "file": "../build-42/M-09-sign-in-failed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-10-sync-failed",
+    "file": "../build-42/M-10-sync-failed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S2-01-sets-feed",
+    "file": "../build-42/S2-01-sets-feed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S2-02-sets-feed-owned",
+    "file": "../build-42/S2-02-sets-feed-owned.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "file": "../build-42/S2-03-sets-feed-in-basket.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S2-04-set-page",
+    "file": "../build-42/S2-04-set-page.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "file": "../build-42/S2-04-set-page-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "C-01-charms-feed",
+    "file": "../build-42/C-01-charms-feed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "C-05-charms-feed-no-set",
+    "file": "../build-42/C-05-charms-feed-no-set.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "C-02-charms-added",
+    "file": "../build-42/C-02-charms-added.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "C-03-charm-page",
+    "file": "../build-42/C-03-charm-page.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "C-04-charm-page-no-set",
+    "file": "../build-42/C-04-charm-page-no-set.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-11-quick-add",
+    "file": "../build-42/G-11-quick-add.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "E-01-earrings-feed",
+    "file": "../build-42/E-01-earrings-feed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "E-02-earring-page",
+    "file": "../build-42/E-02-earring-page.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "E-02-earring-page-more",
+    "file": "../build-42/E-02-earring-page-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "H-01-hot-set",
+    "file": "../build-42/H-01-hot-set.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "H-02-hot-charm",
+    "file": "../build-42/H-02-hot-charm.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "H-03-hot-earrings",
+    "file": "../build-42/H-03-hot-earrings.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "A-01-feed",
+    "file": "../build-42/A-01-feed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "A-01-page",
+    "file": "../build-42/A-01-page.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "A-02-feed",
+    "file": "../build-42/A-02-feed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "A-02-page",
+    "file": "../build-42/A-02-page.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25A-search-focus",
+    "file": "../build-42/G-25A-search-focus.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25B-search-typing",
+    "file": "../build-42/G-25B-search-typing.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25B-search-typing-more",
+    "file": "../build-42/G-25B-search-typing-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25B-search-typing-more-2",
+    "file": "../build-42/G-25B-search-typing-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25B-search-typing-more-3",
+    "file": "../build-42/G-25B-search-typing-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25B-search-typing-more-4",
+    "file": "../build-42/G-25B-search-typing-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25-search",
+    "file": "../build-42/G-25-search.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25-search-more",
+    "file": "../build-42/G-25-search-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-2",
+    "file": "../build-42/G-25-search-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-3",
+    "file": "../build-42/G-25-search-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25-search-more-4",
+    "file": "../build-42/G-25-search-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25C-search-filters",
+    "file": "../build-42/G-25C-search-filters.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25C-search-filters-more",
+    "file": "../build-42/G-25C-search-filters-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered",
+    "file": "../build-42/G-25D-search-filtered.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-more",
+    "file": "../build-42/G-25D-search-filtered-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-more-2",
+    "file": "../build-42/G-25D-search-filtered-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-more-3",
+    "file": "../build-42/G-25D-search-filtered-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-more-4",
+    "file": "../build-42/G-25D-search-filtered-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-more-5",
+    "file": "../build-42/G-25D-search-filtered-more-5.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25E-search-no-results",
+    "file": "../build-42/G-25E-search-no-results.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "file": "../build-42/G-35-basket-sheet.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "file": "../build-42/G-35U-basket-removal-undo.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "file": "../build-42/G-35E-basket-empty.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "file": "../build-42/M-12-basket-quote-failed.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-12-basket-quote-failed-more",
+    "file": "../build-42/M-12-basket-quote-failed-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-05-checkout-return",
+    "file": "../build-42/M-05-checkout-return.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms",
+    "file": "../build-42/G-14-my-charms.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "file": "../build-42/G-14-my-charms-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "file": "../build-42/G-14-my-charms-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "file": "../build-42/G-14-my-charms-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms-more-4",
+    "file": "../build-42/G-14-my-charms-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms-more-5",
+    "file": "../build-42/G-14-my-charms-more-5.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14-my-charms-more-6",
+    "file": "../build-42/G-14-my-charms-more-6.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14B-my-charms-sets",
+    "file": "../build-42/G-14B-my-charms-sets.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14C-my-charms-everything-else",
+    "file": "../build-42/G-14C-my-charms-everything-else.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-17-set-complete",
+    "file": "../build-42/G-17-set-complete.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "file": "../build-42/G-18-share-the-stack.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "file": "../build-42/OFFLINE-REGISTRATION.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-07-registration-history",
+    "file": "../build-42/M-07-registration-history.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-19-achievements",
+    "file": "../build-42/G-19-achievements.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-19-achievements-more",
+    "file": "../build-42/G-19-achievements-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-19-achievements-more-2",
+    "file": "../build-42/G-19-achievements-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "file": "../build-42/BUILD29-BADGE-DETAIL.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "file": "../build-42/G-31-badge-catalogue.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "file": "../build-42/G-31-badge-catalogue-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "file": "../build-42/L-01-wishlist-share.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-more",
+    "file": "../build-42/L-01-wishlist-share-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-more-2",
+    "file": "../build-42/L-01-wishlist-share-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "file": "../build-42/M-01-sharing-privacy.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-02-private-review",
+    "file": "../build-42/M-02-private-review.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-02-private-review-more",
+    "file": "../build-42/M-02-private-review-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-02-gift-push",
+    "file": "../build-42/L-02-gift-push.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "notification-content-fixture"
+  },
+  {
+    "id": "L-03-gift-surprise",
+    "file": "../build-42/L-03-gift-surprise.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-04-ready-to-unwrap",
+    "file": "../build-42/L-04-ready-to-unwrap.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-05-unwrapped",
+    "file": "../build-42/L-05-unwrapped.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-34-share-badge",
+    "file": "../build-42/G-34-share-badge.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "file": "../build-42/W-01-shared-wishlist.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "file": "../build-42/W-01-shared-wishlist-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-02-gift-bag",
+    "file": "../build-42/W-02-gift-bag.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "file": "../build-42/W-02-gift-bag-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "file": "../build-42/W-03-gift-thanks.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-04-shared-stack",
+    "file": "../build-42/W-04-shared-stack.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "file": "../build-42/W-04-shared-stack-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-06-private-link",
+    "file": "../build-42/W-06-private-link.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-06-private-link-more",
+    "file": "../build-42/W-06-private-link-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "web-content"
+  },
+  {
+    "id": "W-07-app-first-open",
+    "file": "../build-42/W-07-app-first-open.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "file": "../build-42/BUILD29-FIRST-NAME.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-03-your-orders",
+    "file": "../build-42/M-03-your-orders.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-03-your-orders-more",
+    "file": "../build-42/M-03-your-orders-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-03-your-orders-more-2",
+    "file": "../build-42/M-03-your-orders-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-03-your-orders-more-3",
+    "file": "../build-42/M-03-your-orders-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "file": "../build-42/M-04-your-orders-empty.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-08-delete-account",
+    "file": "../build-42/M-08-delete-account.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-11-offline",
+    "file": "../build-42/M-11-offline.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more",
+    "file": "../build-42/M-11-offline-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "file": "../build-42/M-11-offline-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more-3",
+    "file": "../build-42/M-11-offline-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more-4",
+    "file": "../build-42/M-11-offline-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "M-11-offline-more-5",
+    "file": "../build-42/M-11-offline-more-5.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "SHEET-basket",
+    "file": "../build-42/SHEET-basket.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-sheet-presentation"
+  },
+  {
+    "id": "SHEET-basket-more",
+    "file": "../build-42/SHEET-basket-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch",
+    "file": "../build-42/brand-basket-set-launch.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-more",
+    "file": "../build-42/brand-basket-set-launch-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest",
+    "file": "../build-42/brand-basket-set-launch-largest.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more",
+    "file": "../build-42/brand-basket-set-launch-largest-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-2",
+    "file": "../build-42/brand-basket-set-launch-largest-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-3",
+    "file": "../build-42/brand-basket-set-launch-largest-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-4",
+    "file": "../build-42/brand-basket-set-launch-largest-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-5",
+    "file": "../build-42/brand-basket-set-launch-largest-more-5.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-6",
+    "file": "../build-42/brand-basket-set-launch-largest-more-6.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S-03-set-page-pending",
+    "file": "../build-42/S-03-set-page-pending.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "S-03-set-page-pending-more",
+    "file": "../build-42/S-03-set-page-pending-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "file": "../build-42/L-01-wishlist-share-largest.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "file": "../build-42/L-01-wishlist-share-largest-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "file": "../build-42/L-01-wishlist-share-largest-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "file": "../build-42/L-01-wishlist-share-largest-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-4",
+    "file": "../build-42/L-01-wishlist-share-largest-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-5",
+    "file": "../build-42/L-01-wishlist-share-largest-more-5.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-6",
+    "file": "../build-42/L-01-wishlist-share-largest-more-6.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-7",
+    "file": "../build-42/L-01-wishlist-share-largest-more-7.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35-basket-sheet-largest",
+    "file": "../build-42/G-35-basket-sheet-largest.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more",
+    "file": "../build-42/G-35-basket-sheet-largest-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-2",
+    "file": "../build-42/G-35-basket-sheet-largest-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-3",
+    "file": "../build-42/G-35-basket-sheet-largest-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-14B-my-charms-sets-largest",
+    "file": "../build-42/G-14B-my-charms-sets-largest.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest",
+    "file": "../build-42/G-25D-search-filtered-largest.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more",
+    "file": "../build-42/G-25D-search-filtered-largest-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-10",
+    "file": "../build-42/G-25D-search-filtered-largest-more-10.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-11",
+    "file": "../build-42/G-25D-search-filtered-largest-more-11.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-12",
+    "file": "../build-42/G-25D-search-filtered-largest-more-12.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-13",
+    "file": "../build-42/G-25D-search-filtered-largest-more-13.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-14",
+    "file": "../build-42/G-25D-search-filtered-largest-more-14.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-15",
+    "file": "../build-42/G-25D-search-filtered-largest-more-15.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-16",
+    "file": "../build-42/G-25D-search-filtered-largest-more-16.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-17",
+    "file": "../build-42/G-25D-search-filtered-largest-more-17.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-18",
+    "file": "../build-42/G-25D-search-filtered-largest-more-18.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-19",
+    "file": "../build-42/G-25D-search-filtered-largest-more-19.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-2",
+    "file": "../build-42/G-25D-search-filtered-largest-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-20",
+    "file": "../build-42/G-25D-search-filtered-largest-more-20.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-21",
+    "file": "../build-42/G-25D-search-filtered-largest-more-21.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-22",
+    "file": "../build-42/G-25D-search-filtered-largest-more-22.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-23",
+    "file": "../build-42/G-25D-search-filtered-largest-more-23.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-24",
+    "file": "../build-42/G-25D-search-filtered-largest-more-24.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-3",
+    "file": "../build-42/G-25D-search-filtered-largest-more-3.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-4",
+    "file": "../build-42/G-25D-search-filtered-largest-more-4.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-5",
+    "file": "../build-42/G-25D-search-filtered-largest-more-5.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-6",
+    "file": "../build-42/G-25D-search-filtered-largest-more-6.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-7",
+    "file": "../build-42/G-25D-search-filtered-largest-more-7.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-8",
+    "file": "../build-42/G-25D-search-filtered-largest-more-8.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-9",
+    "file": "../build-42/G-25D-search-filtered-largest-more-9.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest",
+    "file": "../build-42/OFFLINE-REGISTRATION-largest.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more",
+    "file": "../build-42/OFFLINE-REGISTRATION-largest-more.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more-2",
+    "file": "../build-42/OFFLINE-REGISTRATION-largest-more-2.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "SHEET-gift-launch",
+    "file": "../build-42/SHEET-gift-launch.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "native-content"
+  },
+  {
+    "id": "G-25B-search-typing-keyboard",
+    "file": "../build-42/G-25B-search-typing-keyboard.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "shipping-root-keyboard"
+  },
+  {
+    "id": "G-25A-search-focus-keyboard",
+    "file": "../build-42/G-25A-search-focus-keyboard.jpg",
+    "status": "Released build 42 baseline",
+    "kind": "shipping-root-keyboard"
+  }
+]

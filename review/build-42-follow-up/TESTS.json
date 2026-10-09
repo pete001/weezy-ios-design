@@ -1,0 +1,74 @@
+{
+  "nativeRelease": 42,
+  "nativeChangesReleased": false,
+  "sourceCommit": "c75b3b062e5be8c347c4a272f65d07a66fde396b",
+  "settingsCapture": {
+    "test": "PopStudioCaptureTests/testCaptureOperationsSettings",
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "device": "iPhone 16 Pro / iOS 27.0",
+    "controlledViewportPoints": [
+      393,
+      852
+    ],
+    "scale": 3,
+    "largestType": "accessibility5",
+    "continuations": 6,
+    "shippingRootEvidence": false
+  },
+  "operationsRegression": {
+    "nativeTargetedPassed": 12,
+    "serviceIntegrationPassed": 485,
+    "editorPassed": 50,
+    "editorTypecheck": "passed",
+    "editorBuild": "passed",
+    "monitorFilterPassed": 1,
+    "privateScheduledMonitor": "first manual run succeeded; scheduled every 30 minutes"
+  },
+  "icon": {
+    "uploaded": true,
+    "width": 1200,
+    "height": 1200,
+    "format": "PNG",
+    "verified": "Persisted Shopify image naturalWidth/naturalHeight read back after reload; approved logo visibly confirmed",
+    "file": "WeezyPop-Shopify-1200.png",
+    "sha256": "8c663be13cd6ea04558fec040bcaff712db8de0b523e3eafca8ac8d7b7ab3abe"
+  },
+  "publicPrivacy": {
+    "status": "live HTTP/DOM capture",
+    "viewportPoints": [
+      393,
+      852
+    ],
+    "allCopyFits": true
+  },
+  "baselineTests": "../build-42/TESTS.json",
+  "limits": [
+    "Native Settings is isolated content-render evidence, not a shipping-root interaction or physical-device haptic test.",
+    "Post-build42 native source has not been submitted to TestFlight. Diagnostics stay off by default and remote native counts require the next native release and opt-in.",
+    "Largest-text legacy Settings action rows still break words and the example email wraps. These are visible review observations, not an accessibility pass.",
+    "The baseline unsuppressed accessibility findings remain open; see ../build-42/ACCESSIBILITY.md.",
+    "Real Shopify OAuth/payment, carrier delivery, APNs/background/terminated behavior, VoiceOver, older OS compatibility and Safari reopening need separate acceptance.",
+    "F-50 stays partial. No associated-domain or physical Safari acceptance is claimed.",
+    "Public buyer pages cannot hide GIFTED from a recipient visiting the same link anonymously; authenticated recipient data stays secret until unwrap."
+  ],
+  "handoverValidation": {
+    "uniqueManifestIDs": 179,
+    "freshImages": 11,
+    "combinedGalleryFrames": 177,
+    "allReferencedFilesPresent": true,
+    "hashesVerified": true,
+    "nativeSRGBDimensionsVerified": true,
+    "batchesMax50": true,
+    "oldReviewFoldersChanged": false
+  },
+  "galleryInteraction": {
+    "fullscreenImage": "passed",
+    "previousNext": "passed",
+    "contextualLocalNoteRetention": "passed",
+    "fullGalleryCount": 177,
+    "exactScreenSearchCount": 6,
+    "downloadEvent": "Browser automation wait did not confirm file download; export implementation included, not claimed as a verified download."
+  }
+}

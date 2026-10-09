@@ -1,0 +1,1115 @@
+{
+  "baseline": "review/build-42",
+  "baselineCommit": "28994d1416bfba43b5cc74624f73ede82153cef7",
+  "nativeRelease": 42,
+  "followUpReleased": false,
+  "changes": [
+    {
+      "id": "G-24-settings",
+      "status": "changed",
+      "file": "G-24-settings.jpg",
+      "sha256": "c2c22e1279ba9141c5aa925b8ecb074c8606f85c53c5210e8dc887102c9046c9",
+      "previousFile": "../build-42/G-24-settings.jpg",
+      "previousSHA256": "5c201c775d91606a6dba225f7ff7b4212f489f714b1e9ea41bb65fce119b60f9",
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-more",
+      "status": "changed",
+      "file": "G-24-settings-more.jpg",
+      "sha256": "3486047de966c501ec23ba56efee3e3216c2d77a89fdff70da54f6ee0b36fafd",
+      "previousFile": "../build-42/G-24-settings-more.jpg",
+      "previousSHA256": "9a8cf48a1c2f4abddd1f11a5b91eaeeb917ed3803d0af240dbc96a0f8e57ab66",
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-more-settings",
+      "status": "changed",
+      "file": "G-24-more-settings.jpg",
+      "sha256": "3486047de966c501ec23ba56efee3e3216c2d77a89fdff70da54f6ee0b36fafd",
+      "previousFile": "../build-42/G-24-more-settings.jpg",
+      "previousSHA256": "4cacf7905ed199bc0b8bd752e8a825009156a5e4c5329177f1252079616fb2f4",
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest",
+      "status": "added",
+      "file": "G-24-settings-largest.jpg",
+      "sha256": "10a98bbc59693bc259bfe59c3c036f6427ee7850fbbb913134f897ae53a55e62",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest-more",
+      "status": "added",
+      "file": "G-24-settings-largest-more.jpg",
+      "sha256": "17cdf08cd042a31afac6f5ee7676a80af764df827ae9a05b1e93dce96498e337",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest-more-2",
+      "status": "added",
+      "file": "G-24-settings-largest-more-2.jpg",
+      "sha256": "29d3b3fd6008d93dc408047e8529c993137e491cf6ce91303622a29b7d89dad9",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest-more-3",
+      "status": "added",
+      "file": "G-24-settings-largest-more-3.jpg",
+      "sha256": "d64e312a38859d6240e44e7056a43b486cbe18107a0f948be596723484afcecc",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest-more-4",
+      "status": "added",
+      "file": "G-24-settings-largest-more-4.jpg",
+      "sha256": "7380ffcd698a7e6f26094cb2f82834b720083a55864f1175cfbed45784ad9ddd",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest-more-5",
+      "status": "added",
+      "file": "G-24-settings-largest-more-5.jpg",
+      "sha256": "f8601c30338eebf0058d67756124c4b43fd6718d3643cfc2ba5c92febfa33d98",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "G-24-settings-largest-more-6",
+      "status": "added",
+      "file": "G-24-settings-largest-more-6.jpg",
+      "sha256": "f489acd8b29a8b851548306f8847d676e84bd6621672d96c38f5726ea8650f59",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "Your experience preferences and continued scroll evidence"
+    },
+    {
+      "id": "APP-diagnostics-privacy",
+      "status": "added",
+      "file": "APP-diagnostics-privacy.jpg",
+      "sha256": "696ccc99a18f7e9343b9087c7490d14fb499e6c0330eca90cf7dbd63d573a1ba",
+      "previousFile": null,
+      "previousSHA256": null,
+      "reason": "New optional-diagnostics privacy notice"
+    },
+    {
+      "id": "G-01-splash",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-01-splash.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-02-welcome",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-02-welcome.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-03-shopify-sign-in",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-03-shopify-sign-in.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "SHOPIFY-CODE",
+      "status": "not-captured",
+      "previousFile": null,
+      "reason": "Shopify-owned secure authentication page. No current authorized live code session was captured; no mock is substituted."
+    },
+    {
+      "id": "G-05-syncing-purchases",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-05-syncing-purchases.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-06-purchases-found",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-06-purchases-found.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-06-purchases-found-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-06-purchases-found-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-06-sync-zero",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-06-sync-zero.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-09-sign-in-failed",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-09-sign-in-failed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-10-sync-failed",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-10-sync-failed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S2-01-sets-feed",
+      "status": "unchanged",
+      "previousFile": "../build-42/S2-01-sets-feed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S2-02-sets-feed-owned",
+      "status": "unchanged",
+      "previousFile": "../build-42/S2-02-sets-feed-owned.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S2-03-sets-feed-in-basket",
+      "status": "unchanged",
+      "previousFile": "../build-42/S2-03-sets-feed-in-basket.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S2-04-set-page",
+      "status": "unchanged",
+      "previousFile": "../build-42/S2-04-set-page.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S2-04-set-page-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/S2-04-set-page-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "C-01-charms-feed",
+      "status": "unchanged",
+      "previousFile": "../build-42/C-01-charms-feed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "C-05-charms-feed-no-set",
+      "status": "unchanged",
+      "previousFile": "../build-42/C-05-charms-feed-no-set.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "C-02-charms-added",
+      "status": "unchanged",
+      "previousFile": "../build-42/C-02-charms-added.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "C-03-charm-page",
+      "status": "unchanged",
+      "previousFile": "../build-42/C-03-charm-page.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "C-04-charm-page-no-set",
+      "status": "unchanged",
+      "previousFile": "../build-42/C-04-charm-page-no-set.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-11-quick-add",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-11-quick-add.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "E-01-earrings-feed",
+      "status": "unchanged",
+      "previousFile": "../build-42/E-01-earrings-feed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "E-02-earring-page",
+      "status": "unchanged",
+      "previousFile": "../build-42/E-02-earring-page.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "E-02-earring-page-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/E-02-earring-page-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "H-01-hot-set",
+      "status": "unchanged",
+      "previousFile": "../build-42/H-01-hot-set.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "H-02-hot-charm",
+      "status": "unchanged",
+      "previousFile": "../build-42/H-02-hot-charm.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "H-03-hot-earrings",
+      "status": "unchanged",
+      "previousFile": "../build-42/H-03-hot-earrings.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "A-01-feed",
+      "status": "unchanged",
+      "previousFile": "../build-42/A-01-feed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "A-01-page",
+      "status": "unchanged",
+      "previousFile": "../build-42/A-01-page.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "A-02-feed",
+      "status": "unchanged",
+      "previousFile": "../build-42/A-02-feed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "A-02-page",
+      "status": "unchanged",
+      "previousFile": "../build-42/A-02-page.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25A-search-focus",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25A-search-focus.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25B-search-typing",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25B-search-typing.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25B-search-typing-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25B-search-typing-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25B-search-typing-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25B-search-typing-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25B-search-typing-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25B-search-typing-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25B-search-typing-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25B-search-typing-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25-search",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25-search.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25-search-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25-search-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25-search-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25-search-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25-search-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25-search-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25-search-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25-search-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25C-search-filters",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25C-search-filters.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25C-search-filters-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25C-search-filters-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-more-5",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-more-5.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25E-search-no-results",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25E-search-no-results.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35-basket-sheet",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35-basket-sheet.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35U-basket-removal-undo",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35U-basket-removal-undo.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35E-basket-empty",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35E-basket-empty.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-12-basket-quote-failed",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-12-basket-quote-failed.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-12-basket-quote-failed-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-12-basket-quote-failed-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "SHOPIFY-CHECKOUT",
+      "status": "not-captured",
+      "previousFile": null,
+      "reason": "Shopify-owned checkout. No fresh live customer checkout was opened for this isolated review. Earlier unpaid verification is separate evidence and is not passed off as current build capture."
+    },
+    {
+      "id": "M-05-checkout-return",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-05-checkout-return.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms-more-5",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms-more-5.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14-my-charms-more-6",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14-my-charms-more-6.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14B-my-charms-sets",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14B-my-charms-sets.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14C-my-charms-everything-else",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14C-my-charms-everything-else.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-17-set-complete",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-17-set-complete.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-18-share-the-stack",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-18-share-the-stack.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "OFFLINE-REGISTRATION",
+      "status": "unchanged",
+      "previousFile": "../build-42/OFFLINE-REGISTRATION.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-07-registration-history",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-07-registration-history.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-19-achievements",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-19-achievements.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-19-achievements-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-19-achievements-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-19-achievements-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-19-achievements-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "BUILD29-BADGE-DETAIL",
+      "status": "unchanged",
+      "previousFile": "../build-42/BUILD29-BADGE-DETAIL.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-31-badge-catalogue",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-31-badge-catalogue.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-31-badge-catalogue-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-31-badge-catalogue-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-01-sharing-privacy",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-01-sharing-privacy.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-02-private-review",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-02-private-review.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-02-private-review-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-02-private-review-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-02-gift-push",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-02-gift-push.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-03-gift-surprise",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-03-gift-surprise.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-04-ready-to-unwrap",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-04-ready-to-unwrap.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-05-unwrapped",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-05-unwrapped.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-34-share-badge",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-34-share-badge.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-01-shared-wishlist",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-01-shared-wishlist.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-01-shared-wishlist-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-01-shared-wishlist-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-02-gift-bag",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-02-gift-bag.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-02-gift-bag-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-02-gift-bag-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-03-gift-thanks",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-03-gift-thanks.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-04-shared-stack",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-04-shared-stack.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-04-shared-stack-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-04-shared-stack-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-06-private-link",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-06-private-link.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-06-private-link-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-06-private-link-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "W-07-app-first-open",
+      "status": "unchanged",
+      "previousFile": "../build-42/W-07-app-first-open.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "BUILD29-FIRST-NAME",
+      "status": "unchanged",
+      "previousFile": "../build-42/BUILD29-FIRST-NAME.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-03-your-orders",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-03-your-orders.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-03-your-orders-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-03-your-orders-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-03-your-orders-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-03-your-orders-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-03-your-orders-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-03-your-orders-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-04-your-orders-empty",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-04-your-orders-empty.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-08-delete-account",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-08-delete-account.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-11-offline",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-11-offline.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-11-offline-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-11-offline-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-11-offline-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-11-offline-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-11-offline-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-11-offline-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-11-offline-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-11-offline-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "M-11-offline-more-5",
+      "status": "unchanged",
+      "previousFile": "../build-42/M-11-offline-more-5.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "SHEET-basket",
+      "status": "unchanged",
+      "previousFile": "../build-42/SHEET-basket.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "SHEET-basket-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/SHEET-basket-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-5",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-5.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-6",
+      "status": "unchanged",
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-6.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S-03-set-page-pending",
+      "status": "unchanged",
+      "previousFile": "../build-42/S-03-set-page-pending.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "S-03-set-page-pending-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/S-03-set-page-pending-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-5",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more-5.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-6",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more-6.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-7",
+      "status": "unchanged",
+      "previousFile": "../build-42/L-01-wishlist-share-largest-more-7.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35-basket-sheet-largest",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35-basket-sheet-largest.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35-basket-sheet-largest-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35-basket-sheet-largest-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35-basket-sheet-largest-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35-basket-sheet-largest-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-35-basket-sheet-largest-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-35-basket-sheet-largest-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-14B-my-charms-sets-largest",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-14B-my-charms-sets-largest.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-10",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-10.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-11",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-11.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-12",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-12.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-13",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-13.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-14",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-14.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-15",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-15.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-16",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-16.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-17",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-17.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-18",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-18.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-19",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-19.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-20",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-20.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-21",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-21.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-22",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-22.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-23",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-23.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-24",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-24.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-3",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-3.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-4",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-4.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-5",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-5.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-6",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-6.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-7",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-7.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-8",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-8.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25D-search-filtered-largest-more-9",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25D-search-filtered-largest-more-9.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-largest",
+      "status": "unchanged",
+      "previousFile": "../build-42/OFFLINE-REGISTRATION-largest.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-largest-more",
+      "status": "unchanged",
+      "previousFile": "../build-42/OFFLINE-REGISTRATION-largest-more.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-largest-more-2",
+      "status": "unchanged",
+      "previousFile": "../build-42/OFFLINE-REGISTRATION-largest-more-2.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "SHEET-gift-launch",
+      "status": "unchanged",
+      "previousFile": "../build-42/SHEET-gift-launch.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25B-search-typing-keyboard",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25B-search-typing-keyboard.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    },
+    {
+      "id": "G-25A-search-focus-keyboard",
+      "status": "unchanged",
+      "previousFile": "../build-42/G-25A-search-focus-keyboard.jpg",
+      "reason": "See baseline evidence and manifest; not recaptured."
+    }
+  ]
+}
