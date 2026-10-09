@@ -1,0 +1,25 @@
+{
+  "build": 46,
+  "againstBuild": 45,
+  "changed": [
+    "L-01-alerts-on-share",
+    "L-01-alerts-on-share-largest",
+    "L-03-feed-loading",
+    "L-03-feed-loading-reduce-motion",
+    "L-01-alerts-on-share-largest-more",
+    "W-01-shared-wishlist",
+    "W-01-shared-wishlist-more",
+    "W-06-private-link",
+    "W-06-private-link-more",
+    "L-02-og-image",
+    "L-02-og-private"
+  ],
+  "added": [
+    "L01 contextual gift alerts",
+    "L02 privacy-aware OG previews",
+    "L03 loading skeleton",
+    "L04 rating policy",
+    "L05 approved light mode"
+  ],
+  "preserved": "All prior review/release folders; approved launch flows, Shopify public site, existing offer/ownership rules"
+}

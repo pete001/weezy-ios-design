@@ -1,0 +1,2171 @@
+[
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 46,
+    "file": "L-01-alerts-on-share.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "sha256": "bfc609f021ab9544b73d38d8a7ea19b900a39ab2bfb7323a85dae2f75d144273",
+    "fixture": "Isolated Claire; three public wishes",
+    "textSize": "large",
+    "source": "Production SwiftUI content hosted in native PopSheet/Shop; not shipping AppRoot or live permission proof",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 46,
+    "file": "L-01-alerts-on-share-largest.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "sha256": "eb95b900a740d112be87628c31593ebdaa8cfd5ae9baeb1bf18c7e501b8ccb1b",
+    "fixture": "Isolated Claire; three public wishes",
+    "textSize": "accessibility5",
+    "source": "Production SwiftUI content hosted in native PopSheet/Shop; not shipping AppRoot or live permission proof",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-03-feed-loading",
+    "build": 46,
+    "file": "L-03-feed-loading.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "sha256": "251959e4dfd7948be209b8c2f885e0a6ec7b96af1f0cb086b300ea8ce0aafd9b",
+    "fixture": "Isolated catalogue-delay state",
+    "textSize": "large",
+    "source": "Production SwiftUI content hosted in native PopSheet/Shop; not shipping AppRoot or live permission proof",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-03-feed-loading-reduce-motion",
+    "build": 46,
+    "file": "L-03-feed-loading-reduce-motion.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "sha256": "d73a1daaf0bbb816cb6e2bb8d99b4265185e0b48dadf1f756024b3290ca89655",
+    "fixture": "Isolated catalogue-delay state",
+    "textSize": "large",
+    "source": "Production SwiftUI content hosted in native PopSheet/Shop; not shipping AppRoot or live permission proof",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 46,
+    "file": "L-01-alerts-on-share-largest-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "sha256": "81d3b33cd9497fda6a97fbfbb85e6927813b6046fb9996dafedcc04e231c050c",
+    "parentId": "L-01-alerts-on-share-largest",
+    "textSize": "accessibility5",
+    "scrollOffset": 596,
+    "source": "Actual end-of-scroll capture includes both share choices",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 46,
+    "file": "W-01-shared-wishlist.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "sha256": "ec2605b00179ba80daa51cc253a2d3f7b05d05597afe4b52f25dc5f911af7a7b",
+    "fixture": "Four-account launchScope loopback service, selected real Shopify photos; no live payment",
+    "source": "Production HTTP page, no Safari chrome",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 46,
+    "file": "W-01-shared-wishlist-more.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "sha256": "10972dba43ca3b20f78ba3bcfedabb6f6c58c04ad62d61d98ec7928ce717dcb4",
+    "fixture": "Four-account launchScope loopback service, selected real Shopify photos; no live payment",
+    "source": "Production HTTP page, no Safari chrome",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 46,
+    "file": "W-06-private-link.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "sha256": "10bcf4a570255a2dd6be155b39f9a8b16e612a16152cab4b8fcdb26983c1dae8",
+    "fixture": "Four-account launchScope loopback service, selected real Shopify photos; no live payment",
+    "source": "Production HTTP page, no Safari chrome",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "W-06-private-link-more",
+    "build": 46,
+    "file": "W-06-private-link-more.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "sha256": "69b11e5fa33b6cc32a51ef05758698db34ca558a4693cede3aef243e7c1c2fe5",
+    "fixture": "Four-account launchScope loopback service, selected real Shopify photos; no live payment",
+    "source": "Production HTTP page, no Safari chrome",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-02-og-image",
+    "build": 46,
+    "file": "L-02-og-image.jpg",
+    "device": "Server JPEG renderer",
+    "scale": 1,
+    "pixels": [
+      1200,
+      630
+    ],
+    "captureKind": "server-artwork",
+    "sha256": "d0036cf8b96821ad3d9fbcaad5a3e9712e26ef956f5099cac9571c5b001cfff3",
+    "fixture": "Claire12-piece published-count example; four current assigned Gold Shopify photos",
+    "designId": "L-02-og-image-art",
+    "source": "Actual production renderer;1200\u00d7630 output; not Messages/WhatsApp screenshot",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 46,
+    "file": "L-02-og-private.jpg",
+    "device": "Server JPEG renderer",
+    "scale": 1,
+    "pixels": [
+      1200,
+      630
+    ],
+    "captureKind": "server-artwork",
+    "sha256": "0aa1ac75a669c3299a5875587093df430ef482f1103d0008eae2a9191d46073b",
+    "fixture": "Fixed anonymous brand fallback",
+    "designId": null,
+    "source": "Actual production renderer;1200\u00d7630 output; not Messages/WhatsApp screenshot",
+    "sourceCommit": "8d4d27e",
+    "releaseStatus": "Candidate46 tested locally; not uploaded/deployed; beta45 and Store draft44 unchanged",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB"
+  },
+  {
+    "id": "L-01-alerts-system",
+    "build": 46,
+    "notCaptured": true,
+    "reason": "Reliable real-iPhone notification permission screenshot/APNs acceptance not available in this local review. No mock system dialog substituted."
+  },
+  {
+    "id": "L-02-imessage",
+    "build": 46,
+    "notCaptured": true,
+    "reason": "Requires a real iPhone after candidate service deployment; no fabricated Messages preview."
+  },
+  {
+    "id": "L-02-preview-whatsapp",
+    "build": 46,
+    "notCaptured": true,
+    "reason": "Physical client crop/cache verification remains after deployment."
+  },
+  {
+    "id": "L-02-preview-instagram",
+    "build": 46,
+    "notCaptured": true,
+    "reason": "Physical client crop/cache verification remains after deployment."
+  },
+  {
+    "id": "L-04-rating-prompt",
+    "build": 46,
+    "notCaptured": true,
+    "verified": "Session/cooldown policy tests and verified happy-moment hooks",
+    "reason": "Configuration-only item; Apple controls whether its system prompt appears. No fabricated prompt capture."
+  },
+  {
+    "id": "L-05-light-only",
+    "build": 46,
+    "notCaptured": true,
+    "verified": "Info.plist plus optimized AppRoot with simulator appearance dark, primary and smaller-device largest text",
+    "reason": "Configuration-only item; app-external Shopify/Safari and physical picker/share controls require separate acceptance."
+  },
+  {
+    "id": "B-06-badge-detail",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-06-badge-detail-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-05-badge-catalogue",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-05-badge-catalogue-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-01-badge-shelf",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-01-badge-shelf-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-settings-largest-more-6",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "K-01-basket-full",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "P-01-profile",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "P-01-profile-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "P-01-profile-pull",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SR-01-search-empty",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SR-01-search-empty-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SR-01-search-empty-no-recents",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-06-badge-detail-locked",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared badge strip inherits F124, but locked detail was not requested for this two-screen review; prior screenshot is historical and not current verification."
+  },
+  {
+    "id": "B-06-badge-detail-locked-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared badge strip inherits F124, but locked detail was not requested for this two-screen review; prior screenshot is historical and not current verification."
+  },
+  {
+    "id": "B-02-badge-unlocked",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "K-01-basket-full-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Historical extra continuation superseded: the fresh45 largest-text basket reaches its end in more-3; no fourth continuation required."
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14-my-charms-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14C-my-charms-everything-else",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14B-my-charms-sets-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-04-set-destination",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "APP-diagnostics-privacy",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "APP-diagnostics-privacy-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "K-01-shipping-full-screen",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-shipping-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SR-01-shipping-recents-keyboard",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SR-01-shipping-empty-keyboard",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25B-search-typing-keyboard",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25A-search-focus-keyboard",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "Shop39-photo-return-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "Scroll43-settled-11",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "Scroll43-settled-0",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "K-01-shipping-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-02-earn-moment",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "B-02-earn-moment-reduced",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-01-splash",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-02-welcome",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SHOPIFY-CODE",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-06-purchases-found-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-10-sync-failed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "S2-01-sets-feed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "S2-02-sets-feed-owned",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "C-01-charms-feed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "C-05-charms-feed-no-set",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "C-02-charms-added",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "C-03-charm-page",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "C-04-charm-page-no-set",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-11-quick-add",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "E-01-earrings-feed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "E-02-earring-page",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "E-02-earring-page-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "H-02-hot-charm",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "H-03-hot-earrings",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "A-01-feed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "A-01-page",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "A-02-feed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "A-02-page",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25A-search-focus",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25B-search-typing",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25B-search-typing-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25B-search-typing-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25B-search-typing-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25B-search-typing-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25-search",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25-search-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25-search-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25-search-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25-search-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25C-search-filters",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25C-search-filters-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25E-search-no-results",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-12-basket-quote-failed-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SHOPIFY-CHECKOUT",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-05-checkout-return",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14-my-charms-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14-my-charms-more-6",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-14B-my-charms-sets",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-17-set-complete",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-19-achievements",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-19-achievements-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-19-achievements-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-02-private-review",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-02-private-review-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-02-gift-push",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-03-gift-surprise",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-04-ready-to-unwrap",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-05-unwrapped",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-34-share-badge",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "W-02-gift-bag",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "W-04-shared-stack",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "W-07-app-first-open",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-03-your-orders",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-03-your-orders-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-03-your-orders-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-03-your-orders-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-08-delete-account",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-11-offline",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-11-offline-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-11-offline-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-11-offline-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "M-11-offline-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SHEET-basket",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SHEET-basket-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "brand-basket-set-launch",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "brand-basket-set-launch-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "brand-basket-set-launch-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-6",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "S-03-set-page-pending",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "S-03-set-page-pending-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-6",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-7",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-35-basket-sheet-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification."
+  },
+  {
+    "id": "G-25D-search-filtered-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-10",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-11",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-12",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-13",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-14",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-15",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-16",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-17",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-18",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-19",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-20",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-21",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-22",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-23",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-24",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-3",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-4",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-5",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-6",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-7",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-8",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-9",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more-2",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "SHEET-gift-launch",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  },
+  {
+    "id": "G-24-more-settings",
+    "build": 46,
+    "unchanged": true,
+    "baseline": "build-45",
+    "reason": "Not changed by handoff22; historical baseline evidence retained, not recaptured.",
+    "baselineNotCaptured": true,
+    "baselineReason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta."
+  }
+]

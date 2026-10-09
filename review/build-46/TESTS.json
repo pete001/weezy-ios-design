@@ -1,0 +1,381 @@
+{
+  "build": 46,
+  "candidateOnly": true,
+  "runs": [
+    {
+      "report": "build/Migration/20261009T203024Z-c5420d.json",
+      "sha256": "ba199c788b9b74fefcbee101702c988c596f6a302d210e2e512f495893ad457d",
+      "scheme": "WeezyPop",
+      "configuration": "Debug",
+      "success": true,
+      "tests": {
+        "total": 19,
+        "passed": 19,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 28273,
+        "cases": [
+          {
+            "identifier": "LaunchPolishTests/testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+            "name": "testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+            "className": "LaunchPolishTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "LaunchPolishTests/testLaunchAppearanceIsDeclaredLight()",
+            "name": "testLaunchAppearanceIsDeclaredLight()",
+            "className": "LaunchPolishTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchPolishTests/testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+            "name": "testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+            "className": "LaunchPolishTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchPolishTests/testRatingRequiresThreeSessionsAnd120DayCooldown()",
+            "name": "testRatingRequiresThreeSessionsAnd120DayCooldown()",
+            "className": "LaunchPolishTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureLaunchPolish46()",
+            "name": "testCaptureLaunchPolish46()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 4000
+          },
+          {
+            "identifier": "ReceivedGiftTests/testDuplicateVerifiedPiecesCountForStackMilestonesWithoutEarningSet()",
+            "name": "testDuplicateVerifiedPiecesCountForStackMilestonesWithoutEarningSet()",
+            "className": "ReceivedGiftTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ReceivedGiftTests/testGiftedUnitsDoNotBecomeBuyerOwnershipAndMixedBasketIsRetained()",
+            "name": "testGiftedUnitsDoNotBecomeBuyerOwnershipAndMixedBasketIsRetained()",
+            "className": "ReceivedGiftTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "ReceivedGiftTests/testNotificationSelectsRequestedGiftWhenRefreshArrives()",
+            "name": "testNotificationSelectsRequestedGiftWhenRefreshArrives()",
+            "className": "ReceivedGiftTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ReceivedGiftTests/testReceivedGiftGrantMustBeValidAndAccountScoped()",
+            "name": "testReceivedGiftGrantMustBeValidAndAccountScoped()",
+            "className": "ReceivedGiftTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "ReceivedGiftTests/testUnwrapDoesNotRevealUntilExactGiftLedgerHasSynced()",
+            "name": "testUnwrapDoesNotRevealUntilExactGiftLedgerHasSynced()",
+            "className": "ReceivedGiftTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "ReceivedGiftTests/testWrappedGiftRejectsProductDetailsInsteadOfOnlyHidingThem()",
+            "name": "testWrappedGiftRejectsProductDetailsInsteadOfOnlyHidingThem()",
+            "className": "ReceivedGiftTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testCustomerFilesDoNotContainRawIdentityOrEscapeGuestDirectory()",
+            "name": "testCustomerFilesDoNotContainRawIdentityOrEscapeGuestDirectory()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testFriendsSwitchAToGuestToBWithoutCopyingListsOrPendingInvitations()",
+            "name": "testFriendsSwitchAToGuestToBWithoutCopyingListsOrPendingInvitations()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testLateOwnershipCheckCannotCacheIdentityForAnotherAccount()",
+            "name": "testLateOwnershipCheckCannotCacheIdentityForAnotherAccount()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 9
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testLatePublicFetchCannotSaveToNewAccountEvenBeforeRootRefresh()",
+            "name": "testLatePublicFetchCannotSaveToNewAccountEvenBeforeRootRefresh()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testOwnWishlistCannotBeSavedByCodeAliasOrFile()",
+            "name": "testOwnWishlistCannotBeSavedByCodeAliasOrFile()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testOwnWishlistIsRejectedOnNewInstallationUsingPublishedIdentity()",
+            "name": "testOwnWishlistIsRejectedOnNewInstallationUsingPublishedIdentity()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testOwnWishlistValidationDoesNotCrossAccounts()",
+            "name": "testOwnWishlistValidationDoesNotCrossAccounts()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "WishlistAccountPrivacyTests/testPublisherIDsAndNamesNeverAdoptGuestOrAnotherCustomer()",
+            "name": "testPublisherIDsAndNamesNeverAdoptGuestOrAnotherCustomer()",
+            "className": "WishlistAccountPrivacyTests",
+            "status": "passed",
+            "durationMs": 4
+          }
+        ]
+      }
+    },
+    {
+      "report": "build/Migration/20261009T202644Z-0cedb5.json",
+      "sha256": "4241d0aa29aa0ee19dd049efc2518068b6c5b0e62eb77bebcbd7b5f1e7a7d411",
+      "scheme": "WeezyPop",
+      "configuration": "Debug",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 21117,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureLaunchPolish46()",
+            "name": "testCaptureLaunchPolish46()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 4000
+          }
+        ]
+      }
+    },
+    {
+      "report": "build/Migration/20261009T202241Z-b9951d.json",
+      "sha256": "e99650e366b3d4607a501756e8eb4c40a66d6f6a64be8d3fc2552dfbdb041a9a",
+      "scheme": "WeezyPopReleaseRendering",
+      "configuration": "Release",
+      "success": true,
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 166750,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+            "name": "testBasketPresentsFullScreenAndClosesToShop()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 20000
+          },
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 29000
+          }
+        ]
+      }
+    },
+    {
+      "report": "build/Migration/20261009T202728Z-83ab0c.json",
+      "sha256": "d34befaf99d2457d1a699686e1b6f813c4972a595d00f768716e9d026aa0b7a3",
+      "scheme": "WeezyPopReleaseRendering",
+      "configuration": "Release",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 143327,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 32000
+          }
+        ]
+      }
+    },
+    {
+      "report": "build/Migration/20261009T203128Z-e9bca7.json",
+      "sha256": "ecabe5fb65fb665b300fe958ee16795526233ce5950cf6cfaf1351f419dfbf06",
+      "scheme": "WeezyPop",
+      "configuration": "Debug",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 9409,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureLaunchPolish46()",
+            "name": "testCaptureLaunchPolish46()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 3000
+          }
+        ]
+      }
+    },
+    {
+      "scope": "service simulation",
+      "passed": 502,
+      "failed": 0,
+      "skipped": 0,
+      "receipt": "build/UserSimulation/20261009T203148Z/receipt.json",
+      "isolation": "Synthetic accounts, signed Shopify events, ephemeral local ledgers; no live purchases"
+    },
+    {
+      "scope": "launch browser journeys",
+      "success": true,
+      "receipt": "build/UserSimulation/20261009T202203Z/receipt.json",
+      "isolation": "Real HTTP/DOM, external checkout intercepted, real selected catalogue photos"
+    },
+    {
+      "scope": "live Shopify app-only copy audit",
+      "productsChecked": 137,
+      "storiesChecked": 113,
+      "updated": 3,
+      "unrelatedAppMetadataUnchanged": true,
+      "publicWebsiteDataUnchanged": true,
+      "remainingGenderedAppStories": 0
+    },
+    {
+      "report": "build/Migration/20261009T203759Z-c1820b.json",
+      "sha256": "2fbdd56a73adbfe391db5477a4018fcbd5404a8d61def93d6c0d3edfe3206223",
+      "scheme": "WeezyPopReleaseRendering",
+      "configuration": "Release",
+      "success": true,
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 285603,
+        "cases": [
+          {
+            "identifier": "MigrationUITests/testNativeSearchAndReturnToShop()",
+            "name": "testNativeSearchAndReturnToShop()",
+            "className": "MigrationUITests",
+            "status": "passed",
+            "durationMs": 23000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "name": "testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 39000
+          },
+          {
+            "identifier": "Shop38UITests/testSlowPartialAndFastSwipesAlwaysSettleOnOneWholeProduct()",
+            "name": "testSlowPartialAndFastSwipesAlwaysSettleOnOneWholeProduct()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 47000
+          }
+        ]
+      }
+    },
+    {
+      "report": "build/Migration/20261009T204257Z-304021.json",
+      "sha256": "e7f51dcc104fb746fcb2340039fa24b4da11084f34c792d1139b8569af01021d",
+      "scheme": "WeezyPop",
+      "configuration": "Debug",
+      "success": true,
+      "tests": {
+        "total": 5,
+        "passed": 5,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 51322,
+        "cases": [
+          {
+            "identifier": "LaunchPolishTests/testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+            "name": "testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+            "className": "LaunchPolishTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "LaunchPolishTests/testLaunchAppearanceIsDeclaredLight()",
+            "name": "testLaunchAppearanceIsDeclaredLight()",
+            "className": "LaunchPolishTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchPolishTests/testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+            "name": "testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+            "className": "LaunchPolishTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchPolishTests/testRatingRequiresThreeSessionsAnd120DayCooldown()",
+            "name": "testRatingRequiresThreeSessionsAnd120DayCooldown()",
+            "className": "LaunchPolishTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testCatalogueRecoveryInteractions()",
+            "name": "testCatalogueRecoveryInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "passed",
+            "durationMs": 20000
+          }
+        ]
+      }
+    }
+  ],
+  "failedRunsPreserved": [
+    "Initial capture compile used a read-only accessibility environment key; corrected to actual system Reduce Motion.",
+    "Two simultaneous local builds caused a shared build-database lock; corrected by serial execution.",
+    "Legacy full-name/escape expectations changed to first-name-only privacy contract.",
+    "Copy regression found missing stories in the older server fallback; synchronised approved matching app-only stories.",
+    "Optimized UI run 203218-b3b3a0 assumed Welcome/Shop on every launch; Release correctly retained the last tab. Test setup now selects Shop explicitly.",
+    "Recheck 203729-d2186a used incomplete test identifiers and ran zero tests; corrected to target/class/test selectors."
+  ],
+  "notProven": [
+    "Physical APNs/notification permission",
+    "Messages/WhatsApp/Instagram preview delivery/cache/crop",
+    "Real OAuth/payment/order sync",
+    "App Review access and approval",
+    "F50 Safari reopening",
+    "Full accessibility acceptance",
+    "Production Linux container deployment"
+  ],
+  "sourceCommit": "8d4d27e",
+  "sourceBranch": "codex/gender-neutral-sharing"
+}
