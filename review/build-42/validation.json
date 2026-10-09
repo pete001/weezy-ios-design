@@ -1,0 +1,23 @@
+{
+  "build": 42,
+  "generatedAt": "2026-10-09T10:35:32.011478+00:00",
+  "inventoryScreens": 81,
+  "capturedInventoryScreens": 79,
+  "images": 167,
+  "additionalContinuations": 88,
+  "notCaptured": [
+    "SHOPIFY-CODE",
+    "SHOPIFY-CHECKOUT"
+  ],
+  "unexpectedMissing": [],
+  "imageFormat": "JPEG",
+  "jpegQuality": 80,
+  "pixelWidth": 1179,
+  "pixelHeight": 2556,
+  "batches": [
+    50,
+    50,
+    50,
+    17
+  ]
+}

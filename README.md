@@ -1,3 +1,7 @@
+## Current launch review · build42
+
+[Launch handoff response](review/build-42/RESPONSE.md) · [Gallery and capture provenance](review/build-42/README.md) · [Verification](review/build-42/TESTS.json). Three tabs, private surprise gifting, pink basket, sets-first My Charms and live search. Earlier builds31–41 are preserved.
+
 ## Current scoped review · build41
 
 [Gold and coloured charm photography](review/build-41/README.md) · [16-frame gallery](review/build-41/index.html). Exact Gold defaults and existing Silver/Glitter selections verified; prior builds31–40 preserved.

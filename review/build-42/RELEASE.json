@@ -1,0 +1,33 @@
+{
+  "build": 42,
+  "version": "1.0",
+  "buildID": "16d6fc7f-a347-442d-98fb-ac91f14ec814",
+  "checkedAt": "2026-10-09T10:42:14.182779+00:00",
+  "processingState": "VALID",
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "autoNotifyEnabled": true,
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "16d6fc7f-a347-442d-98fb-ac91f14ec814",
+      "state": "APPROVED"
+    }
+  ],
+  "appleValidationPassed": true,
+  "strictSignatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "7786de89b1463cde24a7caf6f23568bdaccbe618f264abec09d387ab6611f1f1",
+  "checksumScope": "Local exported IPA SHA-256 verified before upload; Apple upload API supplied no remote checksum",
+  "dSYMUUID": "7CD7AB10-D0F0-3C19-8C15-E020A4C11582",
+  "testFlightURL": "https://testflight.apple.com/join/5m9QyaSa"
+}

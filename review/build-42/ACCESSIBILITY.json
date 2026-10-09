@@ -1,0 +1,301 @@
+{
+  "allAuditsPassed": false,
+  "status": "open, beta acceptance only",
+  "observations": [
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: Button, 0x10614db80, {{377.3, 415.3}, {113.7, 44.0}}, label: 'Accessories 0'",
+      "evidence": "5902C4E2-54C5-452D-A504-C5D9D68FE7B9.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x10614d040, {{16.0, 385.3}, {370.0, 24.0}}, label: 'Bought at an event or stockist?'",
+      "evidence": "559597E1-39F0-417B-AB87-DE9ECDB0DC3E.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: Button, 0x10614cc80, {{16.0, 317.3}, {370.0, 56.0}}, identifier: 'archive-sync-purchases', label: 'SYNC PURCHASES'",
+      "evidence": "8D3413A4-D900-4A48-BD20-629F08DA9D5A.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x10614c8c0, {{192.7, 291.7}, {193.3, 13.7}}, label: 'Your confirmed Weezy Pop pieces'",
+      "evidence": "6326811E-AF20-49BB-BBF0-F83AC868EC6A.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "FDC7828F-A0DA-45C9-8BC8-0C8DB18BA1B9.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "0C453D82-179F-481B-96F8-25D7BF584DC6.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "C46D422A-08E5-436F-9045-D31757CB51C1.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "7A331544-CBD8-49FB-97C0-25C070852BB9.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: Button, 0x1061870c0, {{16.0, 722.0}, {370.0, 56.0}}, identifier: 'basket-start-with-charm', label: 'START WITH A CHARM'",
+      "evidence": "9095E6D3-523A-4B80-A307-E31B7A83427E.txt",
+      "attachment": "Audit-EmptyBasket"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Text clipped",
+      "element": "Attributes: StaticText, 0x1061866c0, {{57.7, 312.1}, {162.7, 13.7}}, label: 'A LITTLE INSPIRATION'",
+      "evidence": "A4F85C23-8283-4ED2-ACD0-AB27FEDF44C7.txt",
+      "attachment": "Audit-EmptyBasket"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Dynamic Type font sizes are unsupported",
+      "element": "No associated element",
+      "evidence": "2133544A-307A-440B-A097-DF357855973C.txt",
+      "attachment": "Audit-EmptyBasket"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "2DC24945-56A8-4BB0-B50E-F21EA1C54C90.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: Button, 0x102bdee40, {{16.0, 370.3}, {370.0, 56.0}}, label: 'EXPLORE CHARMS'",
+      "evidence": "D75D0464-2092-4461-B0CD-733C3FC16917.txt",
+      "attachment": "Audit-Wishlist"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Text clipped",
+      "element": "No associated element",
+      "evidence": "C4A2D1A5-3299-4203-AB19-84D3DEF0BE7B.txt",
+      "attachment": "Audit-Wishlist"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Dynamic Type font sizes are unsupported",
+      "element": "No associated element",
+      "evidence": "428C238E-8C83-45F4-92BE-6DE9D5E74372.txt",
+      "attachment": "Audit-Wishlist"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "FA9C21AD-A546-4084-B02A-EC8D20302114.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "A5D66FCE-844E-4208-9A1D-018E9CCEF58C.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x10edc9cc0, {{51.0, 830.0}, {31.3, 13.7}}, identifier: 'shop-piece-photo', label: '2 / 37'",
+      "evidence": "41541F25-CE8F-4247-99C3-863AA55F24B4.txt",
+      "attachment": "Shop38-audit"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Text clipped",
+      "element": "Attributes: Button, 0x10edc9680, {{34.0, 713.0}, {270.0, 54.0}}, identifier: 'feed-add-to-basket', label: 'ADD TO BASKET \u00b7 \u00a34'",
+      "evidence": "17B6E7CD-2223-4292-9926-AB4179B26055.txt",
+      "attachment": "Shop38-audit"
+    },
+    {
+      "stage": "attachments-audit-primary",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "5D12E042-18AA-4BB7-BB3A-A59DF17F716A.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x10a95d180, {{16.0, 370.3}, {358.0, 24.0}}, label: 'Bought at an event or stockist?'",
+      "evidence": "FC792621-39DD-4E94-BFEE-26F1862F88FC.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed",
+      "element": "Attributes: Button, 0x10a95cdc0, {{16.0, 302.3}, {358.0, 56.0}}, identifier: 'archive-sync-purchases', label: 'SYNC PURCHASES'",
+      "evidence": "43BF23DB-0EEB-47D2-940A-95F21BAF1ADF.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x10a95ca00, {{180.7, 276.7}, {193.3, 13.7}}, label: 'Your confirmed Weezy Pop pieces'",
+      "evidence": "AB75D2F0-05B1-40B5-9DAB-9A34D9B599AE.txt",
+      "attachment": "Audit-MyCharms"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "3377BF88-7FCF-4BFD-BA53-7AA18DA59D28.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "4259F3FF-35DA-4380-BE36-DA2C8C8A2A9E.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "313AE56F-1C96-46ED-9508-A744BA90E45D.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Dynamic Type font sizes are unsupported",
+      "element": "No associated element",
+      "evidence": "DC1EC961-2450-486B-BB63-4751481D7D3D.txt",
+      "attachment": "Audit-EmptyBasket"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed",
+      "element": "No associated element",
+      "evidence": "5114C581-F0FC-438F-8483-0C0A6A31920B.txt",
+      "attachment": "Audit-EmptyBasket"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "25E63A20-76AA-4064-9182-E9F775A7193D.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Text clipped",
+      "element": "No associated element",
+      "evidence": "F80006AE-C9DF-4982-B541-BBBEA22143B0.txt",
+      "attachment": "Audit-Wishlist"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Dynamic Type font sizes are unsupported",
+      "element": "No associated element",
+      "evidence": "32D8F7B5-E28A-4F98-8F90-BC6C4FE664AF.txt",
+      "attachment": "Audit-Wishlist"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed",
+      "element": "Attributes: Button, 0x1077df840, {{16.0, 355.3}, {358.0, 56.0}}, label: 'EXPLORE CHARMS'",
+      "evidence": "9FCEFABF-0DB8-4768-AD76-EA6CA5E5A82A.txt",
+      "attachment": "Audit-Wishlist"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "541B159C-808A-4E8F-8F58-AC6EE823DE77.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "C8508E08-26F9-4B85-8091-17EC7319ED00.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Text clipped",
+      "element": "Attributes: Button, 0x110de9b80, {{34.0, 683.0}, {258.0, 54.0}}, identifier: 'feed-add-to-basket', label: 'ADD TO BASKET \u00b7 \u00a34'",
+      "evidence": "4FB9EFEC-9B9F-4F08-AE00-1700C5CDB463.txt",
+      "attachment": "Shop38-audit"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x110de9f40, {{51.0, 800.0}, {31.3, 13.7}}, identifier: 'shop-piece-photo', label: '2 / 37'",
+      "evidence": "F8EC4476-CAD2-4BA9-89FD-2F69E165B91D.txt",
+      "attachment": "Shop38-audit"
+    },
+    {
+      "stage": "attachments-audit-smaller",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "35087AD0-3DC4-48B6-97D8-2146E188AA6F.txt",
+      "attachment": "Complete Issue Description.txt"
+    },
+    {
+      "stage": "attachments-registration",
+      "type": "Contrast failed",
+      "element": "Attributes: StaticText, 0x10a34b5c0, {{65.5, 612.7}, {259.0, 102.7}}, label: 'Add a clear photo'",
+      "evidence": "47BE1DC8-3660-44FB-AA3B-93FC3ED40922.txt",
+      "attachment": "Audit-PurchaseRegistrationProof_0_1020587A-2013-4E65-A1E0-F77348362B69.txt"
+    },
+    {
+      "stage": "attachments-registration",
+      "type": "Text clipped",
+      "element": "Attributes: StaticText, 0x10a23cb40, {{65.0, 306.0}, {241.0, 85.3}}, label: 'BOUGHT IN PERSON?'",
+      "evidence": "5C7D1BEF-B4AA-4EB1-BB90-3F0E6A076204.txt",
+      "attachment": "Audit-PurchaseRegistration_0_B92FB890-36D8-47AF-8121-52AED28477AE.txt"
+    },
+    {
+      "stage": "attachments-registration",
+      "type": "Contrast failed for SwiftUI.AccessibilityNode",
+      "element": "No associated element",
+      "evidence": "4A1B621D-9DC6-40D4-9201-868E034BA1F7.txt",
+      "attachment": "Complete Issue Description.txt"
+    }
+  ],
+  "note": "Attachment observations include duplicates and generic companion reports; they are not a count of distinct UI defects. No issue handler suppresses failures.",
+  "manualReview": {
+    "screens": "Reviewed all39 audit app/Readiness screenshots from the initial scans, plus final registration recheck and selected final largest-text captures.",
+    "typography": "Actual Montserrat and Prata scale in the largest-size tests; predictions of future clipping/unsupported custom scaling remain open rather than silently excluded.",
+    "colours": "sRGB approved button E8144C on white =4.530:1; body54464C on white =8.908:1. Increase Contrast actionE0144A =4.807:1. This source/pixel calculation does not override Apple scan failures.",
+    "navigation": "One contrast observation names the horizontally offscreen Accessories tab; shop counter sits under native glass. These remain recorded, not automatically waived.",
+    "registration": "Fixed largest-text action placement: scroll after proof, preserving the normal pinned action. Before/after functional evidence retained."
+  },
+  "physicalAcceptance": [
+    "VoiceOver traversal and activation",
+    "Increase Contrast and Reduce Transparency on physical phones",
+    "real gift notification/background delivery",
+    "secure Shopify OAuth and actual paid checkout",
+    "Safari universal-link reopening"
+  ]
+}

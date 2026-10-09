@@ -1,0 +1,2168 @@
+{
+  "build": 42,
+  "verifiedAt": "2026-10-09T10:35:32.270053+00:00",
+  "models": {
+    "total": 114,
+    "passed": 114,
+    "failed": 0,
+    "skipped": 0,
+    "expectedFailures": 0,
+    "durationMs": 16293
+  },
+  "nativeFunctional": {
+    "initialRuns": [
+      {
+        "stage": "functional-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T085929Z-f1cdc0.xcresult",
+            "tests": {
+              "total": 9,
+              "passed": 9,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 274256,
+              "cases": [
+                {
+                  "identifier": "LaunchSearchUITests/testFocusLiveResultsFiltersAndReturningFromProductKeepTheSearch()",
+                  "name": "testFocusLiveResultsFiltersAndReturningFromProductKeepTheSearch()",
+                  "className": "LaunchSearchUITests",
+                  "status": "passed",
+                  "durationMs": 28000
+                },
+                {
+                  "identifier": "LaunchSearchUITests/testLargestFiltersAndNoResultsCanBeClearedWithoutClippingActions()",
+                  "name": "testLargestFiltersAndNoResultsCanBeClearedWithoutClippingActions()",
+                  "className": "LaunchSearchUITests",
+                  "status": "passed",
+                  "durationMs": 18000
+                },
+                {
+                  "identifier": "Shop38UITests/testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "name": "testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 56000
+                },
+                {
+                  "identifier": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+                  "name": "testDesignSwatchesPreserveHardwareSelection()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 44000
+                },
+                {
+                  "identifier": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+                  "name": "testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 32000
+                },
+                {
+                  "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+                  "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 12000
+                },
+                {
+                  "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 29000
+                },
+                {
+                  "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 23000
+                },
+                {
+                  "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 22000
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "functional-smaller",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T090406Z-ad3cf9.xcresult",
+            "tests": {
+              "total": 7,
+              "passed": 7,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 220705,
+              "cases": [
+                {
+                  "identifier": "LaunchSearchUITests/testLargestFiltersAndNoResultsCanBeClearedWithoutClippingActions()",
+                  "name": "testLargestFiltersAndNoResultsCanBeClearedWithoutClippingActions()",
+                  "className": "LaunchSearchUITests",
+                  "status": "passed",
+                  "durationMs": 23000
+                },
+                {
+                  "identifier": "Shop38UITests/testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "name": "testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 54000
+                },
+                {
+                  "identifier": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+                  "name": "testDesignSwatchesPreserveHardwareSelection()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 41000
+                },
+                {
+                  "identifier": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+                  "name": "testWholeSetPurchaseNeverOpensIndividualAdd()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 12000
+                },
+                {
+                  "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 25000
+                },
+                {
+                  "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 22000
+                },
+                {
+                  "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 22000
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "optimized-primary",
+        "audit": false,
+        "releaseRendering": true,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T090750Z-a0e35c.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 2,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 150453,
+              "cases": [
+                {
+                  "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 31000
+                },
+                {
+                  "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 26000
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "optimized-smaller",
+        "audit": false,
+        "releaseRendering": true,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T091023Z-c4071c.xcresult",
+            "tests": {
+              "total": 4,
+              "passed": 4,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 150582,
+              "cases": [
+                {
+                  "identifier": "Shop38UITests/testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "name": "testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 46000
+                },
+                {
+                  "identifier": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+                  "name": "testDesignSwatchesPreserveHardwareSelection()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 42000
+                },
+                {
+                  "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 29000
+                },
+                {
+                  "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 26000
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T091555Z-a9854f.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 2,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 176588,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 135000
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 36000
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "finalTargetedRuns": [
+      {
+        "stage": "registration-largest-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T101628Z-e6a54e.xcresult",
+            "tests": {
+              "total": 1,
+              "passed": 1,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 123999,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 118000
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-largest-smaller",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T102644Z-48ca50.xcresult",
+            "tests": {
+              "total": 1,
+              "passed": 1,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 129026,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 121000
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "normalRegistrationAndGiftAcceptance": [
+      {
+        "stage": "registration-primary",
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "cases": [
+          {
+            "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+            "name": "testRegistrationInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "passed",
+            "durationMs": 65000
+          }
+        ]
+      },
+      {
+        "stage": "registration-smaller-functional",
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "cases": [
+          {
+            "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+            "name": "testRegistrationInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "passed",
+            "durationMs": 67000
+          }
+        ]
+      },
+      {
+        "stage": "gift-functional-primary",
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "cases": [
+          {
+            "identifier": "Shop38UITests/testLaunchStandaloneGiftDoesNotExposeRetiredBestiesOrRewards()",
+            "name": "testLaunchStandaloneGiftDoesNotExposeRetiredBestiesOrRewards()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 11000
+          }
+        ]
+      }
+    ],
+    "optimizedRechecks": [
+      {
+        "stage": "optimized-primary",
+        "audit": false,
+        "releaseRendering": true,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T093208Z-35f02c.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 2,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 142988,
+              "cases": [
+                {
+                  "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 33000
+                },
+                {
+                  "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 26000
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "optimized-smaller",
+        "audit": false,
+        "releaseRendering": true,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": true,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T093434Z-39f94e.xcresult",
+            "tests": {
+              "total": 4,
+              "passed": 4,
+              "failed": 0,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 149426,
+              "cases": [
+                {
+                  "identifier": "Shop38UITests/testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "name": "testCharmGoldDefaultPreservesExplicitDesignAndHardwareChoices()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 45000
+                },
+                {
+                  "identifier": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+                  "name": "testDesignSwatchesPreserveHardwareSelection()",
+                  "className": "Shop38UITests",
+                  "status": "passed",
+                  "durationMs": 42000
+                },
+                {
+                  "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 28000
+                },
+                {
+                  "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+                  "className": "TabViewportUITests",
+                  "status": "passed",
+                  "durationMs": 26000
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "priorFailedRechecks": [
+      {
+        "stage": "registration-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T092627Z-2a8dab.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 0,
+              "failed": 2,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 216462,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 105000,
+                  "message": "XCTAssertTrue failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 103000,
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T094828Z-9107b0.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 0,
+              "failed": 2,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 316753,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 157000,
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 140000,
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-smaller-functional",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T095348Z-06bf5d.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 0,
+              "failed": 2,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 309815,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 155000,
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 140000,
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T095907Z-1ea3ef.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 1,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 136576,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 47000,
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 36982"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 64000
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 36982"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-smaller-functional",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T100126Z-639ac1.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 1,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 121945,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 47000,
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 37530"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 64000
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 37530"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T100415Z-153b69.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 1,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 111855,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 39000,
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 38341"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 64000
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 38341"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-smaller-functional",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T100609Z-384b91.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 1,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 113976,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 40000,
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 38783"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 65000
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 38783"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-primary",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T101125Z-844f25.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 1,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 112705,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 40000,
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 40190"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 65000
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 40190"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-smaller-functional",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T101320Z-b8ae4d.xcresult",
+            "tests": {
+              "total": 2,
+              "passed": 1,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 118625,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 42000,
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 40641"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testRegistrationInteractions()",
+                  "name": "testRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "passed",
+                  "durationMs": 67000
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "Failed to get matching snapshot: No matches found for first query match sequence: `Descendants matching type CollectionView`, given input App element pid: 40641"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-largest-smaller",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T101834Z-33dc10.xcresult",
+            "tests": {
+              "total": 1,
+              "passed": 0,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 50371,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 43000,
+                  "message": "failed - The native menu closed while scrolling"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "failed - The native menu closed while scrolling"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-largest-smaller",
+        "audit": false,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T102111Z-b6c126.xcresult",
+            "tests": {
+              "total": 1,
+              "passed": 0,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 279939,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "name": "testLargestTextRegistrationInteractions()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 268000,
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextRegistrationInteractions()",
+                  "message": "XCTAssertTrue failed - The actual Moon charm must be selected in the native catalogue menu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "automationCorrections": "Largest menu anchor is fully scrolled into view, native scrolling is allowed to settle, and a second tap can stop deceleration before opening. Native context menu reported a content frame extending below the screen; native gesture endpoints use the actual clipped menu viewport measured by its system scrollbar track, avoiding a swipe outside the clipped popup (the original recording shows this reaching the Home screen). Removed a pre-transition hittability assertion; actual proof-page transition and scroll-contained action remain asserted.",
+    "sourceChangesSinceInitial": [
+      "Notification record selector, independently tested by model unit test",
+      "Largest-text registration actions moved into reading scroll; targeted functional/optimized rechecks",
+      "Hold-to-unwrap uses the approved action pink; frozen review fixtures retain active visuals without accepting gestures",
+      "Quick-add and standalone gifts gate persisted besties and rewards, preserve the selected finish and explain untracked alerts; native gift-sheet interaction/capture added. Retired quick-add bestie action gated behind LaunchScope; sync count and exact-finish photo now include unwrapped gift grants and duplicate quantities, tested independently",
+      "Single Shopify Default Title photo fallback uses the approved visible product media only, never a different finish; testSyncSingleDefaultOptionUsesApprovedProductPhotoWithoutRelaxingFinishes covers paid ownership, hidden media and multi-option rejection; final sync capture rechecked"
+    ]
+  },
+  "nativeAccessibility": {
+    "allPassed": false,
+    "initialRuns": [
+      {
+        "stage": "audit-primary",
+        "audit": true,
+        "releaseRendering": false,
+        "device": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T091257Z-603082.xcresult",
+            "tests": {
+              "total": 5,
+              "passed": 0,
+              "failed": 5,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 80068,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testArchiveAccessibility()",
+                  "name": "testArchiveAccessibility()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 17000,
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testEmptyBasketAccessibility()",
+                  "name": "testEmptyBasketAccessibility()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 15000,
+                  "message": "Hit area is too small"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testWishlistAccessibility()",
+                  "name": "testWishlistAccessibility()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 14000,
+                  "message": "Dynamic Type font sizes are unsupported"
+                },
+                {
+                  "identifier": "MigrationUITests/testWelcomeContrastAndTouchTargets()",
+                  "name": "testWelcomeContrastAndTouchTargets()",
+                  "className": "MigrationUITests",
+                  "status": "failed",
+                  "durationMs": 8000,
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+                  "name": "testUnsuppressedShopAccessibility()",
+                  "className": "Shop38UITests",
+                  "status": "failed",
+                  "durationMs": 12000,
+                  "message": "Text clipped"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testArchiveAccessibility()",
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testEmptyBasketAccessibility()",
+                  "message": "Hit area is too small"
+                },
+                {
+                  "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+                  "message": "Text clipped"
+                },
+                {
+                  "identifier": "MigrationUITests/testWelcomeContrastAndTouchTargets()",
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testWishlistAccessibility()",
+                  "message": "Dynamic Type font sizes are unsupported"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "audit-smaller",
+        "audit": true,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T091420Z-d39203.xcresult",
+            "tests": {
+              "total": 6,
+              "passed": 1,
+              "failed": 5,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 93447,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testArchiveAccessibility()",
+                  "name": "testArchiveAccessibility()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 16000,
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testEmptyBasketAccessibility()",
+                  "name": "testEmptyBasketAccessibility()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 16000,
+                  "message": "Hit area is too small"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testWishlistAccessibility()",
+                  "name": "testWishlistAccessibility()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 14000,
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "MigrationUITests/testWelcomeContrastAndTouchTargets()",
+                  "name": "testWelcomeContrastAndTouchTargets()",
+                  "className": "MigrationUITests",
+                  "status": "failed",
+                  "durationMs": 8000,
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "MigrationUITests/testWelcomeSupportsLargestAccessibilityText()",
+                  "name": "testWelcomeSupportsLargestAccessibilityText()",
+                  "className": "MigrationUITests",
+                  "status": "passed",
+                  "durationMs": 16000
+                },
+                {
+                  "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+                  "name": "testUnsuppressedShopAccessibility()",
+                  "className": "Shop38UITests",
+                  "status": "failed",
+                  "durationMs": 12000,
+                  "message": "Contrast failed"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testArchiveAccessibility()",
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testEmptyBasketAccessibility()",
+                  "message": "Hit area is too small"
+                },
+                {
+                  "identifier": "Shop38UITests/testUnsuppressedShopAccessibility()",
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "MigrationUITests/testWelcomeContrastAndTouchTargets()",
+                  "message": "Contrast failed"
+                },
+                {
+                  "identifier": "LaunchReadinessUITests/testWishlistAccessibility()",
+                  "message": "Contrast failed"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "stage": "registration-smaller-audit",
+        "audit": true,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T091854Z-339aa8.xcresult",
+            "tests": {
+              "total": 1,
+              "passed": 0,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 147233,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextPurchaseRegistration()",
+                  "name": "testLargestTextPurchaseRegistration()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 139000,
+                  "message": "Text clipped"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextPurchaseRegistration()",
+                  "message": "Text clipped"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "finalTargetedRuns": [
+      {
+        "stage": "registration-smaller-audit",
+        "audit": true,
+        "releaseRendering": false,
+        "device": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+        "passed": false,
+        "xcresults": [
+          {
+            "path": "build/Migration/20261009T093006Z-f82cee.xcresult",
+            "tests": {
+              "total": 1,
+              "passed": 0,
+              "failed": 1,
+              "skipped": 0,
+              "expectedFailures": 0,
+              "durationMs": 118986,
+              "cases": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextPurchaseRegistration()",
+                  "name": "testLargestTextPurchaseRegistration()",
+                  "className": "LaunchReadinessUITests",
+                  "status": "failed",
+                  "durationMs": 111000,
+                  "message": "Text clipped"
+                }
+              ],
+              "failures": [
+                {
+                  "identifier": "LaunchReadinessUITests/testLargestTextPurchaseRegistration()",
+                  "message": "Text clipped"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "details": "ACCESSIBILITY.json"
+  },
+  "services": {
+    "passed": 483,
+    "failed": 0,
+    "receipt": "final launch copy sweep; previous 482-case receipt20261009T080945Z",
+    "logSHA256": "36dd45d9643d01ec9f22d9178bef70de3793087d667aa32ec8d831c21f10177b",
+    "scope": "Isolated service/data/Shopify events, no live purchases; final sweep483 cases"
+  },
+  "web": {
+    "verifiedAt": "2026-10-09T09:44:59.019Z",
+    "launchScope": true,
+    "engine": "Isolated headless Chrome actual HTTP, DOM, pointer and keyboard interactions",
+    "results": [
+      {
+        "name": "Launch public wishlist uses real exact Gold photos and no bestie copy",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Launch gift requires explicit choice",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Actual pointer and keyboard gift submission intercepted before any Shopify cart or payment",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Opening checkout creates no paid gift or ownership",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Signed synthetic payment confirms buyer receipt without recipient secrets",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Launch shared wishlist marks exact paid wish GIFTED and removes its ADD",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Recipient new and legacy projections conceal exact gift, note and purchased variant",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "All three other accounts see no recipient gift",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Paid gift blocks stale second buyer review before checkout redirect",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Wrapped gift cannot unwrap before verified arrival",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Launch owner-shared stack preserves exact existing product photos",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Launch privacy page explains secrecy and has no bestie workflows",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Dormant bestie routes are gated in launch mode",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Verified delivery and unwrap add exact gift ownership and remove exact wish atomically",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Private link conceals owner and wishes without bestie wording",
+        "width": 393,
+        "status": "passed"
+      },
+      {
+        "name": "Private wishlist rejects anonymous gifting",
+        "width": 393,
+        "status": "passed"
+      }
+    ],
+    "screens": [
+      {
+        "id": "W-02-gift-bag",
+        "file": "W-02-gift-bag.png",
+        "filename": "W-02-gift-bag.png",
+        "scrollOffset": 0,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 1030,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            },
+            {
+              "loaded": true,
+              "alt": "Small Star Charm"
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-02-gift-bag-more",
+        "parentId": "W-02-gift-bag",
+        "file": "W-02-gift-bag-more.png",
+        "filename": "W-02-gift-bag-more.png",
+        "scrollOffset": 178,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 1030,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            },
+            {
+              "loaded": true,
+              "alt": "Small Star Charm"
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-03-gift-thanks",
+        "file": "W-03-gift-thanks.png",
+        "filename": "W-03-gift-thanks.png",
+        "scrollOffset": 0,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 852,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            },
+            {
+              "loaded": true,
+              "alt": "A piece from your confirmed order"
+            },
+            {
+              "loaded": true,
+              "alt": ""
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-01-shared-wishlist",
+        "file": "W-01-shared-wishlist.png",
+        "filename": "W-01-shared-wishlist.png",
+        "scrollOffset": 0,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 1130,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            },
+            {
+              "loaded": true,
+              "alt": "Small Star Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": "Lovestruck Heart Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": "Sun Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": "Cherry Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": ""
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-01-shared-wishlist-more",
+        "parentId": "W-01-shared-wishlist",
+        "file": "W-01-shared-wishlist-more.png",
+        "filename": "W-01-shared-wishlist-more.png",
+        "scrollOffset": 278,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 1130,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            },
+            {
+              "loaded": true,
+              "alt": "Small Star Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": "Lovestruck Heart Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": "Sun Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": "Cherry Charm \u00b7 18k gold pvd plated stainless steel (Non-Tarnish)"
+            },
+            {
+              "loaded": true,
+              "alt": ""
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-04-shared-stack",
+        "file": "W-04-shared-stack.png",
+        "filename": "W-04-shared-stack.png",
+        "scrollOffset": 0,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 955,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Lovestruck Heart Charm"
+            },
+            {
+              "loaded": true,
+              "alt": "Sun Charm"
+            },
+            {
+              "loaded": true,
+              "alt": "Lovestruck Heart Charm"
+            },
+            {
+              "loaded": true,
+              "alt": "Sun Charm"
+            },
+            {
+              "loaded": true,
+              "alt": ""
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-04-shared-stack-more",
+        "parentId": "W-04-shared-stack",
+        "file": "W-04-shared-stack-more.png",
+        "filename": "W-04-shared-stack-more.png",
+        "scrollOffset": 103,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 955,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Lovestruck Heart Charm"
+            },
+            {
+              "loaded": true,
+              "alt": "Sun Charm"
+            },
+            {
+              "loaded": true,
+              "alt": "Lovestruck Heart Charm"
+            },
+            {
+              "loaded": true,
+              "alt": "Sun Charm"
+            },
+            {
+              "loaded": true,
+              "alt": ""
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-06-private-link",
+        "file": "W-06-private-link.png",
+        "filename": "W-06-private-link.png",
+        "scrollOffset": 0,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 888,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            }
+          ],
+          "prata": true
+        }
+      },
+      {
+        "id": "W-06-private-link-more",
+        "parentId": "W-06-private-link",
+        "file": "W-06-private-link-more.png",
+        "filename": "W-06-private-link-more.png",
+        "scrollOffset": 36,
+        "viewport": {
+          "width": 393,
+          "height": 852
+        },
+        "scale": 3,
+        "sourceKind": "Production app-only web template via actual HTTP/DOM; ephemeral launchScope:true four-account fixture; real existing catalogue photos, no Safari chrome",
+        "metrics": {
+          "width": 393,
+          "documentWidth": 393,
+          "height": 888,
+          "images": [
+            {
+              "loaded": true,
+              "alt": "Weezy Pop"
+            }
+          ],
+          "prata": true
+        }
+      }
+    ],
+    "externalRequests": [
+      {
+        "width": 393,
+        "url": "https://weezypop.com/cart/54746398228818:1?storefront=true&attributes%5Bweezy_gift_reference%5D=b959e0046d04ede8cdc85b6e82a217df628043f4d48ac1e3&attributes%5Bgift_for%5D=13a7eca1-3e66-48e7-bb17-6358d5e4671e&attributes%5Bgift_mode%5D=true&attributes%5Bcharm_club_checkout%5D=805800b5-ce09-443e-a45f-2db94e8bbd84&attributes%5Bgift_note%5D=Private+launch+buyer+note&note=Private+launch+buyer+note",
+        "intercepted": true
+      },
+      {
+        "width": 393,
+        "url": "https://weezypop.com/favicon.ico",
+        "blocked": true
+      }
+    ],
+    "errors": [],
+    "limits": [
+      "Production handlers/templates run with launchScope:true against four ephemeral synthetic identities.",
+      "Real existing catalogue prices/variants/photos come from the bundled readback snapshot; no live customer, merchant or checkout writes.",
+      "Signed purchase/delivery events and Shopify identity remain isolated simulations, not payment acceptance.",
+      "Chrome content viewport 393\u00d7852pt at3\u00d7, no Safari/status-bar chrome; actual JPEG export is handled by the review pack.",
+      "Only explicitly whitelisted existing product photo GETs are allowed outside loopback; every Shopify cart navigation is intercepted."
+    ]
+  },
+  "liveReadOnlyService": {
+    "checkedAt": "2026-10-09T09:48:30.919221+00:00",
+    "method": "Read-only public HTTP GETs and SSH file SHA-256/runtime-boolean reads. No database queries, customer tokens, writes, webhook events or Shopify mutations.",
+    "app": "weezy-pop-club",
+    "serviceRelease": 41,
+    "machine": {
+      "id": "83d477a7516608",
+      "state": "started",
+      "region": "lhr",
+      "image": "registry.fly.io/weezy-pop-club:deployment-01M4G0W85Z28JP75EWVC926G3E",
+      "imageDigest": "sha256:c0de4a9bf4eb2583017804298916593423f96207a65e37b8962f83e5d3b9aef3",
+      "launchEnvInMachineConfig": "1",
+      "healthCheckStatus": [
+        "passing"
+      ]
+    },
+    "runtime": {
+      "node": "v24.20.0",
+      "launchScope": true,
+      "production": true
+    },
+    "freeze": {
+      "path": "build/Launch42/service-freeze.json",
+      "sha256": "fdb51cd431f36046c578ba2884a0481812eef26bdd5cdd4af1757552d2f1f828",
+      "runtimeFilesCompared": 37,
+      "allRuntimeFilesMatch": true,
+      "files": [
+        {
+          "path": "service/account-wishlist.mjs",
+          "sha256": "3a466bc31a933959b8d9ae3277f0813b7d20704a964306dd8f09f70c4bb092bf",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/apns.mjs",
+          "sha256": "0acb64447885dfd83e34c949e3da6d0dcc77ae6e140c4e5e79c1b29de18bebda",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/app-image-settings.mjs",
+          "sha256": "3538b5a32fd944bfd4afa27295ae36d2f9e13dbca91b7f46742adbd5372fcba4",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/app-order.mjs",
+          "sha256": "c571a8bde0321bf2dda498bdd26aa9c1b5bc9ff81450c9a78186d44ccdcec9f8",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/app-sets.mjs",
+          "sha256": "e93365e4ff12fe6f466200a316e370f56f8ea709461e9ba645a2280d889a2417",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/Montserrat-Bold.ttf",
+          "sha256": "8e8fd8542a503669b452f266bf2713524517e012844b67f2dbdb0ee5f804a2da",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/Montserrat-ExtraBold.ttf",
+          "sha256": "372de27f83b1b0cb9710cf6be664bb2bde2a3693d4e97c7e332d7f2763f9a4f1",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/Montserrat-Medium.ttf",
+          "sha256": "171c81e8e55c54f1f82cfccb348e261f8b5b9bea9a40804b1696cbe4f849809e",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/Montserrat-SemiBold.ttf",
+          "sha256": "15010267a5b0bbaa92442e8cefc8e51c8b8179e999088233755960c1b9a9d351",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/Montserrat-VariableFont_wght.ttf",
+          "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/Prata-Regular.ttf",
+          "sha256": "3b2b880737be3bda5f03554297b758516876157c88f9e3b3bae8fa1fc96a2c2c",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/app-icon.png",
+          "sha256": "2b2106da2f47ef288d1bd5265e0835e3634a70b951f7631e7a85618c9870204b",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/pop-studio.css",
+          "sha256": "92fd2a13b65a48bc1e38de70a7c3631ecdd9d12e6b4caf0e990b06784a14a47a",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/weezy-logo-hotpink.svg",
+          "sha256": "da09bbc0a324418a34d0460b537bf051b9bf04f6d44680bdd6f7fb1058c11742",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/weezy-logo-ink.svg",
+          "sha256": "d201ea56072a731c18cb3f82098230c69b4fa5ad5689e5ee2346ad2f7b58187e",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/assets/weezy-logo-pink.svg",
+          "sha256": "c2dc9de5b2161989462bfb16b325722e3c33637562cc039e100a39a33e980150",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/besties.mjs",
+          "sha256": "db3c4040a68fbf3391c259076e09cb697d03f49d87eb329cfcc73137813df4c2",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/catalogue-hot.mjs",
+          "sha256": "7261a80710e75fbd1f5cd5571e888e4f72fe8c4d2391c0d23e407070d0a8a6e7",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/catalogue-order.mjs",
+          "sha256": "05022b722e383d20ce7bb7fb771c91d69dc2d7577a3f1b25a2be9e6ba5c9bac2",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/catalogue-photography.mjs",
+          "sha256": "8de59d58c0898c6467325d0ce76fdcbfb9bb4b162924c7e583ed30cff7f0eff6",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/catalogue-sets.mjs",
+          "sha256": "172169b28d83f3bc64b317ccbe36e2c1fdebb7f79c893c1ba3776618c7a5965c",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/catalogue.json",
+          "sha256": "92213817519d9a295c674d247db8e09a766cc67330f49bbb3b2e95dcbacbabfd",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/checkout-events.mjs",
+          "sha256": "f1f9b6f4426e50779dfbdb467f39d00cb421742fa2456d54bd04b0c611aac2a7",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/club-deletion.mjs",
+          "sha256": "4748437bf636e44b0d9bc7a03808be6bc6c26555ce2dacb460caf11e8851faaf",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/collection-claims.mjs",
+          "sha256": "d4007b94394bc9c63c717eea54e5d9848538574f4f775fd0544c7f5497975203",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/collection-sharing.mjs",
+          "sha256": "0235015db1de9820d8dcb13a29bdfa5c8a939dba2ce8aa6928262ec0d8454b08",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/collection-snaps.mjs",
+          "sha256": "63d5ed42ca7657ce4bf283d44da53bb1b6f1f16d6ec3937a6fef69e3eed455a1",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/complete-set-offers.mjs",
+          "sha256": "30bc7c850bc898e0b80e00491497d5f23e8f4c1ff87e2363682b7ceb8dc035f0",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/gifts.mjs",
+          "sha256": "842cff6889b887bebdd181706e751de4baad1b367e3fafc945187be506704e0b",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/manual-collection.mjs",
+          "sha256": "c5ea89feb45dfe9f3fb9660f2c1e5e6afbd03a95fd097490318990ff44d60a32",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/package.json",
+          "sha256": "b18ff79fe21f7bb1af201f1fa9316d0859e21a49bfa7f9c89bdd6d6365760d10",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/personal-codes.mjs",
+          "sha256": "9eb2146ee63e87e7704663a2ecc56d60530f77495027de1f853330b4b926ac30",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/pop-web.mjs",
+          "sha256": "a9cf596f7dd4acc58ec6d954d50211e7174f3f1cc42d93ebf94d093d4441f0d3",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/server.mjs",
+          "sha256": "3bf70c573ff4aa8a09b261dccffd6b590f835cb73282a5b3f0ef40657430d8f7",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/set-checkout.mjs",
+          "sha256": "75d8531e7fc8cd1aeae5861da127080e9e9f3a37388bba533830d1f60413ab95",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/share-snapshots.mjs",
+          "sha256": "d9bb45d45c0eed2a121e95cdfb4d97e3f34bd1fe60bbf2e0845301b0b6ef4726",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        },
+        {
+          "path": "service/shopify-admin-auth.mjs",
+          "sha256": "b2ec882d43576d0590a6405a53e36bb5c9d39f545dd9b148816e3dded2a7e761",
+          "localCurrentMatchesFreeze": true,
+          "deployedMatchesFreeze": true
+        }
+      ],
+      "nonRuntimeFiles": [
+        {
+          "path": "service/app-image-editor.mjs",
+          "sha256": "a4e57b674318e285c4e526ae6784e4153bfcf79932cc438c39dbbafb7ef8381f",
+          "localCurrentMatchesFreeze": true,
+          "reason": "Editor helper module is not imported by server runtime or included by Dockerfile COPY."
+        },
+        {
+          "path": "service/fly.toml",
+          "sha256": "d00b4d64bb0b2e06474f295d9db71e227ec4a9bf20ad2131eb21933f191040bf",
+          "localCurrentMatchesFreeze": true,
+          "reason": "Deployment configuration, not copied into the runtime image."
+        }
+      ]
+    },
+    "Dockerfile": {
+      "path": "service/Dockerfile",
+      "sha256": "90eab17e5cc49d020c94065b44d0e35a505a39a59c6b758220adc4bd0493b016",
+      "runtimeCOPYInventory": [
+        "package.json",
+        "collection-snaps.mjs",
+        "collection-sharing.mjs",
+        "pop-web.mjs",
+        "share-snapshots.mjs",
+        "server.mjs",
+        "account-wishlist.mjs",
+        "catalogue-photography.mjs",
+        "gifts.mjs",
+        "besties.mjs",
+        "apns.mjs",
+        "personal-codes.mjs",
+        "checkout-events.mjs",
+        "club-deletion.mjs",
+        "shopify-admin-auth.mjs",
+        "catalogue.json",
+        "assets",
+        "catalogue-hot.mjs",
+        "app-order.mjs",
+        "catalogue-order.mjs",
+        "app-image-settings.mjs",
+        "app-sets.mjs",
+        "catalogue-sets.mjs",
+        "manual-collection.mjs",
+        "collection-claims.mjs",
+        "complete-set-offers.mjs",
+        "set-checkout.mjs"
+      ],
+      "pinnedBase": "node:24-alpine@sha256:e67514e5d0f6c46656005e1b693b2ec9d52e80b641307de684d4a015ba7a4eaf",
+      "baseSeenInDeploymentLog": true,
+      "allCOPYInstructionsSeenInDeploymentLog": true,
+      "notCopiedIntoImage": true,
+      "limitation": "Dockerfile content hash is local evidence; the deployed image does not contain Dockerfile. Matching build log COPY/base instructions and all copied runtime hashes verify its effective inputs; remote Dockerfile byte identity cannot be proven."
+    },
+    "http": [
+      {
+        "method": "GET",
+        "path": "/health",
+        "status": 200,
+        "expected": 200,
+        "passed": true,
+        "bodySha256": "4062edaf750fb8074e7e83e0c9028c94e32468a8b6f1614774328ef045150f93",
+        "healthOK": true
+      },
+      {
+        "method": "GET",
+        "path": "/privacy",
+        "status": 200,
+        "expected": 200,
+        "passed": true,
+        "bodySha256": "ad80c22dcb991f5ca16af18f02c633cc6407149bb4fdc026f39a86a6d65982b0",
+        "noLegacyBestieCopy": true,
+        "wrappedGiftPrivacyExplained": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/received-gifts",
+        "status": 401,
+        "expected": 401,
+        "passed": true,
+        "bodySha256": "8957ebbe95d52da2a5d7a85a0465874ab5f414807766cccdcf0d5649c64f4794",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/gift-received",
+        "status": 401,
+        "expected": 401,
+        "passed": true,
+        "bodySha256": "8957ebbe95d52da2a5d7a85a0465874ab5f414807766cccdcf0d5649c64f4794",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/gift-collection",
+        "status": 401,
+        "expected": 401,
+        "passed": true,
+        "bodySha256": "8957ebbe95d52da2a5d7a85a0465874ab5f414807766cccdcf0d5649c64f4794",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/gifts",
+        "status": 401,
+        "expected": 401,
+        "passed": true,
+        "bodySha256": "8957ebbe95d52da2a5d7a85a0465874ab5f414807766cccdcf0d5649c64f4794",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/besties",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/bestie-wishlist",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/bestie-collection",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/bestie-collection-snap",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/collection-visibility",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/collection-share-sync",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/code",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/v1/me/code/availability",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5",
+        "noPrivateGiftPayload": true
+      },
+      {
+        "method": "GET",
+        "path": "/b/launch-readonly-invalid",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5"
+      },
+      {
+        "method": "GET",
+        "path": "/v1/bestie-invites/launch-readonly-invalid",
+        "status": 404,
+        "expected": 404,
+        "passed": true,
+        "bodySha256": "c15ae9656b08f95a4c8f259fe7a661875753f803990fa50ae5b2dd31b8a772b5"
+      }
+    ],
+    "limits": [
+      "No authenticated production recipient record was accessed. Live checks prove unauthenticated rejection and launch routing, not the entire real recipient lifecycle.",
+      "Recipient secrecy, exact ownership, delivery/unwrap, refund/replay and stale buyer recheck were tested separately against isolated production handlers: 483 service/editor cases and 16 launch browser assertions; those do not prove real OAuth/payment/APNs/carrier delivery.",
+      "Installed Shopify read_fulfillments and fulfillment_events/create were verified separately in delivery-integration-verification.json. No live carrier event or physical push was manufactured.",
+      "No real device, Safari Universal Link, TestFlight or APNs acceptance is claimed."
+    ],
+    "passed": true
+  },
+  "deliveryIntegration": {
+    "readScopeInstalled": true,
+    "topic": "FULFILLMENT_EVENTS_CREATE",
+    "subscription": [
+      {
+        "id": "gid://shopify/WebhookSubscription/2566494617938",
+        "topic": "FULFILLMENT_EVENTS_CREATE",
+        "uri": "https://weezy-pop-club.fly.dev/webhooks/shopify/orders"
+      }
+    ],
+    "existingSubscriptionsDeleted": 0,
+    "ordersCreated": 0,
+    "shipmentsCreated": 0,
+    "websiteMutations": 0,
+    "liveDeliveryReceived": false,
+    "physicalPushVerified": false,
+    "evidence": "Installed scopes and API subscription read back after user approval. No production purchase or delivery was simulated.",
+    "existingMerchantWebhooksVerifiedInShopifyUI": [
+      "orders/paid",
+      "orders/updated",
+      "orders/cancelled",
+      "orders/fulfilled"
+    ],
+    "legacyVerificationReadOnly": true
+  },
+  "limits": [
+    "Actual simulator sizes: primary iPhone18Pro402\u00d7874pt and smaller iPhone17e390\u00d7844pt. Gallery393\u00d7852pt is separate controlled content evidence.",
+    "Offline cases use DEBUG transport fixtures. Optimized Release root does not prove simulated offline behavior.",
+    "Largest shipping root assertions run on both devices; registration-largest accessibility is a separate optional stage.",
+    "No current unsuppressed accessibility pass is inferred from Build41 historical accepted findings.",
+    "Real Shopify OAuth/payment/tax/shipping, physical universal links/Safari, physical APNs/background/terminated, VoiceOver, older OS17 compatibility and production restoration remain independent acceptance.",
+    "Gift secrecy is enforced on authenticated recipient app data. Public buyer pages show GIFTED; an owner visiting anonymously cannot be distinguished from a buyer. Strong secrecy outside the app requires a separate buyer-authentication policy."
+  ],
+  "release": {
+    "build": 42,
+    "version": "1.0",
+    "buildID": "16d6fc7f-a347-442d-98fb-ac91f14ec814",
+    "checkedAt": "2026-10-09T10:42:14.182779+00:00",
+    "processingState": "VALID",
+    "internalBuildState": "IN_BETA_TESTING",
+    "externalBuildState": "IN_BETA_TESTING",
+    "autoNotifyEnabled": true,
+    "groups": [
+      {
+        "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+        "name": "Lou & Nat"
+      },
+      {
+        "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+        "name": "Weezy Pop Internal"
+      }
+    ],
+    "betaReview": [
+      {
+        "id": "16d6fc7f-a347-442d-98fb-ac91f14ec814",
+        "state": "APPROVED"
+      }
+    ],
+    "appleValidationPassed": true,
+    "strictSignatureVerified": true,
+    "debugTestBypassAbsent": true,
+    "ipaSHA256": "7786de89b1463cde24a7caf6f23568bdaccbe618f264abec09d387ab6611f1f1",
+    "checksumScope": "Local exported IPA SHA-256 verified before upload; Apple upload API supplied no remote checksum",
+    "dSYMUUID": "7CD7AB10-D0F0-3C19-8C15-E020A4C11582",
+    "testFlightURL": "https://testflight.apple.com/join/5m9QyaSa"
+  }
+}

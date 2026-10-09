@@ -1,0 +1,1339 @@
+{
+  "checkedAt": "2026-10-09T08:31:47.385286+00:00",
+  "readOnly": true,
+  "shopifyWrites": 0,
+  "websiteWrites": 0,
+  "sources": [
+    "Shopify Admin active/published products and charm_club.app_sets",
+    "Live app-only /v1/catalogue/photography and /v1/catalogue/sets",
+    "weezypop.com/products.json",
+    "Native bundled catalogue.json"
+  ],
+  "editorURLs": {
+    "stories": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/stories",
+    "finishPhotos": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes",
+    "productPhotos": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/images",
+    "sets": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets",
+    "catalogue": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/catalogue"
+  },
+  "counts": {
+    "publishedProducts": 115,
+    "appVisibleProducts": 70,
+    "savedAppStories": 113,
+    "appVisibleStories": 70,
+    "visibleProductsWithoutStory": 0,
+    "visibleSilverVariants": 70,
+    "visibleSilverWithExactVisiblePhoto": 57,
+    "visibleSilverMissingExactPhoto": 13,
+    "enabledSets": 9,
+    "eligibleCampaigns": 8,
+    "eligibleCampaignsWith16PoundChain": 8,
+    "otherUnassignedVisibleOptions": 29
+  },
+  "appMetadataMismatches": [],
+  "sets": [
+    {
+      "id": "app-set-231b9b28-4a5b-40f7-8838-5b3e6144970c",
+      "name": "Snack to the Future",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "egg-on-toast-charm",
+          "title": "Egg on Toast Charm",
+          "quantity": 1,
+          "variantID": "54746399408466",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        },
+        {
+          "handle": "hot-sauce-charm",
+          "title": "Hot Sauce Charm",
+          "quantity": 1,
+          "variantID": "54746400555346",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "burger-charm",
+          "title": "Burger Charm",
+          "quantity": 1,
+          "variantID": "54746394231122",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 23,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "shrimp-charm",
+          "title": "Shrimp Charm",
+          "quantity": 1,
+          "variantID": "54746400915794",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "croissant-charm",
+          "title": "Croissant Charm",
+          "quantity": 1,
+          "variantID": "54746394591570",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 23,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 104,
+      "defaultRegularGBP": 120,
+      "defaultPayableGBP": 94,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-94879d0e-1eaf-48a6-91d4-01854b727b0f",
+      "name": "Sugar Rush Social Club",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "croissant-charm",
+          "title": "Croissant Charm",
+          "quantity": 1,
+          "variantID": "54746394591570",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 23,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "battenberg-cake-charm",
+          "title": "Battenberg Cake Charm",
+          "quantity": 1,
+          "variantID": "53522719703378",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 3
+        },
+        {
+          "handle": "cherry-charm",
+          "title": "Cherry Charm",
+          "quantity": 1,
+          "variantID": "54746395509074",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 4
+        },
+        {
+          "handle": "ice-cream-charm",
+          "title": "Ice Cream Charm",
+          "quantity": 1,
+          "variantID": "54746399179090",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "jelly-charm",
+          "title": "Jelly Charm",
+          "quantity": 1,
+          "variantID": "54746399506770",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 4
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 99,
+      "defaultRegularGBP": 115,
+      "defaultPayableGBP": 89,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-0e871430-e902-44c5-9240-d78b720a1490",
+      "name": "Rodeo Baby",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "cowboy-boot-charm",
+          "title": "Cowboy Boot Charm",
+          "quantity": 1,
+          "variantID": "54746400194898",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "smiley-charm",
+          "title": "Smiley Charm",
+          "quantity": 1,
+          "variantID": "54746399703378",
+          "defaultOption": "Gold / 18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 10
+        },
+        {
+          "handle": "lucky-horseshoe-charm",
+          "title": "Lucky Horseshoe Charm",
+          "quantity": 1,
+          "variantID": "52731354612050",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 26,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "large-star-charm",
+          "title": "Large Star Charm",
+          "quantity": 1,
+          "variantID": "54746400063826",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "mini-diamond-charm",
+          "title": "Diamond Charm",
+          "quantity": 1,
+          "variantID": "54746398097746",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 102,
+      "defaultRegularGBP": 118,
+      "defaultPayableGBP": 92,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-d7cc2955-62d7-4632-aed6-7c26748c3e3c",
+      "name": "Cosmic Crush",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "moon-charm",
+          "title": "Moon Charm",
+          "quantity": 1,
+          "variantID": "54746398622034",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 8
+        },
+        {
+          "handle": "planet-charm",
+          "title": "Planet Charm",
+          "quantity": 1,
+          "variantID": "54746399277394",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        },
+        {
+          "handle": "large-star-charm",
+          "title": "Large Star Charm",
+          "quantity": 1,
+          "variantID": "54746400063826",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "thunder-bolt-charm",
+          "title": "Glitter Thunder Bolt Charm",
+          "quantity": 1,
+          "variantID": "54746398851410",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        },
+        {
+          "handle": "sun-charm",
+          "title": "Sun Charm",
+          "quantity": 1,
+          "variantID": "54746398458194",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 96,
+      "defaultRegularGBP": 112,
+      "defaultPayableGBP": 86,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-aa3cb584-c244-43e4-9815-d05184179fb8",
+      "name": "Celestial Magic",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "large-star-charm",
+          "title": "Large Star Charm",
+          "quantity": 1,
+          "variantID": "54746400063826",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "swirl-charm",
+          "title": "Swirl Charm",
+          "quantity": 2,
+          "variantID": "54746398785874",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "sun-charm",
+          "title": "Sun Charm",
+          "quantity": 1,
+          "variantID": "54746398458194",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "moon-charm",
+          "title": "Moon Charm",
+          "quantity": 1,
+          "variantID": "54746398622034",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 8
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 92,
+      "defaultRegularGBP": 108,
+      "defaultPayableGBP": 82,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-fc873367-d1f9-4acf-a534-6ac790a7bb34",
+      "name": "Big Top Energy",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "circus-tent-charm",
+          "title": "Circus Tent Charm",
+          "quantity": 1,
+          "variantID": "54746400325970",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        },
+        {
+          "handle": "swirl-charm",
+          "title": "Swirl Charm",
+          "quantity": 1,
+          "variantID": "54746398785874",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "freak-charm",
+          "title": "Freak Charm with Swarovski Crystals",
+          "quantity": 1,
+          "variantID": "54721937670482",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 36,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 5
+        },
+        {
+          "handle": "large-star-charm",
+          "title": "Large Star Charm",
+          "quantity": 1,
+          "variantID": "54746400063826",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "poodle-charm",
+          "title": "Poodle Charm",
+          "quantity": 1,
+          "variantID": "54746400457042",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 26,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 120,
+      "defaultRegularGBP": 136,
+      "defaultPayableGBP": 110,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-65c39cec-9d09-4218-a4f6-02953a504eb1",
+      "name": "Roller Disco",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "roller-skate-charm",
+          "title": "Roller Skate Charm",
+          "quantity": 1,
+          "variantID": "54746403635538",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "thunder-bolt-charm",
+          "title": "Glitter Thunder Bolt Charm",
+          "quantity": 1,
+          "variantID": "54746398851410",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        },
+        {
+          "handle": "bow-charm",
+          "title": "Pink Marble Bow Charm",
+          "quantity": 1,
+          "variantID": "54746403799378",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "smiley-charm",
+          "title": "Smiley Charm",
+          "quantity": 1,
+          "variantID": "54746399637842",
+          "defaultOption": "Glitter / 18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 10
+        },
+        {
+          "handle": "mini-diamond-charm",
+          "title": "Diamond Charm",
+          "quantity": 1,
+          "variantID": "54746398097746",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 94,
+      "defaultRegularGBP": 110,
+      "defaultPayableGBP": 84,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-52ffe870-3729-4dfe-8053-17be547d087f",
+      "name": "Festival Queen",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "mini-thunder-bolt-charm",
+          "title": "Pink Thunder Bolt Charm",
+          "quantity": 1,
+          "variantID": "54746398359890",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "cherry-charm",
+          "title": "Cherry Charm",
+          "quantity": 1,
+          "variantID": "54746395509074",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 4
+        },
+        {
+          "handle": "cowboy-boot-charm",
+          "title": "Cowboy Boot Charm",
+          "quantity": 1,
+          "variantID": "54746400194898",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 6
+        },
+        {
+          "handle": "circus-tent-charm",
+          "title": "Circus Tent Charm",
+          "quantity": 1,
+          "variantID": "54746400325970",
+          "defaultOption": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 20,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 7
+        },
+        {
+          "handle": "smiley-charm",
+          "title": "Smiley Charm",
+          "quantity": 1,
+          "variantID": "54746399703378",
+          "defaultOption": "Gold / 18k gold pvd plated stainless steel (Non-Tarnish)",
+          "unitPriceGBP": 18,
+          "exactVisiblePhoto": true,
+          "visibleGalleryCount": 10
+        }
+      ],
+      "completeSetOfferConfigured": true,
+      "excluded": false,
+      "offerChainHandle": "charm-necklace-chain",
+      "chainOptionPricesGBP": [
+        16
+      ],
+      "discountGBP": 10,
+      "defaultCharmsSubtotalGBP": 96,
+      "defaultRegularGBP": 112,
+      "defaultPayableGBP": 86,
+      "defaultSavingGBP": 26,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    },
+    {
+      "id": "app-set-terry-de-havilland-shoe-collection",
+      "name": "Terry de Havilland Shoe Collection",
+      "pieceCount": 5,
+      "members": [
+        {
+          "handle": "terry-de-havilland-x-weezy-pop-zia-rainbow-charm",
+          "title": "Zia Platform Shoe Charm in Platino | Terry de Havilland",
+          "quantity": 1,
+          "variantID": "53991563952466",
+          "defaultOption": "Default Title",
+          "unitPriceGBP": 47.5,
+          "exactVisiblePhoto": false,
+          "visibleGalleryCount": 10
+        },
+        {
+          "handle": "terry-de-havilland-x-weezy-pop-zia-platino-charm",
+          "title": "Zia Platform Shoe Charm in Rainbow | Terry de Havilland",
+          "quantity": 1,
+          "variantID": "53991573913938",
+          "defaultOption": "Default Title",
+          "unitPriceGBP": 47.5,
+          "exactVisiblePhoto": false,
+          "visibleGalleryCount": 10
+        },
+        {
+          "handle": "terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm",
+          "title": "Lillita Platform Shoe Charm in Violet & Pink | Terry de Havilland",
+          "quantity": 1,
+          "variantID": "53991589577042",
+          "defaultOption": "Default Title",
+          "unitPriceGBP": 47.5,
+          "exactVisiblePhoto": false,
+          "visibleGalleryCount": 10
+        },
+        {
+          "handle": "terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm",
+          "title": "Margaux Wedge Shoe Charm in Gold | Terry de Havilland",
+          "quantity": 1,
+          "variantID": "53991599440210",
+          "defaultOption": "Default Title",
+          "unitPriceGBP": 47.5,
+          "exactVisiblePhoto": false,
+          "visibleGalleryCount": 11
+        },
+        {
+          "handle": "terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm",
+          "title": "Margaux Wedge Shoe Charm in Silver | Terry de Havilland",
+          "quantity": 1,
+          "variantID": "53991603536210",
+          "defaultOption": "Default Title",
+          "unitPriceGBP": 47.5,
+          "exactVisiblePhoto": false,
+          "visibleGalleryCount": 10
+        }
+      ],
+      "completeSetOfferConfigured": false,
+      "excluded": true,
+      "offerChainHandle": null,
+      "chainOptionPricesGBP": [],
+      "discountGBP": 0,
+      "defaultCharmsSubtotalGBP": 237.5,
+      "defaultRegularGBP": 237.5,
+      "defaultPayableGBP": 237.5,
+      "defaultSavingGBP": 0,
+      "priceEvidence": "Calculated from current Shopify variant prices and configured campaign, not a new cart/checkout quote",
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/sets"
+    }
+  ],
+  "silverPhotosStillNeeded": [
+    {
+      "handle": "giant-white-and-gold-reversible-bow-earrings",
+      "title": "Giant White and Gold Reversible Bow Earrings - Lightweight, Chunky, and Stunning!",
+      "variantID": "49722186105170",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681980588370"
+    },
+    {
+      "handle": "smiley-flower-huggie-earrings",
+      "title": "Smiley Flower Huggie Earrings",
+      "variantID": "49453640483154",
+      "option": "Silver - stainless steel (Non-Tarnish) / Blue",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981309266"
+    },
+    {
+      "handle": "smiley-flower-huggie-earrings",
+      "title": "Smiley Flower Huggie Earrings",
+      "variantID": "50108938125650",
+      "option": "Silver - stainless steel (Non-Tarnish) / Bubble gum pink glitter",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981309266"
+    },
+    {
+      "handle": "smiley-huggie-earrings",
+      "title": "Smiley Huggie Earrings",
+      "variantID": "49432927830354",
+      "option": "Silver - stainless steel (Non-Tarnish) / Light Small Glitter",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981374802"
+    },
+    {
+      "handle": "dont-be-jelly-huggie-earrings",
+      "title": "Don't Be Jelly Huggie Earrings",
+      "variantID": "49432928256338",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981571410"
+    },
+    {
+      "handle": "tarot-card-huggies",
+      "title": "Tarot Card Huggie Hoop Earrings",
+      "variantID": "51716856316242",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10312996061522"
+    },
+    {
+      "handle": "icon-cow-print-engraved-heart",
+      "title": "Icon Cow Print Engraved Heart",
+      "variantID": "51758189609298",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10323409240402"
+    },
+    {
+      "handle": "pearly-starburst-huggies",
+      "title": "Pearly Starburst Huggies",
+      "variantID": "52527066251602",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10425220464978"
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394820946",
+      "option": "Silver - stainless steel (Non-Tarnish) / blue-glitter",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10543181136210"
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394853714",
+      "option": "Silver - stainless steel (Non-Tarnish) / pink-glitter",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10543181136210"
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394886482",
+      "option": "Silver - stainless steel (Non-Tarnish) / gold-and-black-glitter",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10543181136210"
+    },
+    {
+      "handle": "pamela-pumpkin-halloween-charm",
+      "title": "Pamela the Pumpkin Charm | Boo Crew",
+      "variantID": "54899258392914",
+      "option": "Silver - stainless steel (Non - Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non - Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11190589292882"
+    },
+    {
+      "handle": "boo-the-ghost-halloween-charm",
+      "title": "Boo the Ghost Charm | Boo Crew",
+      "variantID": "54899566313810",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "hardwareValue": "Silver - stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11190659678546"
+    }
+  ],
+  "otherFinishPhotosStillNeeded": [
+    {
+      "handle": "smiley-huggie-earrings",
+      "title": "Smiley Huggie Earrings",
+      "variantID": "49432927764818",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / Light Small Glitter",
+      "hardwareValue": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981374802"
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672767826",
+      "option": "Charms only / Pink",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981735250"
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672800594",
+      "option": "Charms only / Charcoal",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981735250"
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672833362",
+      "option": "Charms only / Silver",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981735250"
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672866130",
+      "option": "Charms only / Gold",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981735250"
+    },
+    {
+      "handle": "cosmic-girl-uv-huggie-earrings",
+      "title": "Cosmic Girl UV Huggie Earrings \u2013 Fun, Quirky and Eye-Catching",
+      "variantID": "52526278246738",
+      "option": "Charms only",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9681981899090"
+    },
+    {
+      "handle": "icon-heart-chunky-engraved-wave-huggies",
+      "title": "Icon Heart Chunky Engraved Wave Huggies",
+      "variantID": "51757627572562",
+      "option": "Charms only",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9688433066322"
+    },
+    {
+      "handle": "cirque-freak-show-huggies",
+      "title": "Freak Show Earrings \u2013 Bold, Fun and Quirky Statement Jewellery",
+      "variantID": "49691608449362",
+      "option": "Charms only",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9688453415250"
+    },
+    {
+      "handle": "cirque-tickets-huggies",
+      "title": "Cirque Ticket Huggie Earrings \u2013 Quirky, Fun and Festival-Ready",
+      "variantID": "49478810960210",
+      "option": "Charms only",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9688454103378"
+    },
+    {
+      "handle": "cowboy-boots-huggie-earrings",
+      "title": "Cowboy Boot Huggie Earrings \u2013 Fun, Bold and Festival-Ready",
+      "variantID": "52540762030418",
+      "option": "Charms only",
+      "hardwareValue": "Charms only",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=9688458166610"
+    },
+    {
+      "handle": "icon-leopard-engraved-heart",
+      "title": "Icon Leopard Engraved Heart",
+      "variantID": "51758184792402",
+      "option": "No Hoops",
+      "hardwareValue": "No Hoops",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10323351568722"
+    },
+    {
+      "handle": "icon-cow-print-engraved-heart",
+      "title": "Icon Cow Print Engraved Heart",
+      "variantID": "51758189642066",
+      "option": "No Hoops",
+      "hardwareValue": "No Hoops",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10323409240402"
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394788178",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / silver-and-black-glitter",
+      "hardwareValue": "18k gold pvd plated stainless steel (Non-Tarnish)",
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10543181136210"
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-zia-rainbow-charm",
+      "title": "Zia Platform Shoe Charm in Platino | Terry de Havilland",
+      "variantID": "53991563952466",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10942802919762"
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-zia-platino-charm",
+      "title": "Zia Platform Shoe Charm in Rainbow | Terry de Havilland",
+      "variantID": "53991573913938",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10942804918610"
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm",
+      "title": "Lillita Platform Shoe Charm in Violet & Pink | Terry de Havilland",
+      "variantID": "53991589577042",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10942810259794"
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm",
+      "title": "Margaux Wedge Shoe Charm in Gold | Terry de Havilland",
+      "variantID": "53991599440210",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10942812324178"
+    },
+    {
+      "handle": "terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm",
+      "title": "Margaux Wedge Shoe Charm in Silver | Terry de Havilland",
+      "variantID": "53991603536210",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=10942812815698"
+    },
+    {
+      "handle": "hot-pink-agate-bead-necklace",
+      "title": "Hot Pink Agate Beaded Necklace",
+      "variantID": "54344819147090",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057176052050"
+    },
+    {
+      "handle": "baby-pink-agate-necklace",
+      "title": "Baby Pink Agate Beaded Necklace",
+      "variantID": "54345788752210",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057329078610"
+    },
+    {
+      "handle": "rainbow-rush-agate-bead-necklace",
+      "title": "Ibiza Sunset Agate Beaded Necklace",
+      "variantID": "54345798746450",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057330782546"
+    },
+    {
+      "handle": "green-dream-agate-bead-necklace",
+      "title": "Forest Green Agate Beaded Necklace",
+      "variantID": "54345809461586",
+      "option": "Default Title",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057332453714"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271569234",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271602002",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271634770",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271667538",
+      "option": "Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271700306",
+      "option": "Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271733074",
+      "option": "Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271765842",
+      "option": "Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "hardwareValue": null,
+      "exactVisiblePhoto": false,
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11191198220626"
+    }
+  ],
+  "chains": [
+    {
+      "handle": "charm-necklace-chain",
+      "title": "Paperclip Charm Necklace Chain - Interchangeable Charm System",
+      "options": [
+        {
+          "name": "Hardware Material",
+          "position": 1,
+          "values": [
+            "18k gold pvd plated stainless steel (Non-Tarnish)",
+            "Silver - stainless steel (Non-Tarnish)"
+          ]
+        }
+      ],
+      "pricesGBP": [
+        16
+      ],
+      "lengthOption": false
+    },
+    {
+      "handle": "multifunctional-paperclip-chain",
+      "title": "Paperclip Necklace & Bag Chain with a Lobster Clasp at Each End",
+      "options": [
+        {
+          "name": "Hardware Material",
+          "position": 1,
+          "values": [
+            "18k gold pvd plated stainless steel (Non-Tarnish)",
+            "Silver - stainless steel (Non-Tarnish)"
+          ]
+        }
+      ],
+      "pricesGBP": [
+        18
+      ],
+      "lengthOption": false
+    },
+    {
+      "handle": "hot-pink-agate-bead-necklace",
+      "title": "Hot Pink Agate Beaded Necklace",
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "pricesGBP": [
+        52
+      ],
+      "lengthOption": false
+    },
+    {
+      "handle": "baby-pink-agate-necklace",
+      "title": "Baby Pink Agate Beaded Necklace",
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "pricesGBP": [
+        52
+      ],
+      "lengthOption": false
+    },
+    {
+      "handle": "rainbow-rush-agate-bead-necklace",
+      "title": "Ibiza Sunset Agate Beaded Necklace",
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "pricesGBP": [
+        52
+      ],
+      "lengthOption": false
+    },
+    {
+      "handle": "green-dream-agate-bead-necklace",
+      "title": "Forest Green Agate Beaded Necklace",
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "pricesGBP": [
+        52
+      ],
+      "lengthOption": false
+    }
+  ],
+  "claspConnectorPhotos": [
+    {
+      "handle": "clip-clasp-multipack",
+      "title": "Charm Clasps: Set of 5 Clip Clasps for Bag Chains & Bracelets",
+      "visibleGalleryCount": 2,
+      "variants": [
+        {
+          "option": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        },
+        {
+          "option": "Silver - stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        }
+      ],
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057446519122"
+    },
+    {
+      "handle": "wear-it-your-way-clip-clasp-set-of-3",
+      "title": "Charm Clasps: Set of 3 Clip Clasps for Bag Chains & Bracelets",
+      "visibleGalleryCount": 2,
+      "variants": [
+        {
+          "option": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        },
+        {
+          "option": "Silver - stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        }
+      ],
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057499537746"
+    },
+    {
+      "handle": "signature-connector-set-of-two",
+      "title": "Signature Charm Connectors: Set of Two",
+      "visibleGalleryCount": 2,
+      "variants": [
+        {
+          "option": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        },
+        {
+          "option": "Silver - stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        }
+      ],
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057558913362"
+    },
+    {
+      "handle": "the-wear-it-your-way-connector-set",
+      "title": "Charm Adapter Set: Connector, Clip Clasp & O-Ring",
+      "visibleGalleryCount": 2,
+      "variants": [
+        {
+          "option": "18k gold pvd plated stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        },
+        {
+          "option": "Silver - stainless steel (Non-Tarnish)",
+          "exactVisiblePhoto": true
+        }
+      ],
+      "editorURL": "https://admin.shopify.com/store/weezypopshop/apps/weezy-pop-app-editor/finishes?product=11057488757074"
+    }
+  ],
+  "remainingMerchantDecisions": [
+    "Confirm surprise gifting and the optional buy-anyway nudge; nudge remains disabled.",
+    "Review and refine saved concise app stories if desired; no blank visible story exists.",
+    "Supply or assign the exact Silver hardware photos listed; separately check any missing Gold/design option assignments. Never use a Gold hardware photo as Silver.",
+    "Confirm intended Celestial membership: live Shopify has Large Star, Swirl twice, Sun, Moon; the handoff names existing Small Star instead.",
+    "Supply one approved flat-lay per set; bento composition remains available.",
+    "Confirm which clasp/connector photograph style was meant: current live records already have exact Gold and Silver product photographs."
+  ],
+  "sampleDataDistinction": {
+    "uniform80PoundSetPrice": "Design sample only. Live set variant totals differ; do not set a uniform \u00a380 or invent a \u00a390 charm subtotal.",
+    "celestial": "Live Celestial is five pieces, with Large Star (not Small Star), Swirl quantity2, Sun and Moon. Planet is not a Celestial member; it remains a legitimate Cosmic Crush member. No Shopify set edits were made.",
+    "earring28Pounds": "\u00a328 Heart Gem is design sample data. Live Glitter Heart Huggie variants are \u00a331 on hoops or \u00a324 charms-only; other earrings have their own Shopify prices. No global price was overridden.",
+    "length16_18_20": "Sample only. None of the visible chain products currently has a selectable Length option. Do not manufacture Length variants.",
+    "rodeobaby": "All five current member products have an exact visible photo for the allowed/default Gold option. Missing numbered placeholders are not a current live metadata requirement.",
+    "smallStarProductPresent": true,
+    "smallStarAppHidden": false
+  },
+  "limitations": [
+    "Hardware is classified by the actual Shopify Hardware Material option name/position and variant option value, never by Silver appearing in a colour/design title. Photo counts prove exact assigned visible media and current metadata, not a fresh visual judgement of every hardware photograph.",
+    "No draft cart, checkout, payment, order or customer record created by this audit.",
+    "The regular/payable calculations do not independently prove a production checkout applied the offer.",
+    "Hidden unpublished/draft products remain hidden and are excluded from customer launch tasks."
+  ],
+  "exactPhotoURLChecks": {
+    "method": "HEAD",
+    "targets": [
+      "cowboy-boot-charm",
+      "smiley-charm",
+      "lucky-horseshoe-charm",
+      "large-star-charm",
+      "mini-diamond-charm",
+      "clip-clasp-multipack",
+      "wear-it-your-way-clip-clasp-set-of-3",
+      "signature-connector-set-of-two",
+      "the-wear-it-your-way-connector-set"
+    ],
+    "checked": 13,
+    "passed": 13,
+    "checks": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9607.png?v=1790253145",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9040.jpg?v=1773315263",
+        "status": 200,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-9225.jpg?v=1774362512",
+        "status": 200,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-8051.jpg?v=1771247223",
+        "status": 200,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/9EEF4E4B-5C20-4CBF-8F6C-310D119C17C7.jpg?v=1771242086",
+        "status": 200,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7058.png?v=1787338208",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7059.png?v=1787338208",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7060.png?v=1787338308",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7061.png?v=1787338308",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7064.png?v=1787338669",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7065.png?v=1787338669",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7071.png?v=1787339125",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0904/7133/4226/files/IMG-7072.png?v=1787339126",
+        "status": 200,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "smallStarEvidence": {
+    "admin": {
+      "id": "gid://shopify/Product/10041522782546",
+      "handle": "small-star-charm",
+      "title": "Small Star Charm",
+      "status": "ACTIVE",
+      "publishedAt": "2025-05-02T14:32:17Z"
+    },
+    "appHidden": false,
+    "bundledProductID": "10041522782546",
+    "bundledNumber": 58,
+    "origin": "Current live Shopify product and matching bundled record; sample Celestial capture deliberately changes isolated set membership to this existing product only. Production Celestial registry remains Large Star.",
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/54746398228818",
+        "title": "18k gold pvd plated stainless steel (Non-Tarnish)",
+        "price": "18.00"
+      },
+      {
+        "id": "gid://shopify/ProductVariant/54746398261586",
+        "title": "Silver - stainless steel (Non-Tarnish)",
+        "price": "18.00"
+      }
+    ]
+  }
+}
