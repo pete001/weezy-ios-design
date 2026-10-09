@@ -2,7 +2,7 @@
 
 Review [RESPONSE.md](RESPONSE.md) first: F107–118 are implemented; F50 remains accepted infrastructure work. The baseline is [build42](../build-42/README.md) plus [build42 follow-up](../build-42-follow-up/README.md). Earlier review folders are preserved.
 
-**Release:** version1.0/build43 is signed, exported, strictly verified and validated by Apple with no errors. TestFlight upload remains gated by the expired App Store Connect web session: the optional diagnostics privacy answers must be published first. Build42 remains the distributed build. [TESTS.json](TESTS.json) records the final package and distribution status separately from implementation.
+**Release status:** Version1.0/build43 passed Apple processing and is available to Weezy Pop Internal. External TestFlight review is approved and build43 is available to Lou & Nat. The required privacy additions are published and verified. [TestFlight](https://testflight.apple.com/join/5m9QyaSa) · [TESTS.json](TESTS.json) · [RELEASE.json](RELEASE.json).
 
 **Review:** open [index.html](index.html) from a downloaded/cloned repository for a full-screen gallery and contextual notes. GitHub displays HTML source, while individual images can be pulled directly. Notes stay in the browser until Download review notes; they are not automatically sent to the developer.
 

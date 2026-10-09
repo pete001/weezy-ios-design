@@ -7,8 +7,31 @@
   "sourceCommit": "79c80d31bb2a60ff88d0cceecc40029c893803ff",
   "productionSourceFreezeSHA256": "123d4289dd77f3628358ec528bae2f1522f4530d708f81626de27ebae493224c",
   "ipaSHA256": "44def4a01dc701bf458b73ecb1b1f15b1d73f905f09f2188e06ce59a0a8be406",
-  "uploaded": false,
-  "distributed": false,
-  "gate": "Required diagnostics privacy answers are not yet confirmed as published; Apple web login expired.",
-  "currentDistributedBuild": 42
+  "uploaded": true,
+  "distributed": true,
+  "currentDistributedBuild": 43,
+  "internalAvailable": true,
+  "externalAvailable": true,
+  "buildId": "a621b4f0-9ca3-45e8-92fd-63edcd634888",
+  "processingState": "VALID",
+  "groups": [
+    "Lou & Nat",
+    "Weezy Pop Internal"
+  ],
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "privacyPublished": true,
+  "updatedAt": "2026-10-09T16:08:12.045113+00:00",
+  "privacy": {
+    "published": true,
+    "added": [
+      "Photos or Videos",
+      "Crash Data",
+      "Other Diagnostic Data"
+    ],
+    "diagnosticsLinked": false,
+    "tracking": false,
+    "existingDeclarationsPreserved": true
+  },
+  "betaReviewState": "APPROVED"
 }

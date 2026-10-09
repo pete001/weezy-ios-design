@@ -173,7 +173,7 @@
     "extensionBuild": true,
     "version": "app-editor-30",
     "active": true,
-    "badgeWorkflow": "Curated sets \u2192 selected set \u2192 5. Badge appearance",
+    "badgeWorkflow": "Curated sets → selected set → 5. Badge appearance",
     "merchantWrites": false
   },
   "performance": [
@@ -384,10 +384,32 @@
     "SDK": "iphoneos27.0"
   },
   "distribution": {
-    "uploaded": false,
-    "distributed": false,
+    "uploaded": true,
+    "distributed": true,
     "build": 43,
-    "reason": "Awaiting App Store Connect web sign-in to publish required app diagnostics privacy answers. Signed archive is independently prepared and verified. Build42 remains current TestFlight."
+    "buildId": "a621b4f0-9ca3-45e8-92fd-63edcd634888",
+    "processingState": "VALID",
+    "internalAvailable": true,
+    "externalAvailable": true,
+    "groups": [
+      "Lou & Nat",
+      "Weezy Pop Internal"
+    ],
+    "internalBuildState": "IN_BETA_TESTING",
+    "externalBuildState": "IN_BETA_TESTING",
+    "verifiedAt": "2026-10-09T16:08:12.045113+00:00",
+    "privacy": {
+      "published": true,
+      "added": [
+        "Photos or Videos",
+        "Crash Data",
+        "Other Diagnostic Data"
+      ],
+      "diagnosticsLinked": false,
+      "tracking": false,
+      "existingDeclarationsPreserved": true
+    },
+    "betaReviewState": "APPROVED"
   },
   "appleServerValidation": {
     "ipa_path": "build/Release43/WeezyPop-43.ipa",

@@ -4,7 +4,7 @@
 
 Final handoff14 implements F107–118 and fixes whole-card Shop paging. Review43 contains54 new JPEGs, a Still PNG, normal/Reduce Motion earn recordings, the4-second Moving export, manifest, change map, import batches and test evidence. Earlier approved screenshots stay in their original folders; superseded images are identified explicitly.
 
-**Release status:**1.0(43) is signed and Apple-validated. Its TestFlight upload awaits required diagnostics privacy publication after Apple web sign-in is restored.1.0(42) remains the distributed [TestFlight](https://testflight.apple.com/join/5m9QyaSa) build. See [TESTS.json](review/build-43/TESTS.json) and [RELEASE.json](review/build-43/RELEASE.json).
+**Release status:** Version1.0/build43 passed Apple processing and is available to Weezy Pop Internal. External TestFlight review is approved and build43 is available to Lou & Nat. The required privacy additions are published and verified. [TestFlight](https://testflight.apple.com/join/5m9QyaSa) · [TESTS.json](review/build-43/TESTS.json) · [RELEASE.json](review/build-43/RELEASE.json).
 
 Download/clone the repository to open the HTML gallery offline. GitHub renders the Markdown and individual images directly. Gallery notes stay in your browser until you download them; they are not sent automatically.
 

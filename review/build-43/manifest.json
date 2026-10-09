@@ -18,7 +18,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-more",
@@ -47,7 +47,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-more-2",
@@ -76,7 +76,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest",
@@ -97,7 +97,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest-more",
@@ -126,7 +126,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest-more-2",
@@ -155,7 +155,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest-more-3",
@@ -184,7 +184,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest-more-4",
@@ -213,7 +213,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest-more-5",
@@ -242,7 +242,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-settings-largest-more-6",
@@ -271,7 +271,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "P-01-profile",
@@ -292,7 +292,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "P-01-profile-more",
@@ -321,7 +321,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "P-01-profile-pull",
@@ -342,7 +342,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-05-badge-catalogue",
@@ -363,7 +363,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-05-badge-catalogue-more",
@@ -392,7 +392,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SR-01-search-empty",
@@ -413,7 +413,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SR-01-search-empty-more",
@@ -442,7 +442,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SR-01-search-empty-no-recents",
@@ -463,7 +463,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-06-badge-detail-locked",
@@ -484,7 +484,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-06-badge-detail-locked-more",
@@ -513,7 +513,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-01-badge-shelf",
@@ -534,7 +534,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-01-badge-shelf-more",
@@ -563,7 +563,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-06-badge-detail",
@@ -584,7 +584,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-06-badge-detail-more",
@@ -613,7 +613,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-02-badge-unlocked",
@@ -634,7 +634,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-03-share-card",
@@ -655,7 +655,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full",
@@ -676,7 +676,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full-more",
@@ -705,7 +705,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full-largest",
@@ -726,7 +726,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full-largest-more",
@@ -755,7 +755,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full-largest-more-2",
@@ -784,7 +784,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full-largest-more-3",
@@ -813,7 +813,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-basket-full-largest-more-4",
@@ -842,7 +842,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14-my-charms",
@@ -863,7 +863,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14-my-charms-more",
@@ -892,7 +892,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14-my-charms-more-2",
@@ -921,7 +921,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14-my-charms-more-3",
@@ -950,7 +950,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14-my-charms-more-4",
@@ -979,7 +979,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14C-my-charms-everything-else",
@@ -1000,7 +1000,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14B-my-charms-sets-largest",
@@ -1021,7 +1021,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-04-set-destination",
@@ -1040,7 +1040,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-04-badge-web-page",
@@ -1059,7 +1059,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "APP-diagnostics-privacy",
@@ -1078,7 +1078,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "APP-diagnostics-privacy-more",
@@ -1097,7 +1097,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-03-badge-still",
@@ -1115,7 +1115,7 @@
     "jpegQuality": null,
     "colourProfile": null,
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-03-badge-moving",
@@ -1129,7 +1129,7 @@
     "jpegQuality": null,
     "colourProfile": null,
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-shipping-full-screen",
@@ -1159,7 +1159,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-24-shipping-largest",
@@ -1189,7 +1189,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SR-01-shipping-recents-keyboard",
@@ -1219,7 +1219,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SR-01-shipping-empty-keyboard",
@@ -1249,7 +1249,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25B-search-typing-keyboard",
@@ -1279,7 +1279,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25A-search-focus-keyboard",
@@ -1309,7 +1309,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "Shop39-photo-return-3",
@@ -1339,7 +1339,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "Scroll43-settled-11",
@@ -1369,7 +1369,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "Scroll43-settled-0",
@@ -1399,7 +1399,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "K-01-shipping-largest-more",
@@ -1429,7 +1429,7 @@
     "jpegQuality": 80,
     "colourProfile": "sRGB",
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-02-earn-moment",
@@ -1443,7 +1443,7 @@
     "jpegQuality": null,
     "colourProfile": null,
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "B-02-earn-moment-reduced",
@@ -1457,7 +1457,7 @@
     "jpegQuality": null,
     "colourProfile": null,
     "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
-    "releaseStatus": "Build43 candidate; distribution status in TESTS.json"
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-01-splash",
@@ -1879,7 +1879,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25B-search-typing",
@@ -1896,7 +1897,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25B-search-typing-more",
@@ -1915,7 +1917,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25B-search-typing-more-2",
@@ -1934,7 +1937,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25B-search-typing-more-3",
@@ -1953,7 +1957,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25B-search-typing-more-4",
@@ -1972,7 +1977,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25-search",
@@ -1989,7 +1995,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25-search-more",
@@ -2008,7 +2015,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25-search-more-2",
@@ -2027,7 +2035,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25-search-more-3",
@@ -2046,7 +2055,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25-search-more-4",
@@ -2065,7 +2075,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25C-search-filters",
@@ -2198,7 +2209,8 @@
       "SR-01-search-empty-no-recents"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-35-basket-sheet",
@@ -2215,7 +2227,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-35U-basket-removal-undo",
@@ -2232,7 +2245,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-35E-basket-empty",
@@ -2249,7 +2263,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-12-basket-quote-failed",
@@ -2266,7 +2281,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-12-basket-quote-failed-more",
@@ -2285,7 +2301,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SHOPIFY-CHECKOUT",
@@ -2326,7 +2343,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14-my-charms-more-6",
@@ -2345,7 +2363,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-14B-my-charms-sets",
@@ -2362,7 +2381,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-17-set-complete",
@@ -2433,7 +2453,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-19-achievements-more",
@@ -2454,7 +2475,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-19-achievements-more-2",
@@ -2475,7 +2497,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "BUILD29-BADGE-DETAIL",
@@ -2494,7 +2517,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-31-badge-catalogue",
@@ -2513,7 +2537,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-31-badge-catalogue-more",
@@ -2534,7 +2559,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "L-01-wishlist-share",
@@ -2689,7 +2715,8 @@
       "B-03-share-card"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "W-01-shared-wishlist",
@@ -2946,7 +2973,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-11-offline-more",
@@ -2965,7 +2993,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-11-offline-more-2",
@@ -2984,7 +3013,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-11-offline-more-3",
@@ -3003,7 +3033,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-11-offline-more-4",
@@ -3022,7 +3053,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "M-11-offline-more-5",
@@ -3041,7 +3073,8 @@
       "G-14B-my-charms-sets-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SHEET-basket",
@@ -3058,7 +3091,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "SHEET-basket-more",
@@ -3077,7 +3111,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch",
@@ -3094,7 +3129,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-more",
@@ -3113,7 +3149,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest",
@@ -3131,7 +3168,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest-more",
@@ -3151,7 +3189,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest-more-2",
@@ -3171,7 +3210,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest-more-3",
@@ -3191,7 +3231,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest-more-4",
@@ -3211,7 +3252,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest-more-5",
@@ -3231,7 +3273,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "brand-basket-set-launch-largest-more-6",
@@ -3251,7 +3294,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "S-03-set-page-pending",
@@ -3423,7 +3467,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-35-basket-sheet-largest-more",
@@ -3443,7 +3488,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-35-basket-sheet-largest-more-2",
@@ -3463,7 +3509,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-35-basket-sheet-largest-more-3",
@@ -3483,7 +3530,8 @@
       "K-01-basket-full-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   },
   {
     "id": "G-25D-search-filtered-largest",
@@ -3977,6 +4025,7 @@
       "G-24-settings-largest"
     ],
     "unchanged": false,
-    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof."
+    "reason": "Changed shared component/route; superseded by the named build43 captures. Historical file is not current layout proof.",
+    "releaseStatus": "Build43 processed; internal TestFlight available; Lou & Nat external testing available; status in TESTS.json"
   }
 ]
