@@ -1,0 +1,132 @@
+[
+  {
+    "build": 40,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "A-01-page-length-example",
+    "file": "A-01-page-length-example.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "A-01-page-length-example-normal.png",
+    "sha256": "489e7d44dcde0b6f79ee5fd68d170335b75cc0e63a54f6fa2181af2259dd6326",
+    "title": "A-01-page-length-example",
+    "journey": "Shop stories and browsing",
+    "designOwner": "Native",
+    "view": "Production SwiftUI / build40 / isolated reference Length options. Live Shopify still has no selectable Length variants. Controlled393×852pt; not shipping-root or purchase evidence.",
+    "note": "40pt visual Length pills,44pt invisible tap targets,13pt text,16pt horizontal padding; Hardware remains48pt. No live or bundled variants changed."
+  },
+  {
+    "build": 40,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "A-01-page-length-example-more",
+    "file": "A-01-page-length-example-more.jpg",
+    "textSize": "large",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "A-01-page-length-example-normal-scroll-1.png",
+    "sha256": "bbcc05eacf966685f18ff50139661505458759bb9e7d41e38dc6c0ac049ece66",
+    "parentId": "A-01-page-length-example",
+    "scrollOffset": 125,
+    "scrollHeight": 889,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "large",
+    "note": "40pt visual Length pills,44pt invisible tap targets,13pt text,16pt horizontal padding; Hardware remains48pt. No live or bundled variants changed."
+  },
+  {
+    "build": 40,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "A-01-page-length-example-largest",
+    "file": "A-01-page-length-example-largest.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "A-01-page-length-example-largest-normal.png",
+    "sha256": "30674cd2fbc3010f51477ad19eace4b0e5204859329644b0179a8c1f5156f48c",
+    "title": "A-01-page-length-example-largest",
+    "journey": "Shop stories and browsing",
+    "designOwner": "Native",
+    "view": "Production SwiftUI / build40 / isolated reference Length options. Live Shopify still has no selectable Length variants. Controlled393×852pt; not shipping-root or purchase evidence.",
+    "note": "Largest text still grows/stacks, with no40pt height restriction."
+  },
+  {
+    "build": 40,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "A-01-page-length-example-largest-more",
+    "file": "A-01-page-length-example-largest-more.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "A-01-page-length-example-largest-normal-scroll-1.png",
+    "sha256": "fc38f260f84d6226766aff378f5482ee0dec120328acd7eeeb6f337bae785096",
+    "parentId": "A-01-page-length-example-largest",
+    "scrollOffset": 730,
+    "scrollHeight": 2850,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "accessibility5",
+    "note": "Largest text still grows/stacks, with no40pt height restriction."
+  },
+  {
+    "build": 40,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "A-01-page-length-example-largest-more-2",
+    "file": "A-01-page-length-example-largest-more-2.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "A-01-page-length-example-largest-normal-scroll-2.png",
+    "sha256": "54f34f202d1e58b04251e651246bc1aba7d6c06e9c65e763758043ec45e69713",
+    "parentId": "A-01-page-length-example-largest",
+    "scrollOffset": 1460,
+    "scrollHeight": 2850,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "accessibility5",
+    "note": "Largest text still grows/stacks, with no40pt height restriction."
+  },
+  {
+    "build": 40,
+    "device": "iPhone 16 Pro simulator / iOS 27.0; controlled 393x852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "fixture": "Isolated Claire design account; no production customer mutations",
+    "id": "A-01-page-length-example-largest-more-3",
+    "file": "A-01-page-length-example-largest-more-3.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "production SwiftUI content render in XCTest; controlled 393pt canvas; not shipping AppRoot/live service evidence",
+    "sourceFile": "A-01-page-length-example-largest-normal-scroll-3.png",
+    "sha256": "70095e47189b53772e552aa0149280934cf0efc925bfdb511c6477f0db542e2e",
+    "parentId": "A-01-page-length-example-largest",
+    "scrollOffset": 2010,
+    "scrollHeight": 2850,
+    "scrollViewportHeight": 852,
+    "textSizeOverride": "accessibility5",
+    "note": "Largest text still grows/stacks, with no40pt height restriction."
+  }
+]

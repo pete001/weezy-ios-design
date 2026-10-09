@@ -1,0 +1,7 @@
+id,parentId,build,file,title,journey,textSize,notCaptured,reason
+A-01-page-length-example,,40,A-01-page-length-example.jpg,A-01-page-length-example,Shop stories and browsing,large,,
+A-01-page-length-example-more,A-01-page-length-example,40,A-01-page-length-example-more.jpg,,,large,,
+A-01-page-length-example-largest,,40,A-01-page-length-example-largest.jpg,A-01-page-length-example-largest,Shop stories and browsing,accessibility5,,
+A-01-page-length-example-largest-more,A-01-page-length-example-largest,40,A-01-page-length-example-largest-more.jpg,,,accessibility5,,
+A-01-page-length-example-largest-more-2,A-01-page-length-example-largest,40,A-01-page-length-example-largest-more-2.jpg,,,accessibility5,,
+A-01-page-length-example-largest-more-3,A-01-page-length-example-largest,40,A-01-page-length-example-largest-more-3.jpg,,,accessibility5,,

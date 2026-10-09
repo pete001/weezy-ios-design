@@ -1,0 +1,1 @@
+The two supplied reference images in ../build-39/inventory supersede the earlier F105 grid instruction. Pop Studio15 specifies40px Length pills with13px type and16px horizontal padding; Hardware is48px with20px dots. Build40 matches those visual dimensions while expanding the Length touch region to44pt invisibly. Colour/Design retains the52pt swatches from build39.

@@ -1,0 +1,108 @@
+{
+  "build": 40,
+  "version": "1.0",
+  "appID": "6808889322",
+  "buildID": "258ae126-3d92-475e-8bef-f7d52e635248",
+  "uploaded": true,
+  "processingState": "VALID",
+  "verifiedAt": "2026-10-09T06:18:01.649573+00:00",
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "0096ad906bb151e46722f79b3557f8f9ed62de9ed1976f58d44ac34ad6d9d88b",
+  "dSYMUUID": "C8BC6442-D038-3610-A2D3-B0D76015DF21",
+  "notesReadBackLocales": [
+    "en-GB",
+    "en-US"
+  ],
+  "distribution": {
+    "data": [
+      {
+        "type": "buildBetaDetails",
+        "id": "258ae126-3d92-475e-8bef-f7d52e635248",
+        "attributes": {
+          "autoNotifyEnabled": true,
+          "internalBuildState": "IN_BETA_TESTING",
+          "externalBuildState": "IN_BETA_TESTING"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/258ae126-3d92-475e-8bef-f7d52e635248/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/258ae126-3d92-475e-8bef-f7d52e635248/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails/258ae126-3d92-475e-8bef-f7d52e635248"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/buildBetaDetails?filter%5Bbuild%5D=258ae126-3d92-475e-8bef-f7d52e635248"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  },
+  "betaReview": {
+    "data": [
+      {
+        "type": "betaAppReviewSubmissions",
+        "id": "258ae126-3d92-475e-8bef-f7d52e635248",
+        "attributes": {
+          "betaReviewState": "APPROVED"
+        },
+        "relationships": {
+          "build": {
+            "links": {
+              "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/258ae126-3d92-475e-8bef-f7d52e635248/relationships/build",
+              "related": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/258ae126-3d92-475e-8bef-f7d52e635248/build"
+            }
+          }
+        },
+        "links": {
+          "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions/258ae126-3d92-475e-8bef-f7d52e635248"
+        }
+      }
+    ],
+    "links": {
+      "self": "https://api.appstoreconnect.apple.com/v1/betaAppReviewSubmissions?filter%5Bbuild%5D=258ae126-3d92-475e-8bef-f7d52e635248"
+    },
+    "meta": {
+      "paging": {
+        "total": 1,
+        "limit": 50
+      }
+    }
+  },
+  "groups": {
+    "buildId": "258ae126-3d92-475e-8bef-f7d52e635248",
+    "appId": "6808889322",
+    "complete": true,
+    "lookupMethod": "server_filter_with_inverse_all_builds",
+    "groupCount": 2,
+    "groups": [
+      {
+        "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+        "name": "Lou & Nat",
+        "type": "external",
+        "membership": "explicit",
+        "hasAccessToAllBuilds": false
+      },
+      {
+        "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+        "name": "Weezy Pop Internal",
+        "type": "internal",
+        "membership": "explicit",
+        "hasAccessToAllBuilds": false
+      }
+    ]
+  },
+  "testFlight": "https://testflight.apple.com/join/5m9QyaSa",
+  "appleServerValidationPassed": true,
+  "captureArchiveSourceMatch": true,
+  "shopifyAndWebsiteMutations": 0
+}

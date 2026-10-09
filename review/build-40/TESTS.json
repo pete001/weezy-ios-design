@@ -1,0 +1,200 @@
+{
+  "build": 40,
+  "baseline": "../build-39",
+  "scope": "Non-colour visual height/type/border and expanded tap region; Hardware selected weight matches supplied bold type. No navigation, identity, availability, photography, metadata, service or website logic change.",
+  "finalResult": {
+    "artifact": "build/Migration/20261009T060914Z-81c377.xcresult",
+    "passed": 12,
+    "failed": 0,
+    "skipped": 0,
+    "testTree": {
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+          "deviceName": "Weezy Pop Design Review",
+          "modelName": "iPhone 16 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "testNodes": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "duration": "0.0026s",
+                      "durationInSeconds": 0.002588987350463867,
+                      "name": "testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00073s",
+                      "durationInSeconds": 0.0007309913635253906,
+                      "name": "testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00068s",
+                      "durationInSeconds": 0.0006849765777587891,
+                      "name": "testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00042s",
+                      "durationInSeconds": 0.0004190206527709961,
+                      "name": "testReselectReturnsSameExactVariant()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testReselectReturnsSameExactVariant",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00058s",
+                      "durationInSeconds": 0.0005800724029541016,
+                      "name": "testSeparateColourAndMetalRowsKeepExactOtherOption()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00035s",
+                      "durationInSeconds": 0.0003490447998046875,
+                      "name": "testSingleOptionRemainsPresentAndPreselected()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00035s",
+                      "durationInSeconds": 0.00035202503204345703,
+                      "name": "testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+                      "nodeIdentifier": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    }
+                  ],
+                  "name": "PopFinishOptionsTests",
+                  "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopFinishOptionsTests",
+                  "nodeType": "Test Suite",
+                  "result": "Passed"
+                },
+                {
+                  "children": [
+                    {
+                      "duration": "0.024s",
+                      "durationInSeconds": 0.02442002296447754,
+                      "name": "testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+                      "nodeIdentifier": "PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00044s",
+                      "durationInSeconds": 0.0004400014877319336,
+                      "name": "testLengthAndHardwareRetainExactShopifyCombination()",
+                      "nodeIdentifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.0042s",
+                      "durationInSeconds": 0.004163980484008789,
+                      "name": "testOnlyAnIntactWholeSetGetsInYourBasketState()",
+                      "nodeIdentifier": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    },
+                    {
+                      "duration": "0.00045s",
+                      "durationInSeconds": 0.00044906139373779297,
+                      "name": "testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+                      "nodeIdentifier": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    }
+                  ],
+                  "name": "PopShop38RulesTests",
+                  "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopShop38RulesTests",
+                  "nodeType": "Test Suite",
+                  "result": "Passed"
+                },
+                {
+                  "children": [
+                    {
+                      "duration": "4s",
+                      "durationInSeconds": 4.832884073257446,
+                      "name": "testCaptureBuild40LengthPrecision()",
+                      "nodeIdentifier": "PopStudioCaptureTests/testCaptureBuild40LengthPrecision()",
+                      "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopStudioCaptureTests/testCaptureBuild40LengthPrecision",
+                      "nodeType": "Test Case",
+                      "result": "Passed"
+                    }
+                  ],
+                  "name": "PopStudioCaptureTests",
+                  "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests/PopStudioCaptureTests",
+                  "nodeType": "Test Suite",
+                  "result": "Passed"
+                }
+              ],
+              "name": "WeezyPopTests",
+              "nodeIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopTests",
+              "nodeType": "Unit test bundle",
+              "result": "Passed"
+            }
+          ],
+          "name": "WeezyPop",
+          "nodeType": "Test Plan",
+          "result": "Passed"
+        }
+      ],
+      "testPlanConfigurations": [
+        {
+          "configurationId": "1",
+          "configurationName": "Test Scheme Action"
+        }
+      ]
+    }
+  },
+  "carriedEvidence": "../build-39/TESTS.json",
+  "accessibility": "Two unsuppressed findings remain open in ../build-39/accessibility-findings.md. This delta is not blanket accessibility acceptance.",
+  "fixture": "Only XCTest-host reference Length values are synthetic; live/bundled variants unchanged.",
+  "sourceFreeze": "source-freeze.json",
+  "readOnlyMerchantAndWebsite": true,
+  "sourceDeltaFrom39": [
+    "WeezyPop.xcodeproj/project.pbxproj",
+    "WeezyPop/PopFinishPicker.swift",
+    "WeezyPopTests/PopStudioCaptureTests.swift",
+    "project.yml"
+  ],
+  "currentSourceMatchesFrozenArchiveInputs": true,
+  "release": {
+    "build": 40,
+    "appleProcessing": "VALID",
+    "betaReview": "APPROVED",
+    "internal": "IN_BETA_TESTING",
+    "external": "IN_BETA_TESTING",
+    "signatureAndProductionPackageVerified": true,
+    "appleServerValidationPassed": true
+  }
+}

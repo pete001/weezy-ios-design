@@ -1,0 +1,1149 @@
+{
+  "build": 40,
+  "files": [
+    {
+      "path": "WeezyPop/AccountWishlist.swift",
+      "sha256": "32983cb8402bb1787449474e252fe9730cb3ef0ab139439b65efd349bc32c952"
+    },
+    {
+      "path": "WeezyPop/AchievementsV25.swift",
+      "sha256": "4f3a94eed75fa6bcccbb337eac12523d2bfc93aabbb3f76acfd2c905d568005d"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "sha256": "190d52dae733643aefcf0e1608eec2620ba51dfb120dbc65d52b59482e7bf446"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "sha256": "1b2cc6b6e1ad340faeaae5f07d292eb20c7a22c9995ac8795ea6aa604efa491d"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/LaunchBackground.colorset/Contents.json",
+      "sha256": "007215a1f51e97a0f2d9f9a6b8f38f1a6e000bbbaa107f49f1ac4a17cc68d71b"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-archive-selected.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-archive-selected.imageset/icon.pdf",
+      "sha256": "c1196af6db2b05f2abd857d562898d30cd69bb7eff97366baef45965182697a8"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-archive.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-archive.imageset/icon.pdf",
+      "sha256": "67480f3e35c1ab2879e7af54fe936c0ac98e1a5a44961de1d0c21250ac7ea62a"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-club-selected.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-club-selected.imageset/icon.pdf",
+      "sha256": "7b1bb3b301d3adc0d561c1e88309005a1bd69f148baf5d650b11e3063e4a8839"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-club.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-club.imageset/icon.pdf",
+      "sha256": "b071fcf8efa57001825dae39de2f3ab7abc4d652b33e406b9112b2dcbf790b85"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-collections-selected.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-collections-selected.imageset/icon.pdf",
+      "sha256": "0cf5185c802ed1d44616c72134aeb1b2f5df76a5158daaafdae9893d3657976b"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-collections.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-collections.imageset/icon.pdf",
+      "sha256": "2bb32657684f46e121899191ebf0156ffa9491aad16362d7dcf7d6a8a3a4150f"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-wishlist-selected.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-wishlist-selected.imageset/icon.pdf",
+      "sha256": "472a9a7dec928903f404c3c9a84db6c636ba7f4d0ce019c9ee1991a401772b3c"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-wishlist.imageset/Contents.json",
+      "sha256": "347c1c66a738283ae0c5de8406d0a02f2f899e3f8236a0e80eea543f370ff539"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/SocialTab-wishlist.imageset/icon.pdf",
+      "sha256": "6cfe3b5b4fe6b165a4725d08a543307c7bc381b1463920cba9d6523360acf646"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/weezy-logo-ink.imageset/Contents.json",
+      "sha256": "e3ee7cbc952e10041e01cf0be53d6efb607284e0e23c9eba8f10d8bb756e3163"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/weezy-logo-ink.imageset/weezy-logo-ink.svg",
+      "sha256": "d201ea56072a731c18cb3f82098230c69b4fa5ad5689e5ee2346ad2f7b58187e"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/weezy-logo-white.imageset/Contents.json",
+      "sha256": "3a50b92673b30012bb2db65a7e7d2bf1eb4081fbc3a8f8adc0e4c064e4b599c7"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/weezy-logo-white.imageset/weezy-logo-white.svg",
+      "sha256": "50f3bca527ed79a2f613c77e962baba51350d5a7ee6922350e619453a5c299a2"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/weezy-sparkle-white.imageset/Contents.json",
+      "sha256": "be3df67a3c0d99d211c61597aa91fc6cceec23805f0097f6298832e144c27f1f"
+    },
+    {
+      "path": "WeezyPop/Assets.xcassets/weezy-sparkle-white.imageset/weezy-sparkle-white.svg",
+      "sha256": "bd2b5bba33b2e6394303c6630c18f43a696d0861766e69fdeeed04b8202eaff1"
+    },
+    {
+      "path": "WeezyPop/BestieViewsV25.swift",
+      "sha256": "337ec69b2ef848abfc42572c399aeceebd22c0048b728cad22c5658485b48298"
+    },
+    {
+      "path": "WeezyPop/BoardInteractions.swift",
+      "sha256": "ad1e2360b68e56d15e1f8265b5b606d22f97f9ad988518addace5763d118c74d"
+    },
+    {
+      "path": "WeezyPop/ClubAndSets.swift",
+      "sha256": "9e59cd0d0cd94c8bc2d803cd42002f502da9d1c32508ed7beedd7306bf37e8d1"
+    },
+    {
+      "path": "WeezyPop/ClubV25.swift",
+      "sha256": "d8efc1653e3f1a78c8779c97fc13a5bfa521d4be97d87a6c3ee91cf4ab53282f"
+    },
+    {
+      "path": "WeezyPop/CollectionDesign.swift",
+      "sha256": "a2efc18309ceb078a1f6c721dba35d0df686d403e1ba7f952a56501e276901ef"
+    },
+    {
+      "path": "WeezyPop/Collections.swift",
+      "sha256": "1026e2ce654379fe6e19b554bb1f70150117bf488110b4d82acf80d060adf8f3"
+    },
+    {
+      "path": "WeezyPop/CompleteSetOffers.swift",
+      "sha256": "2c6f6ba9f4920b3b3e91a01b9a15c62f71ebc70c20b4ec1e35a0842933c2e77e"
+    },
+    {
+      "path": "WeezyPop/Content/Arrival/cherry.jpg",
+      "sha256": "2917b30a98c1d4ef3ccf77929046efb0d04788c54d9fe8c64457cd3e75adeb00"
+    },
+    {
+      "path": "WeezyPop/Content/Arrival/smiley.jpg",
+      "sha256": "2cf15eda66b0e0d85940a158f43165e8723fb3abab8d2174d548385c76c9f6c3"
+    },
+    {
+      "path": "WeezyPop/Content/Arrival/star.jpg",
+      "sha256": "bda64268a139c64b2a087c04990318f9efa7e2c8a7c12fcb102a104b0aabf63b"
+    },
+    {
+      "path": "WeezyPop/Content/Arrival/sun.jpg",
+      "sha256": "521497e21c98798df6ec4cf1b90424d801e7d400effccd18882f7246b3881f26"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Montserrat-Bold.ttf",
+      "sha256": "8e8fd8542a503669b452f266bf2713524517e012844b67f2dbdb0ee5f804a2da"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Montserrat-ExtraBold.ttf",
+      "sha256": "372de27f83b1b0cb9710cf6be664bb2bde2a3693d4e97c7e332d7f2763f9a4f1"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Montserrat-Medium.ttf",
+      "sha256": "171c81e8e55c54f1f82cfccb348e261f8b5b9bea9a40804b1696cbe4f849809e"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Montserrat-OFL.txt",
+      "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Montserrat-SemiBold.ttf",
+      "sha256": "15010267a5b0bbaa92442e8cefc8e51c8b8179e999088233755960c1b9a9d351"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Montserrat.ttf",
+      "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Prata-OFL.txt",
+      "sha256": "1e055d25bde41906cc2e1a08bc156e7776d5084e1640d75dbd0065a937b488e3"
+    },
+    {
+      "path": "WeezyPop/Content/Fonts/Prata-Regular.ttf",
+      "sha256": "3b2b880737be3bda5f03554297b758516876157c88f9e3b3bae8fa1fc96a2c2c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/__customized-items.jpg",
+      "sha256": "1acfef3894bd3d6442a98ce55a43468451e6e1e30f5545117954b863923d7cec"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/agate-necklace-3-charm-starter-set.jpg",
+      "sha256": "92918195850f5d0e3731b9801583621243553a945df99af42796166052646e0c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/agate-necklace-5-charm-midi-set.jpg",
+      "sha256": "7fa32a90570ba7cd6e851637335f125f31a3873440f2ecaafc1c1a9a16a16aea"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/baby-pink-agate-necklace.jpg",
+      "sha256": "58cb8bf5359f08eeef95f9c40a67a69ac71334931368b01443ecdf73e9883474"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/battenberg-cake-charm.jpg",
+      "sha256": "ad7d8915a7f092efef252d0d9d58214829afb7bd076aa5aff7040f9f93ab0cd3"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/bow-charm.jpg",
+      "sha256": "80d2d0a2468b97822f7994039373605597c80b79012a6cc7d4c87082c2f9c685"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/bow-huggie-earrings.jpg",
+      "sha256": "a24e2fb17e14c32d916754b95c1ac571ee543088d39c5257a50885d08b260b59"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/bow-necklace.jpg",
+      "sha256": "9e965ef87a8bd21a89b5674bb8e11ed4b03be696642f319311f692efe6dde693"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/burger-charm.jpg",
+      "sha256": "fdc153789f34c2ed08bafe5ab44f8afa0d33f7a3374c3d10ef3f57af0fbad68f"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/candy-cane-starburst-huggies.jpg",
+      "sha256": "6aacb9019d43b489ef3010f040dc88e4abba4c692eb674144bc125ffa0396e46"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/celestial-gold-necklace-3-charm-starter-set.jpg",
+      "sha256": "18efdf11abcafaf2a5d4b201be4d7557336cea61a0f8f7346e117e737a439f27"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/celestial-gold-necklace-5-charm-midi-set.jpg",
+      "sha256": "c774932bebab08691257cf0e2ae4ff0351554535ca8d96a2638314eec8ebef07"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/charm-necklace-chain.jpg",
+      "sha256": "8686f86fe77d2f5b967e7b042cc5e3b765ce434d13ebaf43a0bbe6b5b20ac21f"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/charm-ring.jpg",
+      "sha256": "724df28342d2101dc9eb88462d6cb75f5294e3203fad64ac21da9337bf5b50f3"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cherry-charm.jpg",
+      "sha256": "c5a25cf6a7e10a30ebd63d0203959defc11649bb234939e4245782fed30b6165"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/christmas-bauble-huggies.jpg",
+      "sha256": "fa93d71bab67640f1ae07aca14c454cfe4a96bc1006589647dce6447820bddd4"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/chunky-heart-toon-stripes-charm-black-white.jpg",
+      "sha256": "b9d70edc42f3c5b10032edc56264b4051e227a93becc234b70981bb09e0e258d"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/circus-tent-charm.jpg",
+      "sha256": "e9c2d6be24b92dbfb7a8acab927f7e90d85a8eb2fb31f6f8622d7ee8088274e2"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cirque-freak-show-huggies.jpg",
+      "sha256": "0dfd0a58882bc052964f41388db1e5ffe3e2fff3640d5b9a5ca34480f1895b0a"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cirque-poodle-huggies.jpg",
+      "sha256": "33211b0695774402a3a1e66790b1f6a99e862381a4ec6f329f8feb164ecccc9c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cirque-tickets-huggies.jpg",
+      "sha256": "b3935cf53a442c53421b51a699b3428ea3529339205514ef326df226a6659757"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/clip-clasp-multipack.jpg",
+      "sha256": "7d6bd49c1e508f3aea1a14bf5710c55e688ee1dda416ab4aa18236165d66c6b9"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/colour-pop-party-necklace-3-charm-starter-set.jpg",
+      "sha256": "45543ba09697b6321813d53a16e9315450f333626088fe09edfbad733536df3e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/colour-pop-party-necklace-5-charm-midi-set.jpg",
+      "sha256": "e415bbd4aa3d03a073e2aa52ad9eb6e9dd7f83f04ba47a269422ab5d88a73cb8"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/colour-story-mini-charms.jpg",
+      "sha256": "fe061ef6c8ec101d1194a0f483c6ba6bbbf80d4a09af121d74a2b75fb279871a"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cosmic-girl-uv-huggie-earrings.jpg",
+      "sha256": "0a7a57121df20fa52a2bc1e32af19e27760f6f38e71efc9bbde10acd12586e18"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cowboy-boot-charm.jpg",
+      "sha256": "c3b20d82e73d944bf4b5115788b6689dc57b1e90dcc36b1db6d714bb33202148"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/cowboy-boots-huggie-earrings.jpg",
+      "sha256": "c899e0d4c4c30447b5ddd9eec6742c48798fcd7564f436f2206360e902a88721"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/croissant-charm.jpg",
+      "sha256": "873d6dbdadb6ece78b2860c562606ce89986c7c31d771b1d9bae684d8f313f76"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/disco-necklace.jpg",
+      "sha256": "d872997204ca4de833d004b0f666ca750b961f3f3014ab5795875ed56c732fdc"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/dont-be-jelly-huggie-earrings.jpg",
+      "sha256": "6670cd894d19ddfc77ee07d06af7da3eddfa99473b7506e8ae2676fc376bb934"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/egg-on-toast-charm.jpg",
+      "sha256": "f615d5382049e259d9900dbea786c24b95be5a1be682b632832c3a907fa7200a"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/engraved-stud-earrings.jpg",
+      "sha256": "ffa375579a57e34da6ffb54290b88b44f6caf9dad340cdb55e01a872fbbf23ec"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/eye-huggies.jpg",
+      "sha256": "d41203cd13560ebbdb165c9cee42fc724cf7bbfff0c2ca88bcc087e5a1d341df"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/floral-painted-hoop-huggies.jpg",
+      "sha256": "f05528eea408211ef2111021a89a0403d5e3addca04cce0a91b92797f9b592a2"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/ghost-huggies.jpg",
+      "sha256": "d30f84e71a8f7ce4f7cac3e078cc139af0c9a17dbb08d103adcaa40485a4ffd5"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/giant-white-and-gold-reversible-bow-earrings.jpg",
+      "sha256": "68ba74fc5d0a0184d9ee7bf6954256d73cf1451d2afdd6b9eaf6cf50566e76fa"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/gift-bag.jpg",
+      "sha256": "4e98f1d708633b79d594cc2447b406770786ee011a60bf549ac30681c6ea89a8"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/gift-card.jpg",
+      "sha256": "ed341374a06f88275988852efd57b6b774ad72fff79e7cf084746a6891506100"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/glastonbury-charm-necklace.jpg",
+      "sha256": "8bca8bd8da73c6376a9d5e13b19c5cd6dfe2656cd0fac91fc04e64ad56025158"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/glitter-huggie-heart-earrings.jpg",
+      "sha256": "78a167a9e9f01d0da63e2c222cdb2cee221f35af2b7fbf552227e60ac9cdb63c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/green-clover-chunky-huggies.jpg",
+      "sha256": "b96837109b45cce557ceb4a528b8f194c7edc430bc0c2c10d1a369e4a214d296"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/green-dream-agate-bead-necklace.jpg",
+      "sha256": "7d1a6c86bf5f9a9b60fe6f4fbdb1d87426f02e8088b37c998a1df9327f3c1e9e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/heart-eyes-smiley-charm.jpg",
+      "sha256": "fa09747fe2493dcc04a33dd10c633e1c05af708acb8464acc254525fcfb6145c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/hot-pink-agate-bead-necklace.jpg",
+      "sha256": "875720908ac10a8f282dcf8bdcfdbe77e67fa6d4e8df90b971ad8328644cde96"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/hot-sauce-charm.jpg",
+      "sha256": "eb15cded8b2c0f36babf44179ca22fcc303e61fa2029a9454e001c7f9600427a"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/ibiza-charm-necklace.jpg",
+      "sha256": "ef05dadf2b1b3132c46ef8e2ec06efdcb5c4281bd2d758ae3ca7642dc6eeeff0"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/ice-cream-charm.jpg",
+      "sha256": "01c818a40c3cd18dfb1d5451fe2e7e8e21df4b4608f1cae54f51f743d4b372e9"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/ice-cream-huggies.jpg",
+      "sha256": "eec839c3e29071a0927b6ef73a7605109ca1c2f4fb3d6334c05e3c1755633641"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-cow-print-engraved-heart.jpg",
+      "sha256": "70466d65739943e6bd21b45bacbec21e5394ad1a04982b99b014343bef152cb2"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-heart-chunky-engraved-eye-huggies.jpg",
+      "sha256": "ececb27a6d4ef987259621cd34f3c2591158b8b541a0a166225838600d689978"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-heart-chunky-engraved-moon-and-star-huggies.jpg",
+      "sha256": "ad7c396901f9424ec441151d142b529f6fe277932ddcac491e973825b410cc2e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-heart-chunky-engraved-palm-huggies.jpg",
+      "sha256": "0674fefeae8b57200707b07e9a0bbd080bf8fc9c858ed011bd9e3605b6a76153"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-heart-chunky-engraved-sun-huggies.jpg",
+      "sha256": "9b5373460c7486c9cf07a9fe0c37158ed5a27474ab7e2cb54ee13ae23c9f0a5b"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-heart-chunky-engraved-wave-huggies.jpg",
+      "sha256": "e2d234b99468d79773710d54c02cd7fd1b36d0117f7ff0e468fded79d8c122d1"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/icon-leopard-engraved-heart.jpg",
+      "sha256": "e5d12b0b809c13fb62f051dd04a635829db3a78ddb20284fab29a370122e8ca4"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/initial-earrings.jpg",
+      "sha256": "a05b71cfb848afb4b1f175ee92e7feeaf0bc3560d11368325331cf885adc8ee0"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/jelly-charm.jpg",
+      "sha256": "b884191ea0cc16ee445610040668bf1476bbe1b1878af1bd51140040e3614cbc"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/large-star-charm.jpg",
+      "sha256": "24d7f4c38bf31f8438aa00743fdb9cd18971fa3f26ff45abc2aa24f625e5f3ab"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/lips-huggie-earrings.jpg",
+      "sha256": "fac410c5bb3aef8578a416bbef2822ae2e4de2081ce7b1000dbd29faf6649c77"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/lovestruck-heart-bolt-huggie-hoop-earrings.jpg",
+      "sha256": "ad78ec1da18799d971b1f4cc5dacde66d0a3a07a506d46f1ed8066940117692a"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/lovestruck-heart-charm.jpg",
+      "sha256": "5f03c05b36c3dfc0c00e28bc8269e2350e42be21e8b03f6f64852e0a157c448c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/lucky-horseshoe-charm.jpg",
+      "sha256": "0c93221e80344272768a84787bd13918ebd1bf7a07b82db7b19e2ee7857a422d"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/lucky-necklace.jpg",
+      "sha256": "6d10dd03c75217f33a8be91493d5cdf2513db0a3ad94688cedc6d65db04ffc2c"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/mini-diamond-charm.jpg",
+      "sha256": "c3078a7d5abfcdd3f00858cc4af7e393d44cc74990cb04ca362ded2ae07ecd8b"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/mini-thunder-bolt-charm.jpg",
+      "sha256": "0434878846cfab6c82f19cf954efe6441b456ac75395ef5af0f5d07c1fc7dd8b"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/moon-charm.jpg",
+      "sha256": "9be14c29602e979eb64e57a6401b47841b0d3129f7730359b7e97ee589c27b48"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/multifunctional-paperclip-chain.jpg",
+      "sha256": "081c7f6edb0b81700a5c6ce0fd4a715577004ab718f95f75ffeb31993d676b41"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/mws_apo_1_g2_glitter-huggie-heart-earrings.jpg",
+      "sha256": "34775ef981a651d3b38990218c4df55d8d6352a43b670300009c0606b9d2457a"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/necklace-heart-charm.jpg",
+      "sha256": "18e6071a29fb660a2bb1622cad05ca92a219c2be7779bac54adf7c89355e96e9"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/party-animal-huggie-earrings.jpg",
+      "sha256": "62403d83bf014ba28626a20a19455835e2a2ade73989a9ee00caf8e2b7d93461"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/pearly-starburst-huggies.jpg",
+      "sha256": "9d136a5014c33d079505c0e41de76e34043cd63abc7f093b9ab2112a497034a1"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/personalised-chunky-heart-huggie-hoops.jpg",
+      "sha256": "50e1eb80555c4d4fe99f3f075c5ef0847e695fd97f67ca12c9551d2f4d143f98"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/personalised-heart-necklace.jpg",
+      "sha256": "a87d5b245dd7cacd95435e3054979129d73d779dd7431c17c509cf42d6ee3426"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/personalised-name-necklace.jpg",
+      "sha256": "59aef70b0dbcde7b6818d0585139982b63a92b94980b94366d8d2cc465b2c14d"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/pink-sun-and-moon-skinny-huggies.jpg",
+      "sha256": "ec0def8a5d4ce6d00c0e87b25487b8975f61bb13a863a94063e59eb4d1ac10a1"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/planet-charm.jpg",
+      "sha256": "14cce948aecb576be300669cc7f9a0aeb9100158fe8ff636cd28e6b319a127c3"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/poodle-charm.jpg",
+      "sha256": "c604513af65eeafb3c71bcf6aa443bbafff88e112253469b5e23330b63b1ba02"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/power-pop-trio-bracelet-set.jpg",
+      "sha256": "0163c96cc83e8ee23571a475a2f186ed1a6b16feb05602865ef6df6c4db0dc81"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/pumpkin-smile-huggies.jpg",
+      "sha256": "b418c73a63dde37e85e1781144588ed5b9e72f56f132135d8886232e93991398"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/rainbow-rush-agate-bead-necklace.jpg",
+      "sha256": "0fe67b5f4fb1610491631ae674e60f192dfc5f1acb0bb618399db28b953c92b7"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/roller-skate-charm.jpg",
+      "sha256": "81239a0d72e75ea4d3a51a4f013fac97ad4cecc192747988fee87c1a91788f45"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/scalloped-heart-smiley-necklace.jpg",
+      "sha256": "0886950a3b2b26e7d114b975a6cc5fb53310be11ba77494e65f9128026bf84f9"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/shrimp-charm.jpg",
+      "sha256": "905d3a0fcde3d3609cc3e4d8d9652fee4b0ad883d29404e568bf952e31301517"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/signature-connector-set-of-two.jpg",
+      "sha256": "791e07749c0d8f4f12fcb5d6989a2b5a6a3ea3d13138b3a77ef0043e8027a8f7"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/silver-sun-and-moon-skinny-huggies.jpg",
+      "sha256": "593061a7b3361e353edb44506f7eb442ed67c3ea2d3feb08b4675024f62e816b"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/skull-huggies.jpg",
+      "sha256": "1c52936863b8c1f3f647120b079bcb664237b6473bcdee012ddda1af4daa2fc7"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/small-star-charm.jpg",
+      "sha256": "3ec5fffa30e57228fee6ca45662070ede7b896d79d7a7618d17b5cc6fc7e63d6"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/smiley-charm.jpg",
+      "sha256": "ec1d4b1b8df92c8f26e9bdb9804eb71b11a7684d3c1eae4aa3a28819244e68b3"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/smiley-flower-huggie-earrings.jpg",
+      "sha256": "309a88eab8f8c9bc02cfee6baa6c1b0a4dc6513d86615d4ea4cc3b93d4a086c5"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/smiley-huggie-earrings.jpg",
+      "sha256": "c7a979cffd602019077a0e56f70d5933746e1c89f2ed1062abfaba7dfedb4c1e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/statement-bridal-earrings-and-necklace-set.jpg",
+      "sha256": "9fea256550d8332df8c58851b2866591193dc467abbd5dab773bdc547f70736f"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/summer-pop-drop-limited-edition-heart-huggie-earrings-set.jpg",
+      "sha256": "6238fc042c8b2977e0db7ec59054ce81db00b855355086a88afb8c8d5c6e216e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/sun-and-moon-skinny-huggies.jpg",
+      "sha256": "627b7cca75ca5edddbfe537ce5e70e41db31c5b3de3faa567c1e315560f62e2d"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/sun-charm.jpg",
+      "sha256": "f74865ee9c6626339ff1460bbbf3fd83dd3a1dd4ac9547f2d9b577097bcf60d5"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/swirl-charm.jpg",
+      "sha256": "811716dbe1ad5ac1bfda3e1715f18e1646a08bdc55580fd6b0bbb8571cf28131"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/tarot-card-huggies.jpg",
+      "sha256": "383c619f7eca42f3bd7ef5d83a67ae2aef9562085606bee4452320ff24d80c8e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/teenie-minis-heart-huggie-earrings-dopamine-drops-after-dark-set-of-four-waterproof-hypoallergenic-everyday-wear.jpg",
+      "sha256": "da2e9aa7985a659a9a32293b5d16228703163ff4e86611b469f3e8a1da2ffd6e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm-hero.jpg",
+      "sha256": "0b2c43c03ae2993998c3cb9b21878b501573a4de89703c03622ffb292a981c27"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-lillita-violet-pink-charm.jpg",
+      "sha256": "bbaa562ff5daee6d6feab58c8e72bbf8da3a0294e197fadf2d71efeb2e442694"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm-hero.jpg",
+      "sha256": "0b2c43c03ae2993998c3cb9b21878b501573a4de89703c03622ffb292a981c27"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-margaux-gold-wedge-charm.jpg",
+      "sha256": "faf736bcad8c23cdab81c8bf92fc62870ea94462f86cc528947a74f811de5374"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm-hero.jpg",
+      "sha256": "0b2c43c03ae2993998c3cb9b21878b501573a4de89703c03622ffb292a981c27"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-margaux-silver-wedge-charm.jpg",
+      "sha256": "064759f45b5daac161fb2d84bca26f4955c851c5201b06fe74e25187b4c43582"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-zia-platino-charm-hero.jpg",
+      "sha256": "b718bf91b1316e2a1502ed3999f73eddd19edf89721a2f311b2b295d903b883d"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-zia-platino-charm.jpg",
+      "sha256": "c148e330010d3f9982dd161cf24f29e62229827fd89f4e5f85e810066efa1c19"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-zia-rainbow-charm-hero.jpg",
+      "sha256": "0b2c43c03ae2993998c3cb9b21878b501573a4de89703c03622ffb292a981c27"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/terry-de-havilland-x-weezy-pop-zia-rainbow-charm.jpg",
+      "sha256": "ae9e69982c9c59533c2b5eca7d7ab333c79739b7f4e8a396bf3d4f0be56ea2a4"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/the-glow-getter-trio-bracelet-set.jpg",
+      "sha256": "17f6354b52ffc681b0a2380d1bec0d61b4975c49e767756cceff06666f8bb1b7"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/the-moon-tarot-necklace.jpg",
+      "sha256": "e58b3e9ae9490a583d3e1cb57c7339cfa0934b0f23ebdc361d14a814db548ae1"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/the-wear-it-your-way-connector-set.jpg",
+      "sha256": "cc0a82fa80b21422a066a102432f62e43bc6b6eac088416a418d2ce58039f758"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/thunder-bolt-charm.jpg",
+      "sha256": "23d55c3ee9cc4e64eb2d10664cbef5246b2a877e9eac4b3a971eeef9d319eb0e"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/tiny-pumpkin-huggies.jpg",
+      "sha256": "e3c64da97bb854858314b7fa0e8c1ab84a531486501f7b5be83356faf9ed2ced"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/wear-it-your-way-clip-clasp-set-of-3.jpg",
+      "sha256": "b87497c907bfebec4d05645f535bfe8602c29b2985a6882a97af843e6363e8c4"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings.jpg",
+      "sha256": "087d81f33621d809ef6a1e7f06491ae989abb12eaf504a5e4df0aba4a9fbad88"
+    },
+    {
+      "path": "WeezyPop/Content/Photos/welcome.jpg",
+      "sha256": "842f925764ec4615cd9d59b60ef67641ffeedd8bd33458345f59e935b0f0d4c5"
+    },
+    {
+      "path": "WeezyPop/Content/Social/arrival-campaign.jpg",
+      "sha256": "9ccaa079812a90983774815db010876b547ce551b62ea297fa60f08d020422d2"
+    },
+    {
+      "path": "WeezyPop/Content/Social/campaign1.jpg",
+      "sha256": "cc1b6e89d23f9b76363914118f29421e206223d66d54572f45f536b9260c716f"
+    },
+    {
+      "path": "WeezyPop/Content/Social/campaign2.jpg",
+      "sha256": "68e86b3494bab455e2f9bebbf65169da6a0ab5f85e0d62425ed09b1418fbed13"
+    },
+    {
+      "path": "WeezyPop/Content/Social/campaign3.jpg",
+      "sha256": "5173758330b58587302132218dc7051447f7159178dc84dc8160e0797c8e0b0b"
+    },
+    {
+      "path": "WeezyPop/Content/Social/campaign4.jpg",
+      "sha256": "b41e53f89c2057baa501fd1c60fa20236b745cc97bcbe25709d2e48f14306431"
+    },
+    {
+      "path": "WeezyPop/Content/Social/campaign5.jpg",
+      "sha256": "5a6d71febe1ddd6a1af67bc1c91dc22080184d7351e89acba9e44c333dc45443"
+    },
+    {
+      "path": "WeezyPop/Content/Social/campaign6.jpg",
+      "sha256": "4cd7fc948d8552a7d9cc13cec249e5d4735c6742ebae55765b2e4d647b81e793"
+    },
+    {
+      "path": "WeezyPop/Content/Social/cherry-charm.jpg",
+      "sha256": "be97ae0508711e59817a4c53f740c93ab9f5bc34bcbc17e334d7dcedf34f8d9c"
+    },
+    {
+      "path": "WeezyPop/Content/Social/cowboy-boot-charm.jpg",
+      "sha256": "0f7701d654c01e240cd7ad2b6650d2c66557b92209376fe7817ce3d224f9d1f6"
+    },
+    {
+      "path": "WeezyPop/Content/Social/planet-charm.jpg",
+      "sha256": "291b59b153c9c133e68f7be5f166b2edc35b4ff03ef3c1feeff92075de763bf0"
+    },
+    {
+      "path": "WeezyPop/Content/Social/set-celestial.jpg",
+      "sha256": "5173758330b58587302132218dc7051447f7159178dc84dc8160e0797c8e0b0b"
+    },
+    {
+      "path": "WeezyPop/Content/Social/set-energy.jpg",
+      "sha256": "68e86b3494bab455e2f9bebbf65169da6a0ab5f85e0d62425ed09b1418fbed13"
+    },
+    {
+      "path": "WeezyPop/Content/Social/set-post.jpg",
+      "sha256": "2e167251f5563777f4627b9e9598aa643e19965aeeb129ee48357ebc5610a5fc"
+    },
+    {
+      "path": "WeezyPop/Content/Social/set-rodeo.jpg",
+      "sha256": "cc1b6e89d23f9b76363914118f29421e206223d66d54572f45f536b9260c716f"
+    },
+    {
+      "path": "WeezyPop/Content/Social/sources.json",
+      "sha256": "a5fffae19ccaf5ae273eaed6169a7d7acc0eecdc6438707c64e221f2c1e99bfe"
+    },
+    {
+      "path": "WeezyPop/Content/Social/sun-charm.jpg",
+      "sha256": "ec4ef9e6828c7fe29d148703329b95b2bc2edb226f3506b092615f299575ca1d"
+    },
+    {
+      "path": "WeezyPop/Content/catalogue.json",
+      "sha256": "4666fbff98036aea4b11b9698da8cb2ec59384594561bc686a4253ecc046b254"
+    },
+    {
+      "path": "WeezyPop/CuratedSets.swift",
+      "sha256": "7b8514ceecdbef77551abf022d20d15573aae7254d49c2e8874e2e69b45c5634"
+    },
+    {
+      "path": "WeezyPop/Design.swift",
+      "sha256": "4c2a571bce34753a3013519e0c71685977049431c850bb5b1643735758f49dc3"
+    },
+    {
+      "path": "WeezyPop/FeedPhotoCarousel.swift",
+      "sha256": "93de17d571a7c7c760ae59b2af8a55e751661f5abc199e54d1fa62102c981fa6"
+    },
+    {
+      "path": "WeezyPop/FriendCodes.swift",
+      "sha256": "3d2548091b099c23b390919c0e075abf52afa258e6faa2ac39eb771768ea1e6e"
+    },
+    {
+      "path": "WeezyPop/Gallery.swift",
+      "sha256": "dcd5f0a47ef05538e141fc367915a6b8abdaafd1d38373f0c8205390129768e2"
+    },
+    {
+      "path": "WeezyPop/GiftActivity.swift",
+      "sha256": "4a83f19504fc3cbe2f4b0f2f3ef11e94c323f34d3bd63019818f04673af06858"
+    },
+    {
+      "path": "WeezyPop/IncomingWishlist.swift",
+      "sha256": "bb72191dd62869316236a41a4d967e6084cfee29fb0e7eebac71d8a409b24f4f"
+    },
+    {
+      "path": "WeezyPop/Info.plist",
+      "sha256": "4d9f37d8a16b3d52ede19218d82f8bc89e0825bd788888d9f7f495863a9e87b0"
+    },
+    {
+      "path": "WeezyPop/LaunchMerchandising.swift",
+      "sha256": "43678cccc7bf80e1718a03ac41ad1dd8eba75e53305511321345c7886e74b32a"
+    },
+    {
+      "path": "WeezyPop/ManualCollection.swift",
+      "sha256": "ba3ca377b8ee8fdbc82a75e8883f4bd4bc236fa1cb4b451a9ffe17b1650e4d66"
+    },
+    {
+      "path": "WeezyPop/Models.swift",
+      "sha256": "f5d4f66e8ea631b8d132bd3ef3aed0d9db874494d8f8976d3a8a9fbebfe10976"
+    },
+    {
+      "path": "WeezyPop/MomentShareV25.swift",
+      "sha256": "ac0f168a87e5694e888075051ffefb1247b3418488528583e9e4655ac57b60e4"
+    },
+    {
+      "path": "WeezyPop/PersonalCodes.swift",
+      "sha256": "39ba182cd0f47e133056e7e60f1f9ded70ccef0f9e27b0f7791bb7ec11d6ed76"
+    },
+    {
+      "path": "WeezyPop/PopArchiveGrouping.swift",
+      "sha256": "91f654a2eec5695db11a838d58359b675487a0db04379ae453364fcd4a96e798"
+    },
+    {
+      "path": "WeezyPop/PopCollectionComponents.swift",
+      "sha256": "a834e2277565c1abd50f145df1cc1c7166065f284b111cec23094946a7d77a7f"
+    },
+    {
+      "path": "WeezyPop/PopCollectionSnap.swift",
+      "sha256": "708bbf71f72fc0091be02f83118e74e4bc3b221354473f0173944737d6e86328"
+    },
+    {
+      "path": "WeezyPop/PopCollectionVisibility.swift",
+      "sha256": "077e4da8efe2bdf8f2d740f10ce1e044c91763a62af52f411711e27f45e36f39"
+    },
+    {
+      "path": "WeezyPop/PopCompleteSetFinishReview.swift",
+      "sha256": "a36e65d337fa02a65526d97648c87dd89dbe8769e4f4e5bd693b360fd192782c"
+    },
+    {
+      "path": "WeezyPop/PopFinishPicker.swift",
+      "sha256": "735254b12c392584815684f7b6aeaca447e8c11418ecc9602d2e50dfc4b3e83a"
+    },
+    {
+      "path": "WeezyPop/PopGiftSentConfirmation.swift",
+      "sha256": "a3f50f1eb05f654c5c80063a1c38fd2cbfc5b350f54820f4d2fba46fc1d0330a"
+    },
+    {
+      "path": "WeezyPop/PopLiteralTypography.swift",
+      "sha256": "c1a404019679cc2b6b125721da4514dd6041e26451d6d7ecef6a2912755e2137"
+    },
+    {
+      "path": "WeezyPop/PopOrders.swift",
+      "sha256": "7558aff122c8426d1d9ce9ab81132dfe8c4e714156d4fdcb12c07c6cf7427865"
+    },
+    {
+      "path": "WeezyPop/PopPhotoGallery.swift",
+      "sha256": "44af8c26252431323e85e60a775b4f0323ca9bda7f2f8398b6f98c99825cf02c"
+    },
+    {
+      "path": "WeezyPop/PopSetMosaic.swift",
+      "sha256": "1dca39a07fe4740d9c09ef2c959c3fe6b662796120afa815a3fc07621284aca2"
+    },
+    {
+      "path": "WeezyPop/PopSets.swift",
+      "sha256": "4600ec97a695f93b8852d2eb1fd1aeef83524471e4b14544f9ecdc4aa3b685e7"
+    },
+    {
+      "path": "WeezyPop/PopShareLanding.swift",
+      "sha256": "f51d5097abb799a3170cb59248ec846003ea2f2852de3427ecb97cbccbc59c8a"
+    },
+    {
+      "path": "WeezyPop/PopSharePublisher.swift",
+      "sha256": "21cefc0e0902428903dac2d3a44fdf4c39983580271a8c5cd156e70f0b4cf506"
+    },
+    {
+      "path": "WeezyPop/PopSheet.swift",
+      "sha256": "0b18680c252ec7063fb4137b5574f43d6a80f93a6ad7524337c554b471fee403"
+    },
+    {
+      "path": "WeezyPop/PopShop38.swift",
+      "sha256": "1a2b1545ebf8bdd26d7d4b142f1570d494c443beeaedd52fd49e12f317dd6054"
+    },
+    {
+      "path": "WeezyPop/PopStudioLiteralComponents.swift",
+      "sha256": "2f16bdede6289f26bcb20d4acadde3ce3ac066a15a316a03302b195f15127108"
+    },
+    {
+      "path": "WeezyPop/PopStudioTheme.swift",
+      "sha256": "1eb1c92d992dd6e64506185c00bc89471a08d2ab34149c1e465a3af81249c429"
+    },
+    {
+      "path": "WeezyPop/PopTerryCollection.swift",
+      "sha256": "681884e9d815fcdba4c5855d0a6312d086ebb0d7b85562166af8893aeb1d0c8d"
+    },
+    {
+      "path": "WeezyPop/PopWishlistPrivacy.swift",
+      "sha256": "259643ec5ac2674329751ba787cc145b267246d76b851a41f8225ec82af948ab"
+    },
+    {
+      "path": "WeezyPop/PrivacyInfo.xcprivacy",
+      "sha256": "2d1f19b3b51774b48f5069a59678aed366d6b0e551c3a4edc236c8db398fda84"
+    },
+    {
+      "path": "WeezyPop/ProductCopy.swift",
+      "sha256": "594d4b197ccf479ee87e008b4477583352ddb44eaf1b789911181219bacdb293"
+    },
+    {
+      "path": "WeezyPop/ProductDetail.swift",
+      "sha256": "1e8d64b6c9e0d708fcd53e4a4fbae9107de68e70c1d1f299f2f65b34a3809a6b"
+    },
+    {
+      "path": "WeezyPop/PublicCatalogueClient.swift",
+      "sha256": "ab8cb5429d4fd40b728edfbcb66dc3b36e45c8537afdd3d70c43651db85676ff"
+    },
+    {
+      "path": "WeezyPop/PurchaseRegistration.swift",
+      "sha256": "b22ab050bdcf47d68467a96c7e40bef3b25e29eb6953f6cbae5ffaf14d39faa0"
+    },
+    {
+      "path": "WeezyPop/ShopifyAccount.swift",
+      "sha256": "e4829e47a10b00f47e18bfd4568c451843b07754bcc0343c253a7636e87350af"
+    },
+    {
+      "path": "WeezyPop/Shopping.swift",
+      "sha256": "9d24c8fe017d3c0226c07bdbaeb1289ac5ef66da08b703b571b4c0eb3b427910"
+    },
+    {
+      "path": "WeezyPop/SocialArrival.swift",
+      "sha256": "aa176247088b42a99d9513a48ccd69f4104244bde053c6c97915fd2b7b653e6f"
+    },
+    {
+      "path": "WeezyPop/SocialBasket.swift",
+      "sha256": "30f569bbef6f4665f481ae4940e94f3a6722f159db407b57e2f8ebe30e50f45c"
+    },
+    {
+      "path": "WeezyPop/SocialDesign.swift",
+      "sha256": "6072fe7d8f7e09d5f50c33f0d72a47298af7c09735bf09a48470055f32c7a2da"
+    },
+    {
+      "path": "WeezyPop/SocialFeed.swift",
+      "sha256": "bb0f6b6121a166515913cbc420f38bb6bc995d2055d4601579be80c0db5e86dc"
+    },
+    {
+      "path": "WeezyPop/SocialPersonal.swift",
+      "sha256": "0cfb60335403aea548c87892552670682aa2c451efec7e030e967fe82ddd0d45"
+    },
+    {
+      "path": "WeezyPop/SocialSheets.swift",
+      "sha256": "a419a0de4796ce855c319a095eb9a893ac8b9c5c4c579a9b494464f6a3a0c158"
+    },
+    {
+      "path": "WeezyPop/SocialStory.swift",
+      "sha256": "67ee9d754ae08b8e90838c7bdee1a327660f56fce636777b56664fc4f0a02ce4"
+    },
+    {
+      "path": "WeezyPop/Store.swift",
+      "sha256": "24989a1b17f0c04b7ae2edefe5685730692affef18afbb817e60d4550f9b9cc0"
+    },
+    {
+      "path": "WeezyPop/WeezyDiagnostics.swift",
+      "sha256": "b6c6eaed5d71c995ee31909dfab5aeff7363f4519985e4885d1f89f12528a42a"
+    },
+    {
+      "path": "WeezyPop/WeezyPop.entitlements",
+      "sha256": "9fc8290af962bd7debc0d6f4ab3c074a3c9b1b08f0931ceb354f96ea11600c13"
+    },
+    {
+      "path": "WeezyPop/WeezyPopApp.swift",
+      "sha256": "b3620f132b4db872b2342fcc4616c3215cf7747dce30049988e4df125c91489b"
+    },
+    {
+      "path": "WeezyPop/WeezySetsInteractionFixture.swift",
+      "sha256": "b7d9af23e01ccd3a5a009dc31f338e7ca201d9402ad49930e022606663b8b7f7"
+    },
+    {
+      "path": "WeezyPop/WeezyUITestConfiguration.swift",
+      "sha256": "738cccfe8f90befd2c84c9a4bbe934bfee2219e61342ac4a757ba3726e71ed64"
+    },
+    {
+      "path": "WeezyPop/WishlistDesign.swift",
+      "sha256": "d30e1c6d9446530833d73538aeaffdca20bca9f543c6e668927f78beb044d6e8"
+    },
+    {
+      "path": "WeezyPop/WishlistSharing.swift",
+      "sha256": "1838f5a9c9b05d6b51e5bf7bfc7e494eda36f7303c9b91de767323244717d397"
+    },
+    {
+      "path": "WeezyPop.xcodeproj/project.pbxproj",
+      "sha256": "6a23a9707813b641a5ba0f4462619a0da1d412b784d162e612fb44a43e4e6eb0"
+    },
+    {
+      "path": "WeezyPopTests/AccountScopeTests.swift",
+      "sha256": "04114fa811efbf327a4ac93eaadc5ba5171bb714a89a99ed1076cf0c34338835"
+    },
+    {
+      "path": "WeezyPopTests/AchievementsV25Tests.swift",
+      "sha256": "1d61ebb4b7346a19d3e35cae05d97ffd657e593249d5e6220de1efefc8b153b8"
+    },
+    {
+      "path": "WeezyPopTests/ArchiveTests.swift",
+      "sha256": "bf081ebd2d69e4e60e42864a4c5ef3f3ac2a9df9a3f3296f996d459067cb3026"
+    },
+    {
+      "path": "WeezyPopTests/BasketV26Tests.swift",
+      "sha256": "47efd8653bcf99050b53fcc3786397aa8b737393caf066d2755a82426ce32203"
+    },
+    {
+      "path": "WeezyPopTests/BestieViewsV25Tests.swift",
+      "sha256": "5139a60bd3322ec1bbf718284325258c967fbad49453d363bfbcee54fb5b0a61"
+    },
+    {
+      "path": "WeezyPopTests/BestieVisualV25Tests.swift",
+      "sha256": "2f8847687948b03546000f46bab95b6019b2f061c207561163f6051aa203e7ca"
+    },
+    {
+      "path": "WeezyPopTests/Build33ArchiveTests.swift",
+      "sha256": "ca1ba1a6701bc3f909baa8260a237e27afe9a1f1b29cec845155410d3d00f55e"
+    },
+    {
+      "path": "WeezyPopTests/CollectionDesignTests.swift",
+      "sha256": "d3886bcf25ac67f7e9aa9063f942ace3ebe6794998f0124726264a2127c37a2d"
+    },
+    {
+      "path": "WeezyPopTests/CollectionFixtures.swift",
+      "sha256": "0983e1630bea7ec39a7aab6a765ba7c15ad39b9bb0000a9d40da7389895668a9"
+    },
+    {
+      "path": "WeezyPopTests/DesignAgentReviewSupport.swift",
+      "sha256": "a62d2ec00d778d9dd00066171ac2192f22bda52df9d4c9d0df85fb609f79812d"
+    },
+    {
+      "path": "WeezyPopTests/DesignReviewCaptureV26Tests.swift",
+      "sha256": "b7343ef9b9a2c04cbca230bd07fc512ee0bc631f84b3127f948ddb906022b8d5"
+    },
+    {
+      "path": "WeezyPopTests/FeedPhotoCarouselTests.swift",
+      "sha256": "e4dea828c24f324ccbb87c34ea1cb3f69e9f9b0425f1a3dd93047d78d712f711"
+    },
+    {
+      "path": "WeezyPopTests/Fixtures/app-metadata-current.json",
+      "sha256": "5923a89a60b25ead2215909d5cc26b1c58bd25d2880685719cb081e04533d1c2"
+    },
+    {
+      "path": "WeezyPopTests/Fixtures/launch-story-source.json",
+      "sha256": "dc7b551fff83fec3d905942c076c45f96fd23f7256408e1034cdf17d2afa702f"
+    },
+    {
+      "path": "WeezyPopTests/InvitationTests.swift",
+      "sha256": "96b28355b270e77bf14d7905e840005ad517a11e6da04445d791d5c59f331760"
+    },
+    {
+      "path": "WeezyPopTests/LaunchJobsTests.swift",
+      "sha256": "1cd2316f57c615bbacb23173184b1a649c177b76178d5211c16198b9e1428087"
+    },
+    {
+      "path": "WeezyPopTests/LaunchRecoveryTests.swift",
+      "sha256": "4b0055b8b376b7e6883afc81a787135171929a677077245265117f88e19b521e"
+    },
+    {
+      "path": "WeezyPopTests/PersonalCodeTests.swift",
+      "sha256": "430a814322c1415449656eff9dd3a5cffb6dfed17060175e094c6a26b4a3ecdc"
+    },
+    {
+      "path": "WeezyPopTests/PopBasketSetScopeTests.swift",
+      "sha256": "fc246ad06fdfc8ec4787957a899313fa21fb1e0953df21be299022817ee66b0f"
+    },
+    {
+      "path": "WeezyPopTests/PopButtonEnvironmentTests.swift",
+      "sha256": "97a8ffbb5395353ec4e4ce3700b8109ef8bc8fc38a2a051828a1a6c09611a1f3"
+    },
+    {
+      "path": "WeezyPopTests/PopCollectingPrivacyTests.swift",
+      "sha256": "25085f481a0495b201d63ebeacd293dd1ef7c9e9d358e689c5e8ce4a8235eb98"
+    },
+    {
+      "path": "WeezyPopTests/PopCollectionSnapTests.swift",
+      "sha256": "b10ea49d316f0bbaf7e3f297e251a356fd701d1721d318f54558f9d89e58cd4a"
+    },
+    {
+      "path": "WeezyPopTests/PopFinishOptionsTests.swift",
+      "sha256": "df4215f984db9c7b8febb637aef4ea52d8f8422ca081b5322448e82457c13901"
+    },
+    {
+      "path": "WeezyPopTests/PopGiftSentConfirmationTests.swift",
+      "sha256": "3871c6864fa23d0dea4077a94a5ff64f7241ab968b9c85d988a68102774ef47d"
+    },
+    {
+      "path": "WeezyPopTests/PopOrderPresentationTests.swift",
+      "sha256": "cd992c76618bcda828a36e8c8398f48a6c23e24cca2cb65a71ba9c18537abce1"
+    },
+    {
+      "path": "WeezyPopTests/PopReview36RulesTests.swift",
+      "sha256": "193beab0ea7acf81c1429f817b9052ddb33584f88c527d0fbd2982ffdfc27c17"
+    },
+    {
+      "path": "WeezyPopTests/PopSetAvailablePurchaseTests.swift",
+      "sha256": "a5dc2c84b4e7580601e16884fe77b0e23b6d9f5c7be20413f0c7093bf71f4585"
+    },
+    {
+      "path": "WeezyPopTests/PopSetBasketProgressTests.swift",
+      "sha256": "aced0c0950e088235667b52a03399b8f81fe3bfbf3ff6632265346a7cd3d28e1"
+    },
+    {
+      "path": "WeezyPopTests/PopShop38RulesTests.swift",
+      "sha256": "0c47273de1b3c74f4f3028edf07a1a92e5f84c36781b526afcbbedb36c2f1d8e"
+    },
+    {
+      "path": "WeezyPopTests/PopStudioCaptureTests.swift",
+      "sha256": "7b621c9b71413d9db1fe88357aaa9fce59f2dfdc7d5d128bd0249f5f0f9048e7"
+    },
+    {
+      "path": "WeezyPopTests/PopStudioLiteralSocialFixtures.swift",
+      "sha256": "1175e8c3d4b620f00a89ad1b03c19391a41418317664e24e96f763c19d862c72"
+    },
+    {
+      "path": "WeezyPopTests/PopWebLinkTests.swift",
+      "sha256": "2217134745724c2089b10e8ee7f111be05d8084395750ae8e418df2aad5ada01"
+    },
+    {
+      "path": "WeezyPopTests/ProductCopyTests.swift",
+      "sha256": "ed56d7a8be524ee3192146f40a14ef02d8a663e26d8c5343166e57b6c938cda2"
+    },
+    {
+      "path": "WeezyPopTests/ProductPhotoRequestTests.swift",
+      "sha256": "626d8b843a1d1930b73ca8065af7214cc4605b7bb9be71e1e662a316bf954e6d"
+    },
+    {
+      "path": "WeezyPopTests/PublicCatalogueClientTests.swift",
+      "sha256": "b3f40a867d8d065bcb0ca88b27651bcd5d446e984fa57ce529f877999e9412de"
+    },
+    {
+      "path": "WeezyPopTests/ShopifyAccountTests.swift",
+      "sha256": "0f27144998ea5c210a10a9df9e6f0d6a52bf26fbe52b579bf05bb9ecaedba40b"
+    },
+    {
+      "path": "WeezyPopTests/ShopifyCollectionTests.swift",
+      "sha256": "332631d8501d232373b83ec98858319bd6874847de5f14c366cdbd3de6fc6790"
+    },
+    {
+      "path": "WeezyPopTests/ShoppingTests.swift",
+      "sha256": "d204b37a71783c531dad94e240f61ca30b8b54716460d1db2386c541d19241cc"
+    },
+    {
+      "path": "WeezyPopTests/SocialArrivalV25Tests.swift",
+      "sha256": "61469ff9cb3965c152602984db642701b049f9db1f28b51b9632441c17e04b91"
+    },
+    {
+      "path": "WeezyPopTests/SocialFeedTests.swift",
+      "sha256": "7f0625e11bdd9e48a3cd570c8654943dd6c875801c19a5028914da29e247f6f3"
+    },
+    {
+      "path": "WeezyPopTests/SocialStoryTests.swift",
+      "sha256": "802b20272c877323416ea74b6ce692ae2ed820d7b99ec96b232c3fdf7d7351c1"
+    },
+    {
+      "path": "WeezyPopTests/UserJourneyHTTPTests.swift",
+      "sha256": "c7e289594159086e9107f37125718e09eb1090f2331eebe08f561ce0b6cf20c1"
+    },
+    {
+      "path": "WeezyPopTests/WishlistAccountPrivacyTests.swift",
+      "sha256": "6d7c881b9d9f53310515b1905c7da13733af0c76e4828541e81c02560619ff5f"
+    },
+    {
+      "path": "WeezyPopTests/WishlistLiveInvitationTests.swift",
+      "sha256": "4e2702a8227b4c52ce26b1fc989fe8cbb61866ea8fccaff3212f055ced2ccf49"
+    },
+    {
+      "path": "WeezyPopUITests/Build33SetsUITests.swift",
+      "sha256": "0670a44b673b384e5d95363690ce991ca0dd031cda1b862925b4aaec7ccee119"
+    },
+    {
+      "path": "WeezyPopUITests/LaunchReadinessUITests.swift",
+      "sha256": "35dd74d1c4edd3eef9cb5fc644d43add390f2f0d0ffdd2c617c3e7ad1439c5f2"
+    },
+    {
+      "path": "WeezyPopUITests/MigrationUITests.swift",
+      "sha256": "3fe434b538318380b22e8713380d3bbcdd4500f4f3f2e2a7dd28965944c8f0a1"
+    },
+    {
+      "path": "WeezyPopUITests/Shop38UITests.swift",
+      "sha256": "464005c6d2c828171d4b90e9d34bfa72b55036cb46b9a3a2b0f1ee366b517d15"
+    },
+    {
+      "path": "WeezyPopUITests/TabViewportUITests.swift",
+      "sha256": "337ed9682d1964b70ead3ba810c4e532f52783a10be10fd257367337a3fe0aed"
+    },
+    {
+      "path": "WeezyPopUITests/VariantPhotographyUITests.swift",
+      "sha256": "37d42f4ada9c04db5bf29353152b76bdbde80c1e3217c4d09c4c087e72df2891"
+    },
+    {
+      "path": "project.yml",
+      "sha256": "9ea63cf9a304ad6ad286a0d71f7304ad7749c69b254b13d0d0e58b3e8202bda3"
+    }
+  ]
+}

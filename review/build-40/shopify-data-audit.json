@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-09T05:20:20.257Z",
+  "adminProducts": 115,
+  "publicFeedEntries": 116,
+  "stories": 113,
+  "imageOrders": 115,
+  "variantAssignments": 48,
+  "hiddenProducts": 45,
+  "mismatches": [],
+  "visibleSilverVariants": 81,
+  "visibleSilverVariantsWithExactPhoto": 59,
+  "readOnly": true,
+  "shopifyMutations": 0,
+  "websiteMutations": 0,
+  "existingStoryField": "charm_club.app_images.appStory",
+  "serviceCacheMaximumSeconds": 300,
+  "internalHelpersExcluded": [
+    "__customized-items",
+    "mws_apo_1_g2_glitter-huggie-heart-earrings"
+  ],
+  "internalHelperNote": "Published Shopify custom-options system helpers stay hidden; the legacy photo-only fallback for __customized-items is not app editorial data.",
+  "appOrderMatchesShopify": true,
+  "enabledSetCount": 9,
+  "setDefinitionMismatches": [],
+  "categoryMismatches": [],
+  "customOrderConfigured": true
+}

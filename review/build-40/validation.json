@@ -1,0 +1,17 @@
+{
+  "build": 40,
+  "generatedAt": "2026-10-09T06:11:09.984113+00:00",
+  "inventoryScreens": 2,
+  "capturedInventoryScreens": 2,
+  "images": 6,
+  "additionalContinuations": 4,
+  "notCaptured": [],
+  "unexpectedMissing": [],
+  "imageFormat": "JPEG",
+  "jpegQuality": 80,
+  "pixelWidth": 1179,
+  "pixelHeight": 2556,
+  "batches": [
+    6
+  ]
+}
