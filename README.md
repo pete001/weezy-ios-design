@@ -1,8 +1,8 @@
 # Weezy Pop · public design review
 
-**Current handover:** [Review43](review/build-43/README.md) · [Fix responses](review/build-43/RESPONSE.md) · [Full-screen gallery](review/build-43/index.html).
+**Current handover:** [Review44 follow-ups](review/build-44/README.md) · [App Store asset review](review/app-store/README.md) · [Follow-up gallery](review/build-44/index.html) · [Store gallery](review/app-store/index.html).
 
-Final handoff14 implements F107–118 and fixes whole-card Shop paging. Review43 contains54 new JPEGs, a Still PNG, normal/Reduce Motion earn recordings, the4-second Moving export, manifest, change map, import batches and test evidence. Earlier approved screenshots stay in their original folders; superseded images are identified explicitly.
+Local candidate44 addresses handoff18 F119–122. Nine visible sets have distinct app-only badge art, and21 fresh changed-screen JPEGs include largest text/continuations. Seven Release-native App Store composites and three draft preview videos await design acceptance before Apple upload. Preview shot-list differences and physical acceptance boundaries are explicit in the responses. Earlier approved reviews stay immutable.
 
 **Release status:** Version1.0/build43 passed Apple processing and is available to Weezy Pop Internal. External TestFlight review is approved and build43 is available to Lou & Nat. The required privacy additions are published and verified. [TestFlight](https://testflight.apple.com/join/5m9QyaSa) · [TESTS.json](review/build-43/TESTS.json) · [RELEASE.json](review/build-43/RELEASE.json).
 

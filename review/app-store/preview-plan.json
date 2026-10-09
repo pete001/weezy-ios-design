@@ -1,0 +1,109 @@
+[
+  {
+    "output": "preview-1-snap-the-whole-set.mp4",
+    "poster": 1,
+    "segments": [
+      {
+        "file": "preview1-set-journey.mp4",
+        "start": 0,
+        "seconds": 4
+      },
+      {
+        "file": "preview1-set-journey.mp4",
+        "start": 4,
+        "seconds": 4
+      },
+      {
+        "file": "preview1-set-journey.mp4",
+        "start": 8,
+        "seconds": 10
+      },
+      {
+        "file": "end-card-886x1920.png",
+        "start": 0,
+        "seconds": 2,
+        "still": true
+      }
+    ],
+    "status": "draft",
+    "requiresDesignerAcceptance": true
+  },
+  {
+    "output": "preview-2-drop-a-hint.mp4",
+    "poster": 12,
+    "segments": [
+      {
+        "file": "preview2-wishlist.mp4",
+        "start": 0,
+        "seconds": 3
+      },
+      {
+        "file": "preview2-wishlist.mp4",
+        "start": 17,
+        "seconds": 2.4
+      },
+      {
+        "file": "preview2-surprise.mp4",
+        "start": 0,
+        "seconds": 3.7
+      },
+      {
+        "file": "preview2-ready.mp4",
+        "start": 0,
+        "seconds": 4.7
+      },
+      {
+        "file": "preview2-reveal.mp4",
+        "start": 0,
+        "seconds": 5.8
+      },
+      {
+        "file": "preview2-collection.mp4",
+        "start": 0,
+        "seconds": 3.7
+      },
+      {
+        "file": "end-card-886x1920.png",
+        "start": 0,
+        "seconds": 1.7,
+        "still": true
+      }
+    ],
+    "status": "draft",
+    "requiresDesignerAcceptance": true
+  },
+  {
+    "output": "preview-3-watch-your-stack-grow.mp4",
+    "poster": 11,
+    "segments": [
+      {
+        "file": "preview3-collection.mp4",
+        "start": 0,
+        "seconds": 4.5
+      },
+      {
+        "file": "preview3-earn.mp4",
+        "start": 0,
+        "seconds": 6.8
+      },
+      {
+        "file": "preview3-shelf.mp4",
+        "start": 0,
+        "seconds": 3.8
+      },
+      {
+        "file": "preview3-share.mp4",
+        "start": 0,
+        "seconds": 3.6
+      },
+      {
+        "file": "end-card-886x1920.png",
+        "start": 0,
+        "seconds": 1.3,
+        "still": true
+      }
+    ],
+    "status": "draft",
+    "requiresDesignerAcceptance": true
+  }
+]

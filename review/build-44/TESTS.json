@@ -1,0 +1,208 @@
+{
+  "build": 44,
+  "candidateOnly": true,
+  "runs": [
+    {
+      "evidence": "followups-continuations44-tests.json",
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 28384,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureFollowups44()",
+            "name": "testCaptureFollowups44()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 16000
+          },
+          {
+            "identifier": "SettingsPresentationTests/testAlertStateNeverClaimsOnWithoutPermissionAndEnabledPreference()",
+            "name": "testAlertStateNeverClaimsOnWithoutPermissionAndEnabledPreference()",
+            "className": "SettingsPresentationTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "SettingsPresentationTests/testEmailAddsOnlyNaturalBreaksAndKeepsActualAddressUnchanged()",
+            "name": "testEmailAddsOnlyNaturalBreaksAndKeepsActualAddressUnchanged()",
+            "className": "SettingsPresentationTests",
+            "status": "passed"
+          }
+        ]
+      },
+      "success": true,
+      "sha256": "85da9b0849cd707d9d9fb137778f1c6b56eca02b891a3b010e2285637390a48f"
+    },
+    {
+      "evidence": "store-capture-first-summary.json",
+      "tests": {
+        "totalTestCount": 1,
+        "passedTests": 1,
+        "failedTests": 0,
+        "skippedTests": 0
+      },
+      "success": true,
+      "sha256": "c8768644f620ec569bcbc1b55a65dd47ef2068fb888335bd333119ac02a05f4c"
+    },
+    {
+      "evidence": "store-snap-tests.json",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 136933,
+        "cases": [
+          {
+            "identifier": "StoreCaptureTests/testCaptureStorePack44()",
+            "name": "testCaptureStorePack44()",
+            "className": "StoreCaptureTests",
+            "status": "passed",
+            "durationMs": 120000
+          }
+        ]
+      },
+      "success": true,
+      "sha256": "44c41f3dc9050c1d1202bd80fdb02956cf78449d359fc51f75927917eb47c6d8"
+    },
+    {
+      "evidence": "preview-first-tests.json",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 267437,
+        "cases": [
+          {
+            "identifier": "StoreCaptureTests/testRecordStorePreviews44()",
+            "name": "testRecordStorePreviews44()",
+            "className": "StoreCaptureTests",
+            "status": "passed",
+            "durationMs": 256000
+          }
+        ]
+      },
+      "success": true,
+      "sha256": "b02aaded460b28eec4d12ef33071e9d87df27787714f8afcd2c8d1ffe3134a8d"
+    },
+    {
+      "evidence": "preview-final-tests.json",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 107840,
+        "cases": [
+          {
+            "identifier": "StoreCaptureTests/testRecordStorePreviews44()",
+            "name": "testRecordStorePreviews44()",
+            "className": "StoreCaptureTests",
+            "status": "passed",
+            "durationMs": 96000
+          }
+        ]
+      },
+      "success": true,
+      "sha256": "74e4c04d06b02c81ac266641ecbc62079855ab6fb788de47e5abf300a29f0bb1"
+    },
+    {
+      "evidence": "preview-retake-timeout-tests.json",
+      "tests": {
+        "total": 1,
+        "passed": 0,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 244292,
+        "cases": [
+          {
+            "identifier": "StoreCaptureTests/testRecordStorePreviews44()",
+            "name": "testRecordStorePreviews44()",
+            "className": "StoreCaptureTests",
+            "status": "failed",
+            "durationMs": 226000,
+            "message": "failed - Recording not acknowledged: preview2-wishlist"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "StoreCaptureTests/testRecordStorePreviews44()",
+            "message": "failed - Recording not acknowledged: preview2-wishlist"
+          }
+        ]
+      },
+      "success": false,
+      "sha256": "91d38866c5fffc7781a034d5ae534d3180a742219c18f5914ded28d3e839cfa7"
+    }
+  ],
+  "badgeAuthoring": {
+    "enabledSets": 9,
+    "fields": [
+      "badge_hero_handle",
+      "badge_color"
+    ],
+    "verified": "Exact Shopify compare-digest/readback and refreshed public catalogue",
+    "websiteChanged": false
+  },
+  "previewFormats": [
+    {
+      "audioTracks": 0,
+      "bytes": 6176179,
+      "codec": "avc1",
+      "file": "preview-1-snap-the-whole-set.mp4",
+      "fps": 30,
+      "height": 1920,
+      "poster": "preview-1-snap-the-whole-set.poster.png",
+      "posterSeconds": 1,
+      "seconds": 20,
+      "width": 886
+    },
+    {
+      "audioTracks": 0,
+      "bytes": 4854776,
+      "codec": "avc1",
+      "file": "preview-2-drop-a-hint.mp4",
+      "fps": 30,
+      "height": 1920,
+      "poster": "preview-2-drop-a-hint.poster.png",
+      "posterSeconds": 12,
+      "seconds": 25,
+      "width": 886
+    },
+    {
+      "audioTracks": 0,
+      "bytes": 4451988,
+      "codec": "avc1",
+      "file": "preview-3-watch-your-stack-grow.mp4",
+      "fps": 29.999998092651367,
+      "height": 1920,
+      "poster": "preview-3-watch-your-stack-grow.poster.png",
+      "posterSeconds": 11,
+      "seconds": 20,
+      "width": 886
+    }
+  ],
+  "boundaries": [
+    "Isolated identity/data; no live login/payment/customer grant/notification",
+    "Content captures do not prove shipping AppRoot",
+    "Manual recording timeout preserved and successful retake separate",
+    "Initial Release target compile failure preserved privately; dedicated capture-only scheme fixed it",
+    "APNs, real-phone purchase/order sync, VoiceOver, haptics, F50 Safari and accessibility audit remain separate",
+    "No44 binary or store assets uploaded to Apple"
+  ],
+  "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e",
+  "gallerySmoke": {
+    "fullscreen": "passed",
+    "localNoteRoundtrip": "passed",
+    "exportNotes": "passed; actual build-44-notes.json downloaded and parsed",
+    "mediaMetadata": "20/25/20 seconds,886×1920 confirmed in browser and AVFoundation"
+  }
+}

@@ -1,0 +1,1836 @@
+[
+  {
+    "id": "B-05-badge-catalogue",
+    "build": 44,
+    "file": "B-05-badge-catalogue.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-05-badge-catalogue-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "da1f867806565aa6a77b21939ca01213e93cb1f22b6a0d08667748b84e268dce",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "B-05-badge-catalogue-more",
+    "build": 44,
+    "file": "B-05-badge-catalogue-more.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-05-badge-catalogue-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "6176b83bc339e50fa1f5ccb14bb08f8f41695e48395b9120e1f904f6c7ec3877",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "B-05-badge-catalogue",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "B-01-badge-shelf",
+    "build": 44,
+    "file": "B-01-badge-shelf.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-01-badge-shelf-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "da1f867806565aa6a77b21939ca01213e93cb1f22b6a0d08667748b84e268dce",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "B-01-badge-shelf-more",
+    "build": 44,
+    "file": "B-01-badge-shelf-more.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-01-badge-shelf-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "6176b83bc339e50fa1f5ccb14bb08f8f41695e48395b9120e1f904f6c7ec3877",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "B-01-badge-shelf",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "B-06-badge-detail",
+    "build": 44,
+    "file": "B-06-badge-detail.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-06-badge-detail-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "d186e1c0b969de4287b70dd1a2692e066f1397255d8fe5155f75ddb65054c17e",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "B-06-badge-detail-more",
+    "build": 44,
+    "file": "B-06-badge-detail-more.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-06-badge-detail-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "45516f6e8668f8b37b9c172f4fa43699875b85747dace168306fb0bbbb8c901f",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "B-06-badge-detail",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings",
+    "build": 44,
+    "file": "G-24-settings.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "9be9e19b52a8146c976a7b0815811e6655aee48e73891d908026acf99eb7e1a8",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 44,
+    "file": "G-24-settings-more.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "b22e056c10f962ad46c1692e3f5a572e42c17b61854ca2db8c48b36e010b866d",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-more-2",
+    "build": 44,
+    "file": "G-24-settings-more-2.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-normal-scroll-2.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "95d674c947691d4f22d376551649efa5d89de858bd3c23152695bae69f5d9a4e",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest",
+    "build": 44,
+    "file": "G-24-settings-largest.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "aab2023c1b3b14d9ba75c8df6f4c1cd103c389d160baf3e5392bc043f7544f1b",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest-more",
+    "build": 44,
+    "file": "G-24-settings-largest-more.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "6f4b9100ca0fbbb9d164a0c155f836dde72279a36af30ab081c4abb5282f2361",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest-more-2",
+    "build": 44,
+    "file": "G-24-settings-largest-more-2.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-2.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "6e2d0ac4b3b280d2f85d0695d476ff2c0c974188d4aa5bdd7ec0e777fa4cd11e",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest-more-3",
+    "build": 44,
+    "file": "G-24-settings-largest-more-3.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-3.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "aa80c1cebff1d74a2a71bc8a94b7e3cb3097f95839151a1dbd26505fd27e2724",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest-more-4",
+    "build": 44,
+    "file": "G-24-settings-largest-more-4.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-4.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "222e419e552b9e80141dbbbf7e4a473822cf5afa45d776ffc90c113da9486b75",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest-more-5",
+    "build": 44,
+    "file": "G-24-settings-largest-more-5.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-5.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "88cc55e96532dbba2978b4af95e29a55ef3cc476a8352a22c0f5a1b0bfcf0db1",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "G-24-settings-largest-more-6",
+    "build": 44,
+    "file": "G-24-settings-largest-more-6.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-6.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "01b745029384c5e1f17b418efc2584f655d59178591ce97d758f7c1e8504808b",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "G-24-settings-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "K-01-basket-full",
+    "build": 44,
+    "file": "K-01-basket-full.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "7c27c27d257c5f7af22173f7c9e7377ed14b060ed1d5d64b9e041bc6dbd4615e",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "K-01-basket-full-largest",
+    "build": 44,
+    "file": "K-01-basket-full-largest.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "f673dd07cf173f7baa1bbcddbca491b75f8c0d47deebaa68dce13f4ea62a380d",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "K-01-basket-full-largest-more",
+    "build": 44,
+    "file": "K-01-basket-full-largest-more.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "39e57e6500118765a4e781fb05a9b7cbb48aea35115083d97dfb91065fb6063c",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "K-01-basket-full-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "K-01-basket-full-largest-more-2",
+    "build": 44,
+    "file": "K-01-basket-full-largest-more-2.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-2.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "9d4f8ae4d19e91c1bbc23a5d18cda93ccfde1fac419629fd37a7cf36ffa401ae",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "K-01-basket-full-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "K-01-basket-full-largest-more-3",
+    "build": 44,
+    "file": "K-01-basket-full-largest-more-3.jpg",
+    "device": "iPhone 16 Pro simulator / iOS27; physical402×874pt, controlled393×852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content",
+    "sourceKind": "isolated production-content render, not shipping AppRoot or live service evidence",
+    "fixture": "Build44 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-3.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "bfe1354e98eb2f57448115e05fc8576647d5a32402986548fb3c8f9f855bd42e",
+    "releaseStatus": "Local candidate44, not Apple uploaded; build43 remains TestFlight release",
+    "parentId": "K-01-basket-full-largest",
+    "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "P-01-profile",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/P-01-profile.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "P-01-profile-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/P-01-profile-more.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "P-01-profile-pull",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/P-01-profile-pull.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SR-01-search-empty",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-search-empty.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SR-01-search-empty-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-search-empty-more.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SR-01-search-empty-no-recents",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-search-empty-no-recents.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-06-badge-detail-locked",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-06-badge-detail-locked.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-06-badge-detail-locked-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-06-badge-detail-locked-more.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-02-badge-unlocked",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-02-badge-unlocked.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-03-share-card.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-more",
+    "build": 44,
+    "superseded": true,
+    "notCaptured": true,
+    "reason": "New44 continuation sequence replaces the43 sequence for this changed screen; do not import the old endpoint."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-4",
+    "build": 44,
+    "superseded": true,
+    "notCaptured": true,
+    "reason": "New44 continuation sequence replaces the43 sequence for this changed screen; do not import the old endpoint."
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more-2.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more-3.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more-4.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14C-my-charms-everything-else",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14C-my-charms-everything-else.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14B-my-charms-sets-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-14B-my-charms-sets-largest.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-04-set-destination",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-04-set-destination.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-04-badge-web-page.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "APP-diagnostics-privacy",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/APP-diagnostics-privacy.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "APP-diagnostics-privacy-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/APP-diagnostics-privacy-more.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-03-badge-still.png",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-03-badge-moving.mp4",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "K-01-shipping-full-screen",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/K-01-shipping-full-screen.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-24-shipping-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-24-shipping-largest.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SR-01-shipping-recents-keyboard",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-shipping-recents-keyboard.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SR-01-shipping-empty-keyboard",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-shipping-empty-keyboard.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-keyboard",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-25B-search-typing-keyboard.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25A-search-focus-keyboard",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/G-25A-search-focus-keyboard.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "Shop39-photo-return-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/Shop39-photo-return-3.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "Scroll43-settled-11",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/Scroll43-settled-11.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "Scroll43-settled-0",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/Scroll43-settled-0.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "K-01-shipping-largest-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/K-01-shipping-largest-more.jpg",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-02-earn-moment",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-02-earn-moment.mp4",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "B-02-earn-moment-reduced",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/B-02-earn-moment-reduced.mp4",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-01-splash",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-02-welcome",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SHOPIFY-CODE",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-06-purchases-found-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-10-sync-failed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S2-01-sets-feed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S2-02-sets-feed-owned",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "C-01-charms-feed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "C-05-charms-feed-no-set",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "C-02-charms-added",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "C-03-charm-page",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "C-04-charm-page-no-set",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-11-quick-add",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "E-01-earrings-feed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "E-02-earring-page",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "E-02-earring-page-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "H-02-hot-charm",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "H-03-hot-earrings",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "A-01-feed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "A-01-page",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "A-02-feed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "A-02-page",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25A-search-focus",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25-search",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25-search-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25-search-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25-search-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25-search-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25C-search-filters",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25C-search-filters-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-5",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25E-search-no-results",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-12-basket-quote-failed-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SHOPIFY-CHECKOUT",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-05-checkout-return",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-5",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-6",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-14B-my-charms-sets",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-17-set-complete",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-19-achievements",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-19-achievements-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-19-achievements-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-02-private-review",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-02-private-review-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-02-gift-push",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-03-gift-surprise",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-04-ready-to-unwrap",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-05-unwrapped",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-34-share-badge",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-02-gift-bag",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-04-shared-stack",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-06-private-link-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "W-07-app-first-open",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-03-your-orders",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-03-your-orders-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-03-your-orders-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-03-your-orders-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-08-delete-account",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-11-offline",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-11-offline-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-5",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SHEET-basket",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SHEET-basket-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-5",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-6",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S-03-set-page-pending",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "S-03-set-page-pending-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-5",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-6",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-7",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-10",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-11",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-12",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-13",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-14",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-15",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-16",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-17",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-18",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-19",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-20",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-21",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-22",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-23",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-24",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-3",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-4",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-5",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-6",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-7",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-8",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-9",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more-2",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "SHEET-gift-launch",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  },
+  {
+    "id": "G-24-more-settings",
+    "build": 44,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Approved43 baseline, unchanged; not recaptured."
+  }
+]
