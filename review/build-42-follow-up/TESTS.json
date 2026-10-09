@@ -69,6 +69,6 @@
     "contextualLocalNoteRetention": "passed",
     "fullGalleryCount": 177,
     "exactScreenSearchCount": 6,
-    "downloadEvent": "Browser automation wait did not confirm file download; export implementation included, not claimed as a verified download."
+    "noteExport": "passed; browser-created JSON download read back, correct review ID and screen-keyed note"
   }
 }
