@@ -2,7 +2,7 @@
 
 **Current handover:** [Review44 follow-ups](review/build-44/README.md) · [App Store asset review](review/app-store/README.md) · [Follow-up gallery](review/build-44/index.html) · [Store gallery](review/app-store/index.html).
 
-Local candidate44 addresses handoff18 F119–122. Nine visible sets have distinct app-only badge art, and21 fresh changed-screen JPEGs include largest text/continuations. Seven Release-native App Store composites and three draft preview videos await design acceptance before Apple upload. Preview shot-list differences and physical acceptance boundaries are explicit in the responses. Earlier approved reviews stay immutable.
+Build44 addresses handoff18 F119–122. Nine visible sets have distinct app-only badge art, and21 fresh changed-screen JPEGs include largest text/continuations. Seven Release-native App Store composites and three previews, header/search art and listing copy are uploaded to the unsubmitted Apple1.0 draft, with build44 processed VALID and selected. See [Apple draft status](review/app-store/APPLE-DRAFT-STATUS.json). Reviewer access will be arranged later. Preview shot-list differences and physical acceptance boundaries are explicit in the responses. Earlier approved reviews stay immutable.
 
 **Release status:** Version1.0/build43 passed Apple processing and is available to Weezy Pop Internal. External TestFlight review is approved and build43 is available to Lou & Nat. The required privacy additions are published and verified. [TestFlight](https://testflight.apple.com/join/5m9QyaSa) · [TESTS.json](review/build-43/TESTS.json) · [RELEASE.json](review/build-43/RELEASE.json).
 

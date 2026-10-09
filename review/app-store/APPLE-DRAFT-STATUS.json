@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-09",
+  "appId": "6808889322",
+  "version": "1.0",
+  "build": 44,
+  "buildId": "03cc8ea2-d63b-42e5-9bfa-b5f4392c8066",
+  "binarySourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e",
+  "ipaSHA256": "a9b02be6511a79adf83e995a46c06111f29736b9d9781ac8f056132ddca2d899",
+  "state": "PREPARE_FOR_SUBMISSION",
+  "releaseType": "MANUAL",
+  "listingLocale": "en-GB",
+  "screenshots": 7,
+  "previews": 3,
+  "headerAssigned": true,
+  "searchAssigned": true,
+  "assetChecksumsVerified": true,
+  "giftSeasonEvent": {
+    "id": "6821093168",
+    "state": "DRAFT",
+    "cardAndDetailsUploaded": true,
+    "datesPending": true
+  },
+  "validation": {
+    "errors": 0,
+    "warnings": 1,
+    "infos": 2,
+    "blocking": 0
+  },
+  "reviewerAccess": "User requested to arrange later; no demo login invented",
+  "submitted": false,
+  "websiteChanged": false,
+  "privacyDeclarations": "Existing published nine types preserved; checked in signed-in Apple UI"
+}

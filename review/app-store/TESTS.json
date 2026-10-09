@@ -1,6 +1,6 @@
 {
   "build": 44,
-  "candidateOnly": true,
+  "candidateOnly": false,
   "runs": [
     {
       "evidence": "followups-continuations44-tests.json",
@@ -154,8 +154,8 @@
   },
   "previewFormats": [
     {
-      "audioTracks": 0,
-      "bytes": 6176179,
+      "audioTracks": 1,
+      "bytes": 6186789,
       "codec": "avc1",
       "file": "preview-1-snap-the-whole-set.mp4",
       "fps": 30,
@@ -163,11 +163,15 @@
       "poster": "preview-1-snap-the-whole-set.poster.png",
       "posterSeconds": 1,
       "seconds": 20,
-      "width": 886
+      "width": 886,
+      "audioCodec": "AAC",
+      "audioChannels": 2,
+      "audioSampleRate": 48000,
+      "silentAudio": true
     },
     {
-      "audioTracks": 0,
-      "bytes": 4854776,
+      "audioTracks": 1,
+      "bytes": 4867882,
       "codec": "avc1",
       "file": "preview-2-drop-a-hint.mp4",
       "fps": 30,
@@ -175,11 +179,15 @@
       "poster": "preview-2-drop-a-hint.poster.png",
       "posterSeconds": 12,
       "seconds": 25,
-      "width": 886
+      "width": 886,
+      "audioCodec": "AAC",
+      "audioChannels": 2,
+      "audioSampleRate": 48000,
+      "silentAudio": true
     },
     {
-      "audioTracks": 0,
-      "bytes": 4451988,
+      "audioTracks": 1,
+      "bytes": 4462598,
       "codec": "avc1",
       "file": "preview-3-watch-your-stack-grow.mp4",
       "fps": 29.999998092651367,
@@ -187,7 +195,11 @@
       "poster": "preview-3-watch-your-stack-grow.poster.png",
       "posterSeconds": 11,
       "seconds": 20,
-      "width": 886
+      "width": 886,
+      "audioCodec": "AAC",
+      "audioChannels": 2,
+      "audioSampleRate": 48000,
+      "silentAudio": true
     }
   ],
   "boundaries": [
@@ -196,13 +208,60 @@
     "Manual recording timeout preserved and successful retake separate",
     "Initial Release target compile failure preserved privately; dedicated capture-only scheme fixed it",
     "APNs, real-phone purchase/order sync, VoiceOver, haptics, F50 Safari and accessibility audit remain separate",
-    "No44 binary or store assets uploaded to Apple"
+    "9 October: Pete explicitly authorized Apple draft uploads; app and optional event remain unsubmitted. Reviewer access pending.",
+    "9 October: Pete explicitly authorized Apple draft uploads; app and optional event remain unsubmitted. Reviewer access pending."
   ],
   "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e",
   "gallerySmoke": {
     "fullscreen": "passed",
     "localNoteRoundtrip": "passed",
     "exportNotes": "passed; actual build-44-notes.json downloaded and parsed",
-    "mediaMetadata": "20/25/20 seconds,886×1920 confirmed in browser and AVFoundation"
-  }
+    "mediaMetadata": "20/25/20 seconds,886\u00d71920 confirmed in browser and AVFoundation"
+  },
+  "appleDraft": {
+    "build": 44,
+    "processingState": "VALID",
+    "screenshots": 7,
+    "previews": 3,
+    "deliveryState": "COMPLETE",
+    "sourceChecksumsMatch": true,
+    "posterFrames": "1/12/11 seconds",
+    "validationErrors": 0,
+    "validationWarnings": 1,
+    "warning": "Marketing URL intentionally points to official shop homepage",
+    "videoDerivatives": "Apple still generating previews at final browser check",
+    "appReviewSubmitted": false
+  },
+  "muxVerification": [
+    {
+      "audioChannels": 2,
+      "audioCodec": "AAC",
+      "audioSampleRate": 48000,
+      "compressedVideoUnchanged": true,
+      "file": "preview-1-snap-the-whole-set.mp4",
+      "seconds": 20,
+      "silentAudio": true,
+      "videoPayloadSHA256AndFrames": "fe5a02316b9fe4c63b3574db1ff745ee0c820d50cfb98cfaa781f1c0e8bb9d35 / 600 frames"
+    },
+    {
+      "audioChannels": 2,
+      "audioCodec": "AAC",
+      "audioSampleRate": 48000,
+      "compressedVideoUnchanged": true,
+      "file": "preview-2-drop-a-hint.mp4",
+      "seconds": 25,
+      "silentAudio": true,
+      "videoPayloadSHA256AndFrames": "000ed4d6b4f6d4e03dd4343ecf9083489b78138bdf01e9a375c1216ef8bacfe6 / 750 frames"
+    },
+    {
+      "audioChannels": 2,
+      "audioCodec": "AAC",
+      "audioSampleRate": 48000,
+      "compressedVideoUnchanged": true,
+      "file": "preview-3-watch-your-stack-grow.mp4",
+      "seconds": 20,
+      "silentAudio": true,
+      "videoPayloadSHA256AndFrames": "5e14a55b63bcdd51b98ec4e3fd3b3bcc2c9a7b843a510c2ca337db7bd6986643 / 600 frames"
+    }
+  ]
 }
