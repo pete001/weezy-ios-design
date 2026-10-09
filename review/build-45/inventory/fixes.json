@@ -1,0 +1,42 @@
+{
+ "review": 44,
+ "verified": [
+  "F-119",
+  "F-120",
+  "F-121",
+  "F-122"
+ ],
+ "open": [
+  {
+   "id": "F-123",
+   "priority": "P2",
+   "title": "Largest-text basket breaks words in half",
+   "fix": "Normal size is right (F-120 landed). At accessibility5 \"Total · confirmed by Shopify\" breaks as \"confirme d\" and the checkout button as \"WEEZYPOP.C OM\". Same rule as F-107: never break inside a word. From accessibility3 up, use short labels: \"Total\" with \"Confirmed by Shopify\" as a second line under it, the price on its own line, and the button \"CHECKOUT · £18\" (keep the full label as the accessibility label). Recheck every pill and button in the basket at AX5.",
+   "pins": [
+    {
+     "screen": "K-01-basket-full-largest-more-3",
+     "xPct": 50,
+     "yPct": 25
+    },
+    {
+     "screen": "K-01-basket-full-largest-more-3",
+     "xPct": 50,
+     "yPct": 72
+    }
+   ]
+  },
+  {
+   "id": "F-124",
+   "priority": "P3",
+   "title": "Two Swirl tiles, only one says ×2",
+   "fix": "The strip shows \"SWIRL ✓\" and then \"SWIRL ✓ ×2\", which reads as three Swirls. Show one Swirl tile labelled \"SWIRL ✓ ×2\" (photo with a small ×2 sticker), or two tiles both labelled \"SWIRL ✓\". Prefer the single tile: it matches the set page.",
+   "pins": [
+    {
+     "screen": "B-06-badge-detail",
+     "xPct": 78,
+     "yPct": 58
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2309 @@
+[
+  {
+    "id": "B-06-badge-detail",
+    "build": 45,
+    "device": "iPhone 16 Pro simulator / iOS27; physical402\u00d7874pt, controlled393\u00d7852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "file": "B-06-badge-detail.jpg",
+    "textSize": "large",
+    "sourceKind": "isolated production SwiftUI content; not shipping AppRoot, real authentication or payment proof",
+    "fixture": "Build45 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-06-badge-detail-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "b77d932f2eaa497f3f352ab422bc1e7e61152bc2dd8eef4b7a22b1b1a8f78586",
+    "releaseStatus": "Local candidate45, not Apple uploaded;44 selected in unsubmitted Apple draft;43 external beta",
+    "capturedAt": "2026-10-09T18:01:16.203402+00:00",
+    "presentation": {
+      "sheetSafeBottom": 12,
+      "windowHeight": 852,
+      "containerWidth": 393,
+      "sheetHeight": 790,
+      "containerHeight": 852,
+      "sheetWidth": 393,
+      "sheetX": 0,
+      "windowWidth": 393,
+      "sheetY": 0
+    },
+    "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1"
+  },
+  {
+    "id": "B-06-badge-detail-more",
+    "build": 45,
+    "device": "iPhone 16 Pro simulator / iOS27; physical402\u00d7874pt, controlled393\u00d7852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "file": "B-06-badge-detail-more.jpg",
+    "textSize": "large",
+    "sourceKind": "isolated production SwiftUI content; not shipping AppRoot, real authentication or payment proof",
+    "fixture": "Build45 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "B-06-badge-detail-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "3c2a61459f7700ab1bd5faecc742652a3dde5f19af259b77b499d0b3b60b63b0",
+    "releaseStatus": "Local candidate45, not Apple uploaded;44 selected in unsubmitted Apple draft;43 external beta",
+    "capturedAt": "2026-10-09T18:01:16.910466+00:00",
+    "parentId": "B-06-badge-detail",
+    "continuation": {
+      "adjustedInsetBottom": 0,
+      "adjustedInsetTop": 0,
+      "filename": "B-06-badge-detail-normal-scroll-1.png",
+      "parentFilename": "B-06-badge-detail-normal.png",
+      "scrollHeight": 682,
+      "scrollOffset": 74,
+      "viewportHeight": 608,
+      "visibleContentHeight": 608
+    },
+    "presentation": {
+      "sheetSafeBottom": 12,
+      "windowHeight": 852,
+      "containerWidth": 393,
+      "sheetHeight": 790,
+      "containerHeight": 852,
+      "sheetWidth": 393,
+      "sheetX": 0,
+      "windowWidth": 393,
+      "sheetY": 0
+    },
+    "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1"
+  },
+  {
+    "id": "K-01-basket-full-largest",
+    "build": 45,
+    "device": "iPhone 16 Pro simulator / iOS27; physical402\u00d7874pt, controlled393\u00d7852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "file": "K-01-basket-full-largest.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "isolated production SwiftUI content; not shipping AppRoot, real authentication or payment proof",
+    "fixture": "Build45 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "e9eeb904ced596c52532d704c74df4c4ef018ed853c487ff07c2a97346183520",
+    "releaseStatus": "Local candidate45, not Apple uploaded;44 selected in unsubmitted Apple draft;43 external beta",
+    "capturedAt": "2026-10-09T18:01:23.747708+00:00",
+    "presentation": {
+      "sheetWidth": 393,
+      "sheetSafeBottom": 12,
+      "containerWidth": 393,
+      "windowHeight": 852,
+      "sheetY": 0,
+      "sheetHeight": 852,
+      "sheetX": 0,
+      "windowWidth": 393,
+      "containerHeight": 852
+    },
+    "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1"
+  },
+  {
+    "id": "K-01-basket-full-largest-more",
+    "build": 45,
+    "device": "iPhone 16 Pro simulator / iOS27; physical402\u00d7874pt, controlled393\u00d7852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "file": "K-01-basket-full-largest-more.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "isolated production SwiftUI content; not shipping AppRoot, real authentication or payment proof",
+    "fixture": "Build45 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-1.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "0606d28e8055604078d84ccd23074da2c877dea0270e6e28c2a590c9281ac28b",
+    "releaseStatus": "Local candidate45, not Apple uploaded;44 selected in unsubmitted Apple draft;43 external beta",
+    "capturedAt": "2026-10-09T18:01:24.411623+00:00",
+    "parentId": "K-01-basket-full-largest",
+    "continuation": {
+      "adjustedInsetBottom": 12,
+      "adjustedInsetTop": 0,
+      "filename": "K-01-basket-full-largest-normal-scroll-1.png",
+      "parentFilename": "K-01-basket-full-largest-normal.png",
+      "scrollHeight": 2470,
+      "scrollOffset": 660,
+      "viewportHeight": 782,
+      "visibleContentHeight": 770
+    },
+    "presentation": {
+      "sheetWidth": 393,
+      "sheetSafeBottom": 12,
+      "containerWidth": 393,
+      "windowHeight": 852,
+      "sheetY": 0,
+      "sheetHeight": 852,
+      "sheetX": 0,
+      "windowWidth": 393,
+      "containerHeight": 852
+    },
+    "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1"
+  },
+  {
+    "id": "K-01-basket-full-largest-more-2",
+    "build": 45,
+    "device": "iPhone 16 Pro simulator / iOS27; physical402\u00d7874pt, controlled393\u00d7852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "file": "K-01-basket-full-largest-more-2.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "isolated production SwiftUI content; not shipping AppRoot, real authentication or payment proof",
+    "fixture": "Build45 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-2.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "7a615f3c7f1b841a1d78e60bb3c67f93337e6952daa665061a2fe09fbf985d17",
+    "releaseStatus": "Local candidate45, not Apple uploaded;44 selected in unsubmitted Apple draft;43 external beta",
+    "capturedAt": "2026-10-09T18:01:24.907203+00:00",
+    "parentId": "K-01-basket-full-largest",
+    "continuation": {
+      "adjustedInsetBottom": 12,
+      "adjustedInsetTop": 0,
+      "filename": "K-01-basket-full-largest-normal-scroll-2.png",
+      "parentFilename": "K-01-basket-full-largest-normal.png",
+      "scrollHeight": 2470,
+      "scrollOffset": 1320,
+      "viewportHeight": 782,
+      "visibleContentHeight": 770
+    },
+    "presentation": {
+      "sheetWidth": 393,
+      "sheetSafeBottom": 12,
+      "containerWidth": 393,
+      "windowHeight": 852,
+      "sheetY": 0,
+      "sheetHeight": 852,
+      "sheetX": 0,
+      "windowWidth": 393,
+      "containerHeight": 852
+    },
+    "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1"
+  },
+  {
+    "id": "K-01-basket-full-largest-more-3",
+    "build": 45,
+    "device": "iPhone 16 Pro simulator / iOS27; physical402\u00d7874pt, controlled393\u00d7852pt content window",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "file": "K-01-basket-full-largest-more-3.jpg",
+    "textSize": "accessibility5",
+    "sourceKind": "isolated production SwiftUI content; not shipping AppRoot, real authentication or payment proof",
+    "fixture": "Build45 candidate production SwiftUI; isolated Claire, live read-only catalogue. Not shipping AppRoot/live payment proof.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-3.png",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "62b317fd79afdbe7547b50335dd4571d4230518b6b234f16a359b16e0028191b",
+    "releaseStatus": "Local candidate45, not Apple uploaded;44 selected in unsubmitted Apple draft;43 external beta",
+    "capturedAt": "2026-10-09T18:01:25.394105+00:00",
+    "parentId": "K-01-basket-full-largest",
+    "continuation": {
+      "adjustedInsetBottom": 12,
+      "adjustedInsetTop": 0,
+      "filename": "K-01-basket-full-largest-normal-scroll-3.png",
+      "parentFilename": "K-01-basket-full-largest-normal.png",
+      "scrollHeight": 2470,
+      "scrollOffset": 1700,
+      "viewportHeight": 782,
+      "visibleContentHeight": 770
+    },
+    "presentation": {
+      "sheetWidth": 393,
+      "sheetSafeBottom": 12,
+      "containerWidth": 393,
+      "windowHeight": 852,
+      "sheetY": 0,
+      "sheetHeight": 852,
+      "sheetX": 0,
+      "windowWidth": 393,
+      "containerHeight": 852
+    },
+    "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1"
+  },
+  {
+    "id": "B-05-badge-catalogue",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/B-05-badge-catalogue.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "B-05-badge-catalogue-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/B-05-badge-catalogue-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "B-01-badge-shelf",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/B-01-badge-shelf.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "B-01-badge-shelf-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/B-01-badge-shelf-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-more-2.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest-more-2.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest-more-3.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest-more-4.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest-more-5.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "G-24-settings-largest-more-6",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/G-24-settings-largest-more-6.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "K-01-basket-full",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/K-01-basket-full.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 44
+  },
+  {
+    "id": "P-01-profile",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/P-01-profile.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "P-01-profile-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/P-01-profile-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "P-01-profile-pull",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/P-01-profile-pull.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "SR-01-search-empty",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-search-empty.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "SR-01-search-empty-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-search-empty-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "SR-01-search-empty-no-recents",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-search-empty-no-recents.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-06-badge-detail-locked",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/B-06-badge-detail-locked.jpg",
+    "reason": "Shared badge strip inherits F124, but locked detail was not requested for this two-screen review; prior screenshot is historical and not current verification.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-06-badge-detail-locked-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/B-06-badge-detail-locked-more.jpg",
+    "reason": "Shared badge strip inherits F124, but locked detail was not requested for this two-screen review; prior screenshot is historical and not current verification.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-02-badge-unlocked",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-02-badge-unlocked.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-03-share-card.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "K-01-basket-full-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-44/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-44/manifest.json",
+    "reason": "Historical extra continuation superseded: the fresh45 largest-text basket reaches its end in more-3; no fourth continuation required.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence.",
+    "replacementId": "K-01-basket-full-largest-more-3"
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more-2.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more-3.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-14-my-charms-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14-my-charms-more-4.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-14C-my-charms-everything-else",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14C-my-charms-everything-else.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-14B-my-charms-sets-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-14B-my-charms-sets-largest.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-04-set-destination",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-04-set-destination.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-04-badge-web-page.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "APP-diagnostics-privacy",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/APP-diagnostics-privacy.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "APP-diagnostics-privacy-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/APP-diagnostics-privacy-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-03-badge-still.png",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-03-badge-moving.mp4",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "K-01-shipping-full-screen",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/K-01-shipping-full-screen.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-24-shipping-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-24-shipping-largest.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "SR-01-shipping-recents-keyboard",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-shipping-recents-keyboard.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "SR-01-shipping-empty-keyboard",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/SR-01-shipping-empty-keyboard.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-25B-search-typing-keyboard",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-25B-search-typing-keyboard.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-25A-search-focus-keyboard",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/G-25A-search-focus-keyboard.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "Shop39-photo-return-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/Shop39-photo-return-3.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "Scroll43-settled-11",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/Scroll43-settled-11.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "Scroll43-settled-0",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/Scroll43-settled-0.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "K-01-shipping-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/K-01-shipping-largest-more.jpg",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-02-earn-moment",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-02-earn-moment.mp4",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "B-02-earn-moment-reduced",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/B-02-earn-moment-reduced.mp4",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "originalBuild": 43
+  },
+  {
+    "id": "G-01-splash",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-02-welcome",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "SHOPIFY-CODE",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-06-purchases-found-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-10-sync-failed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S2-01-sets-feed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S2-02-sets-feed-owned",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "C-01-charms-feed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "C-05-charms-feed-no-set",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "C-02-charms-added",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "C-03-charm-page",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "C-04-charm-page-no-set",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-11-quick-add",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "E-01-earrings-feed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "E-02-earring-page",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "E-02-earring-page-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "H-02-hot-charm",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "H-03-hot-earrings",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "A-01-feed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "A-01-page",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "A-02-feed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "A-02-page",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25A-search-focus",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25B-search-typing",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25B-search-typing-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25B-search-typing-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25B-search-typing-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25B-search-typing-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25-search",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25-search-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25-search-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25-search-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25-search-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25C-search-filters",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25C-search-filters-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25E-search-no-results",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-12-basket-quote-failed-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "SHOPIFY-CHECKOUT",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-05-checkout-return",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-14-my-charms-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-14-my-charms-more-6",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-14B-my-charms-sets",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-17-set-complete",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-19-achievements",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-19-achievements-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-19-achievements-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-02-private-review",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-02-private-review-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-02-gift-push",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-03-gift-surprise",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-04-ready-to-unwrap",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-05-unwrapped",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-34-share-badge",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-02-gift-bag",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-04-shared-stack",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-06-private-link-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "W-07-app-first-open",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-03-your-orders",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-03-your-orders-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-03-your-orders-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-03-your-orders-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-08-delete-account",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-11-offline",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-11-offline-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-11-offline-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-11-offline-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "M-11-offline-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "SHEET-basket",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "SHEET-basket-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-6",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S-03-set-page-pending",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "S-03-set-page-pending-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-6",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-7",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35-basket-sheet-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": false,
+    "reference": "../build-43/manifest.json",
+    "reason": "Shared F123 accessibility basket labels/offer layout inherit this change; outside the explicitly requested two-screen delta. Prior screenshot is historical, not current verification.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-10",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-11",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-12",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-13",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-14",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-15",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-16",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-17",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-18",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-19",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-20",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-21",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-22",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-23",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-24",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-3",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-4",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-5",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-6",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-7",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-8",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-9",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more-2",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "SHEET-gift-launch",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  },
+  {
+    "id": "G-24-more-settings",
+    "build": 45,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-43/manifest.json",
+    "reason": "Unchanged from preceding approved design evidence; not recaptured for the requested two-screen Review45 delta.",
+    "referenceManifestBuild": 43,
+    "historicalEvidence": "Follow the referenced prior manifest to its original capture build/date; not fresh45 evidence."
+  }
+]

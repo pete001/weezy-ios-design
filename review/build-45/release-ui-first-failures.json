@@ -1,0 +1,22 @@
+[
+  {
+    "message": "XCTAssertTrue failed",
+    "file": "LaunchReadinessUITests.swift",
+    "line": 70
+  },
+  {
+    "message": "Failed to tap \"welcome-browse\" Button: No matches found for Elements matching predicate '\"welcome-browse\" IN identifiers' from input {(\n    Button, label: 'SHOP',\n    Button, label: 'MY CHARMS',\n    Button, label: 'WISHLIST', Selected,\n    Button, label: 'Your account and settings',\n    Button, label: 'EXPLORE CHARMS'\n)}",
+    "file": "LaunchReadinessUITests.swift",
+    "line": 70
+  },
+  {
+    "message": "XCTAssertTrue failed",
+    "file": "LaunchReadinessUITests.swift",
+    "line": 144
+  },
+  {
+    "message": "Failed to tap \"welcome-browse\" Button: No matches found for Elements matching predicate '\"welcome-browse\" IN identifiers' from input {(\n    Button, identifier: 'catalogue-retry', label: 'Try again',\n    Button, label: 'SHOP',\n    Button, label: 'MY CHARMS',\n    Button, label: 'WISHLIST', Selected,\n    Button, label: 'Your account and settings',\n    Button, label: 'EXPLORE CHARMS'\n)}",
+    "file": "LaunchReadinessUITests.swift",
+    "line": 144
+  }
+]

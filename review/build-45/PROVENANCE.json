@@ -1,0 +1,24 @@
+{
+  "candidate": 45,
+  "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1",
+  "privateSourceBranch": "codex/review45-basket-badge",
+  "handoff": "Weezypop Charm Collection App (20).zip",
+  "handoffSha256": "4d86dec2433b9729488346453a45cc0455579c38d8846b79471c77057219a0b7",
+  "input": "inventory/FIXES.md and fixes.json",
+  "sourceFileHashes": {
+    "WeezyPop/SocialBasket.swift": "044601f0b0bbc47a1a43032db7c80dd5822e759783f26b2927ff5215131935df",
+    "WeezyPop/AchievementsV25.swift": "229570f7d52c6ac50272a713841e63e0e0e445f4f0931f008ff18f0c7dde9286",
+    "WeezyPopTests/PopStudioCaptureTests.swift": "6535393b60920efcf913eb7957519a690a2607e9e36a48c2c7b5184c397e09c2",
+    "WeezyPopUITests/LaunchReadinessUITests.swift": "28a8d360f246c77555a2b0c203e5745e5039ce6946e52dd11d648d886083a68c",
+    "project.yml": "e74611cd83f6ea1aad4798344abdeb5dbdf8064fb052a420e6fd0b63119e6e52",
+    "WeezyPopUITests/Final43UITests.swift": "9f0fabc90fdc1efe5c5a90b6045713c1521849d4d8e261bfb3fd40c991595e7a"
+  },
+  "captureMethod": "PopStudioCaptureTests/testCaptureFollowups45; test-owned393pt native window, production SwiftUI views and presentation",
+  "publicIds": [
+    "K-01-basket-full-largest",
+    "B-06-badge-detail"
+  ],
+  "pixels": "Fresh3x capture, DisplayP3 to sRGB profile conversion, JPEG80; no UI retouch/composition",
+  "data": "Isolated Claire, live read-only product catalogue, synthetic paid ownership, sold-out CowboyBoot and \u00a318 confirmed quote; no real grants/carts/payment",
+  "appleStatus": "45 local only;44 already selected in unsubmitted1.0 draft,43 external beta; not rechecked or changed by this task"
+}

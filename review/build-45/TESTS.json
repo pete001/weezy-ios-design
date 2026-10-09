@@ -1,0 +1,576 @@
+{
+  "build": 45,
+  "candidateOnly": true,
+  "runs": [
+    {
+      "evidence": "primary-tests.json",
+      "role": "25 badge/evidence tests and initial content run; images superseded by final capture",
+      "success": true,
+      "tests": {
+        "total": 26,
+        "passed": 26,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 50716,
+        "cases": [
+          {
+            "identifier": "AchievementsV25Tests/testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+            "name": "testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 8
+          },
+          {
+            "identifier": "AchievementsV25Tests/testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+            "name": "testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "AchievementsV25Tests/testFinishRestrictedSetRequiresExactQuantityEvidence()",
+            "name": "testFinishRestrictedSetRequiresExactQuantityEvidence()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+            "name": "testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 88
+          },
+          {
+            "identifier": "AchievementsV25Tests/testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+            "name": "testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+            "name": "testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testRenderAllFourDesignerShareFixturesForVisualQA()",
+            "name": "testRenderAllFourDesignerShareFixturesForVisualQA()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 500
+          },
+          {
+            "identifier": "AchievementsV25Tests/testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+            "name": "testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 110
+          },
+          {
+            "identifier": "AchievementsV25Tests/testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+            "name": "testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testUnknownServiceEvidenceCannotEarnBadges()",
+            "name": "testUnknownServiceEvidenceCannotEarnBadges()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+            "name": "testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+            "name": "testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+            "name": "testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+            "name": "testBadgeMovingExportIsFourSecondsAt1080x1920()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1000
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+            "name": "testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 14
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+            "name": "testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+            "name": "testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+            "name": "testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 14
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+            "name": "testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 18
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+            "name": "testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 6
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+            "name": "testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+            "name": "testShareUsesFirstNameAndNeutralFallback()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+            "name": "testShelfEarnedFirstThenLockedByProgress()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+            "name": "testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 15
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+            "name": "testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureFollowups45()",
+            "name": "testCaptureFollowups45()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 14000
+          }
+        ]
+      },
+      "sha256": "b51549f01a54024d947978afb238d56f17f2563dce8c7f9cd761c957a470c2bb",
+      "device": "iPhone16Pro/iOS27"
+    },
+    {
+      "evidence": "primary-final-tests.json",
+      "role": "Final393pt basket/badge production-content captures; normal, AX2, AX3, AX5",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 40015,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureFollowups45()",
+            "name": "testCaptureFollowups45()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 11000
+          }
+        ]
+      },
+      "sha256": "08ac13739d3dac5ab2f866715524db5d5f6e50f23b03452d4ed9294beb709a49",
+      "device": "iPhone16Pro/iOS27"
+    },
+    {
+      "evidence": "small-tests.json",
+      "role": "375pt production-content regression captures on iPhone17e; AX5 top and end",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 30976,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureFollowups45()",
+            "name": "testCaptureFollowups45()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 8000
+          }
+        ]
+      },
+      "sha256": "636858bec5b42a715afdafd16bd12aa28aeae003ca7e1ae88688266771356fcd",
+      "device": "iPhone17e/iOS27"
+    },
+    {
+      "evidence": "small-ui-first-tests.json",
+      "role": "Initial shipping-root interactions: obsolete pre-Shop38 set-page expectation failed",
+      "success": false,
+      "tests": {
+        "total": 3,
+        "passed": 2,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 67427,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+            "name": "testBasketPresentsFullScreenAndClosesToShop()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 16000
+          },
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 22000
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "name": "testLargestTextCompleteSetInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "failed",
+            "durationMs": 16000,
+            "message": "XCTAssertTrue failed"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "sha256": "0ebbec9bd3710cc63d328e97f72bb58436c4a4a10e34672a37a628f03b02b2a5",
+      "device": "iPhone17e/iOS27"
+    },
+    {
+      "evidence": "small-ui-second-tests.json",
+      "role": "Shipping-root recheck: legacy pinned-header dismissal expectation failed after footer checks passed",
+      "success": false,
+      "tests": {
+        "total": 4,
+        "passed": 3,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 123257,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+            "name": "testBasketPresentsFullScreenAndClosesToShop()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 17000
+          },
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 23000
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testCompleteSetInteractions()",
+            "name": "testCompleteSetInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "passed",
+            "durationMs": 29000
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "name": "testLargestTextCompleteSetInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "failed",
+            "durationMs": 42000,
+            "message": "XCTAssertNotNil failed"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "message": "XCTAssertNotNil failed"
+          }
+        ]
+      },
+      "sha256": "7eb1e43031b8fb9ab9bb20304dc4eaf5d1c1cacefcfb631f6add4ad7a1c15f95",
+      "device": "iPhone17e/iOS27"
+    },
+    {
+      "evidence": "small-ui-final-tests.json",
+      "role": "Corrected largest-text complete-set journey and footer dismissal on iPhone17e",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 58884,
+        "cases": [
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "name": "testLargestTextCompleteSetInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "passed",
+            "durationMs": 47000
+          }
+        ]
+      },
+      "sha256": "f6788d26dbff65a185503ae4b1831c29ee83a010252721ab5d90f925bd03ed74",
+      "device": "iPhone17e/iOS27"
+    },
+    {
+      "evidence": "release-ui-first-tests.json",
+      "role": "Initial optimized Release: two root basket checks passed; two DEBUG-only complete-set fixture tests were inappropriate for Release and failed at fresh-onboarding prerequisite. No production bypass added.",
+      "configuration": "Release",
+      "success": false,
+      "tests": {
+        "total": 4,
+        "passed": 2,
+        "failed": 2,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 199542,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+            "name": "testBasketPresentsFullScreenAndClosesToShop()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 18000
+          },
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 24000
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testCompleteSetInteractions()",
+            "name": "testCompleteSetInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "failed",
+            "durationMs": 24000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "name": "testLargestTextCompleteSetInteractions()",
+            "className": "LaunchReadinessUITests",
+            "status": "failed",
+            "durationMs": 23000,
+            "message": "XCTAssertTrue failed"
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "LaunchReadinessUITests/testCompleteSetInteractions()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "LaunchReadinessUITests/testLargestTextCompleteSetInteractions()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "sha256": "25935e4f28b08c62f4c35e5d17501b4ffc5816718475a8036364bbc7365343e7",
+      "device": "iPhone16Pro/iOS27"
+    },
+    {
+      "evidence": "release-ui-second-tests.json",
+      "role": "Release basket normal pass; largest basket continuation passed, but immediate Wishlist tap raced native-cover dismissal during subsequent Settings navigation. Recheck waits for actual dismissal, not a timed sleep.",
+      "configuration": "Release",
+      "success": false,
+      "tests": {
+        "total": 2,
+        "passed": 1,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 56779,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+            "name": "testBasketPresentsFullScreenAndClosesToShop()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 18000
+          },
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "failed",
+            "durationMs": 23000,
+            "message": "Failed to tap \"Your account and settings\" Button: No matches found for Elements matching predicate '\"Your account and settings\" IN identifiers' from input {(\n    Button, identifier: 'catalogue-retry', label: 'Try again',\n    Button, label: 'SHOP', Selected,\n    Button, label: 'MY CHARMS',\n    Button, label: 'WISHLIST',\n    Button, identifier: 'discovery-browse', label: 'Browse pieces and sets',\n    Button, identifier: 'bag', label: 'Basket, 0 pieces',\n    Button, label: 'Sets',\n    Button, label: 'Charms', Selected,\n    Button, label: 'Earrings',\n    Button, label: 'Hot',\n    Button, label: 'Style, Charm chains and Accessories',\n    Button,\n    Button, identifier: 'shop-piece-photo', label: 'Save Freak Charm with Swarovski Crystals to wishlist',\n    Button, identifier: 'feed-piece-title', label: 'Freak Charm with Swarovski Crystals',\n    Button, identifier: 'shop-piece-set-link', label: 'Big Top Energy, \u00b7 \u00a3110, SAVE \u00a326',\n    Button, identifier: 'feed-add-to-basket', label: 'Add to basket \u00b7 \u00a336',\n    Button, identifier: 'gift', label: 'Gift Freak Charm with Swarovski Crystals'\n)}\nPossibly caused by runtime issues:\nAutomation type mismatch: computed Button from legacy attributes vs PopUpButton from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 14;\n    \"XC_kAXXCAttributeElementBaseType\" = NSObject;\n    \"XC_kAXXCAttributeElementType\" = \"SwiftUI.AccessibilityNode\";\n    \"XC_kAXXCAttributeTraits\" = 1108101562369;\n}\nSee test report attachments for more detail."
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "message": "Failed to tap \"Your account and settings\" Button: No matches found for Elements matching predicate '\"Your account and settings\" IN identifiers' from input {(\n    Button, identifier: 'catalogue-retry', label: 'Try again',\n    Button, label: 'SHOP', Selected,\n    Button, label: 'MY CHARMS',\n    Button, label: 'WISHLIST',\n    Button, identifier: 'discovery-browse', label: 'Browse pieces and sets',\n    Button, identifier: 'bag', label: 'Basket, 0 pieces',\n    Button, label: 'Sets',\n    Button, label: 'Charms', Selected,\n    Button, label: 'Earrings',\n    Button, label: 'Hot',\n    Button, label: 'Style, Charm chains and Accessories',\n    Button,\n    Button, identifier: 'shop-piece-photo', label: 'Save Freak Charm with Swarovski Crystals to wishlist',\n    Button, identifier: 'feed-piece-title', label: 'Freak Charm with Swarovski Crystals',\n    Button, identifier: 'shop-piece-set-link', label: 'Big Top Energy, \u00b7 \u00a3110, SAVE \u00a326',\n    Button, identifier: 'feed-add-to-basket', label: 'Add to basket \u00b7 \u00a336',\n    Button, identifier: 'gift', label: 'Gift Freak Charm with Swarovski Crystals'\n)}\nPossibly caused by runtime issues:\nAutomation type mismatch: computed Button from legacy attributes vs PopUpButton from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 14;\n    \"XC_kAXXCAttributeElementBaseType\" = NSObject;\n    \"XC_kAXXCAttributeElementType\" = \"SwiftUI.AccessibilityNode\";\n    \"XC_kAXXCAttributeTraits\" = 1108101562369;\n}\nSee test report attachments for more detail."
+          }
+        ]
+      },
+      "sha256": "49358bac3eee3e3b1a063bbb5656953b36411094359db4493ca8d2a807b0e47a",
+      "device": "iPhone16Pro/iOS27"
+    },
+    {
+      "evidence": "release-ui-final-tests.json",
+      "role": "Final optimized shipping-root Release checks, normal/largest basket presentation, scrolling, dismissal and subsequent Settings reachability",
+      "configuration": "Release",
+      "success": true,
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 55955,
+        "cases": [
+          {
+            "identifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+            "name": "testBasketPresentsFullScreenAndClosesToShop()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 18000
+          },
+          {
+            "identifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+            "name": "testLargestBasketAndSettingsControlsRemainReachable()",
+            "className": "Final43UITests",
+            "status": "passed",
+            "durationMs": 28000
+          }
+        ]
+      },
+      "sha256": "3c9eb154b9627adc321625f23fee9d4f0cb3f80d8764ceda34958f74fffa873a",
+      "device": "iPhone16Pro/iOS27"
+    }
+  ],
+  "visualChecks": {
+    "primaryViewport": [
+      393,
+      852
+    ],
+    "smallerViewport": [
+      375,
+      812
+    ],
+    "smallSimulatorNativeViewport": [
+      390,
+      844
+    ],
+    "textSizes": [
+      "large",
+      "accessibility2",
+      "accessibility3",
+      "accessibility5"
+    ],
+    "largestBasketControls": [
+      "quantity",
+      "SOLD OUT",
+      "Remove",
+      "Choose",
+      "ADD chain",
+      "CHECKOUT \u00b7 \u00a318",
+      "Continue browsing"
+    ],
+    "threshold": "Full website label at normal/AX2; short label from AX3; price separate line",
+    "badge": "One Swirl tile labelled SWIRL \u2713 \u00d72; small \u00d72 photo sticker"
+  },
+  "artifactValidation": {
+    "screens": 6,
+    "inventoryEntries": 218,
+    "dimensions": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "uniqueIds": true,
+    "exactBaselineCoverage": true,
+    "allReferencedFilesExist": true,
+    "maximumBatchSize": 6,
+    "overlappingContinuationsReachEnd": true,
+    "sha256Verified": true
+  },
+  "gallerySmoke": {
+    "fullscreen": "passed",
+    "contextualNoteRoundtrip": "passed",
+    "exportNotes": "passed: actual build-45-notes.json downloaded and parsed",
+    "browserExportEvent": "IAB event wait timed out although file downloaded successfully; file contents independently verified"
+  },
+  "accessibility": {
+    "automatedAudit": "Not rerun in this focused delta; existing unsuppressed findings remain open",
+    "interactionTests": "Use existing interaction-only wrappers; these are not audit passes",
+    "VoiceOver": "Full spoken website checkout label and actual owned/required count are implemented; physical VoiceOver acceptance still separate"
+  },
+  "boundaries": [
+    "Local45 only; no Apple archive/upload/submission or TestFlight distribution",
+    "Apple44 selected in unsubmitted draft; external43 unchanged",
+    "Controlled content captures do not prove shipping AppRoot; root interaction evidence is separate",
+    "Shopify catalogue read-only; synthetic Claire paid-order/availability/price quote evidence; no real ownership grant, cart, payment or notification",
+    "Normal Store artwork/media remain44 and are reviewed separately",
+    "Physical OAuth/payment/order sync/APNs/haptics/VoiceOver and F50 Safari remain separate"
+  ],
+  "sourceCommit": "82ec9a2ad4716a2591430396129418b9c3f6e3b1",
+  "finalStatus": "Relevant final content/model and smaller DEBUG journey checks pass; optimized Release root2/2 pass. Superseded failures preserved separately. No accessibility audit or physical payment/APNs/Safari claim.",
+  "shippingRootVisualInspection": {
+    "result": "passed",
+    "evidence": "Final Release XCTest screenshot attachments inspected privately",
+    "nativeViewport": [
+      402,
+      874
+    ],
+    "pixels": [
+      1206,
+      2622
+    ],
+    "screens": [
+      "K-01-shipping-full-screen",
+      "K-01-shipping-largest-more",
+      "G-24-shipping-largest"
+    ],
+    "scope": "Empty basket normal/largest and Settings; not confirmed-quote payment or signed-in ownership proof"
+  }
+}
