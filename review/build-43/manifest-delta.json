@@ -1,0 +1,1230 @@
+[
+  {
+    "id": "G-24-settings",
+    "build": 43,
+    "file": "G-24-settings.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "af55e68e694174dc2994e362e328ad14030232a71c06ac7483f00be94515d409",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-normal.png"
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 43,
+    "file": "G-24-settings-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "0f2a5acd7caac9a7fec17db7524536d03c07ef142b98601b35e14e929d011015",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-normal-scroll-1.png",
+    "parentId": "G-24-settings",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-normal.png",
+    "scrollHeight": 1381.6666666666665,
+    "scrollOffset": 608,
+    "viewportHeight": 730,
+    "visibleContentHeight": 718
+  },
+  {
+    "id": "G-24-settings-more-2",
+    "build": 43,
+    "file": "G-24-settings-more-2.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "5bd8bb2d041cdc462d9153ff8b0e7165dad08593f0cf8129463aa0b7907b6d55",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-normal-scroll-2.png",
+    "parentId": "G-24-settings",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-normal.png",
+    "scrollHeight": 1381.6666666666665,
+    "scrollOffset": 663.6666666666666,
+    "viewportHeight": 730,
+    "visibleContentHeight": 718
+  },
+  {
+    "id": "G-24-settings-largest",
+    "build": 43,
+    "file": "G-24-settings-largest.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "535aeec55bedc72315cd1733b88c0888d949894a36deeebb31cbde4c64db8c67",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal.png"
+  },
+  {
+    "id": "G-24-settings-largest-more",
+    "build": 43,
+    "file": "G-24-settings-largest-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "d7ad369d8718c97b70f1c50a4137d98ec9ba1a79d591fa5630791740e28e376a",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-1.png",
+    "parentId": "G-24-settings-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-largest-normal.png",
+    "scrollHeight": 4187,
+    "scrollOffset": 596.3333333333334,
+    "viewportHeight": 718.3333333333333,
+    "visibleContentHeight": 706.3333333333333
+  },
+  {
+    "id": "G-24-settings-largest-more-2",
+    "build": 43,
+    "file": "G-24-settings-largest-more-2.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "3a6a3ba82b180ccc21ae21cd4e9718a2caec6520e1401359f8067582bf685fb6",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-2.png",
+    "parentId": "G-24-settings-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-largest-normal.png",
+    "scrollHeight": 4187,
+    "scrollOffset": 1192.6666666666667,
+    "viewportHeight": 718.3333333333333,
+    "visibleContentHeight": 706.3333333333333
+  },
+  {
+    "id": "G-24-settings-largest-more-3",
+    "build": 43,
+    "file": "G-24-settings-largest-more-3.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "3facfb8eb9f995893650dad30681f07bbe4b71ef5dd4e8b78d09e42724053d43",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-3.png",
+    "parentId": "G-24-settings-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-largest-normal.png",
+    "scrollHeight": 4187,
+    "scrollOffset": 1789,
+    "viewportHeight": 718.3333333333333,
+    "visibleContentHeight": 706.3333333333333
+  },
+  {
+    "id": "G-24-settings-largest-more-4",
+    "build": 43,
+    "file": "G-24-settings-largest-more-4.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "4e7d4cdb55b64d4d3762615347984df82a1193551f3743a9ca3f6ac981e4f883",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-4.png",
+    "parentId": "G-24-settings-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-largest-normal.png",
+    "scrollHeight": 4187,
+    "scrollOffset": 2385.3333333333335,
+    "viewportHeight": 718.3333333333333,
+    "visibleContentHeight": 706.3333333333333
+  },
+  {
+    "id": "G-24-settings-largest-more-5",
+    "build": 43,
+    "file": "G-24-settings-largest-more-5.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "b36b18eff3450b6b558778ec7ea3472aa9a6c59c2e498303f7d4ae0a43403e17",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-5.png",
+    "parentId": "G-24-settings-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-largest-normal.png",
+    "scrollHeight": 4187,
+    "scrollOffset": 2981.6666666666665,
+    "viewportHeight": 718.3333333333333,
+    "visibleContentHeight": 706.3333333333333
+  },
+  {
+    "id": "G-24-settings-largest-more-6",
+    "build": 43,
+    "file": "G-24-settings-largest-more-6.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "6598101c41cbfacdd83bfef1d1d6b2bae4fb975c8800dc1ab7c11b2bc486c116",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "G-24-settings-largest-normal-scroll-6.png",
+    "parentId": "G-24-settings-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "G-24-settings-largest-normal.png",
+    "scrollHeight": 4187,
+    "scrollOffset": 3480.6666666666665,
+    "viewportHeight": 718.3333333333333,
+    "visibleContentHeight": 706.3333333333333
+  },
+  {
+    "id": "P-01-profile",
+    "build": 43,
+    "file": "P-01-profile.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "93ae60a2ed254f2311a354801ed0e9197d3e899d0003e08245b753394b05e9c2",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "P-01-profile-normal.png"
+  },
+  {
+    "id": "P-01-profile-more",
+    "build": 43,
+    "file": "P-01-profile-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "74810492476b2479e68c1a08955cb12ced4596709869b32171cb03d70aeacb6e",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "P-01-profile-normal-scroll-1.png",
+    "parentId": "P-01-profile",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 62,
+    "parentFilename": "P-01-profile-normal.png",
+    "scrollHeight": 1270.3333333333333,
+    "scrollOffset": 430.3333333333333,
+    "viewportHeight": 852,
+    "visibleContentHeight": 778
+  },
+  {
+    "id": "P-01-profile-pull",
+    "build": 43,
+    "file": "P-01-profile-pull.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "487004c37c0faa5b80bc2c7e26abe60ccbcc3bcd6119ba42d2f0e09c67c02f95",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "P-01-profile-pull-normal.png"
+  },
+  {
+    "id": "B-05-badge-catalogue",
+    "build": 43,
+    "file": "B-05-badge-catalogue.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "bf8a562e1e13757e0181d15f299826e4816192e1c6dbce7cf927244c5f3e0661",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-05-badge-catalogue-normal.png"
+  },
+  {
+    "id": "B-05-badge-catalogue-more",
+    "build": 43,
+    "file": "B-05-badge-catalogue-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "92b2281597b64372f08869105c7d023ce544b1f096b5c7cafe21c0ec7e672b6b",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-05-badge-catalogue-normal-scroll-1.png",
+    "parentId": "B-05-badge-catalogue",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "B-05-badge-catalogue-normal.png",
+    "scrollHeight": 1112,
+    "scrollOffset": 396,
+    "viewportHeight": 728,
+    "visibleContentHeight": 716
+  },
+  {
+    "id": "SR-01-search-empty",
+    "build": 43,
+    "file": "SR-01-search-empty.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "67c6a24587788768fecaee3e759c95f1040abbc784cc81b2401e432b43dba208",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "SR-01-search-empty-normal.png"
+  },
+  {
+    "id": "SR-01-search-empty-more",
+    "build": 43,
+    "file": "SR-01-search-empty-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "fe0557b9c42b198c979d66c7ccd8154f591caf69a7e095b9ffd35e7a5363f67b",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "SR-01-search-empty-normal-scroll-1.png",
+    "parentId": "SR-01-search-empty",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "SR-01-search-empty-normal.png",
+    "scrollHeight": 783,
+    "scrollOffset": 71,
+    "viewportHeight": 724,
+    "visibleContentHeight": 712
+  },
+  {
+    "id": "SR-01-search-empty-no-recents",
+    "build": 43,
+    "file": "SR-01-search-empty-no-recents.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "594a18324c766fbd7336b9b4012ca935bf24e66cda479358a99f6b8c67e99bd6",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "SR-01-search-empty-no-recents-normal.png"
+  },
+  {
+    "id": "B-06-badge-detail-locked",
+    "build": 43,
+    "file": "B-06-badge-detail-locked.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "f6eb25668a9fda0493079f0bcb489eea9f29a63f3c694495b8d3373efc2beab0",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-06-badge-detail-locked-normal.png"
+  },
+  {
+    "id": "B-06-badge-detail-locked-more",
+    "build": 43,
+    "file": "B-06-badge-detail-locked-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "5f8ece97a6c84e772d41eeb84af411dde7f06911b67b68a1e69eea21e0533cd1",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-06-badge-detail-locked-normal-scroll-1.png",
+    "parentId": "B-06-badge-detail-locked",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 0,
+    "parentFilename": "B-06-badge-detail-locked-normal.png",
+    "scrollHeight": 684.6666666666666,
+    "scrollOffset": 168.33333333333334,
+    "viewportHeight": 516.3333333333333,
+    "visibleContentHeight": 516.3333333333333
+  },
+  {
+    "id": "B-01-badge-shelf",
+    "build": 43,
+    "file": "B-01-badge-shelf.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "c5f6566c8205eb0f987a8ae89a137fdf8a92139190a4d871ec8412c7ce3d9377",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-01-badge-shelf-normal.png"
+  },
+  {
+    "id": "B-01-badge-shelf-more",
+    "build": 43,
+    "file": "B-01-badge-shelf-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "5957684a1838d70f0d7d24fdc09b673bbd6dd9bc8ae5ffb614dd7e74f9eabde5",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-01-badge-shelf-normal-scroll-1.png",
+    "parentId": "B-01-badge-shelf",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 0,
+    "parentFilename": "B-01-badge-shelf-normal.png",
+    "scrollHeight": 1091,
+    "scrollOffset": 375,
+    "viewportHeight": 728,
+    "visibleContentHeight": 716
+  },
+  {
+    "id": "B-06-badge-detail",
+    "build": 43,
+    "file": "B-06-badge-detail.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "5bd05c654f63718c7cce50cc3a6cf485d8cd3d69193d3e3d40a61a1b03515456",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-06-badge-detail-normal.png"
+  },
+  {
+    "id": "B-06-badge-detail-more",
+    "build": 43,
+    "file": "B-06-badge-detail-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "938b9f3f8c564014d84e90de87a16c62dd03c31bac59a22a529b1f8d2f906d36",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-06-badge-detail-normal-scroll-1.png",
+    "parentId": "B-06-badge-detail",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 0,
+    "parentFilename": "B-06-badge-detail-normal.png",
+    "scrollHeight": 684.6666666666666,
+    "scrollOffset": 76.66666666666667,
+    "viewportHeight": 608,
+    "visibleContentHeight": 608
+  },
+  {
+    "id": "B-02-badge-unlocked",
+    "build": 43,
+    "file": "B-02-badge-unlocked.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "86cbb21c03bd659a61082f15e01f6b4a206aa80aaa2fee87bfbc537eafe62a4e",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-02-badge-unlocked-normal.png"
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 43,
+    "file": "B-03-share-card.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "6384a80d6512106eef559afc81b63df9f22660224b4b602d92f39b0e02d6f065",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "B-03-share-card-normal.png"
+  },
+  {
+    "id": "K-01-basket-full",
+    "build": 43,
+    "file": "K-01-basket-full.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "190911142d5506c46f21cd98c414a480ac56793bbf03e93a383c34f4ac0aab4c",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-normal.png"
+  },
+  {
+    "id": "K-01-basket-full-more",
+    "build": 43,
+    "file": "K-01-basket-full-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "89741172367f0c118f8c4d7c0a416698ade13b60925882b8a13ddfc7b82d3072",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-normal-scroll-1.png",
+    "parentId": "K-01-basket-full",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 0,
+    "parentFilename": "K-01-basket-full-normal.png",
+    "scrollHeight": 646,
+    "scrollOffset": 70,
+    "viewportHeight": 576,
+    "visibleContentHeight": 576
+  },
+  {
+    "id": "K-01-basket-full-largest",
+    "build": 43,
+    "file": "K-01-basket-full-largest.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "51d4e008b0a82924ea392b253bce78985853587acf80712121608a8acb1e89d9",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-largest-normal.png"
+  },
+  {
+    "id": "K-01-basket-full-largest-more",
+    "build": 43,
+    "file": "K-01-basket-full-largest-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "08f2463023ec74c520cdb44b243c1104a4706a4d65b890cf4a19ed1f10fb4b3a",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-1.png",
+    "parentId": "K-01-basket-full-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 62,
+    "parentFilename": "K-01-basket-full-largest-normal.png",
+    "scrollHeight": 2987.333333333333,
+    "scrollOffset": 606,
+    "viewportHeight": 852,
+    "visibleContentHeight": 778
+  },
+  {
+    "id": "K-01-basket-full-largest-more-2",
+    "build": 43,
+    "file": "K-01-basket-full-largest-more-2.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "c9c1c007773895fa1668ee589620fe49ed03bfec65baeac8b4ead3a01174c26d",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-2.png",
+    "parentId": "K-01-basket-full-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 62,
+    "parentFilename": "K-01-basket-full-largest-normal.png",
+    "scrollHeight": 2987.333333333333,
+    "scrollOffset": 1274,
+    "viewportHeight": 852,
+    "visibleContentHeight": 778
+  },
+  {
+    "id": "K-01-basket-full-largest-more-3",
+    "build": 43,
+    "file": "K-01-basket-full-largest-more-3.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "3f8913999934a6e4004fd687aef9a9f4166e87ad423b87c88cb0c64632131169",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-3.png",
+    "parentId": "K-01-basket-full-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 62,
+    "parentFilename": "K-01-basket-full-largest-normal.png",
+    "scrollHeight": 2987.333333333333,
+    "scrollOffset": 1942,
+    "viewportHeight": 852,
+    "visibleContentHeight": 778
+  },
+  {
+    "id": "K-01-basket-full-largest-more-4",
+    "build": 43,
+    "file": "K-01-basket-full-largest-more-4.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "0477c49493507dca8cb1c71df9d3b9020ffb12a0fe6e54f57ff33d3c116cd1d9",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Build43 production SwiftUI; isolated Claire. Reference-only Small Star Celestial membership/hero; no live merchant, customer or payment change. Shipping-root checks are separate.",
+    "sourceFile": "K-01-basket-full-largest-normal-scroll-4.png",
+    "parentId": "K-01-basket-full-largest",
+    "adjustedInsetBottom": 12,
+    "adjustedInsetTop": 62,
+    "parentFilename": "K-01-basket-full-largest-normal.png",
+    "scrollHeight": 2987.333333333333,
+    "scrollOffset": 2147.3333333333335,
+    "viewportHeight": 852,
+    "visibleContentHeight": 778
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 43,
+    "file": "G-14-my-charms.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "683fc678a6ac82dc40e5932ecf09bb7c76591b09ea03f1e1310c1001698b6ed9",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14-my-charms-normal.png"
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 43,
+    "file": "G-14-my-charms-more.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "f4b1e5896d154515cb42a478e0c32a88d71a03d351cc79c6a305057d0ca65e5a",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14-my-charms-normal-scroll-1.png",
+    "parentId": "G-14-my-charms",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 62,
+    "parentFilename": "G-14-my-charms-normal.png",
+    "scrollHeight": 3286,
+    "scrollOffset": 618,
+    "viewportHeight": 852,
+    "visibleContentHeight": 790
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 43,
+    "file": "G-14-my-charms-more-2.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "ffb4e764ccf048a46731bd93ed6c6fe303232ae284487cc346b6b3a86a1b8505",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14-my-charms-normal-scroll-2.png",
+    "parentId": "G-14-my-charms",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 62,
+    "parentFilename": "G-14-my-charms-normal.png",
+    "scrollHeight": 3286,
+    "scrollOffset": 1298,
+    "viewportHeight": 852,
+    "visibleContentHeight": 790
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "build": 43,
+    "file": "G-14-my-charms-more-3.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "cbb77da16576aa4dc437cf14c8a0b215ed9e6115e1715b8ad1017d6deb5cba48",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14-my-charms-normal-scroll-3.png",
+    "parentId": "G-14-my-charms",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 62,
+    "parentFilename": "G-14-my-charms-normal.png",
+    "scrollHeight": 3286,
+    "scrollOffset": 1978,
+    "viewportHeight": 852,
+    "visibleContentHeight": 790
+  },
+  {
+    "id": "G-14-my-charms-more-4",
+    "build": 43,
+    "file": "G-14-my-charms-more-4.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "c86c7054a997cecbfb19294ddb81cecd0a6de7282630cafa6f30ccf899c6fd65",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14-my-charms-normal-scroll-4.png",
+    "parentId": "G-14-my-charms",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 62,
+    "parentFilename": "G-14-my-charms-normal.png",
+    "scrollHeight": 3286,
+    "scrollOffset": 2434,
+    "viewportHeight": 852,
+    "visibleContentHeight": 790
+  },
+  {
+    "id": "G-14C-my-charms-everything-else",
+    "build": 43,
+    "file": "G-14C-my-charms-everything-else.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "2aeadebfa7428a5a6717ba0783ac1ab83ff2f2bc3feab1ff3b4dd47dc394157b",
+    "textSize": "large",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14C-my-charms-everything-else-normal.png"
+  },
+  {
+    "id": "G-14B-my-charms-sets-largest",
+    "build": 43,
+    "file": "G-14B-my-charms-sets-largest.jpg",
+    "device": "iPhone16 Pro simulator / iOS27; physical402x874pt, controlled393x852pt content window",
+    "scale": 3,
+    "captureKind": "native-content",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "b98845de24f97f85d0ef8671339f2c52defcdd95a945638b49493951a3bb63b2",
+    "textSize": "accessibility5",
+    "sourceKind": "Isolated production SwiftUI content, not shipping AppRoot/live checkout",
+    "fixture": "Current production SwiftUI with isolated Claire launch example. Celestial Small Star membership is reference-only; live Shopify keeps Large Star. Actual catalogue options, stories and Gold colour photos; no live customer or merchant mutation.",
+    "sourceFile": "G-14B-my-charms-sets-largest-normal.png"
+  },
+  {
+    "id": "B-04-set-destination",
+    "build": 43,
+    "file": "B-04-set-destination.jpg",
+    "device": "Chrome393x852 CSSpx mobile emulation /3x",
+    "scale": 3,
+    "captureKind": "web-cua",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "6285f15e24127c825635ad26a6a9bf86a0d24d1fe739a48e489aa5a5119ffdad",
+    "textSize": "large",
+    "sourceKind": "CUA Chromium phone viewport; isolated loopback service, no live customer mutation"
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 43,
+    "file": "B-04-badge-web-page.jpg",
+    "device": "Chrome393x852 CSSpx mobile emulation /3x",
+    "scale": 3,
+    "captureKind": "web-cua",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "1b89ac244d551d2a0dfda18dc409a68fde52e98c7c0ab2b0e5ba9b181dbc869c",
+    "textSize": "large",
+    "sourceKind": "CUA Chromium phone viewport; isolated loopback service, no live customer mutation"
+  },
+  {
+    "id": "APP-diagnostics-privacy",
+    "build": 43,
+    "file": "APP-diagnostics-privacy.jpg",
+    "device": "Chrome393x852 CSSpx mobile emulation /3x",
+    "scale": 3,
+    "captureKind": "live-public-web",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "bea74b7be44ca9b943ef5bcb66a2b9103376a6e6e8d1436fb47a67c053570f6e",
+    "textSize": "large",
+    "sourceKind": "CUA Chromium393pt emulation; live https://weezy-pop-club.fly.dev/diagnostics-privacy, no personal data"
+  },
+  {
+    "id": "APP-diagnostics-privacy-more",
+    "build": 43,
+    "file": "APP-diagnostics-privacy-more.jpg",
+    "device": "Chrome393x852 CSSpx mobile emulation /3x",
+    "scale": 3,
+    "captureKind": "live-public-web",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "sha256": "d965c06c3b7207d7464c5c000b90f78e71476bdb397aacc7be7cef18b289cb68",
+    "textSize": "large",
+    "sourceKind": "CUA Chromium393pt emulation; live https://weezy-pop-club.fly.dev/diagnostics-privacy, no personal data"
+  },
+  {
+    "id": "B-03-badge-still",
+    "file": "B-03-badge-still.png",
+    "build": 43,
+    "scale": 3,
+    "device": "Native fixed media renderer",
+    "viewport": {
+      "width": 360,
+      "height": 640
+    },
+    "captureKind": "native-share-export",
+    "sha256": "0789d3d40c50d54b4c350a0269c45a8fff6f809e0e5bb94683e33d4141c61daf",
+    "reason": "Actual1080x1920 Still export; first name/public art only"
+  },
+  {
+    "id": "B-03-badge-moving",
+    "file": "B-03-badge-moving.mp4",
+    "build": 43,
+    "device": "Native AVAssetWriter",
+    "captureKind": "native-share-video-export",
+    "durationSeconds": 4,
+    "sha256": "5f0acd79e408bb960476527042e49bfedf65a61ff41da85017b086b599bbb173",
+    "reason": "Actual moving share export, not earn-screen recording"
+  },
+  {
+    "id": "K-01-shipping-full-screen",
+    "build": 43,
+    "file": "K-01-shipping-full-screen.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "a8cb24ee8e4c76d7e2599afd29d1e4fb4c3bcf7b21eed5b61c05e5879fc6c95c",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "Final43UITests/testBasketPresentsFullScreenAndClosesToShop()",
+    "capturedAt": 1791553454.849
+  },
+  {
+    "id": "G-24-shipping-largest",
+    "build": 43,
+    "file": "G-24-shipping-largest.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "8e8524da9eeea7ced8809a9b5cfe060782e3a2301e688b47abd2df00494acc36",
+    "textSize": "accessibility5",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+    "capturedAt": 1791553479.011
+  },
+  {
+    "id": "SR-01-shipping-recents-keyboard",
+    "build": 43,
+    "file": "SR-01-shipping-recents-keyboard.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "075ff15a097b03955c0dc0bd9a812e66eee07a603ede474888677b1ace12025e",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "LaunchSearchUITests/testEmptyDiscoveryUsesCategoryTilesAndClearsRecents()",
+    "capturedAt": 1791553495.769
+  },
+  {
+    "id": "SR-01-shipping-empty-keyboard",
+    "build": 43,
+    "file": "SR-01-shipping-empty-keyboard.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "28388a44bef845f893648d9452d2707498c0f1369f5394b8f3b0e33314cbd255",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "LaunchSearchUITests/testEmptyDiscoveryUsesCategoryTilesAndClearsRecents()",
+    "capturedAt": 1791553490.862
+  },
+  {
+    "id": "G-25B-search-typing-keyboard",
+    "build": 43,
+    "file": "G-25B-search-typing-keyboard.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "cec67664b11138c8ad308444bc80bc4157f6c34d8adcf85f278087e89a240ee7",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "LaunchSearchUITests/testFocusLiveResultsFiltersAndReturningFromProductKeepTheSearch()",
+    "capturedAt": 1791553511.394
+  },
+  {
+    "id": "G-25A-search-focus-keyboard",
+    "build": 43,
+    "file": "G-25A-search-focus-keyboard.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "65f7710c6e6925e21279e003acfe5c4ac786d406f4f8d3a15ebc16c7fea63fdf",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "LaunchSearchUITests/testFocusLiveResultsFiltersAndReturningFromProductKeepTheSearch()",
+    "capturedAt": 1791553509.549
+  },
+  {
+    "id": "Shop39-photo-return-3",
+    "build": 43,
+    "file": "Shop39-photo-return-3.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "8d8fa6bb1b5310db858762e22d3eba599e40d3f0add835a5376524b03baa45b3",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+    "capturedAt": 1791552961.162
+  },
+  {
+    "id": "Scroll43-settled-11",
+    "build": 43,
+    "file": "Scroll43-settled-11.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "cb03d3df8d4ef8f303568e165341e8d4d813415a4b2fef274d8ee295ad2f461e",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "Shop38UITests/testSlowPartialAndFastSwipesAlwaysSettleOnOneWholeProduct()",
+    "capturedAt": 1791552999.963
+  },
+  {
+    "id": "Scroll43-settled-0",
+    "build": 43,
+    "file": "Scroll43-settled-0.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "7e987b24795a0345e1598a0fd7281d1048c6c066c84b176eab99a927dcabd111",
+    "textSize": "large",
+    "sourceKind": "Actual shipping AppRoot with isolated DEBUG test storage/bundled catalogue; no live customer/payment",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "Shop38UITests/testSlowPartialAndFastSwipesAlwaysSettleOnOneWholeProduct()",
+    "capturedAt": 1791552974.024
+  },
+  {
+    "id": "K-01-shipping-largest-more",
+    "build": 43,
+    "file": "K-01-shipping-largest-more.jpg",
+    "device": "iPhone16 Pro / iOS27, physical402x874pt shipping AppRoot",
+    "scale": 3,
+    "captureKind": "shipping-root-ui-test",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "sha256": "2f8932d4ae2a92305fa3e317ea1a23e56e3f54caea646f5b5ff79e2a3fe967c9",
+    "textSize": "accessibility5",
+    "sourceKind": "Actual shipping AppRoot after accessibility empty-recommendation stacking; isolated DEBUG data/no live writes",
+    "sourcePixelDimensions": [
+      1206,
+      2622
+    ],
+    "exportPixelDimensions": [
+      1179,
+      2563
+    ],
+    "resampled": true,
+    "testIdentifier": "Final43UITests/testLargestBasketAndSettingsControlsRemainReachable()",
+    "capturedAt": 1791555375.396
+  },
+  {
+    "id": "B-02-earn-moment",
+    "file": "B-02-earn-moment.mp4",
+    "build": 43,
+    "device": "iPhone16 Pro simulator, physical402x874pt; actual393x852pt controlled native earn window",
+    "captureKind": "native-earn-screen-recording",
+    "durationSeconds": 8,
+    "sha256": "29c690046fef18154e607a77e3175327586769eea5a20a254e01e1981dcaaaa1",
+    "sourceKind": "simctl recording of production BadgeEarnMomentView, isolated verified paid-order fixture, not a real purchase or hardware haptic"
+  },
+  {
+    "id": "B-02-earn-moment-reduced",
+    "file": "B-02-earn-moment-reduced.mp4",
+    "build": 43,
+    "device": "iPhone18 Pro simulator / iOS27; controlled393x852pt native view",
+    "captureKind": "native-earn-screen-recording-reduce-motion",
+    "durationSeconds": 8,
+    "sha256": "74d60182e599fdd5791a47cf219fc2094c52e216d0035509569a3c9f6918185a",
+    "sourceKind": "Actual simulator Reduce Motion switch enabled in Settings; UIAccessibility.isReduceMotionEnabled asserted; isolated verified order fixture"
+  }
+]

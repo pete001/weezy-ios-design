@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "build": 43,
+  "signed": true,
+  "strictPackageVerification": true,
+  "appleServerValidated": true,
+  "sourceCommit": "79c80d31bb2a60ff88d0cceecc40029c893803ff",
+  "productionSourceFreezeSHA256": "123d4289dd77f3628358ec528bae2f1522f4530d708f81626de27ebae493224c",
+  "ipaSHA256": "44def4a01dc701bf458b73ecb1b1f15b1d73f905f09f2188e06ce59a0a8be406",
+  "uploaded": false,
+  "distributed": false,
+  "gate": "Required diagnostics privacy answers are not yet confirmed as published; Apple web login expired.",
+  "currentDistributedBuild": 42
+}

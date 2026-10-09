@@ -1,0 +1,975 @@
+{
+  "baseline": "review/build-42-follow-up",
+  "baselineCommit": "9b2ffca0e49d6edca97d2022b436e144fceea302",
+  "build": 43,
+  "changes": [
+    {
+      "id": "G-24-settings",
+      "status": "changed",
+      "file": "G-24-settings.jpg",
+      "sha256": "af55e68e694174dc2994e362e328ad14030232a71c06ac7483f00be94515d409",
+      "previousFile": "../build-42-follow-up/G-24-settings.jpg",
+      "previousSHA256": "c2c22e1279ba9141c5aa925b8ecb074c8606f85c53c5210e8dc887102c9046c9"
+    },
+    {
+      "id": "G-24-settings-more",
+      "status": "changed",
+      "file": "G-24-settings-more.jpg",
+      "sha256": "0f2a5acd7caac9a7fec17db7524536d03c07ef142b98601b35e14e929d011015",
+      "previousFile": "../build-42-follow-up/G-24-settings-more.jpg",
+      "previousSHA256": "3486047de966c501ec23ba56efee3e3216c2d77a89fdff70da54f6ee0b36fafd"
+    },
+    {
+      "id": "G-24-settings-more-2",
+      "status": "added",
+      "file": "G-24-settings-more-2.jpg",
+      "sha256": "5bd8bb2d041cdc462d9153ff8b0e7165dad08593f0cf8129463aa0b7907b6d55",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "G-24-settings-largest",
+      "status": "changed",
+      "file": "G-24-settings-largest.jpg",
+      "sha256": "535aeec55bedc72315cd1733b88c0888d949894a36deeebb31cbde4c64db8c67",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest.jpg",
+      "previousSHA256": "10a98bbc59693bc259bfe59c3c036f6427ee7850fbbb913134f897ae53a55e62"
+    },
+    {
+      "id": "G-24-settings-largest-more",
+      "status": "changed",
+      "file": "G-24-settings-largest-more.jpg",
+      "sha256": "d7ad369d8718c97b70f1c50a4137d98ec9ba1a79d591fa5630791740e28e376a",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest-more.jpg",
+      "previousSHA256": "17cdf08cd042a31afac6f5ee7676a80af764df827ae9a05b1e93dce96498e337"
+    },
+    {
+      "id": "G-24-settings-largest-more-2",
+      "status": "changed",
+      "file": "G-24-settings-largest-more-2.jpg",
+      "sha256": "3a6a3ba82b180ccc21ae21cd4e9718a2caec6520e1401359f8067582bf685fb6",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest-more-2.jpg",
+      "previousSHA256": "29d3b3fd6008d93dc408047e8529c993137e491cf6ce91303622a29b7d89dad9"
+    },
+    {
+      "id": "G-24-settings-largest-more-3",
+      "status": "changed",
+      "file": "G-24-settings-largest-more-3.jpg",
+      "sha256": "3facfb8eb9f995893650dad30681f07bbe4b71ef5dd4e8b78d09e42724053d43",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest-more-3.jpg",
+      "previousSHA256": "d64e312a38859d6240e44e7056a43b486cbe18107a0f948be596723484afcecc"
+    },
+    {
+      "id": "G-24-settings-largest-more-4",
+      "status": "changed",
+      "file": "G-24-settings-largest-more-4.jpg",
+      "sha256": "4e7d4cdb55b64d4d3762615347984df82a1193551f3743a9ca3f6ac981e4f883",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest-more-4.jpg",
+      "previousSHA256": "7380ffcd698a7e6f26094cb2f82834b720083a55864f1175cfbed45784ad9ddd"
+    },
+    {
+      "id": "G-24-settings-largest-more-5",
+      "status": "changed",
+      "file": "G-24-settings-largest-more-5.jpg",
+      "sha256": "b36b18eff3450b6b558778ec7ea3472aa9a6c59c2e498303f7d4ae0a43403e17",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest-more-5.jpg",
+      "previousSHA256": "f8601c30338eebf0058d67756124c4b43fd6718d3643cfc2ba5c92febfa33d98"
+    },
+    {
+      "id": "G-24-settings-largest-more-6",
+      "status": "changed",
+      "file": "G-24-settings-largest-more-6.jpg",
+      "sha256": "6598101c41cbfacdd83bfef1d1d6b2bae4fb975c8800dc1ab7c11b2bc486c116",
+      "previousFile": "../build-42-follow-up/G-24-settings-largest-more-6.jpg",
+      "previousSHA256": "f489acd8b29a8b851548306f8847d676e84bd6621672d96c38f5726ea8650f59"
+    },
+    {
+      "id": "P-01-profile",
+      "status": "added",
+      "file": "P-01-profile.jpg",
+      "sha256": "93ae60a2ed254f2311a354801ed0e9197d3e899d0003e08245b753394b05e9c2",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "P-01-profile-more",
+      "status": "added",
+      "file": "P-01-profile-more.jpg",
+      "sha256": "74810492476b2479e68c1a08955cb12ced4596709869b32171cb03d70aeacb6e",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "P-01-profile-pull",
+      "status": "added",
+      "file": "P-01-profile-pull.jpg",
+      "sha256": "487004c37c0faa5b80bc2c7e26abe60ccbcc3bcd6119ba42d2f0e09c67c02f95",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-05-badge-catalogue",
+      "status": "added",
+      "file": "B-05-badge-catalogue.jpg",
+      "sha256": "bf8a562e1e13757e0181d15f299826e4816192e1c6dbce7cf927244c5f3e0661",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-05-badge-catalogue-more",
+      "status": "added",
+      "file": "B-05-badge-catalogue-more.jpg",
+      "sha256": "92b2281597b64372f08869105c7d023ce544b1f096b5c7cafe21c0ec7e672b6b",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "SR-01-search-empty",
+      "status": "added",
+      "file": "SR-01-search-empty.jpg",
+      "sha256": "67c6a24587788768fecaee3e759c95f1040abbc784cc81b2401e432b43dba208",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "SR-01-search-empty-more",
+      "status": "added",
+      "file": "SR-01-search-empty-more.jpg",
+      "sha256": "fe0557b9c42b198c979d66c7ccd8154f591caf69a7e095b9ffd35e7a5363f67b",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "SR-01-search-empty-no-recents",
+      "status": "added",
+      "file": "SR-01-search-empty-no-recents.jpg",
+      "sha256": "594a18324c766fbd7336b9b4012ca935bf24e66cda479358a99f6b8c67e99bd6",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-06-badge-detail-locked",
+      "status": "added",
+      "file": "B-06-badge-detail-locked.jpg",
+      "sha256": "f6eb25668a9fda0493079f0bcb489eea9f29a63f3c694495b8d3373efc2beab0",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-06-badge-detail-locked-more",
+      "status": "added",
+      "file": "B-06-badge-detail-locked-more.jpg",
+      "sha256": "5f8ece97a6c84e772d41eeb84af411dde7f06911b67b68a1e69eea21e0533cd1",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-01-badge-shelf",
+      "status": "added",
+      "file": "B-01-badge-shelf.jpg",
+      "sha256": "c5f6566c8205eb0f987a8ae89a137fdf8a92139190a4d871ec8412c7ce3d9377",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-01-badge-shelf-more",
+      "status": "added",
+      "file": "B-01-badge-shelf-more.jpg",
+      "sha256": "5957684a1838d70f0d7d24fdc09b673bbd6dd9bc8ae5ffb614dd7e74f9eabde5",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-06-badge-detail",
+      "status": "added",
+      "file": "B-06-badge-detail.jpg",
+      "sha256": "5bd05c654f63718c7cce50cc3a6cf485d8cd3d69193d3e3d40a61a1b03515456",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-06-badge-detail-more",
+      "status": "added",
+      "file": "B-06-badge-detail-more.jpg",
+      "sha256": "938b9f3f8c564014d84e90de87a16c62dd03c31bac59a22a529b1f8d2f906d36",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-02-badge-unlocked",
+      "status": "added",
+      "file": "B-02-badge-unlocked.jpg",
+      "sha256": "86cbb21c03bd659a61082f15e01f6b4a206aa80aaa2fee87bfbc537eafe62a4e",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-03-share-card",
+      "status": "added",
+      "file": "B-03-share-card.jpg",
+      "sha256": "6384a80d6512106eef559afc81b63df9f22660224b4b602d92f39b0e02d6f065",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full",
+      "status": "added",
+      "file": "K-01-basket-full.jpg",
+      "sha256": "190911142d5506c46f21cd98c414a480ac56793bbf03e93a383c34f4ac0aab4c",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full-more",
+      "status": "added",
+      "file": "K-01-basket-full-more.jpg",
+      "sha256": "89741172367f0c118f8c4d7c0a416698ade13b60925882b8a13ddfc7b82d3072",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full-largest",
+      "status": "added",
+      "file": "K-01-basket-full-largest.jpg",
+      "sha256": "51d4e008b0a82924ea392b253bce78985853587acf80712121608a8acb1e89d9",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full-largest-more",
+      "status": "added",
+      "file": "K-01-basket-full-largest-more.jpg",
+      "sha256": "08f2463023ec74c520cdb44b243c1104a4706a4d65b890cf4a19ed1f10fb4b3a",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full-largest-more-2",
+      "status": "added",
+      "file": "K-01-basket-full-largest-more-2.jpg",
+      "sha256": "c9c1c007773895fa1668ee589620fe49ed03bfec65baeac8b4ead3a01174c26d",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full-largest-more-3",
+      "status": "added",
+      "file": "K-01-basket-full-largest-more-3.jpg",
+      "sha256": "3f8913999934a6e4004fd687aef9a9f4166e87ad423b87c88cb0c64632131169",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-basket-full-largest-more-4",
+      "status": "added",
+      "file": "K-01-basket-full-largest-more-4.jpg",
+      "sha256": "0477c49493507dca8cb1c71df9d3b9020ffb12a0fe6e54f57ff33d3c116cd1d9",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "G-14-my-charms",
+      "status": "changed",
+      "file": "G-14-my-charms.jpg",
+      "sha256": "683fc678a6ac82dc40e5932ecf09bb7c76591b09ea03f1e1310c1001698b6ed9",
+      "previousFile": "../build-42/G-14-my-charms.jpg",
+      "previousSHA256": "6bde458572a9ed8686a072c444299e8ce2b90b89650cbeb368dea83105b8bdd4"
+    },
+    {
+      "id": "G-14-my-charms-more",
+      "status": "changed",
+      "file": "G-14-my-charms-more.jpg",
+      "sha256": "f4b1e5896d154515cb42a478e0c32a88d71a03d351cc79c6a305057d0ca65e5a",
+      "previousFile": "../build-42/G-14-my-charms-more.jpg",
+      "previousSHA256": "10702acb589181d299e57809836648b860c696b8a20a4f1969512665b0dfae3c"
+    },
+    {
+      "id": "G-14-my-charms-more-2",
+      "status": "changed",
+      "file": "G-14-my-charms-more-2.jpg",
+      "sha256": "ffb4e764ccf048a46731bd93ed6c6fe303232ae284487cc346b6b3a86a1b8505",
+      "previousFile": "../build-42/G-14-my-charms-more-2.jpg",
+      "previousSHA256": "9132a439308c75318804285b80d9fb4b3ef90cf1abe2c205083f5345c7b1ee6f"
+    },
+    {
+      "id": "G-14-my-charms-more-3",
+      "status": "changed",
+      "file": "G-14-my-charms-more-3.jpg",
+      "sha256": "cbb77da16576aa4dc437cf14c8a0b215ed9e6115e1715b8ad1017d6deb5cba48",
+      "previousFile": "../build-42/G-14-my-charms-more-3.jpg",
+      "previousSHA256": "f34b1026e330389640fb3cc53e56dffc2ff21a06a6cab7feed2e86c3bb99b5e9"
+    },
+    {
+      "id": "G-14-my-charms-more-4",
+      "status": "changed",
+      "file": "G-14-my-charms-more-4.jpg",
+      "sha256": "c86c7054a997cecbfb19294ddb81cecd0a6de7282630cafa6f30ccf899c6fd65",
+      "previousFile": "../build-42/G-14-my-charms-more-4.jpg",
+      "previousSHA256": "a23d952b7817613e4ca511991ce9dc2f9555f475e972a6e0d80018d1e0684373"
+    },
+    {
+      "id": "G-14C-my-charms-everything-else",
+      "status": "changed",
+      "file": "G-14C-my-charms-everything-else.jpg",
+      "sha256": "2aeadebfa7428a5a6717ba0783ac1ab83ff2f2bc3feab1ff3b4dd47dc394157b",
+      "previousFile": "../build-42/G-14C-my-charms-everything-else.jpg",
+      "previousSHA256": "3cc4bd95ee2a7e54925bf9c823ae70232e4e6f0352ee313cee3eaab6282755dc"
+    },
+    {
+      "id": "G-14B-my-charms-sets-largest",
+      "status": "changed",
+      "file": "G-14B-my-charms-sets-largest.jpg",
+      "sha256": "b98845de24f97f85d0ef8671339f2c52defcdd95a945638b49493951a3bb63b2",
+      "previousFile": "../build-42/G-14B-my-charms-sets-largest.jpg",
+      "previousSHA256": "91686d849d9bec8d17e1a4c8925ca15dae663384ec0f7c0feaf333eabd024125"
+    },
+    {
+      "id": "B-04-set-destination",
+      "status": "added",
+      "file": "B-04-set-destination.jpg",
+      "sha256": "6285f15e24127c825635ad26a6a9bf86a0d24d1fe739a48e489aa5a5119ffdad",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-04-badge-web-page",
+      "status": "added",
+      "file": "B-04-badge-web-page.jpg",
+      "sha256": "1b89ac244d551d2a0dfda18dc409a68fde52e98c7c0ab2b0e5ba9b181dbc869c",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "APP-diagnostics-privacy",
+      "status": "changed",
+      "file": "APP-diagnostics-privacy.jpg",
+      "sha256": "bea74b7be44ca9b943ef5bcb66a2b9103376a6e6e8d1436fb47a67c053570f6e",
+      "previousFile": "../build-42-follow-up/APP-diagnostics-privacy.jpg",
+      "previousSHA256": "696ccc99a18f7e9343b9087c7490d14fb499e6c0330eca90cf7dbd63d573a1ba"
+    },
+    {
+      "id": "APP-diagnostics-privacy-more",
+      "status": "added",
+      "file": "APP-diagnostics-privacy-more.jpg",
+      "sha256": "d965c06c3b7207d7464c5c000b90f78e71476bdb397aacc7be7cef18b289cb68",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-03-badge-still",
+      "status": "added",
+      "file": "B-03-badge-still.png",
+      "sha256": "0789d3d40c50d54b4c350a0269c45a8fff6f809e0e5bb94683e33d4141c61daf",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-03-badge-moving",
+      "status": "added",
+      "file": "B-03-badge-moving.mp4",
+      "sha256": "5f0acd79e408bb960476527042e49bfedf65a61ff41da85017b086b599bbb173",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-shipping-full-screen",
+      "status": "added",
+      "file": "K-01-shipping-full-screen.jpg",
+      "sha256": "a8cb24ee8e4c76d7e2599afd29d1e4fb4c3bcf7b21eed5b61c05e5879fc6c95c",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "G-24-shipping-largest",
+      "status": "added",
+      "file": "G-24-shipping-largest.jpg",
+      "sha256": "8e8524da9eeea7ced8809a9b5cfe060782e3a2301e688b47abd2df00494acc36",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "SR-01-shipping-recents-keyboard",
+      "status": "added",
+      "file": "SR-01-shipping-recents-keyboard.jpg",
+      "sha256": "075ff15a097b03955c0dc0bd9a812e66eee07a603ede474888677b1ace12025e",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "SR-01-shipping-empty-keyboard",
+      "status": "added",
+      "file": "SR-01-shipping-empty-keyboard.jpg",
+      "sha256": "28388a44bef845f893648d9452d2707498c0f1369f5394b8f3b0e33314cbd255",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "G-25B-search-typing-keyboard",
+      "status": "changed",
+      "file": "G-25B-search-typing-keyboard.jpg",
+      "sha256": "cec67664b11138c8ad308444bc80bc4157f6c34d8adcf85f278087e89a240ee7",
+      "previousFile": "../build-42/G-25B-search-typing-keyboard.jpg",
+      "previousSHA256": "d70dcbefa91b265737782a411a609e76849984c04fe37a6b3ad1a246da155837"
+    },
+    {
+      "id": "G-25A-search-focus-keyboard",
+      "status": "changed",
+      "file": "G-25A-search-focus-keyboard.jpg",
+      "sha256": "65f7710c6e6925e21279e003acfe5c4ac786d406f4f8d3a15ebc16c7fea63fdf",
+      "previousFile": "../build-42/G-25A-search-focus-keyboard.jpg",
+      "previousSHA256": "ca9af30f918799c95d096fa162126a8ee0dca311ef6614f4d47dcc0f1d94e186"
+    },
+    {
+      "id": "Shop39-photo-return-3",
+      "status": "added",
+      "file": "Shop39-photo-return-3.jpg",
+      "sha256": "8d8fa6bb1b5310db858762e22d3eba599e40d3f0add835a5376524b03baa45b3",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "Scroll43-settled-11",
+      "status": "added",
+      "file": "Scroll43-settled-11.jpg",
+      "sha256": "cb03d3df8d4ef8f303568e165341e8d4d813415a4b2fef274d8ee295ad2f461e",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "Scroll43-settled-0",
+      "status": "added",
+      "file": "Scroll43-settled-0.jpg",
+      "sha256": "7e987b24795a0345e1598a0fd7281d1048c6c066c84b176eab99a927dcabd111",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "K-01-shipping-largest-more",
+      "status": "added",
+      "file": "K-01-shipping-largest-more.jpg",
+      "sha256": "2f8932d4ae2a92305fa3e317ea1a23e56e3f54caea646f5b5ff79e2a3fe967c9",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-02-earn-moment",
+      "status": "added",
+      "file": "B-02-earn-moment.mp4",
+      "sha256": "29c690046fef18154e607a77e3175327586769eea5a20a254e01e1981dcaaaa1",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "B-02-earn-moment-reduced",
+      "status": "added",
+      "file": "B-02-earn-moment-reduced.mp4",
+      "sha256": "74d60182e599fdd5791a47cf219fc2094c52e216d0035509569a3c9f6918185a",
+      "previousFile": null,
+      "previousSHA256": null
+    },
+    {
+      "id": "G-25A-search-focus",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25A-search-focus.jpg",
+      "previousSHA256": "f717a2c6f83a54011a603e898905c9d399ed96cf52582aa9ce227361bb9d4a39"
+    },
+    {
+      "id": "G-25B-search-typing",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25B-search-typing.jpg",
+      "previousSHA256": "38773e835a80d2fce52e1aac299d9495a3c4e93c00db0b704d242251491841bf"
+    },
+    {
+      "id": "G-25B-search-typing-more",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25B-search-typing-more.jpg",
+      "previousSHA256": "025c28a1a71b2c88162b1c0466f46f37523a93ead9b9ad16f45131879610b039"
+    },
+    {
+      "id": "G-25B-search-typing-more-2",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25B-search-typing-more-2.jpg",
+      "previousSHA256": "dc3a69bad617af119d5918778fe986e4409cca4f388b9242d40bf8ff118b6cc4"
+    },
+    {
+      "id": "G-25B-search-typing-more-3",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25B-search-typing-more-3.jpg",
+      "previousSHA256": "84de311ba165d60ee965d893f943a0c4757402b847ac481e8d767615132edf55"
+    },
+    {
+      "id": "G-25B-search-typing-more-4",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25B-search-typing-more-4.jpg",
+      "previousSHA256": "9cfe76774eca94e1cf522ae04b9f8350cbaa66058a9f210cd7beed61b4067edb"
+    },
+    {
+      "id": "G-25-search",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25-search.jpg",
+      "previousSHA256": "38773e835a80d2fce52e1aac299d9495a3c4e93c00db0b704d242251491841bf"
+    },
+    {
+      "id": "G-25-search-more",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25-search-more.jpg",
+      "previousSHA256": "91da5365f0cd19ab70ef6028a5e2133dbde87b60255a37d4d4b31786bc69b9d3"
+    },
+    {
+      "id": "G-25-search-more-2",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25-search-more-2.jpg",
+      "previousSHA256": "50b930fa704f9bec5c9e6d61c1c583d2ac2f8b75656fc414116fc91b06a05ec9"
+    },
+    {
+      "id": "G-25-search-more-3",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25-search-more-3.jpg",
+      "previousSHA256": "7955ae369e6d94d5b2b059d944473486643472a9dd03ed4719613e1d0609d5dc"
+    },
+    {
+      "id": "G-25-search-more-4",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25-search-more-4.jpg",
+      "previousSHA256": "a8e892c63c70ca48f5f16881a110c930baaf416bab2db628181e5c221e79e78f"
+    },
+    {
+      "id": "G-25E-search-no-results",
+      "status": "superseded",
+      "supersededBy": [
+        "SR-01-search-empty",
+        "SR-01-search-empty-no-recents"
+      ],
+      "previousFile": "../build-42/G-25E-search-no-results.jpg",
+      "previousSHA256": "8d0dcf83da3a2f2292f97cbab8416f21b4ed8545fc7f5af03d8465295df2bc8b"
+    },
+    {
+      "id": "G-35-basket-sheet",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35-basket-sheet.jpg",
+      "previousSHA256": "aec60a6e2c814af0c90eef43c4b5a380e782079d69a041b30eb12d3f179f39d9"
+    },
+    {
+      "id": "G-35U-basket-removal-undo",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35U-basket-removal-undo.jpg",
+      "previousSHA256": "0798de4aeec9ccbc7e55819cd578858b0b337fae13b8c1e412afbaebc1889f3f"
+    },
+    {
+      "id": "G-35E-basket-empty",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35E-basket-empty.jpg",
+      "previousSHA256": "42e10bdd586e0da466d7bbae90ccd16ddca4d1bb697057943b42083717edbe6a"
+    },
+    {
+      "id": "M-12-basket-quote-failed",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/M-12-basket-quote-failed.jpg",
+      "previousSHA256": "1d665b9856bad96c46c8a26212804434039514c45f17841cf04da622ac6c3062"
+    },
+    {
+      "id": "M-12-basket-quote-failed-more",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/M-12-basket-quote-failed-more.jpg",
+      "previousSHA256": "e46bc6f3ec51f31784f4d44694bbbe586476ea245c81d375c6c4b789f34c25bb"
+    },
+    {
+      "id": "G-14-my-charms-more-5",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/G-14-my-charms-more-5.jpg",
+      "previousSHA256": "ad6047fe8963e2b1ea328e3c1cbd76519a351b7f5ba3587a919688b4e1aefee9"
+    },
+    {
+      "id": "G-14-my-charms-more-6",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/G-14-my-charms-more-6.jpg",
+      "previousSHA256": "300edccaaf7e288ade606e10457f99fbb25144831b03cc9d202654cf05de8d98"
+    },
+    {
+      "id": "G-14B-my-charms-sets",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/G-14B-my-charms-sets.jpg",
+      "previousSHA256": "2190a7236535ff9cead419c9e6b06cc47d4a7d2b7ca56f3808c6faf9e00a8966"
+    },
+    {
+      "id": "G-19-achievements",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/G-19-achievements.jpg",
+      "previousSHA256": "39c19dd974196f49ad7c6a7aeb83f705a7e8922af7bb821dc2a6e6ffe1a5e24e"
+    },
+    {
+      "id": "G-19-achievements-more",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/G-19-achievements-more.jpg",
+      "previousSHA256": "fcdef5a3c66542c1503f63dbb7a2108bf84533599fd870e0a16e292bd452ea54"
+    },
+    {
+      "id": "G-19-achievements-more-2",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/G-19-achievements-more-2.jpg",
+      "previousSHA256": "f4383ca87951fc6397ae01a715c7fff89ab86ea09de07730dc559e9dbaa3b18d"
+    },
+    {
+      "id": "BUILD29-BADGE-DETAIL",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/BUILD29-BADGE-DETAIL.jpg",
+      "previousSHA256": "9f063b2f940830a8301a50fd81a39d75f8f7405d449a6099a091e2b8193e9dbb"
+    },
+    {
+      "id": "G-31-badge-catalogue",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/G-31-badge-catalogue.jpg",
+      "previousSHA256": "35d95bb37939711096e4fd0a5070e2654385c059a5b0214e357d37e70b8afb80"
+    },
+    {
+      "id": "G-31-badge-catalogue-more",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/G-31-badge-catalogue-more.jpg",
+      "previousSHA256": "37f2be2b30538a02ac3776a79c0b75cf4c2046022e17999180d82a73faff032a"
+    },
+    {
+      "id": "G-34-share-badge",
+      "status": "superseded",
+      "supersededBy": [
+        "B-01-badge-shelf",
+        "B-05-badge-catalogue",
+        "B-06-badge-detail",
+        "B-03-share-card"
+      ],
+      "previousFile": "../build-42/G-34-share-badge.jpg",
+      "previousSHA256": "46b1a723ebebdd0c9935c390b893fa39d376d6c6bb67953e8cf4cfc9d1e75319"
+    },
+    {
+      "id": "M-11-offline",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/M-11-offline.jpg",
+      "previousSHA256": "1dd93ca2bb7d3a89d2b1502b345515ea14f25a6c141afb308304b3734a42c256"
+    },
+    {
+      "id": "M-11-offline-more",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/M-11-offline-more.jpg",
+      "previousSHA256": "77367c8ff30953b133434d79b9e5e7e74428c6e159377a7da2fe2d6c2b921f96"
+    },
+    {
+      "id": "M-11-offline-more-2",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/M-11-offline-more-2.jpg",
+      "previousSHA256": "2bf75c5367d51a9ff53df4dfedbb776a76c4ace5e6cb8766bfefbd4546ee6d61"
+    },
+    {
+      "id": "M-11-offline-more-3",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/M-11-offline-more-3.jpg",
+      "previousSHA256": "decba03072290a201e91d5ce0e76bbc4d29b28e76c9f172d1d4a53959211626d"
+    },
+    {
+      "id": "M-11-offline-more-4",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/M-11-offline-more-4.jpg",
+      "previousSHA256": "b1a94c96c321a9b86f6e228716c1f01489f1472b5dbfde87de83ada611a1b92d"
+    },
+    {
+      "id": "M-11-offline-more-5",
+      "status": "superseded",
+      "supersededBy": [
+        "G-14-my-charms",
+        "G-14B-my-charms-sets-largest"
+      ],
+      "previousFile": "../build-42/M-11-offline-more-5.jpg",
+      "previousSHA256": "ec14e0ac4711dcafcdb44aeedf02be9ad4ec43d9310a2269e02c79f902ba0681"
+    },
+    {
+      "id": "SHEET-basket",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/SHEET-basket.jpg",
+      "previousSHA256": "bc8f920d5e0bbf7326d876b88a454292976434eb59b909674cc66563f7f1a80f"
+    },
+    {
+      "id": "SHEET-basket-more",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/SHEET-basket-more.jpg",
+      "previousSHA256": "d3f6e49fb5386f0aab12ed39fe76af1a2113b401869c8ad95cd7586bff1d5727"
+    },
+    {
+      "id": "brand-basket-set-launch",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch.jpg",
+      "previousSHA256": "72aa5b14dad5b7c41f2c1d5d3fc89ee7e6bf9100e7689525c0b4507be21d88cd"
+    },
+    {
+      "id": "brand-basket-set-launch-more",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-more.jpg",
+      "previousSHA256": "4e9d71a72e4c7afb05b93ccd737ebb70c2ffac639798941ea567e5330210b2dd"
+    },
+    {
+      "id": "brand-basket-set-launch-largest",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest.jpg",
+      "previousSHA256": "8c9e31e861cb90d2e8af15ce9ed232fb26272ad1244f011031864c06a9ac621a"
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more.jpg",
+      "previousSHA256": "e3b3422c7bf3abcdf99ccca907834faf1a10aea9c8d92028db168445f213c2c6"
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-2",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-2.jpg",
+      "previousSHA256": "e2c5c67715f2ee613ac3ac92794e0977a4ecc5df317e34adf4b09bdfecbe7026"
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-3",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-3.jpg",
+      "previousSHA256": "e782cc3c99570766a9975f5c30f9499a8c62ca592a6fb12d13bf5806b0afed77"
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-4",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-4.jpg",
+      "previousSHA256": "6e7b03ab824b88f41bd89909ab4bf1eed87c35f1e6efe06900462ea62b78d6e6"
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-5",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-5.jpg",
+      "previousSHA256": "f9cdaf12af6d37ca8de03ad87b65b75dc8e0705232843b8e3f6837efc40605ac"
+    },
+    {
+      "id": "brand-basket-set-launch-largest-more-6",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/brand-basket-set-launch-largest-more-6.jpg",
+      "previousSHA256": "eb6791dfa266a396782ab89c6f34dc8be2419ae4bed7c281bb4e5e09f074b6bf"
+    },
+    {
+      "id": "G-35-basket-sheet-largest",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35-basket-sheet-largest.jpg",
+      "previousSHA256": "d9af535064958533fc4c01316f3d074b0ff0c313a24a7a0e995c2b1eca3d9c12"
+    },
+    {
+      "id": "G-35-basket-sheet-largest-more",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35-basket-sheet-largest-more.jpg",
+      "previousSHA256": "408b214db0fcf0fc62f81d7d71f8bd438ed30e656ea32f39bd5aa2152c495226"
+    },
+    {
+      "id": "G-35-basket-sheet-largest-more-2",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35-basket-sheet-largest-more-2.jpg",
+      "previousSHA256": "7c5cc010be766c4e538e081064dbb089ff5bdfabc9fe4fc4983457ebbfd68f62"
+    },
+    {
+      "id": "G-35-basket-sheet-largest-more-3",
+      "status": "superseded",
+      "supersededBy": [
+        "K-01-basket-full",
+        "K-01-basket-full-largest"
+      ],
+      "previousFile": "../build-42/G-35-basket-sheet-largest-more-3.jpg",
+      "previousSHA256": "42daafae235e7a812f8b7085174cb02ca0756154b1261aad1e2bfd41d981cc3d"
+    },
+    {
+      "id": "G-24-more-settings",
+      "status": "superseded",
+      "supersededBy": [
+        "G-24-settings",
+        "G-24-settings-largest"
+      ],
+      "previousFile": "../build-42-follow-up/G-24-more-settings.jpg",
+      "previousSHA256": "3486047de966c501ec23ba56efee3e3216c2d77a89fdff70da54f6ee0b36fafd"
+    }
+  ]
+}

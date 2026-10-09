@@ -1,0 +1,404 @@
+{
+  "build": 43,
+  "version": "1.0",
+  "recordedAt": "2026-10-09T14:21:03.240320+00:00",
+  "sourceCommit": "0ea90ca340af790cf7935ece446c03a63d5b30bd",
+  "native": [
+    {
+      "name": "models-freeze43",
+      "success": true,
+      "total": 345,
+      "passed": 345,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "6522b6e156ddf8a0aee1b7f272be29f0a0d0b427c3f6cf64474148687f557e69"
+    },
+    {
+      "name": "paging-primary43",
+      "success": true,
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "d29a946643534c08851464b2bb4a3d86e2a67f9c0694c0b21da176da796c456c"
+    },
+    {
+      "name": "ui-primary43",
+      "success": true,
+      "total": 14,
+      "passed": 14,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "9a5a4db0c9461bad54008fab5520f56c25e2b2f9383828666f6b68343b763836"
+    },
+    {
+      "name": "ui-smaller43",
+      "success": true,
+      "total": 8,
+      "passed": 8,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "b2ac6b8059370e438f1ea32db48ae1c78faa67ee92b7030af2038a26b4687502"
+    },
+    {
+      "name": "ui-optimized43",
+      "success": true,
+      "total": 4,
+      "passed": 4,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "Release optimized, shipping guest root, cached/live read-only catalogue; DEBUG synthetic fixture flags absent",
+      "evidenceSHA256": "662624aab961ed2c58df2bd0af59da8cd6cdc5ba1c8743bfed977245ab085a6b"
+    },
+    {
+      "name": "accessibility-unsuppressed43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "5e05399eee7ccdb0867258a536cd5ba3687f3596d970972fbc7d27cde996b195"
+    },
+    {
+      "name": "reduce-motion43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=BF5E3531-9A4C-4B2F-BDBA-5E55FF6F79BF"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "09563c4ba6fe076d809675bd5332f00613fd102709a55c0c44d450f18b223e55"
+    },
+    {
+      "name": "captures-final-header43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "1f85a6fb6d674681edfa6f64cb1b410d87acbdd3df13a580bc5401f06a5915e2"
+    },
+    {
+      "name": "captures-archive43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "ba023ae4e0ff68f94db8fd018c9fe753b2c4f5c44f0b870a10a184360ea18fe9"
+    },
+    {
+      "name": "earn-motion43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "c8fbf0804851659b054c709547de7f878d770718b6b053a8ee97d21c519f8f7d"
+    },
+    {
+      "name": "ui-empty-largest-primary43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "d26648c5afb80708dded8e3059a225f605ec96f9f2566a1ae0460ff516cbbbc6"
+    },
+    {
+      "name": "ui-empty-largest-smaller43",
+      "success": true,
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "device": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "configuration": "isolated test data / no live customer writes",
+      "evidenceSHA256": "f25a2d275b973b1b1f54a81bf5fcd24a114b970cd516515dfb3e555f913215c7"
+    }
+  ],
+  "backend": {
+    "passed": 464,
+    "failed": 0,
+    "runtime": 45
+  },
+  "editor": {
+    "passed": 54,
+    "failed": 0,
+    "typecheck": true,
+    "extensionBuild": true,
+    "version": "app-editor-30",
+    "active": true,
+    "badgeWorkflow": "Curated sets \u2192 selected set \u2192 5. Badge appearance",
+    "merchantWrites": false
+  },
+  "performance": [
+    {
+      "testIdentifier": "LaunchPerformanceUITests/testResponsiveLaunchBaseline()",
+      "testIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/LaunchPerformanceUITests/testResponsiveLaunchBaseline",
+      "testRuns": [
+        {
+          "device": {
+            "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+            "deviceName": "Weezy Pop Design Review"
+          },
+          "metrics": [
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Duration (ApplicationFirstFramePresentationResponsive)",
+              "identifier": "com.apple.dt.XCTMetric_ApplicationLaunch-ApplicationFirstFramePresentationResponsive.duration",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                3.1539110000000004,
+                2.956848916,
+                2.9207943330000004
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "s"
+            }
+          ],
+          "testPlanConfiguration": {
+            "configurationId": "1",
+            "configurationName": "Test Scheme Action"
+          }
+        }
+      ]
+    },
+    {
+      "testIdentifier": "LaunchPerformanceUITests/testShopPagingCPUAndMemoryBaseline()",
+      "testIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/LaunchPerformanceUITests/testShopPagingCPUAndMemoryBaseline",
+      "testRuns": [
+        {
+          "device": {
+            "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+            "deviceName": "Weezy Pop Design Review"
+          },
+          "metrics": [
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Clock Monotonic Time",
+              "identifier": "com.apple.dt.XCTMetric_Clock.time.monotonic",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                2.449347011,
+                2.442561183,
+                2.412247874
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "s"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "CPU Time (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_CPU-com.weezypop.charmclub.time",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                1.046193843,
+                1.038014261,
+                1.0372768350000001
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "s"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Memory Physical (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_Memory-com.weezypop.charmclub.physical",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                90832.968,
+                294.936,
+                49.152
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kB"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Memory Peak Physical (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_Memory-com.weezypop.charmclub.physical_peak",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                525831,
+                533760.832,
+                521390.936
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kB"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "CPU Cycles (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_CPU-com.weezypop.charmclub.cycles",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                4034399.04,
+                4003993.594,
+                4012190.429
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kC"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Absolute Memory Physical (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_Memory-com.weezypop.charmclub.physical_absolute",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                499862.336,
+                500157.272,
+                500206.424
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kB"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "CPU Instructions Retired (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_CPU-com.weezypop.charmclub.instructions_retired",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                14330118.081,
+                14040910.851,
+                13990485.153
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kI"
+            }
+          ],
+          "testPlanConfiguration": {
+            "configurationId": "1",
+            "configurationName": "Test Scheme Action"
+          }
+        }
+      ]
+    }
+  ],
+  "hitchMetrics": {
+    "requested": true,
+    "available": false,
+    "reason": "XCTest returned CPU/clock/memory measurements but no XCTHitchMetric observations. No zero-hitch/FPS guarantee is claimed."
+  },
+  "reduceMotion": {
+    "systemValueAsserted": true,
+    "device": "iPhone18Pro / iOS27",
+    "recording": "B-02-earn-moment-reduced.mp4",
+    "originalSettingRestored": true
+  },
+  "reviewedFailures": [
+    "Three model failures fixed: refund quantity validation, authoritative empty media array, published underscore handle. Full345 recheck passed.",
+    "Optimized performance test harness initially assumed welcome screen; adjusted to assert real Shop ready. All4 recheck passed.",
+    "Reduce Motion initially targeted a different18Pro simulator than the UI-selected one; correct actual-system assertion and video passed."
+  ],
+  "accessibility": {
+    "unsuppressedShopAuditPassed": true,
+    "checks": [
+      "contrast",
+      "hitRegion",
+      "textClipped",
+      "dynamicType"
+    ],
+    "scopeLimit": "This scoped pass does not close historical whole-app physical VoiceOver/largest-text acceptance."
+  },
+  "package": {
+    "signatureVerified": true,
+    "debugTestBypassAbsent": true,
+    "ipaSHA256": "44def4a01dc701bf458b73ecb1b1f15b1d73f905f09f2188e06ce59a0a8be406",
+    "dSYMUUID": "E7CEEECB-A9AA-3FA4-BC66-55A68817B5CC",
+    "SDK": "iphoneos27.0"
+  },
+  "distribution": {
+    "uploaded": false,
+    "distributed": false,
+    "build": 43,
+    "reason": "Awaiting App Store Connect web sign-in to publish required app diagnostics privacy answers. Signed archive is independently prepared and verified. Build42 remains current TestFlight."
+  },
+  "appleServerValidation": {
+    "ipa_path": "build/Release43/WeezyPop-43.ipa",
+    "validated": true
+  },
+  "productionSourceFreezeSHA256": "123d4289dd77f3628358ec528bae2f1522f4530d708f81626de27ebae493224c",
+  "acceptanceBoundaries": [
+    "Physical-phone scroll/frame-rate/haptic assessment.",
+    "Real Shopify OAuth/payment/refund/APNs delivery not fabricated; functional ledger and HTTP simulations passed separately.",
+    "F50 branded associated link domain and Safari reopening remain partial.",
+    "Optional merchant badge hero/colour uses lilac PrataV fallback until authored; website remains unchanged.",
+    "Live staff save was not performed; editor save/readback uses isolated synthetic Shopify responses."
+  ]
+}
