@@ -1,0 +1,839 @@
+{
+  "build": 39,
+  "successfulRuns": [
+    {
+      "artifact": "build/Migration/20261009T053510Z-9ed646.xcresult",
+      "passed": 37,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+          "deviceName": "Weezy Pop Design Review",
+          "modelName": "iPhone 16 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "AppStoryPresentationTests/testAppStoryWinsAcrossFeedAndFullPageWithoutChangingWebsiteDescription()",
+          "result": "Passed"
+        },
+        {
+          "id": "AppStoryPresentationTests/testTeaserSkipsHeadingAndFeatureListForFirstNarrativeSentence()",
+          "result": "Passed"
+        },
+        {
+          "id": "AppStoryPresentationTests/testWebsiteFallbackRetainsSeparateHeadingsBulletsAndInlineWords()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testCorruptCacheFallsBackToBundledMetadataWithoutAConnection()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testFreshProductsDoNotWaitForCollectionsAndFailedRefreshPreservesCompleteDiskSnapshot()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testRefreshAppliesEditedStoriesAndSilverPhotosImmediatelyAndPersistsThem()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopStudioCaptureTests/testCaptureBuild39Review()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductCopyTests/testCaptionStopsBeforeFeatureDumpWithoutBreakingDecimals()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductCopyTests/testDisplayTitleRemovesMarketingSuffixAndTrailingCharm()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductCopyTests/testHeroDisplayTitleStripsSuffixWithoutBreakingHyphenatedNames()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+          "result": "Passed"
+        },
+        {
+          "id": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testLegacyPhotoMetadataCannotEraseAppOnlyListingSettings()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+          "result": "Passed"
+        },
+        {
+          "id": "StoryEditorialCopyTests/testFirstSentenceStripsFeatureLabelWithoutBreakingDecimalsOrPlainStory()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T054604Z-9b78d0.xcresult",
+      "passed": 16,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+          "deviceName": "Weezy Pop Design Review",
+          "modelName": "iPhone 16 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "AppStoryPresentationTests/testAppStoryWinsAcrossFeedAndFullPageWithoutChangingWebsiteDescription()",
+          "result": "Passed"
+        },
+        {
+          "id": "AppStoryPresentationTests/testTeaserSkipsHeadingAndFeatureListForFirstNarrativeSentence()",
+          "result": "Passed"
+        },
+        {
+          "id": "AppStoryPresentationTests/testWebsiteFallbackRetainsSeparateHeadingsBulletsAndInlineWords()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testCorruptCacheFallsBackToBundledMetadataWithoutAConnection()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testFreshProductsDoNotWaitForCollectionsAndFailedRefreshPreservesCompleteDiskSnapshot()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testRefreshAppliesEditedStoriesAndSilverPhotosImmediatelyAndPersistsThem()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopStudioCaptureTests/testCaptureBuild39Review()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testLegacyPhotoMetadataCannotEraseAppOnlyListingSettings()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T053542Z-823783.xcresult",
+      "passed": 6,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+          "deviceName": "Weezy Pop QA",
+          "modelName": "iPhone 18 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testPhotoPushesPageAndBackPreservesFeed()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testStyleDropdownKeepsCategoryAndNativeBack()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testWholeSetPurchaseNeverOpensIndividualAdd()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T053746Z-9dd387.xcresult",
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+          "deviceName": "iPhone 17e",
+          "modelName": "iPhone 17e",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T054224Z-8b28fd.xcresult",
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+          "deviceName": "Weezy Pop QA",
+          "modelName": "iPhone 18 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+          "result": "Passed"
+        },
+        {
+          "id": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T054342Z-21adaa.xcresult",
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+          "deviceName": "iPhone 17e",
+          "modelName": "iPhone 17e",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+          "result": "Passed"
+        },
+        {
+          "id": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T054457Z-d857b9.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+          "deviceName": "Weezy Pop QA",
+          "modelName": "iPhone 18 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "LaunchPerformanceUITests/testShopPagingCPUAndMemoryBaseline()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T055224Z-79ce74.xcresult",
+      "passed": 27,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+          "deviceName": "Weezy Pop Design Review",
+          "modelName": "iPhone 16 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "AppStoryPresentationTests/testAppStoryWinsAcrossFeedAndFullPageWithoutChangingWebsiteDescription()",
+          "result": "Passed"
+        },
+        {
+          "id": "AppStoryPresentationTests/testTeaserSkipsHeadingAndFeatureListForFirstNarrativeSentence()",
+          "result": "Passed"
+        },
+        {
+          "id": "AppStoryPresentationTests/testWebsiteFallbackRetainsSeparateHeadingsBulletsAndInlineWords()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testCorruptCacheFallsBackToBundledMetadataWithoutAConnection()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testFreshProductsDoNotWaitForCollectionsAndFailedRefreshPreservesCompleteDiskSnapshot()",
+          "result": "Passed"
+        },
+        {
+          "id": "CatalogueRecoveryTests/testRefreshAppliesEditedStoriesAndSilverPhotosImmediatelyAndPersistsThem()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testFinishSummaryDeduplicatesMatchingDisplayValuesWithoutChangingVariantIdentity()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testInconsistentShopifyLabelShapesKeepFullVariantIdentity()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testMetalFirstHoopOptionsKeepShopifyIdentityAndColourMeaning()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testReselectReturnsSameExactVariant()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testSeparateColourAndMetalRowsKeepExactOtherOption()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testSingleOptionRemainsPresentAndPreselected()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopFinishOptionsTests/testUnavailableCombinationDoesNotSilentlySelectAnotherMetal()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopShop38RulesTests/testOrdinalUsesMerchandisingPositionInsteadOfRepeatedAuthoredGlyph()",
+          "result": "Passed"
+        },
+        {
+          "id": "PopStudioCaptureTests/testCaptureBuild39Review()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testLegacyPhotoMetadataCannotEraseAppOnlyListingSettings()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+          "result": "Passed"
+        },
+        {
+          "id": "PublicCatalogueClientTests/testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T055329Z-87a67e.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "C874A531-D104-4649-9FC7-AE75EF0D2608",
+          "deviceName": "Weezy Pop Design Review",
+          "modelName": "iPhone 16 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "PopStudioCaptureTests/testCaptureBuild39Review()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T055508Z-55161c.xcresult",
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+          "deviceName": "Weezy Pop QA",
+          "modelName": "iPhone 18 Pro",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testQuickAddClosesWithoutUpsellAndKeepsFeed()",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "artifact": "build/Migration/20261009T055612Z-497944.xcresult",
+      "passed": 3,
+      "failed": 0,
+      "skipped": 0,
+      "devices": [
+        {
+          "architecture": "arm64",
+          "deviceId": "F9FFDE28-5F2C-4261-B092-30E676608A0E",
+          "deviceName": "iPhone 17e",
+          "modelName": "iPhone 17e",
+          "osBuildNumber": "24A434",
+          "osVersion": "27.0",
+          "platform": "iOS Simulator"
+        }
+      ],
+      "cases": [
+        {
+          "id": "Shop38UITests/testDesignSwatchesPreserveHardwareSelection()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testLargestFeedAndProductRemainScrollable()",
+          "result": "Passed"
+        },
+        {
+          "id": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+          "result": "Passed"
+        }
+      ]
+    }
+  ],
+  "readOnlyShopifyAudit": {
+    "checkedAt": "2026-10-09T05:20:20.257Z",
+    "adminProducts": 115,
+    "publicFeedEntries": 116,
+    "stories": 113,
+    "imageOrders": 115,
+    "variantAssignments": 48,
+    "hiddenProducts": 45,
+    "mismatches": [],
+    "visibleSilverVariants": 81,
+    "visibleSilverVariantsWithExactPhoto": 59,
+    "readOnly": true,
+    "shopifyMutations": 0,
+    "websiteMutations": 0,
+    "existingStoryField": "charm_club.app_images.appStory",
+    "serviceCacheMaximumSeconds": 300,
+    "internalHelpersExcluded": [
+      "__customized-items",
+      "mws_apo_1_g2_glitter-huggie-heart-earrings"
+    ],
+    "internalHelperNote": "Published Shopify custom-options system helpers stay hidden; the legacy photo-only fallback for __customized-items is not app editorial data.",
+    "appOrderMatchesShopify": true,
+    "enabledSetCount": 9,
+    "setDefinitionMismatches": [],
+    "categoryMismatches": [],
+    "customOrderConfigured": true
+  },
+  "accessibility": {
+    "auditPassed": false,
+    "betaAcceptanceOnly": true,
+    "findingCount": 2,
+    "reviewed": true,
+    "findings": [
+      {
+        "type": "contrast",
+        "element": "Shop photo counter 2 / 37 beneath native bottom tab overlay",
+        "status": "open-accessibility-track",
+        "evidence": "AFBE477E-877A-4D02-822E-B0AB6767C459.txt"
+      },
+      {
+        "type": "potential Dynamic Type clipping",
+        "element": "normal-text ADD TO BASKET \u00b7 \u00a34",
+        "status": "open-accessibility-track",
+        "evidence": "196D5C7C-5A4E-49EC-981C-69C2B8746CCF.txt",
+        "manualReview": "Fresh normal screenshot renders the full button label. Actual largest-text interaction tests pass on both sizes. Apple warning is retained rather than suppressed."
+      }
+    ],
+    "reason": "Review38-approved design retained; this is a TestFlight release, not launch accessibility sign-off. Functional checks and audit findings remain separate."
+  },
+  "pagingMetrics": [
+    {
+      "testIdentifier": "LaunchPerformanceUITests/testShopPagingCPUAndMemoryBaseline()",
+      "testIdentifierURL": "test://com.apple.xcode/WeezyPop/WeezyPopUITests/LaunchPerformanceUITests/testShopPagingCPUAndMemoryBaseline",
+      "testRuns": [
+        {
+          "device": {
+            "deviceId": "F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2",
+            "deviceName": "Weezy Pop QA"
+          },
+          "metrics": [
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Clock Monotonic Time",
+              "identifier": "com.apple.dt.XCTMetric_Clock.time.monotonic",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                4.506928731,
+                4.478440701,
+                4.500343516
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "s"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "CPU Time (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_CPU-com.weezypop.charmclub.time",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                0.7829997550000001,
+                0.772270219,
+                0.787783266
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "s"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Memory Physical (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_Memory-com.weezypop.charmclub.physical",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                -213.016,
+                -32.768,
+                491.52
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kB"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Memory Peak Physical (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_Memory-com.weezypop.charmclub.physical_peak",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                191515.192,
+                191449.656,
+                191826.488
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kB"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "CPU Cycles (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_CPU-com.weezypop.charmclub.cycles",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                2251840.751,
+                2228323.876,
+                2228136.254
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kC"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "Absolute Memory Physical (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_Memory-com.weezypop.charmclub.physical_absolute",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                188172.856,
+                188140.088,
+                188631.608
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kB"
+            },
+            {
+              "baselineAverage": 0,
+              "baselineName": "",
+              "displayName": "CPU Instructions Retired (charmclub)",
+              "identifier": "com.apple.dt.XCTMetric_CPU-com.weezypop.charmclub.instructions_retired",
+              "maxPercentRegression": 10,
+              "maxPercentRelativeStandardDeviation": 10,
+              "maxRegression": 0,
+              "maxStandardDeviation": 10,
+              "measurements": [
+                4778224.934,
+                4794620.818,
+                4644289.484
+              ],
+              "polarity": "prefers smaller",
+              "unitOfMeasurement": "kI"
+            }
+          ],
+          "testPlanConfiguration": {
+            "configurationId": "1",
+            "configurationName": "Test Scheme Action"
+          }
+        }
+      ]
+    }
+  ],
+  "metricsLimit": "Simulator CPU/memory/time observations for three four-swipe iterations; no pre-change comparison and no physical-device frame-rate guarantee. Xcode did not publish a separate hitch metric.",
+  "serviceAndEditor": "Unchanged Fly39 and Editor28; historical proofs retained in review/build-38/TESTS.json. No live Shopify or website mutation.",
+  "failedRunsRetained": [
+    {
+      "artifact": "build/Migration/20261009T053900Z-bf46f0.xcresult",
+      "reason": "Release returning guest already saw Welcome. Harness incorrectly required it; optional-Welcome harness fixed, both optimized Release retries pass. Production authentication unchanged."
+    },
+    {
+      "artifact": "build/Migration/20261009T054544Z-9a0dfb.xcresult",
+      "reason": "Unsuppressed accessibility audit: two findings, separately retained and reviewed."
+    },
+    {
+      "artifact": "build/Migration/20261009T055200Z-4ac910.xcresult",
+      "reason": "New review-only largest-text capture passed named arguments in the wrong order; corrected. No shipping app compile failure; subsequent27 and final capture passes."
+    }
+  ],
+  "remainingAcceptance": [
+    "Physical device photo tap/Back/paging, including slow network",
+    "Manual VoiceOver and open unsuppressed accessibility findings",
+    "Previously accepted F50 branded-domain/Safari acceptance",
+    "Real Shopify authentication/payment/stock/shipping/tax/email/wallet",
+    "22 visible Silver variants need exact photo/mapping; current 59 exact matches verified by native snapshot test"
+  ],
+  "finalPickerProof": "Final circular Design/Colour, compact text Length and48pt Hardware:27 model/capture passes, one freshly frozen capture test, two normal primary UI passes and three optimized smaller-phone UI passes. Earlier browsing/root results remain valid for their recorded snapshots; do not add repeated cases as unique tests.",
+  "finalCaptureArtifact": "build/Migration/20261009T055329Z-87a67e.xcresult",
+  "interruptedRunsRetained": [
+    {
+      "artifact": "build/Release39/archive.log",
+      "reason": "Initial unuploaded archive stopped after Pete corrected the Design picker. Replacement package is built from the latest reference swatches, pills and frozen captures."
+    }
+  ],
+  "uniqueSuccessfulTestIDs": 47,
+  "release": {
+    "build": 39,
+    "appleProcessing": "VALID",
+    "betaReview": "APPROVED",
+    "internal": "IN_BETA_TESTING",
+    "external": "IN_BETA_TESTING",
+    "packageSourceHashMatch": true,
+    "appleServerValidationPassed": true
+  }
+}
