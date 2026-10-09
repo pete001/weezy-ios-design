@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "build": 46,
+  "buildId": "ad9c478b-a54a-46f3-aeb9-ce8401dd3d5d",
+  "verifiedAt": "2026-10-09T21:00:25.926863+00:00",
+  "processingState": "VALID",
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "betaReviewState": "APPROVED",
+  "groups": [
+    "Lou & Nat",
+    "Weezy Pop Internal"
+  ],
+  "autoNotifyEnabled": true,
+  "notificationPreferenceChanged": false,
+  "nativeSourceCommit": "8d4d27e7e59f3e22d4f8bc07f971c1cfdb306a71",
+  "serviceSourceCommit": "ddd6b88",
+  "ipaSHA256": "d7a3eaccb865e97921eb17f230f16b0b37418b74a651479d18406e6d724fa757",
+  "dSYMUUID": "4B1E08B6-2E73-390E-8431-147A80A8174B",
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "sdk": "iphoneos27.0",
+  "minimumIOS": "17.0",
+  "appleValidationPassed": true,
+  "apiUploadChecksum": "Apple provided no checksum; local IPA SHA256 rechecked before upload",
+  "testNotesLocalesVerified": [
+    "en-US",
+    "en-GB"
+  ],
+  "testflightURL": "https://testflight.apple.com/join/5m9QyaSa",
+  "appStoreDraft": {
+    "version": "1.0",
+    "build": 44,
+    "state": "PREPARE_FOR_SUBMISSION",
+    "submitted": false
+  },
+  "appOnlyService": {
+    "serviceRevision": 48,
+    "machine": "83d477a7516608",
+    "region": "lhr",
+    "state": "started",
+    "image": "registry.fly.io/weezy-pop-club:deployment-01M4H73WGCDRSR58VPA4T7JV98",
+    "digest": "sha256:70bb7bd687323e0755ba383ee82ad2be966b7d6fa6c9164f017efd485128bba4",
+    "volume": "vol_vxmxzlj9n51y1684",
+    "vm": {
+      "cpu_kind": "shared",
+      "cpus": 1,
+      "memory_mb": 256
+    },
+    "sourceCommit": "ddd6b88",
+    "verification": "service-http-verification.json; linux-renderer-bounded.log; 503/503 tests",
+    "verifiedAt": "2026-10-09T20:57:16.345336+00:00",
+    "noWebsiteMutation": true,
+    "noTestPurchaseOrShareCreated": true,
+    "correctiveSequence": "Initial Linux auxiliary renderer hit memory pressure; stable image restored, decodes serialised/cache bounded, runtime48 verified"
+  },
+  "scope": [
+    "Neutral authored copy and published-only wishlist sharing",
+    "Contextual first-share gift-alert choice",
+    "Private-aware personalised preview artwork",
+    "Delayed loading skeleton and retry",
+    "Verified happy-moment rating policy",
+    "Approved light appearance"
+  ],
+  "acceptanceBoundaries": [
+    "Physical notification permission/APNs",
+    "Messages/WhatsApp/Instagram preview delivery and cache/crop",
+    "Real iPhone OAuth/payment/order sync",
+    "Physical VoiceOver and haptics",
+    "F50 Safari reopening",
+    "Open accessibility acceptance track"
+  ],
+  "websiteOrPublicShopifyMutated": false,
+  "noTestPurchaseOrShareCreated": true,
+  "originalReviewPreserved": "review/build-46 captures remain candidate evidence; this is a later release event"
+}

@@ -1,0 +1,9 @@
+Build 46 adds the final launch polish and gender-neutral sharing.
+
+• Share a public wishlist. On a fresh install with notification permission not yet decided, the gift-alert choice appears before sharing. Turn on alerts or Share without alerts should both continue to the normal iPhone share sheet. Existing notification choices are respected.
+• Share the link through Messages, WhatsApp and Instagram. Check the preview's first name, “pieces on the list” count and correct selected-finish photos. Private or switched-off links must show anonymous brand artwork. Messaging clients can retain older previews.
+• Browse Shop, open product photos and go Back repeatedly. Slow and fast swipes should settle on a whole product. Cached products stay visible during refresh; an empty slow load shows placeholders and offers Retry after ten seconds. Reduce Motion keeps placeholders still.
+• Use the phone in dark mode and at the largest text size. The app stays light; wishlist sharing, search and basket controls should stay readable and reachable.
+• Gift alerts, VoiceOver, haptics, Shopify login/payment and verified order updates still need real-phone acceptance. No test purchase or notification has been sent by this release.
+
+Apple controls whether rating prompts appear, and TestFlight does not prove their display. Shared-link Safari reopening remains a separate infrastructure check. The customer website and existing Shopify offers remain unchanged. This is a TestFlight release; the App Store submission remains in draft.

@@ -1,0 +1,13 @@
+# App-only service revision 48
+
+Deployed on 9 October 2026 after Pete authorised “ship it”. This is the Fly service revision; the corresponding iPhone candidate is build46. The existing London machine83d477a7516608 and volumevol_vxmxzlj9n51y1684 remain in place, with the existing256MB VM and unchanged secrets/configuration. No website theme, public product record, price, discount or payment was changed.
+
+Image: `registry.fly.io/weezy-pop-club:deployment-01M4H73WGCDRSR58VPA4T7JV98`; digest `sha256:70bb7bd687323e0755ba383ee82ad2be966b7d6fa6c9164f017efd485128bba4`. Source is the app-only service portion of `ddd6b88`, following candidate46's `8d4d27e`.
+
+Public wishlist pages now serve1200×630 personalised JPEG previews at `/w/{code}/preview.jpg`: first name, published count and up to four exact-finish Shopify photographs. Private/revoked/besties-only links use `/assets/wishlist-private-preview.jpg`, with anonymous brand artwork. Prata and Montserrat are rendered from bundled font outlines. Privacy and payload are rechecked after catalogue fetching and rendering, including cache hits. The bounded renderer cache lasts one hour; HTTP fetches revalidate instead of reusing a stale public identity after a privacy change. Messaging apps can retain their own older previews.
+
+The first auxiliary Linux check hit memory pressure while a separate renderer process shared the256MB VM with the service. The prior stable image was restored while this was corrected. Image decoding now runs sequentially, libvips caching is capped at8MB, its worker concurrency is1, and preview generation jobs are serialised. A failed render does not poison the queue. This changes memory use, not the approved artwork. No VM enlargement or billing change was required.
+
+Verification:503 service tests passed with no skips, including concurrent-render serialisation/recovery and privacy changes during generation. Fly smoke, health and DNS checks passed. Live health, privacy, diagnostics notice, catalogue and anonymous JPEG routes passed. A corrected auxiliary Linux check fetched all four selected public product photographs and generated the personalised JPEG; its one-shot renderer process peaked at106MB RSS. This is a synthetic renderer check, not a concurrent-load benchmark or a live customer share. No customer wishlist, order or test notification was created.
+
+Evidence remains ignored in `build/Release46/`: original failure logs, rollback/deploy logs, final image/machine receipt, service HTTP checks and Linux renderer readback. Native release/distribution is recorded separately. Physical Messages/WhatsApp/Instagram preview delivery, APNs and F50 Safari reopening remain acceptance checks; the deployment does not prove them.

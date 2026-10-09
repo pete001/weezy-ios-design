@@ -9,3 +9,7 @@ The two OG images are1200×630 as specified; mobile shots are393×852pt at3× an
 Review the sheet, copy and centre-square crop. Implementation and privacy/cache behavior are explained in IMPLEMENTATION.md. Real notification permission/APNs and client-side cached previews still need device acceptance after deployment. No customer data, payment or website edits were used to produce the captures.
 
 Candidate46 has not been uploaded to TestFlight or deployed.45 remains the device beta,44 the unsubmitted App Store draft. Public review history and earlier release records are unchanged.
+
+## Subsequent release
+
+Pete authorised shipping after this candidate review. [Build46 is now available in TestFlight](../../releases/build-46/README.md), and the app-only service is live. Original captures/manifests above retain their pre-release provenance. [Release readback](../../releases/build-46/RELEASE.json) includes the memory correction and remaining physical checks.
