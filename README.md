@@ -1,12 +1,14 @@
 # Weezy Pop · public design review
 
-**Current handover:** [Review49 final polish and feedback safeguard](review/build-49/README.md). F129–131 are fixed, with28 fresh captures and largest-text continuations. Feedback entry points hide until Resend is configured; enabled-form captures are reference-only. [Gallery](review/build-49/index.html) · [Responses](review/build-49/RESPONSE.md) · [Verified release record](review/build-49/RELEASE.json).
+**Current handover:** [Review50 white-logo follow-up](review/build-50/README.md). Fresh B03/B04 and OG image, plus exact Still/Moving exports. [Gallery](review/build-50/index.html) · [Response](review/build-50/RESPONSE.md). Native50 is review-only; released49 remains unchanged. The app-only white-logo header is live.
+
+**Previous handover49:** [Review49 final polish and feedback safeguard](review/build-49/README.md). F129–131 are fixed, with28 fresh captures and largest-text continuations. Feedback entry points hide until Resend is configured; enabled-form captures are reference-only. [Gallery](review/build-49/index.html) · [Responses](review/build-49/RESPONSE.md) · [Verified release record](review/build-49/RELEASE.json).
 
 **Previous handover:** [Review45 follow-ups](review/build-45/README.md) · [App Store asset review](review/app-store/README.md) · [Follow-up gallery](review/build-45/index.html) · [Store gallery](review/app-store/index.html).
 
 Review45 fixes F123 (largest-text basket labels) and F124 (one Swirl tile with ×2), with six fresh changed-screen JPEGs and explicit references to prior evidence. Pete subsequently authorized TestFlight45 after design approval; it is available to Weezy Pop Internal and Lou & Nat. [Separate release record](releases/build-45/README.md). F119–122 remain designer-approved. Seven Release-native Store composites, three previews, header/search art and listing copy remain uploaded to the unsubmitted Apple1.0 draft with processed build44 selected; see [Apple draft status](review/app-store/APPLE-DRAFT-STATUS.json). Reviewer access will be arranged later. Earlier review folders and Store media stay unchanged.
 
-**Release status:** Version1.0/build49 is Apple VALID, beta APPROVED and available to Weezy Pop Internal and Lou & Nat. [TestFlight](https://testflight.apple.com/join/5m9QyaSa). The app-only service is runtime49; App Store44 remains an unsubmitted draft. Review48 and all earlier folders remain intact.
+**Release status:** Version1.0/build49 is Apple VALID, beta APPROVED and available to Weezy Pop Internal and Lou & Nat. [TestFlight](https://testflight.apple.com/join/5m9QyaSa). The app-only service is runtime50 (white-logo header); App Store44 remains an unsubmitted draft. Review48 and all earlier folders remain intact.
 
 Download/clone the repository to open the HTML gallery offline. GitHub renders the Markdown and individual images directly. Gallery notes stay in your browser until you download them; they are not sent automatically.
 

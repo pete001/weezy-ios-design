@@ -1,0 +1,1 @@
+LOGO-P2 · fixed · B-03-share-card, B-04-badge-web-page, B-04-badge-og · White vector logo replaces typeset badge branding, with proportional native/export sizing and the specified soft shadows; app-only web header uses the same white asset at30px.

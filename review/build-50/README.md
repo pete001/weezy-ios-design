@@ -1,0 +1,13 @@
+# Review50 · white-logo follow-up
+
+Fresh B03 native share-card, B04 app-only web page (including its end-of-scroll continuation), and one1200×630 OG export address Pete's design-agent P2 instruction from Pop Studio17. The white vector logo replaces the typeset badge-card brand mark. Web header:30px with18% ink shadow;252pt native preview:24pt with22% ink shadow.1080×1920 story/Moving and square exports scale proportionally. Prata, approved artwork and copy are preserved.
+
+[Open gallery](index.html) · [One-line response](RESPONSE.md) · [Manifest](manifest.json) · [Changes](changes.json) · [Tests](TESTS.json) · [Provenance](provenance.json).
+
+The **app-only badge web header is deployed**. **Native50 is a source/capture candidate, not an uploaded TestFlight build.** Released49 remains available; App Store44 remains unsubmitted. Candidate50 also includes the independently tested achievement Save video crash correction. Existing published image snapshots remain immutable; new native previews gain the logo update when a replacement app is installed. No customer shop, Shopify product images/prices, purchases or customer records were changed.
+
+Three fresh screen JPEGs use80% quality,1179px width and embedded sRGB. Native B03 is real production SwiftUI content rendered on the actual iPhone18Pro/iOS27 QA simulator at a controlled393×852pt3× canvas; it does not claim to be16Pro hardware or shipping-root interaction evidence. B04 is the production web template in isolated QA Chrome at the same content viewport, without Safari chrome. Claire and five-piece Celestial are synthetic design data (Moon,Sun,Small Star,Swirl×2), never a live ownership grant. The web capture verifies all images/Prata loaded, no horizontal overflow,30px logo and exact computed shadow. Live data continues to follow Shopify.
+
+The Still PNG,4-second Moving MP4 and1200×630 JPEG are exact production-renderer outputs. The OG preserves the existing portrait crop; the logo is placed on the landscape canvas separately so its header cannot be cropped away. Screens are not retouched. The OG deliberately retains its required1200px width rather than the1179px phone-screenshot limit.
+
+20 native and517 service checks passed, zero failures/skips. Native checks include white-logo pixel/geometry tests, badge evidence/privacy, video formats and actual/injected Photos-save regressions. Physical-device saves, payment/OAuth/APNs/Safari and the existing accessibility/performance acceptance track remain separate. Earlier review folders remain unchanged;56 manifest entries refer to unchanged Review49 evidence. B03/B04's last screen baseline is Review43, explicitly recorded in changes.json.

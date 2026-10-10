@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-10-10T08:30:21.286Z",
+  "runtimeRevision": 50,
+  "healthStatus": 200,
+  "assetStatus": 200,
+  "assetSHA256": "50f3bca527ed79a2f613c77e962baba51350d5a7ee6922350e619453a5c299a2",
+  "cssStatus": 200,
+  "cssExact": true,
+  "feedbackEnabled": false,
+  "machine": {
+    "sameId": true,
+    "region": "lhr",
+    "memoryMB": 256,
+    "volumePreserved": true,
+    "state": "started"
+  },
+  "nativeUploaded": false
+}

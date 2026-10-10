@@ -1,0 +1,641 @@
+[
+  {
+    "id": "B-03-share-card",
+    "build": 50,
+    "sourceBundleBuild": 50,
+    "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+    "file": "B-03-share-card.jpg",
+    "device": "iPhone18Pro QA / iOS27",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Display P3 to sRGB",
+    "captureKind": "native-content",
+    "scrollOffset": 0,
+    "fixture": "Synthetic Claire; five-piece Celestial: Moon, Sun, Small Star, Swirl x2",
+    "proof": "Production SwiftUI content, not shipping AppRoot",
+    "sha256": "e57ad3b8a5ca77dac721a7ad57407ba1dd544a91223fcd2fcc3b631454f4d623",
+    "sourceSHA256": "c2f6358782b17672552f8e06d27467899aceea411faf8672c3f9c18b007ec32d"
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 50,
+    "sourceBundleBuild": 50,
+    "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+    "file": "B-04-badge-web-page.jpg",
+    "device": "Isolated QA Chrome; mobile viewport",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "sRGB capture tagged; no colour reinterpretation",
+    "captureKind": "browser-content",
+    "scrollOffset": 0,
+    "fixture": "Synthetic Claire; five-piece Celestial: Moon, Sun, Small Star, Swirl x2",
+    "proof": "Production app-only template on loopback, without Safari chrome; all images/font loaded",
+    "sha256": "41e76508124e18bec6d840db57a5e9fa5f50bdf32c49e9f73d02c7c484d85ac3",
+    "sourceSHA256": "a14b9dba8ba9df02857b31513135c6d44e3abdcb4fc7db0911272790d14ccde3"
+  },
+  {
+    "id": "B-04-badge-web-page-more",
+    "build": 50,
+    "sourceBundleBuild": 50,
+    "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+    "file": "B-04-badge-web-page-more.jpg",
+    "device": "Isolated QA Chrome; mobile viewport",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "sRGB capture tagged; no colour reinterpretation",
+    "captureKind": "browser-content",
+    "scrollOffset": 23,
+    "fixture": "Synthetic Claire; five-piece Celestial: Moon, Sun, Small Star, Swirl x2",
+    "proof": "Production app-only template on loopback, without Safari chrome; all images/font loaded",
+    "sha256": "7e389d05de7b795876f2a4eaa89759b95f4c50c0f96a5052c19d3d6215b5f352",
+    "sourceSHA256": "5d3a204289c23982e0e1193a2397214304ae587b1f3a8d7fb692eceae0c0355f"
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 50,
+    "sourceBundleBuild": 50,
+    "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+    "file": "B-03-badge-still.png",
+    "captureKind": "native-export",
+    "device": "iPhone18Pro QA / iOS27",
+    "scale": 3,
+    "pixels": [
+      1080,
+      1920
+    ],
+    "format": "png",
+    "sha256": "348a4a895ba0ec1463c4ce80840896d53ef0f00cfe2fc1df978385a3c077511b",
+    "proof": "Exact unmodified production renderer export, synthetic earned badge",
+    "note": "White logo scales proportionally from 24pt on 252pt preview",
+    "jpegQuality": null
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 50,
+    "sourceBundleBuild": 50,
+    "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+    "file": "B-03-badge-moving.mp4",
+    "captureKind": "native-export",
+    "device": "iPhone18Pro QA / iOS27",
+    "scale": 3,
+    "pixels": [
+      1080,
+      1920
+    ],
+    "format": "mp4",
+    "sha256": "18dbe8dcaed65adfb0b6885e195af7f5d7b21d8402586c5171b943c326b45677",
+    "proof": "Exact unmodified production renderer export, synthetic earned badge",
+    "note": "White logo scales proportionally from 24pt on 252pt preview",
+    "jpegQuality": null
+  },
+  {
+    "id": "B-04-badge-og",
+    "build": 50,
+    "sourceBundleBuild": 50,
+    "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+    "file": "B-04-badge-og.jpg",
+    "captureKind": "native-export",
+    "device": "iPhone18Pro QA / iOS27",
+    "scale": 1,
+    "pixels": [
+      1200,
+      630
+    ],
+    "format": "jpg",
+    "sha256": "fd2d8e15cfb97f6150edcee8c7bb46e94e9d00af166c69d5fde7376e034558a1",
+    "proof": "Exact unmodified production renderer export, synthetic earned badge",
+    "note": "Existing portrait crop preserved; white logo rendered independently into landscape",
+    "jpegQuality": 80
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-07-feedback-sheet-filled.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-more.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-more-2.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-more.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-10-testflight-welcome.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-07-feedback-sheet-filled-largest.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-07-feedback-sheet-filled-largest-more.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-07-feedback-sheet-filled-largest-more-2.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more-2.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-3",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more-3.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-4",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more-4.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-5",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more-5.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-6",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more-6.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-7",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-largest-more-7.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest-more.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest-more-2.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-3",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest-more-3.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-4",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest-more-4.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-5",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest-more-5.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-6",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-09-settings-feedback-disabled-largest-more-6.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-10-testflight-welcome-largest.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/L-10-testflight-welcome-largest-more.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/ROOT-wishlist-preview.jpg",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 50,
+    "unchanged": true,
+    "notCaptured": true,
+    "reason": "Outside this logo-only delta; earlier review evidence preserved",
+    "reference": "../build-49/manifest.json",
+    "previousBuild": 49
+  }
+]

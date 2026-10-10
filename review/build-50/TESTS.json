@@ -1,0 +1,204 @@
+{
+  "build": 50,
+  "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+  "native": {
+    "passed": 20,
+    "failed": 0,
+    "skipped": 0,
+    "tests": [
+      {
+        "identifier": "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+        "name": "testBadgeMovingExportIsFourSecondsAt1080x1920()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 1000
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+        "name": "testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 58
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+        "name": "testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 12
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+        "name": "testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed"
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+        "name": "testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 1
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+        "name": "testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 14
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+        "name": "testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 18
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+        "name": "testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 6
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+        "name": "testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed"
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+        "name": "testShareUsesFirstNameAndNeutralFallback()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed"
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+        "name": "testShelfEarnedFirstThenLockedByProgress()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed"
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+        "name": "testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed",
+        "durationMs": 13
+      },
+      {
+        "identifier": "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+        "name": "testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+        "className": "BadgeFinalHandoffTests",
+        "status": "passed"
+      },
+      {
+        "identifier": "PhotoLibrarySaveTests/testAuthorizedMovingBadgeSavesToPhotos()",
+        "name": "testAuthorizedMovingBadgeSavesToPhotos()",
+        "className": "PhotoLibrarySaveTests",
+        "status": "passed",
+        "durationMs": 2000
+      },
+      {
+        "identifier": "PhotoLibrarySaveTests/testCancelledSaveDoesNotRequestPhotosPermission()",
+        "name": "testCancelledSaveDoesNotRequestPhotosPermission()",
+        "className": "PhotoLibrarySaveTests",
+        "status": "passed",
+        "durationMs": 3
+      },
+      {
+        "identifier": "PhotoLibrarySaveTests/testDeniedAndRestrictedAccessRejectBeforeOpeningPhotosTransaction()",
+        "name": "testDeniedAndRestrictedAccessRejectBeforeOpeningPhotosTransaction()",
+        "className": "PhotoLibrarySaveTests",
+        "status": "passed",
+        "durationMs": 1
+      },
+      {
+        "identifier": "PhotoLibrarySaveTests/testMissingExportReturnsAnErrorInsteadOfAFalseSuccess()",
+        "name": "testMissingExportReturnsAnErrorInsteadOfAFalseSuccess()",
+        "className": "PhotoLibrarySaveTests",
+        "status": "passed"
+      },
+      {
+        "identifier": "PhotoLibrarySaveTests/testReduceMotionVideoSavesToPhotos()",
+        "name": "testReduceMotionVideoSavesToPhotos()",
+        "className": "PhotoLibrarySaveTests",
+        "status": "passed",
+        "durationMs": 610
+      },
+      {
+        "identifier": "PhotoLibrarySaveTests/testStillAndSquareBadgeAndLegacyCardSaveToPhotos()",
+        "name": "testStillAndSquareBadgeAndLegacyCardSaveToPhotos()",
+        "className": "PhotoLibrarySaveTests",
+        "status": "passed",
+        "durationMs": 110
+      },
+      {
+        "identifier": "PopStudioCaptureTests/testCaptureWhiteLogo50()",
+        "name": "testCaptureWhiteLogo50()",
+        "className": "PopStudioCaptureTests",
+        "status": "passed",
+        "durationMs": 4000
+      }
+    ]
+  },
+  "service": {
+    "passed": 517,
+    "failed": 0,
+    "skipped": 0,
+    "includes": "HTTP white asset equality; lilac and pink badge templates; existing privacy/ownership/checkout integration"
+  },
+  "web": {
+    "metrics": {
+      "width": 393,
+      "documentWidth": 393,
+      "height": 875,
+      "prata": true,
+      "logo": {
+        "height": 30,
+        "src": "/assets/weezy-logo-white.svg",
+        "shadow": "drop-shadow(rgba(28, 20, 24, 0.18) 0px 2px 6px)"
+      },
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    },
+    "source": "Isolated loopback production template"
+  },
+  "limits": [
+    "No real phone, payment, APNs, OAuth or Safari verification",
+    "No Apple upload or distribution of candidate50",
+    "Existing screenshot accessibility track remains separate"
+  ],
+  "reviewGallery": {
+    "images": 5,
+    "allLoaded": true,
+    "fullScreenOpens": true,
+    "fullScreenCloses": true,
+    "contextualNotesPersist": true,
+    "video": "B-03-badge-moving.mp4"
+  }
+}

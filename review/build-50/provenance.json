@@ -1,0 +1,26 @@
+{
+  "build": 50,
+  "sourceCommit": "513b305607eea465ddefd9f920cfcebd991db85c",
+  "actualSimulator": "iPhone18Pro, iOS27",
+  "controlledViewport": {
+    "width": 393,
+    "height": 852,
+    "scale": 3
+  },
+  "nativeCapture": "20261010T082350Z-fe80e8.xcresult",
+  "webCapture": "Fresh production template; separate loopback fixture and isolated QA Chrome; no live share",
+  "whiteAssetSHA256": "50f3bca527ed79a2f613c77e962baba51350d5a7ee6922350e619453a5c299a2",
+  "nativeWhiteAssetSHA256": "50f3bca527ed79a2f613c77e962baba51350d5a7ee6922350e619453a5c299a2",
+  "retouched": false,
+  "nativeOutputs": "Exact unchanged renderer output; only screen PNGs converted to JPEG80/sRGB",
+  "fixture": "Claire synthetic; 5-piece design Celestial; catalogued gold photos. No live ownership or Shopify edits.",
+  "release": {
+    "nativeReleasedBuild": 49,
+    "nativeCandidate": 50,
+    "nativeUploaded": false,
+    "storeDraftBuild": 44,
+    "storeSubmitted": false,
+    "appOnlyWebRuntime": 50,
+    "appOnlyWebDeployed": true
+  }
+}
