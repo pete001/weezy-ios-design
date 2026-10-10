@@ -1,0 +1,658 @@
+{
+  "build": 55,
+  "againstBuild": 54,
+  "sourceCommit": "ca37b9f56a241508779f869fbb7598f346fc642a",
+  "fixes": [
+    "F-135",
+    "F-136",
+    "F-137",
+    "F-138",
+    "F-139",
+    "F-140",
+    "F-141",
+    "F-142",
+    "F-143",
+    "F-144",
+    "F-145",
+    "F-146",
+    "F-147",
+    "F-148"
+  ],
+  "extraFixes": [
+    "BACK-55",
+    "COVER-55",
+    "COWBOY-55"
+  ],
+  "fresh": [
+    {
+      "id": "S2-01-sets-feed",
+      "file": "S2-01-sets-feed.jpg",
+      "sha256": "0dba24c06996d54c361a33850716d47f0e96668cd05632a5c867b6c8460e4e5a"
+    },
+    {
+      "id": "RELEASE28-SHOP",
+      "file": "RELEASE28-SHOP.jpg",
+      "sha256": "19a45de357f6c5ecf7bfabca289dbf3a2b76da430b8ba6a5e0db4f1ad008d997"
+    },
+    {
+      "id": "G-14-my-charms",
+      "file": "G-14-my-charms.jpg",
+      "sha256": "97c7a402cea8cef0e1ff7feb95955c8e9fc5f3f3092bb0ec48f0e757a6f612c2"
+    },
+    {
+      "id": "G-14-my-charms-more",
+      "file": "G-14-my-charms-more.jpg",
+      "sha256": "97dec6bccbded9e277906ccf36cb6456dd831b079369e39f6a159095b132ff73"
+    },
+    {
+      "id": "G-14-my-charms-more-2",
+      "file": "G-14-my-charms-more-2.jpg",
+      "sha256": "97993018b64ae2db7697e4c2fc309b61de612725ece419c9ee6ef6c10d226370"
+    },
+    {
+      "id": "G-15-my-wishlist",
+      "file": "G-15-my-wishlist.jpg",
+      "sha256": "20022edf44656b8d5d7f64346d5f777bfd58ba936596e51da458535aae32cfc7"
+    },
+    {
+      "id": "L-01-wishlist-share",
+      "file": "L-01-wishlist-share.jpg",
+      "sha256": "24ca7a8e84cae20884e529b067615b9faf8e38e05dc8cfe7a2c214d68fd45919"
+    },
+    {
+      "id": "G-24-settings-alerts-on",
+      "file": "G-24-settings-alerts-on.jpg",
+      "sha256": "88c95434811bda57a66bec6743e1f11ef8538a9f4afc3df60870834c424cac74"
+    },
+    {
+      "id": "G-24-settings-alerts-on-more",
+      "file": "G-24-settings-alerts-on-more.jpg",
+      "sha256": "5c1bea09d1c085cfe459efe336300a0c2971df3cb2faf98a2c1ae4178ccedfcc"
+    },
+    {
+      "id": "G-24-settings-alerts-off",
+      "file": "G-24-settings-alerts-off.jpg",
+      "sha256": "0fc1180eecb419228e787e72a7a0ba80a5764e65c1790aa7598ee96568ccaa02"
+    },
+    {
+      "id": "G-24-settings-alerts-off-more",
+      "file": "G-24-settings-alerts-off-more.jpg",
+      "sha256": "5c1bea09d1c085cfe459efe336300a0c2971df3cb2faf98a2c1ae4178ccedfcc"
+    },
+    {
+      "id": "G-24-settings-alerts-denied",
+      "file": "G-24-settings-alerts-denied.jpg",
+      "sha256": "33d09c1ac8a48204937504c6e4785b62a537dd91c53c49560c30eb406db71084"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-more",
+      "file": "G-24-settings-alerts-denied-more.jpg",
+      "sha256": "f4c1a2ab45ad19ce2cb16f1a461222503e4b898b1c8cba96fe28502bb2f3938d"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-more-2",
+      "file": "G-24-settings-alerts-denied-more-2.jpg",
+      "sha256": "5c1bea09d1c085cfe459efe336300a0c2971df3cb2faf98a2c1ae4178ccedfcc"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-1",
+      "file": "OFFLINE-REGISTRATION-step-1.jpg",
+      "sha256": "efc9d63fae3d1d73d26f74d1a487b872bac5c7fb7e5706acd748ee2d055abf54"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2",
+      "file": "OFFLINE-REGISTRATION-step-2.jpg",
+      "sha256": "1a66dd1412a92676a3e7c2976139dcd8c64476d6206a4de758c87f0f775b80b8"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3",
+      "file": "OFFLINE-REGISTRATION-step-3.jpg",
+      "sha256": "b7d2447b30aa280300d092a17da64917f59fd7e26267fb76b91242d979fd2ecb"
+    },
+    {
+      "id": "S2-04-set-page",
+      "file": "S2-04-set-page.jpg",
+      "sha256": "8c27533630a92ccf60cdc47c97b11396e3648902e687bd252288bdeffdbee304"
+    },
+    {
+      "id": "S2-04-set-page-more",
+      "file": "S2-04-set-page-more.jpg",
+      "sha256": "449364de2008d58f7109d5b5ce6811f735f092d84d8153672bf2e0dd71e89d2e"
+    },
+    {
+      "id": "G-16-set-page",
+      "file": "G-16-set-page.jpg",
+      "sha256": "fc393215844210e41ebc4dbd4bf4b44fcb763985cc4c2e0c0653d5990a0cb8f1"
+    },
+    {
+      "id": "G-16-set-page-more",
+      "file": "G-16-set-page-more.jpg",
+      "sha256": "ba6bbfb73157b508ee31966735aeec810f831f4bde45c6a4d6e4e8c4795cb8b5"
+    },
+    {
+      "id": "G-16-set-page-scrolled",
+      "file": "G-16-set-page-scrolled.jpg",
+      "sha256": "a9979407b060dbc4fec1683bfbcea9a9d5cebce1c339e5be3a0ded91c00bd500"
+    },
+    {
+      "id": "S2-01-sets-feed-largest",
+      "file": "S2-01-sets-feed-largest.jpg",
+      "sha256": "e253c6befbe29bc0bb3b25910e0d02df05a126c9ee04b154d5be29a03e9624c8"
+    },
+    {
+      "id": "S2-01-sets-feed-largest-more",
+      "file": "S2-01-sets-feed-largest-more.jpg",
+      "sha256": "729a9089192a06c3104f40187b106db030671ad88679cfa539362aad017631c0"
+    },
+    {
+      "id": "S2-01-sets-feed-largest-more-2",
+      "file": "S2-01-sets-feed-largest-more-2.jpg",
+      "sha256": "76ebcab51ab11b68f58e02c786a77b2890cc6cf03674ee55ff9c4826b948ba8e"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest",
+      "file": "RELEASE28-SHOP-largest.jpg",
+      "sha256": "e253c6befbe29bc0bb3b25910e0d02df05a126c9ee04b154d5be29a03e9624c8"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest-more",
+      "file": "RELEASE28-SHOP-largest-more.jpg",
+      "sha256": "729a9089192a06c3104f40187b106db030671ad88679cfa539362aad017631c0"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest-more-2",
+      "file": "RELEASE28-SHOP-largest-more-2.jpg",
+      "sha256": "76ebcab51ab11b68f58e02c786a77b2890cc6cf03674ee55ff9c4826b948ba8e"
+    },
+    {
+      "id": "G-14-my-charms-largest",
+      "file": "G-14-my-charms-largest.jpg",
+      "sha256": "4d07db947976bf6d3e02f65bde0c8ebf1de0cbb3fa090c95337673b4b9f615f8"
+    },
+    {
+      "id": "G-14-my-charms-largest-more",
+      "file": "G-14-my-charms-largest-more.jpg",
+      "sha256": "de37de03767ebee4238378314f576c548c7096e8d70700b304fb874e017cb53d"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-2",
+      "file": "G-14-my-charms-largest-more-2.jpg",
+      "sha256": "ede37ef67d0626d223338dd607bbef2523072be491d9775534d1b557baa58944"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-3",
+      "file": "G-14-my-charms-largest-more-3.jpg",
+      "sha256": "a1bbf252c8c03720fae3860eba35caa2e7f843139d0e20814c157d8d84e0d357"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-4",
+      "file": "G-14-my-charms-largest-more-4.jpg",
+      "sha256": "a098188c7e17a69e8ec6a051e26ad250f6f48efac1e1f1186ff0ed19bd45ffa9"
+    },
+    {
+      "id": "G-15-my-wishlist-largest",
+      "file": "G-15-my-wishlist-largest.jpg",
+      "sha256": "0869dbacef701b62f0b3d3d18d9f0a25ae2ac2029848fbebfc03ae33b5314dd9"
+    },
+    {
+      "id": "G-15-my-wishlist-largest-more",
+      "file": "G-15-my-wishlist-largest-more.jpg",
+      "sha256": "a02121dd08e97ed23e374501f0b0f2ee6fcb876e908310319f1f0e3f1acfcf33"
+    },
+    {
+      "id": "G-15-my-wishlist-largest-more-2",
+      "file": "G-15-my-wishlist-largest-more-2.jpg",
+      "sha256": "7184448c9a82aaa4c5b3212ab00a73672a775a2c3c64b5599bbefabbbd9891bb"
+    },
+    {
+      "id": "G-15-my-wishlist-largest-more-3",
+      "file": "G-15-my-wishlist-largest-more-3.jpg",
+      "sha256": "3a815dd7064d6d828952315dc7c4d60ee14e5952308ca06f858175f749965f30"
+    },
+    {
+      "id": "L-01-wishlist-share-largest",
+      "file": "L-01-wishlist-share-largest.jpg",
+      "sha256": "39797edafd42c21ba522304a364278141108bded595e8f33532fcceee8add049"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more",
+      "file": "L-01-wishlist-share-largest-more.jpg",
+      "sha256": "97e573dff5760aa7d2d563765d05e44acb050dde1f462345c6bb8959ff9bdd7d"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-2",
+      "file": "L-01-wishlist-share-largest-more-2.jpg",
+      "sha256": "29f9ebec9596fd062b6eae251e20ddaaa8e424728c613e1eaf846d71f11145f8"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-more-3",
+      "file": "L-01-wishlist-share-largest-more-3.jpg",
+      "sha256": "32cbe6c2ec7123e35ee6193d79d92b94f1aa5a73c48c6f5398a17caf137feb87"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest",
+      "file": "G-24-settings-alerts-on-largest.jpg",
+      "sha256": "a2fa38085f152996ec51a47184f883d9f8dd90800fc6f00db8289ffc732eccf0"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest-more",
+      "file": "G-24-settings-alerts-on-largest-more.jpg",
+      "sha256": "c17f31950a97c0f3e3b0db0a9d30dcdadc2ad9b0703aaa5ff3075d9eea3c5e1f"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest-more-2",
+      "file": "G-24-settings-alerts-on-largest-more-2.jpg",
+      "sha256": "89bedb750060bccd82a914853f4aa6b5cb1962a33aff8a8b5368be9653389909"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest-more-3",
+      "file": "G-24-settings-alerts-on-largest-more-3.jpg",
+      "sha256": "1a1635cb971bf0f76474089da46a3314a16271c4025fe9d7a5e6fed42b4e2873"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest-more-4",
+      "file": "G-24-settings-alerts-on-largest-more-4.jpg",
+      "sha256": "d9b040da446d093b155b77d48f3a0b1714a8e2630633bfab8e22baaa06cab61a"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest-more-5",
+      "file": "G-24-settings-alerts-on-largest-more-5.jpg",
+      "sha256": "a1b5660f6547113ba8ef8d2265bcf49fe16743355ca68c72758dc7fe5dcd1841"
+    },
+    {
+      "id": "G-24-settings-alerts-on-largest-more-6",
+      "file": "G-24-settings-alerts-on-largest-more-6.jpg",
+      "sha256": "80f2331ce0f52566f57cbb6e7be3c5076c39c3ab28458de585a081de97427b50"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest",
+      "file": "G-24-settings-alerts-off-largest.jpg",
+      "sha256": "5b192a342244dd85a09aad9ba46d20373cbfc20f656b85daf7ea1973d5ece08b"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest-more",
+      "file": "G-24-settings-alerts-off-largest-more.jpg",
+      "sha256": "c17f31950a97c0f3e3b0db0a9d30dcdadc2ad9b0703aaa5ff3075d9eea3c5e1f"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest-more-2",
+      "file": "G-24-settings-alerts-off-largest-more-2.jpg",
+      "sha256": "89bedb750060bccd82a914853f4aa6b5cb1962a33aff8a8b5368be9653389909"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest-more-3",
+      "file": "G-24-settings-alerts-off-largest-more-3.jpg",
+      "sha256": "1a1635cb971bf0f76474089da46a3314a16271c4025fe9d7a5e6fed42b4e2873"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest-more-4",
+      "file": "G-24-settings-alerts-off-largest-more-4.jpg",
+      "sha256": "d9b040da446d093b155b77d48f3a0b1714a8e2630633bfab8e22baaa06cab61a"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest-more-5",
+      "file": "G-24-settings-alerts-off-largest-more-5.jpg",
+      "sha256": "a1b5660f6547113ba8ef8d2265bcf49fe16743355ca68c72758dc7fe5dcd1841"
+    },
+    {
+      "id": "G-24-settings-alerts-off-largest-more-6",
+      "file": "G-24-settings-alerts-off-largest-more-6.jpg",
+      "sha256": "80f2331ce0f52566f57cbb6e7be3c5076c39c3ab28458de585a081de97427b50"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest",
+      "file": "G-24-settings-alerts-denied-largest.jpg",
+      "sha256": "c3369bc1d2062c3f016cada7525d5a98ac0fdabe4e9d536fc60d887dd009c6b1"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest-more",
+      "file": "G-24-settings-alerts-denied-largest-more.jpg",
+      "sha256": "30764034f6bceeb1e0b9a6c330f3f77dd98dfd377a08805ce01f3829127154f1"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest-more-2",
+      "file": "G-24-settings-alerts-denied-largest-more-2.jpg",
+      "sha256": "c26a2db9754377da6b5a12d9184874d95b1c4d12570dcdc6ad2a0775e9008ea3"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest-more-3",
+      "file": "G-24-settings-alerts-denied-largest-more-3.jpg",
+      "sha256": "4b802d434b85f2f46476fd9743223f47e67e5d8b359b5700d8cacd2c0a42e185"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest-more-4",
+      "file": "G-24-settings-alerts-denied-largest-more-4.jpg",
+      "sha256": "927f2048624a10cb738043835aa765a6fcef7d2184b6db1187c5da2191753c98"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest-more-5",
+      "file": "G-24-settings-alerts-denied-largest-more-5.jpg",
+      "sha256": "56b1f301687ce448b14f2d6a53b10fe50532fef5df2ef95807b081886712ace8"
+    },
+    {
+      "id": "G-24-settings-alerts-denied-largest-more-6",
+      "file": "G-24-settings-alerts-denied-largest-more-6.jpg",
+      "sha256": "80f2331ce0f52566f57cbb6e7be3c5076c39c3ab28458de585a081de97427b50"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-1-largest",
+      "file": "OFFLINE-REGISTRATION-step-1-largest.jpg",
+      "sha256": "94893bc9825f0d84bcba644cad1f6a6e022d7a5bde34535cf3843ff13f1d7bcf"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-1-largest-more",
+      "file": "OFFLINE-REGISTRATION-step-1-largest-more.jpg",
+      "sha256": "5de0a21df7cb08ead8cffa8989dd7a0f61d98b74e93f8fd76878941563545b67"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-1-largest-more-2",
+      "file": "OFFLINE-REGISTRATION-step-1-largest-more-2.jpg",
+      "sha256": "90db2ae869ac15acc88f08a8c72193139b79db297dff64f80af8b347377beb22"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2-largest",
+      "file": "OFFLINE-REGISTRATION-step-2-largest.jpg",
+      "sha256": "ec59f61b9a43b1c4318c6969956e060b058d303021a8532b04ff5ec58ba8a302"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2-largest-more",
+      "file": "OFFLINE-REGISTRATION-step-2-largest-more.jpg",
+      "sha256": "f4f11f47f731381220bb5ca0c04bb5eb986cc61807cf5745e33d811d1c874953"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest",
+      "file": "OFFLINE-REGISTRATION-step-3-largest.jpg",
+      "sha256": "e2764e230765a6a27bdfc29912028a7a8ea5ad64ffc47f08a1d1365c3f76858c"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more.jpg",
+      "sha256": "e3633d8f1386c3fce680ada1646f1e06dd0c3f805c3cab9cc5e9bd389ef1e419"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more-2",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more-2.jpg",
+      "sha256": "e23378c38add5763e71739d6936ca79d76eae936886830f446627254f64a0750"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more-3",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more-3.jpg",
+      "sha256": "7ca7ec3baba7d4175d137970afae5fee142ca5283a74981a5dc829fb45e55b11"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more-4",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more-4.jpg",
+      "sha256": "d8b283c9d96ccc47e5a4c182a12bc25d58cae3f3a09e840ba33f5190728a1396"
+    },
+    {
+      "id": "S2-04-set-page-largest",
+      "file": "S2-04-set-page-largest.jpg",
+      "sha256": "862dca84544819df0d0d9fcfc7f1523a0fdcb00fa8fe8553c6ea16d0c00f7ae2"
+    },
+    {
+      "id": "S2-04-set-page-largest-more",
+      "file": "S2-04-set-page-largest-more.jpg",
+      "sha256": "c36a0c88c6476e6d429fdb31cf439eb934074fd4ffcd0d6be761d9566530b3c2"
+    },
+    {
+      "id": "S2-04-set-page-largest-more-2",
+      "file": "S2-04-set-page-largest-more-2.jpg",
+      "sha256": "15e1a78a4f706e83a43967e725542cb3a43daa1e52d5ddf65c1fbfd2c1cff9e3"
+    },
+    {
+      "id": "S2-04-set-page-largest-more-3",
+      "file": "S2-04-set-page-largest-more-3.jpg",
+      "sha256": "98212f6fcfe37475646be427d00c9cfb9a498f130861d3ca7788cd918d57a0cb"
+    },
+    {
+      "id": "S2-04-set-page-largest-more-4",
+      "file": "S2-04-set-page-largest-more-4.jpg",
+      "sha256": "28c7ff64522d524ac879e6998f0f65551bcd2fb57af31c3eaaf46b736d533d4e"
+    },
+    {
+      "id": "G-16-set-page-largest",
+      "file": "G-16-set-page-largest.jpg",
+      "sha256": "8b61901f56dd18f77e7f077c2f725eb534f7503093aaa17c00816d7013e3c56f"
+    },
+    {
+      "id": "G-16-set-page-largest-more",
+      "file": "G-16-set-page-largest-more.jpg",
+      "sha256": "6ac0d21ccd773886ba8815c38596e81ac2c397a5912464b3667d64a289efd797"
+    },
+    {
+      "id": "G-16-set-page-largest-more-2",
+      "file": "G-16-set-page-largest-more-2.jpg",
+      "sha256": "e9742f476d02c512df06f85cd5b50dedcbe94f28364221c3f8cb8265e6260fb9"
+    },
+    {
+      "id": "G-16-set-page-largest-more-3",
+      "file": "G-16-set-page-largest-more-3.jpg",
+      "sha256": "bbe34c34afb63f154f826146f348b7c5e194b89c5b7d8e588d04978595878c5b"
+    },
+    {
+      "id": "G-16-set-page-scrolled-largest",
+      "file": "G-16-set-page-scrolled-largest.jpg",
+      "sha256": "093befdece774a729117da11521635e9f5469c8e035f9415c5f0522771a00fba"
+    },
+    {
+      "id": "S2-03-sets-feed-in-basket",
+      "file": "S2-03-sets-feed-in-basket.jpg",
+      "sha256": "9bfa29ba8a9a4edbc187b5084ef9f038a1bad1f4955b202458d0d1fad471e003"
+    },
+    {
+      "id": "S2-03-sets-feed-in-basket-largest",
+      "file": "S2-03-sets-feed-in-basket-largest.jpg",
+      "sha256": "347fcb63d4f832ef868b9767627b1db3307976e5b89c8b0ef8c2512beb05d18c"
+    },
+    {
+      "id": "S2-03-sets-feed-in-basket-largest-more",
+      "file": "S2-03-sets-feed-in-basket-largest-more.jpg",
+      "sha256": "02fc550dab05c6387cf39826dfa84dc6197a60e9c53dea506ae94c4e1ba42787"
+    },
+    {
+      "id": "S2-03-sets-feed-in-basket-largest-more-2",
+      "file": "S2-03-sets-feed-in-basket-largest-more-2.jpg",
+      "sha256": "c495866fd83331cdd345227c855428455723c4de8b97c0b74b11aa91ae5e9483"
+    },
+    {
+      "id": "S2-01-sets-feed-festival",
+      "file": "S2-01-sets-feed-festival.jpg",
+      "sha256": "2be0e306aca58743a55f8bf46dafe2755be300050c0de9e6fa23b25a86e190a4"
+    },
+    {
+      "id": "S2-01-sets-feed-festival-silver-saved",
+      "file": "S2-01-sets-feed-festival-silver-saved.jpg",
+      "sha256": "2be0e306aca58743a55f8bf46dafe2755be300050c0de9e6fa23b25a86e190a4"
+    },
+    {
+      "id": "G-14-my-charms-festival",
+      "file": "G-14-my-charms-festival.jpg",
+      "sha256": "8291c4cf872037a03dda0e93b72a2b15405af2376dd45f80f3e826dfde129aa9"
+    },
+    {
+      "id": "G-14-my-charms-festival-more",
+      "file": "G-14-my-charms-festival-more.jpg",
+      "sha256": "52288100df08db2a031d142baee0127ef68895ac0ddcdf5aef35239467109fa9"
+    },
+    {
+      "id": "G-14-my-charms-festival-more-2",
+      "file": "G-14-my-charms-festival-more-2.jpg",
+      "sha256": "db235a4e732f81303a38637a73db32e7874ae6885f2b74867bc5020cd7ebfcd2"
+    },
+    {
+      "id": "G-16-set-page-festival",
+      "file": "G-16-set-page-festival.jpg",
+      "sha256": "e296c8fc6f3e25a3dfe6c4f8cc713b6a71dca78a7db290de431a1f12d47f7224"
+    },
+    {
+      "id": "G-16-set-page-festival-more",
+      "file": "G-16-set-page-festival-more.jpg",
+      "sha256": "dcf9d07f0f4bc4bfd56c8143eb08e70a7147ecdb925ac351b3860e20546f318d"
+    },
+    {
+      "id": "L-01-wishlist-share-375",
+      "file": "L-01-wishlist-share-375.jpg",
+      "sha256": "b5e230449a3c56d78f59c98d7f33c1ade433f7f2d3dbf1612c72f6a2e827cf3c"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-375",
+      "file": "L-01-wishlist-share-largest-375.jpg",
+      "sha256": "57d2553dd3ac2cb1cfff60cadc4ae6b0420a6c64b2c0f75157c07c68b70c9016"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-375-more",
+      "file": "L-01-wishlist-share-largest-375-more.jpg",
+      "sha256": "871c6204554a8271985ff11a76a827aa056d325263ca453857bab7bc69b8eb73"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-375-more-2",
+      "file": "L-01-wishlist-share-largest-375-more-2.jpg",
+      "sha256": "1f5329b72050f99d5639523e88c4bce369924ca9c4914ddea045c0cc4eae106e"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-375-more-3",
+      "file": "L-01-wishlist-share-largest-375-more-3.jpg",
+      "sha256": "67569cfd46d798b903616aa8e6c763cbe27742c5cacf672965a9a34c660b25f4"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2-keyboard-largest",
+      "file": "OFFLINE-REGISTRATION-step-2-keyboard-largest.jpg",
+      "sha256": "2c7cdb00aef61730981b1e9e6c6c6cf25d1f7c0d584b9f63767647bcc25ba405"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2-keyboard",
+      "file": "OFFLINE-REGISTRATION-step-2-keyboard.jpg",
+      "sha256": "bbbb5bc7f2cfb8bc391cbe5d7123e19ab5f41fc9c1e2460b049b2bd2ef7bb17b"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2-keyboard-largest-small",
+      "file": "OFFLINE-REGISTRATION-step-2-keyboard-largest-small.jpg",
+      "sha256": "8bcef29e7f67f121e492dabb15865eb26d4cf985379adef0d2113d91e6864594"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-2-keyboard-small",
+      "file": "OFFLINE-REGISTRATION-step-2-keyboard-small.jpg",
+      "sha256": "fe6ff90fb3dede4fbc2bf9125906ba3916d2154581a55e5ee7d4e942b1aff289"
+    },
+    {
+      "id": "Device55-badge-set-largest-1",
+      "file": "Device55-badge-set-largest-1.jpg",
+      "sha256": "6071c2e8800b86abed7b38b5ef62f852f604ec01cd7c583fcc1ae2e6813bbf87"
+    },
+    {
+      "id": "Device55-badge-set-largest-0",
+      "file": "Device55-badge-set-largest-0.jpg",
+      "sha256": "f63538b7d44035b90cd549a751168378efa6c2a37a063b324832502282f03717"
+    },
+    {
+      "id": "Device55-badge-set-normal-1",
+      "file": "Device55-badge-set-normal-1.jpg",
+      "sha256": "4244b5c6142b9b9cf0d81b27a7ef6e9b093b0a0f25f73431824ed43168e60ad5"
+    },
+    {
+      "id": "Device55-badge-set-normal-0",
+      "file": "Device55-badge-set-normal-0.jpg",
+      "sha256": "a9c38326187287a560b74734c45618c8576fcfda73aade13cbab3d4dc59cd7d0"
+    }
+  ],
+  "unchanged": [
+    "B-03-share-card",
+    "M-06-sync-zero",
+    "M-07-registration-history",
+    "O-01-your-name-largest-keyboard",
+    "O-01-your-name-largest-keyboard-small",
+    "B-04-badge-web-page",
+    "B-04-badge-web-page-more",
+    "O-01-your-name",
+    "O-01-your-name-empty",
+    "O-01-your-name-limit",
+    "O-01-your-name-largest",
+    "O-01-your-name-largest-more",
+    "O-01-your-name-largest-more-2",
+    "G-06-purchases-found",
+    "G-35U-basket-removal-undo",
+    "G-35U-basket-removal-undo-more",
+    "G-35U-basket-removal-undo-largest",
+    "G-35U-basket-removal-undo-largest-more",
+    "G-35U-basket-removal-undo-largest-more-2",
+    "G-35U-basket-removal-undo-largest-more-3",
+    "O-01-your-name-limit-keyboard",
+    "O-01-your-name-empty-keyboard",
+    "O-01-your-name-keyboard",
+    "O-01-your-name-largest-keyboard-more",
+    "L-01U-wishlist-removed-largest",
+    "L-01S-wishlist-swipe-largest",
+    "L-01U-wishlist-removed",
+    "L-01S-wishlist-swipe",
+    "O-01-your-name-limit-keyboard-small",
+    "O-01-your-name-empty-keyboard-small",
+    "O-01-your-name-keyboard-small",
+    "O-01-your-name-largest-keyboard-more-small",
+    "L-01U-wishlist-removed-largest-small",
+    "L-01S-wishlist-swipe-largest-small",
+    "L-01-wishlist-share-largest-small",
+    "L-01U-wishlist-removed-small",
+    "L-01S-wishlist-swipe-small",
+    "L-01-wishlist-share-small",
+    "B-03-badge-still",
+    "B-03-badge-moving",
+    "B-04-badge-og",
+    "L-01S-swipe-remove-undo",
+    "L-07-feedback-sheet-filled",
+    "L-09-settings-feedback",
+    "L-09-settings-feedback-more",
+    "L-09-settings-feedback-more-2",
+    "L-09-settings-feedback-disabled",
+    "L-09-settings-feedback-disabled-more",
+    "L-10-testflight-welcome",
+    "L-07-feedback-sheet-filled-largest",
+    "L-07-feedback-sheet-filled-largest-more",
+    "L-07-feedback-sheet-filled-largest-more-2",
+    "L-09-settings-feedback-largest",
+    "L-09-settings-feedback-largest-more",
+    "L-09-settings-feedback-largest-more-2",
+    "L-09-settings-feedback-largest-more-3",
+    "L-09-settings-feedback-largest-more-4",
+    "L-09-settings-feedback-largest-more-5",
+    "L-09-settings-feedback-largest-more-6",
+    "L-09-settings-feedback-largest-more-7",
+    "L-09-settings-feedback-disabled-largest",
+    "L-09-settings-feedback-disabled-largest-more",
+    "L-09-settings-feedback-disabled-largest-more-2",
+    "L-09-settings-feedback-disabled-largest-more-3",
+    "L-09-settings-feedback-disabled-largest-more-4",
+    "L-09-settings-feedback-disabled-largest-more-5",
+    "L-09-settings-feedback-disabled-largest-more-6",
+    "L-10-testflight-welcome-largest",
+    "L-10-testflight-welcome-largest-more",
+    "ROOT-wishlist-preview",
+    "L-06-founding-badge",
+    "L-06-founding-badge-reduce-motion",
+    "L-09-settings-feedback-not-earned",
+    "L-09-settings-feedback-not-earned-more",
+    "L-09-settings-feedback-not-earned-more-2",
+    "L-07-feedback-sheet",
+    "L-07-feedback-sheet-largest",
+    "L-07-feedback-sheet-largest-more",
+    "L-07-feedback-sheet-largest-more-2",
+    "L-10-testflight-welcome-largest-more-2",
+    "L-07-feedback-sheet-offline",
+    "L-08-feedback-sent",
+    "L-08-feedback-sent-no-reply",
+    "ROOT-shop-preview",
+    "ROOT-my-charms-preview",
+    "ROOT-shop-release",
+    "B-03-founding-share-web",
+    "L-01-alerts-on-share",
+    "L-01-alerts-on-share-largest",
+    "L-01-alerts-on-share-largest-more",
+    "W-01-shared-wishlist",
+    "W-01-shared-wishlist-more",
+    "W-06-private-link",
+    "L-02-og-private",
+    "LIVE-feedback-inbox",
+    "LIVE-TestFlight-receipt",
+    "PHYSICAL-VoiceOver-haptics",
+    "F-50-Safari-associated-link"
+  ]
+}

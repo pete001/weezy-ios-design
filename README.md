@@ -1,6 +1,8 @@
 # Weezy Pop · public design review
 
-**Current handover:** [Review54 · Three finishing touches](review/build-54/README.md). F132–134 are fixed. Six requested screen IDs plus web continuation and smaller-phone keyboard companion. [Gallery](review/build-54/index.html) · [Responses](review/build-54/RESPONSE.md) · [Tests](review/build-54/TESTS.json). Native54 is review-only; TestFlight53 remains released. App-only runtime52 deploys the larger white web logo.
+**Current handover:** [Review55 · Device fixes and Festival Queen](review/build-55/README.md).106 fresh images, largest text/scroll/keyboard/Back companions. F135–147 addressed; F148 remains Nat’s explicit HOLD. [Gallery](review/build-55/index.html) · [Responses](review/build-55/RESPONSE.md) · [Tests](review/build-55/TESTS.json) · [Release](review/build-55/RELEASE.json). App Editor now dictates shared covers; Cowboy Boot stays visible regardless of saved finish.
+
+**Previous handover54:** [Review54 · Three finishing touches](review/build-54/README.md). F132–134 are fixed. Six requested screen IDs plus web continuation and smaller-phone keyboard companion. [Gallery](review/build-54/index.html) · [Responses](review/build-54/RESPONSE.md) · [Tests](review/build-54/TESTS.json). Native54 is review-only; TestFlight53 remains released. App-only runtime52 deploys the larger white web logo.
 
 **Previous handover53:** [Review53 · Everything since the Save video crash](review/build-53/README.md).40 fresh images and2 videos cover the Photos crash correction, white native/web share logos, editable name onboarding, wishlist swipe/full-swipe and Undo. [Gallery](review/build-53/index.html) · [Responses](review/build-53/RESPONSE.md) · [Tests](review/build-53/TESTS.json) · [Verified release](review/build-53/RELEASE.json). Native swipe geometry/threshold remains declared partial; real phone Photos/name acceptance remains separate.
 
@@ -16,7 +18,7 @@
 
 Review45 fixes F123 (largest-text basket labels) and F124 (one Swirl tile with ×2), with six fresh changed-screen JPEGs and explicit references to prior evidence. Pete subsequently authorized TestFlight45 after design approval; it is available to Weezy Pop Internal and Lou & Nat. [Separate release record](releases/build-45/README.md). F119–122 remain designer-approved. Seven Release-native Store composites, three previews, header/search art and listing copy remain uploaded to the unsubmitted Apple1.0 draft with processed build44 selected; see [Apple draft status](review/app-store/APPLE-DRAFT-STATUS.json). Reviewer access will be arranged later. Earlier review folders and Store media stay unchanged.
 
-**Release status:**1.0/build53 is approved and available to Weezy Pop Internal and Lou & Nat. [TestFlight](https://testflight.apple.com/join/5m9QyaSa). App-only runtime52 is live; App Store1.0 remains unsubmitted. Real signed-in name persistence has not been tested on an authorized customer, and physical Photos acceptance remains. Earlier review folders stay intact.
+**Release status:**1.0/build55 is approved and available to Weezy Pop Internal and Lou & Nat. [TestFlight](https://testflight.apple.com/join/5m9QyaSa). App-only runtime53 is live; App Store1.0 remains unsubmitted. Real signed-in name persistence has not been tested on an authorized customer, and physical Photos acceptance remains. Earlier review folders stay intact.
 
 Download/clone the repository to open the HTML gallery offline. GitHub renders the Markdown and individual images directly. Gallery notes stay in your browser until you download them; they are not sent automatically.
 

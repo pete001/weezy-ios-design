@@ -1,0 +1,57 @@
+{
+  "build": 55,
+  "version": "1.0",
+  "uploaded": true,
+  "buildId": "80db759f-ee10-4574-b918-ca0e173a1a72",
+  "processingState": "VALID",
+  "distribution": [
+    {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  ],
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "80db759f-ee10-4574-b918-ca0e173a1a72",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "ca37b9f56a241508779f869fbb7598f346fc642a",
+  "frozenInputs": 260,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "db5035d6884c1aae30434f7c96102352c21838f977999e0a555d0a91d6ea5631",
+  "dSYMUUID": "EA889EB7-453B-333D-A28D-C34B6535FEA0",
+  "appleServerValidated": true,
+  "privacyManifestSameAsPublished49": true,
+  "appOnlyRuntime": 53,
+  "giftAlertOptOutRouteDeployed": true,
+  "liveCustomerMutation": false,
+  "feedbackEnabled": false,
+  "customerWebsiteChanged": false,
+  "appStoreSubmitted": false,
+  "freshImages": 106,
+  "physicalAcceptanceRemaining": [
+    "Nat iPhone17Pro26.6.1 repeated Badge\u2192SeeSet\u2192Back",
+    "Real OAuth/name writes, APNs, payment, Photos, VoiceOver/haptics and F50",
+    "Broader accessibility/performance acceptance"
+  ],
+  "merchantRemaining": [
+    "F148 explicit HOLD",
+    "9 coloured standalone charm-photo gaps",
+    "Existing silver/free-chain/offer-copy confirmations"
+  ]
+}

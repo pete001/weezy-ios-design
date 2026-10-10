@@ -1,0 +1,767 @@
+{
+  "build": 55,
+  "runs": [
+    {
+      "name": "models-and-content",
+      "receipt": "20261010T125255Z-808e7d.xcresult",
+      "receiptSHA256": "70acc8144d01cc3c8d0beb4d0412548e6b39f47932d8d8a6f14540e827b421aa",
+      "tests": {
+        "total": 57,
+        "passed": 57,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 92715,
+        "cases": [
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+            "name": "testBadgeMovingExportIsFourSecondsAt1080x1920()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1000
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+            "name": "testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 52
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+            "name": "testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 12
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+            "name": "testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+            "name": "testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+            "name": "testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 14
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+            "name": "testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 18
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+            "name": "testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 7
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+            "name": "testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+            "name": "testShareUsesFirstNameAndNeutralFallback()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+            "name": "testShelfEarnedFirstThenLockedByProgress()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+            "name": "testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 12
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+            "name": "testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testDefaultGoldDesignMatchesMerchantFirstPhotoWithoutChangingShopifyOrder()",
+            "name": "testDefaultGoldDesignMatchesMerchantFirstPhotoWithoutChangingShopifyOrder()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testExplicitGlitterAndSilverAlwaysWinAndCanBeReselected()",
+            "name": "testExplicitGlitterAndSilverAlwaysWinAndCanBeReselected()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testFestivalQueenBootCoverSurvivesMissingOwnedVariantAndSilverWishlist()",
+            "name": "testFestivalQueenBootCoverSurvivesMissingOwnedVariantAndSilverWishlist()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed",
+            "durationMs": 3
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testOtherCategoriesKeepExistingDefaultAndHiddenPhotosCannotDriveDefault()",
+            "name": "testOtherCategoriesKeepExistingDefaultAndHiddenPhotosCannotDriveDefault()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testSetRestrictionsWinAndOutOfStockGoldIsNotMisrepresented()",
+            "name": "testSetRestrictionsWinAndOutOfStockGoldIsNotMisrepresented()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testSharedCoversIgnoreEachAccountsSelectedFinishAndKeepExactDetailPhotos()",
+            "name": "testSharedCoversIgnoreEachAccountsSelectedFinishAndKeepExactDetailPhotos()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "CharmPhotoPriorityTests/testTwentyEightShopifyGoldPhotosReachDefaultFeedBentoAndExactSelection()",
+            "name": "testTwentyEightShopifyGoldPhotosReachDefaultFeedBentoAndExactSelection()",
+            "className": "CharmPhotoPriorityTests",
+            "status": "passed",
+            "durationMs": 100
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testAppOnlyImageOrderOverridesHeroThumbnailAndAutomaticExclusions()",
+            "name": "testAppOnlyImageOrderOverridesHeroThumbnailAndAutomaticExclusions()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testAuthoritativeEmptyShopifyMediaSnapshotClearsStaleAppImages()",
+            "name": "testAuthoritativeEmptyShopifyMediaSnapshotClearsStaleAppImages()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testContainedDarkJewelleryStillNeedsLightStageContrast()",
+            "name": "testContainedDarkJewelleryStillNeedsLightStageContrast()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed",
+            "durationMs": 6
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testContrastSamplesTopControlsSeparatelyFromCaption()",
+            "name": "testContrastSamplesTopControlsSeparatelyFromCaption()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testContrastUsesTheVisibleFillCropAndCompositesTransparentPhotos()",
+            "name": "testContrastUsesTheVisibleFillCropAndCompositesTransparentPhotos()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testInvalidAppMetadataRetainsTheLastGoodSelection()",
+            "name": "testInvalidAppMetadataRetainsTheLastGoodSelection()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testLightAndDarkPhotosSelectDifferentContrastTreatment()",
+            "name": "testLightAndDarkPhotosSelectDifferentContrastTreatment()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testPeekOccursOncePerSessionAndSkipsSinglePhotosAndReducedMotion()",
+            "name": "testPeekOccursOncePerSessionAndSkipsSinglePhotosAndReducedMotion()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testPhotographyDetectsWhiteStudioEdges()",
+            "name": "testPhotographyDetectsWhiteStudioEdges()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testPhotographyExcludesPressAndBannerMediaWithoutDiscardingProductPhotos()",
+            "name": "testPhotographyExcludesPressAndBannerMediaWithoutDiscardingProductPhotos()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testPhotographyPromotesFirstNonwhiteImageAndOtherwisePreservesOrder()",
+            "name": "testPhotographyPromotesFirstNonwhiteImageAndOtherwisePreservesOrder()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testPhotosPreserveStoreOrderIncludingDuplicatesAndHaveStableIdentity()",
+            "name": "testPhotosPreserveStoreOrderIncludingDuplicatesAndHaveStableIdentity()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testStorySwipeOnlyBeginsAtTheLeadingEdgeInTheEnabledFirstPhoto()",
+            "name": "testStorySwipeOnlyBeginsAtTheLeadingEdgeInTheEnabledFirstPhoto()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "FeedPhotoCarouselTests/testStorySwipeRequiresACompletedDeliberateRightwardPull()",
+            "name": "testStorySwipeRequiresACompletedDeliberateRightwardPull()",
+            "className": "FeedPhotoCarouselTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PhotoLibrarySaveTests/testAuthorizedMovingBadgeSavesToPhotos()",
+            "name": "testAuthorizedMovingBadgeSavesToPhotos()",
+            "className": "PhotoLibrarySaveTests",
+            "status": "passed",
+            "durationMs": 2000
+          },
+          {
+            "identifier": "PhotoLibrarySaveTests/testCancelledSaveDoesNotRequestPhotosPermission()",
+            "name": "testCancelledSaveDoesNotRequestPhotosPermission()",
+            "className": "PhotoLibrarySaveTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PhotoLibrarySaveTests/testDeniedAndRestrictedAccessRejectBeforeOpeningPhotosTransaction()",
+            "name": "testDeniedAndRestrictedAccessRejectBeforeOpeningPhotosTransaction()",
+            "className": "PhotoLibrarySaveTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PhotoLibrarySaveTests/testMissingExportReturnsAnErrorInsteadOfAFalseSuccess()",
+            "name": "testMissingExportReturnsAnErrorInsteadOfAFalseSuccess()",
+            "className": "PhotoLibrarySaveTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PhotoLibrarySaveTests/testReduceMotionVideoSavesToPhotos()",
+            "name": "testReduceMotionVideoSavesToPhotos()",
+            "className": "PhotoLibrarySaveTests",
+            "status": "passed",
+            "durationMs": 610
+          },
+          {
+            "identifier": "PhotoLibrarySaveTests/testStillAndSquareBadgeAndLegacyCardSaveToPhotos()",
+            "name": "testStillAndSquareBadgeAndLegacyCardSaveToPhotos()",
+            "className": "PhotoLibrarySaveTests",
+            "status": "passed",
+            "durationMs": 130
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureDevice55()",
+            "name": "testCaptureDevice55()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 76000
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "name": "testAlreadyCancelledRequestCannotEraseLoadedSelectionWhenItStartsLate()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 82
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "name": "testCancelledOldRequestCannotBlankAlreadyLoadedNewFinish()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "name": "testFailedDownloadCanRetryAndClearDoesNotAcceptLateResult()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "name": "testInjectedDownloaderFailureRetriesSameExactPhotoWithoutBorrowingGallery()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 110
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "name": "testSlowOriginalCannotClearNewFinishAfterReturningToOriginal()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ProductPhotoRequestTests/testTappingSameVariantRequestsItsPhotoAgain()",
+            "name": "testTappingSameVariantRequestsItsPhotoAgain()",
+            "className": "ProductPhotoRequestTests",
+            "status": "passed",
+            "durationMs": 34
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+            "name": "testCurrentShopifyAppMetadataReachesEveryProductAndSilverVariant()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 200
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "name": "testDescriptionKeepsInlineWordsAndDecodesEntitiesWithoutScriptText()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 2
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "name": "testDiscoversNewCollectionsAndFreshNamesInShopifyOrder()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 8
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+            "name": "testExportVerifiedShopifyMetadataForBundledOfflineCatalogue()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 92
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "name": "testFailedMembershipDoesNotReturnOldOrPartialCollections()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "name": "testHotUsesMonthlyServiceAndRejectsOversizedOrUnavailableRanking()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 11
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testLegacyPhotoMetadataCannotEraseAppOnlyListingSettings()",
+            "name": "testLegacyPhotoMetadataCannotEraseAppOnlyListingSettings()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testLiveShopifyUnderscoreProductRanksInHotWithoutAcceptingUnsafeHandles()",
+            "name": "testLiveShopifyUnderscoreProductRanksInHotWithoutAcceptingUnsafeHandles()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 8
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "name": "testProductPaginationKeepsImageVariantOrderAndStableNumbers()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 37
+          },
+          {
+            "identifier": "PublicCatalogueClientTests/testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+            "name": "testWeeklyHotAcceptsFreshMixedRankingAndRejectsWrongWindowsAndStaleData()",
+            "className": "PublicCatalogueClientTests",
+            "status": "passed",
+            "durationMs": 2
+          }
+        ]
+      },
+      "note": "Zero failure/skip; executed synthetic/local checks."
+    },
+    {
+      "name": "final-content",
+      "receipt": "20261010T130446Z-50bb10.xcresult",
+      "receiptSHA256": "371b95c5b250cf94263ab7cb8aaa157a21b01d6fb402d386f9f93963df9a9515",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 91263,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureDevice55()",
+            "name": "testCaptureDevice55()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 80000
+          }
+        ]
+      },
+      "note": "Zero failure/skip; executed synthetic/local checks."
+    },
+    {
+      "name": "primary-keyboard-final",
+      "receipt": "20261010T130030Z-b6cd00.xcresult",
+      "receiptSHA256": "76481a6a5307cabd84c6c8505913a07816b441c58afee7b3ffacf7c20bde451f",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 85787,
+        "cases": [
+          {
+            "identifier": "Device55UITests/testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 34000
+          },
+          {
+            "identifier": "Device55UITests/testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 29000
+          }
+        ]
+      },
+      "note": "Zero failure/skip; executed synthetic/local checks."
+    },
+    {
+      "name": "smaller-keyboard-final",
+      "receipt": "20261010T130431Z-8643d0.xcresult",
+      "receiptSHA256": "70ed8b949631f0215812ea148a43ff0b0b4a386b3174dae9baf7767f5cbef7f3",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 78528,
+        "cases": [
+          {
+            "identifier": "Device55UITests/testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 36000
+          },
+          {
+            "identifier": "Device55UITests/testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 29000
+          }
+        ]
+      },
+      "note": "Zero failure/skip; executed synthetic/local checks."
+    },
+    {
+      "name": "smaller-Back",
+      "receipt": "20261010T124111Z-723e5b.xcresult",
+      "receiptSHA256": "9235581f5d2cfb354ebf8677e8e368d0fc653ce9b2e3c4ec732203d41ede4e82",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 124131,
+        "cases": [
+          {
+            "identifier": "Device55UITests/testBadgeSeeSetSingleBackTapLargestAndScrolled()",
+            "name": "testBadgeSeeSetSingleBackTapLargestAndScrolled()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 58000
+          },
+          {
+            "identifier": "Device55UITests/testBadgeSeeSetSingleBackTapNormalAndScrolled()",
+            "name": "testBadgeSeeSetSingleBackTapNormalAndScrolled()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 45000
+          }
+        ]
+      },
+      "note": "Zero failure/skip; executed synthetic/local checks."
+    },
+    {
+      "name": "primary-root-initial",
+      "receipt": "20261010T124334Z-e77de1.xcresult",
+      "receiptSHA256": "abbf0f5518e994d6bdf2d28b3950398220ef5414123dcd2f675c267677142ee7",
+      "tests": {
+        "total": 9,
+        "passed": 8,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 311802,
+        "cases": [
+          {
+            "identifier": "Device55UITests/testBadgeSeeSetSingleBackTapLargestAndScrolled()",
+            "name": "testBadgeSeeSetSingleBackTapLargestAndScrolled()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 60000
+          },
+          {
+            "identifier": "Device55UITests/testBadgeSeeSetSingleBackTapNormalAndScrolled()",
+            "name": "testBadgeSeeSetSingleBackTapNormalAndScrolled()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 45000
+          },
+          {
+            "identifier": "Device55UITests/testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "failed",
+            "durationMs": 24000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Device55UITests/testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 26000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "name": "testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 32000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 24000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 26000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 28000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 28000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Device55UITests/testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "note": "Initial run has a registration interaction failure; final keyboard rechecks cover that path. Passed Back/photo/tab cases remain distinct evidence."
+    },
+    {
+      "name": "smaller-root-initial",
+      "receipt": "20261010T124754Z-15bc2a.xcresult",
+      "receiptSHA256": "e7f85b2a7829418ff17b8a4df9be2a99f76a73ded3129a0aada051c6f49d23a1",
+      "tests": {
+        "total": 6,
+        "passed": 5,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 167513,
+        "cases": [
+          {
+            "identifier": "Device55UITests/testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "failed",
+            "durationMs": 20000,
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Device55UITests/testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "name": "testRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 27000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 25000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 22000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 24000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 26000
+          }
+        ],
+        "failures": [
+          {
+            "identifier": "Device55UITests/testLargestRegistrationHasThreeRealStepsAndKeyboardClearance()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "note": "Initial run has a registration interaction failure; final keyboard rechecks cover that path. Passed Back/photo/tab cases remain distinct evidence."
+    },
+    {
+      "name": "optimized-Release",
+      "receipt": "optimized-release.xcresult",
+      "tests": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 344136,
+        "cases": [
+          {
+            "identifier": "Device55UITests/testBadgeSeeSetSingleBackTapLargestAndScrolled()",
+            "name": "testBadgeSeeSetSingleBackTapLargestAndScrolled()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 71000
+          },
+          {
+            "identifier": "Device55UITests/testBadgeSeeSetSingleBackTapNormalAndScrolled()",
+            "name": "testBadgeSeeSetSingleBackTapNormalAndScrolled()",
+            "className": "Device55UITests",
+            "status": "passed",
+            "durationMs": 56000
+          },
+          {
+            "identifier": "Shop38UITests/testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "name": "testPhotoTapAndRepeatedBackReturnToSameAlignedProduct()",
+            "className": "Shop38UITests",
+            "status": "passed",
+            "durationMs": 44000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          }
+        ]
+      },
+      "note": "Optimized shipping root, repeated Back, photo returns and glass tabs; before final registration-only focus correction. No production authentication bypass."
+    },
+    {
+      "name": "final375-sharing",
+      "receipt": "20261010T130603Z-02c3ea.xcresult",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 23529,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureDevice55()",
+            "name": "testCaptureDevice55()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 4000
+          }
+        ]
+      },
+      "note": "Controlled375\u00d7812pt isolated content, not shipping-root or live account."
+    }
+  ],
+  "backend": {
+    "tests": 495,
+    "passed": 495,
+    "failed": 0,
+    "skipped": 0,
+    "simulationTests": 528,
+    "simulationPassed": 528,
+    "launchBrowserPassed": true,
+    "isolation": "Synthetic loopback identities, signed events, actual service ledgers; no live Shopify carts, purchases or pushes"
+  },
+  "photoRegressionTests": [
+    "testSharedCoversIgnoreEachAccountsSelectedFinishAndKeepExactDetailPhotos",
+    "testFestivalQueenBootCoverSurvivesMissingOwnedVariantAndSilverWishlist"
+  ],
+  "visualReview": [
+    "Normal/largest content contacts; actual primary/smaller full-screen keyboard field borders and footer; Festival Queen Cowboy Boot cover before/after Silver wish; settings alert states."
+  ],
+  "retainedFailures": [
+    "Initial Back test badge lookup fixed with stable identifier.",
+    "Initial largest registration AX off-viewport item fixed in interaction/reveal helper.",
+    "Initial keyboard geometry passes still clipped field border; retained, then fixed whole-group scroll and stricter clearance/full-screen checks.",
+    "Initial gift-alert HTTP allowlist test404 fixed;495 service recheck passed.",
+    "Malformed initial only-testing selector executed0; discarded as evidence, preserved."
+  ],
+  "limits": [
+    "Only iOS27 simulator runtime installed; Nat iPhone17Pro26.6.1 requires real-phone acceptance.",
+    "Content gallery is a393\u00d7852pt host, not shipping-root layout evidence.",
+    "Functional passes do not close the unsuppressed accessibility/performance audit.",
+    "Physical OAuth/name writes, APNs, paid checkout, Photos, VoiceOver/haptics and F50 remain separate.",
+    "F148 merchant HOLD,9 missing coloured standalone shots; feedback disabled/hidden."
+  ],
+  "sourceCommit": "ca37b9f56a241508779f869fbb7598f346fc642a",
+  "coverPixelReadback": {
+    "FestivalCowboyBootBeforeAfterSilverWishIdentical": true,
+    "method": "Unretouched source RGB and exported JPEG crop comparison"
+  },
+  "galleryInteraction": {
+    "cards": 106,
+    "opened": true,
+    "persisted": true,
+    "closed": true
+  }
+}
