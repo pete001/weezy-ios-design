@@ -1,0 +1,61 @@
+{
+  "build": 58,
+  "version": "1.0",
+  "uploaded": true,
+  "buildId": "67b1afaa-04f8-4754-b67a-6850a66e0e93",
+  "uploadedDate": "2026-10-10T11:08:35-07:00",
+  "processingState": "VALID",
+  "distribution": [
+    {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  ],
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "67b1afaa-04f8-4754-b67a-6850a66e0e93",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "59d5351b37e0a1a1128a632601b0127665011e80",
+  "frozenNativeInputs": 262,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "754ac1b8c5ac2299c1f9d2bd53820df9356a7be00226efdb39273c679dd0172c",
+  "dSYMUUID": "FD344619-E257-3568-9F1A-3D8C1E6C3510",
+  "appleServerValidated": true,
+  "appleSeparateChecksumAvailable": false,
+  "nativeFunctionalExecutions": 424,
+  "repeatedTestsIncluded": true,
+  "serviceTests": 536,
+  "freshReviewJPEGs": 60,
+  "appOnlyRuntime": 58,
+  "runtimeDigest": "sha256:db56b300804db0ba3d8571f52a8f97e750e9dc4740ece238f221be9820231557",
+  "customerWebsiteChanged": false,
+  "liveCustomerMutation": false,
+  "livePaidPurchase": false,
+  "appStoreSubmitted": false,
+  "feedbackEnabled": false,
+  "appStorePrivacyPublicationPending": true,
+  "physicalAcceptanceRemaining": [
+    "Nat actual iPhone17Pro/iOS26.6.1",
+    "Payment, gift email scheduling, Photos, OAuth, APNs, haptics and VoiceOver",
+    "Reduce Motion/frame-level animation Instruments",
+    "Safari associated-link F50"
+  ],
+  "allAccessibilityPassed": false,
+  "scope": "F159\u2013166 and founder photo, Ways to wear, empty filters and genuine fixed-denomination gift cards"
+}

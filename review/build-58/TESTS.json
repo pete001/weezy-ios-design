@@ -1,0 +1,243 @@
+{
+  "build": 58,
+  "sourceCommit": "59d5351b37e0a1a1128a632601b0127665011e80",
+  "allFunctionalPassed": true,
+  "allFindingsReviewed": true,
+  "releaseRenderingVerified": true,
+  "allAccessibilityPassed": false,
+  "runs": [
+    {
+      "receipt": "build/Migration/20261010T174106Z-863f64.xcresult",
+      "jsonSHA256": "3653815dd5f78d2a5a457e186d453be4a59c20ea4d1c5ef005d95fda69ccb499",
+      "tests": {
+        "total": 399,
+        "passed": 399,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ]
+    },
+    {
+      "receipt": "build/Migration/20261010T174206Z-ba9eec.xcresult",
+      "jsonSHA256": "ccf9f6b27f1e0439a48f31174c0e0c36889f14ef65d3ba5033b06f24ccac4443",
+      "tests": {
+        "total": 7,
+        "passed": 7,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ]
+    },
+    {
+      "receipt": "build/Migration/20261010T174522Z-4fec66.xcresult",
+      "jsonSHA256": "262b22871e121017aacafd6dcb17e5f4ed894e58f4d169284e63604db527f50d",
+      "tests": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ]
+    },
+    {
+      "receipt": "build/Migration/20261010T174727Z-be515c.xcresult",
+      "jsonSHA256": "cbcee63b00f98916eb0cf7201b8518b6d8c423e234fa25790834a66bbc612c56",
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Release",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ]
+    },
+    {
+      "receipt": "build/Migration/20261010T175254Z-86ac00.xcresult",
+      "jsonSHA256": "26353da81d3280b6a0e5ae7eab0487f2401ca8864c17352540aac31a20b012eb",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Release",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ]
+    },
+    {
+      "receipt": "build/Migration/20261010T175823Z-f8d944.xcresult",
+      "jsonSHA256": "47d0ccc512547b58b6a809eaedbc6582319010cc1cc2cdd6f7dda1e4cd0d5f5b",
+      "tests": {
+        "total": 8,
+        "passed": 8,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ]
+    },
+    {
+      "receipt": "build/Migration/20261010T180015Z-b5a535.xcresult",
+      "jsonSHA256": "8681d3e3310ae06652d83fe0d523a15bacac70ed6d490e877372df1a99de69d2",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0
+      },
+      "configuration": "Release",
+      "destinations": [
+        "platform=iOS Simulator,id=F3E15C9D-BEDB-449F-A58E-1E4DEDCC50C2"
+      ]
+    }
+  ],
+  "nativeFunctionalExecutions": 424,
+  "repeatedTestsIncluded": true,
+  "service": {
+    "tests": 536,
+    "passed": 536,
+    "failed": 0,
+    "logSHA256": "9fe15765b62ce5948faf87784d5560e446e423e21a79e56bbe004f345edc99ea",
+    "finalPrivacyCopyFocusedRecheck": {
+      "tests": 14,
+      "passed": 14,
+      "logSHA256": "c64cf8b4d4608cbd6b36b1adf66a744fac98f6257f0c2881b2ec48015050f5a4"
+    },
+    "note": "Focused tests repeat cases in the broad suite; not an additional distinct536-case run."
+  },
+  "browser": {
+    "createdAt": "20261010T173154Z",
+    "isolation": "Synthetic loopback customers/database/Shopify events; browser blocks external writes; no production mutations",
+    "runs": [
+      {
+        "stage": "launch-browser",
+        "exitCode": 0,
+        "log": "launch-browser.log",
+        "logSHA256": "8897ef106097c04a0e271cad0476e24e14e3bdb25fccb5e2a5ca7b172ba1a5f6"
+      }
+    ],
+    "allSelectedStagesPassed": true
+  },
+  "reviewCaptureRun": "20261010T175823Z-f8d944.xcresult",
+  "releaseRootScreenshotsVisuallyInspected": true,
+  "freshReviewJPEGs": 60,
+  "accessibility": {
+    "build": 58,
+    "allAccessibilityPassed": false,
+    "unsuppressed": true,
+    "receipt": "build/Migration/20261010T175518Z-6b4574.xcresult",
+    "jsonSHA256": "08d83502eb3f0179c3ad106b276172f367471a895943ef49b91ecc6738028b83",
+    "tests": {
+      "total": 2,
+      "passed": 0,
+      "failed": 2
+    },
+    "findings": [
+      {
+        "id": "AX58-01",
+        "screen": "Gift-card form, largest text, top",
+        "type": "dynamicType",
+        "element": "PREVIEW",
+        "status": "open accessibility track",
+        "review": "Fixed metadata matches the exact masthead design; native audit flags unsupported Dynamic Type. Full form captured at accessibility5 with scrolling continuations. This is not an audit pass."
+      },
+      {
+        "id": "AX58-02",
+        "screen": "Snap, Stack, Style sheet",
+        "type": "textClipped",
+        "element": null,
+        "status": "open accessibility track",
+        "review": "Apple audit associates no element. Normal/largest actual rendered continuations manually inspected; supplied copy and GOT IT remain reachable. Physical VoiceOver and diagnosis remain separate."
+      }
+    ],
+    "limits": [
+      "Gift-form top audit throws before its later bottom audit; no bottom audit pass claimed.",
+      "Simulator findings are separate from physical VoiceOver acceptance."
+    ],
+    "attachments": [
+      {
+        "file": "005A3FD8-5850-40CD-AF76-21A79F1A4D81.txt",
+        "sha256": "acd9651c3d950bee854d3c9390ce4922909a47f0970f682842ed3ca3c272027e"
+      },
+      {
+        "file": "109D0C26-E6CD-4784-A17A-0387C3CB99FB.txt",
+        "sha256": "a46bf5609acb47026ed5f42a158e3775f8090fb7c7754ccf8d0d63a955f9f2e7"
+      },
+      {
+        "file": "22FB24E2-A03B-4C62-8128-31E6076D6D4A.txt",
+        "sha256": "b3a35ba8c32aa633597f632a586daa9a893cc13c3b746ba0e7d089eac2fe9eb3"
+      },
+      {
+        "file": "7252C520-7B11-471C-98CE-89ABE59F035D.txt",
+        "sha256": "b3a35ba8c32aa633597f632a586daa9a893cc13c3b746ba0e7d089eac2fe9eb3"
+      },
+      {
+        "file": "C25DD287-DBF6-415B-99C8-E2DDD5767F25.txt",
+        "sha256": "cd602ddccb19e0cf82856e343fde70d46588999c3bcf0691c59b76daf3d06c86"
+      },
+      {
+        "file": "D9A7120F-1284-4CB9-B2AA-3BBD1814363A.txt",
+        "sha256": "aaee92350d0445c6660ed7d7abfd755b9c14da058bd68249a0b4d5ff3169b142"
+      }
+    ]
+  },
+  "performance": {
+    "simulator": "iPhone16Pro/iOS27 Debug",
+    "iterations": 3,
+    "meanPagingWallSeconds": 2.445893376,
+    "meanCPUSeconds": 1.131398348,
+    "meanPeakPhysicalMB": 452.599957,
+    "hitchSamplesAvailable": false,
+    "note": "No frame-rate or zero-hitch claim; physical optimized Release Instruments acceptance separate."
+  },
+  "retainedFailedAttempts": [
+    {
+      "receipt": "20261010T175105Z-02518c.xcresult",
+      "reason": "First-tab isHittable check preceded native presentation settling. Added bounded5s test wait; production unchanged. Passing same small Release recheck86ac00 retained."
+    }
+  ],
+  "otherFailedAttempts": "Earlier fixture/runner/accessibility-ID failures remain private with logs; final model, native interaction, browser and service receipts above are authoritative.",
+  "customerWebsiteChanged": false,
+  "liveCustomerMutation": false,
+  "livePaidPurchase": false,
+  "appStoreSubmitted": false,
+  "physicalAcceptanceRemaining": [
+    "Nat actual iPhone17Pro/iOS26.6.1",
+    "Payment, gift email scheduling, Photos, OAuth, APNs, haptics and VoiceOver",
+    "Reduce Motion/frame-level animation Instruments",
+    "Safari associated-link F50"
+  ],
+  "privacyPublicationPendingBeforeAppStoreSubmission": true,
+  "gallery": {
+    "passed": true,
+    "cards": 60,
+    "imagesLoaded": true,
+    "prata": true,
+    "montserrat": true,
+    "fullScreenDialog": true,
+    "contextualNotesPersisted": true,
+    "previousNext": true,
+    "close": true,
+    "exportFilenameVerified": true
+  },
+  "reviewedFindings": [
+    "All28 normal/largest top states and32 continuations manually inspected; corrected largest Terry row layout and pager price recaptured from final native59d5351.",
+    "Opaque scrolled grounds and hairline inspected; naturally clipped scroll content below them is not masked.",
+    "All selected shipping-root Release/small checks passed after bounded native presentation test wait; initial failed evidence retained.",
+    "Separate unsuppressed accessibility findings retained, not converted to functional passes."
+  ]
+}
