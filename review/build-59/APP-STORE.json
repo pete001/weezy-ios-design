@@ -1,0 +1,134 @@
+{
+  "build": 59,
+  "date": "2026-10-10",
+  "appId": "6808889322",
+  "version": {
+    "id": "65354b46-c628-4ad2-90be-d20615b19638",
+    "versionString": "1.0",
+    "platform": "IOS",
+    "state": "PREPARE_FOR_SUBMISSION",
+    "downloadable": true
+  },
+  "locale": "en-GB",
+  "selectedBuild": 44,
+  "submitted": false,
+  "newNativeUploaded": false,
+  "service59Deployed": false,
+  "descriptionCharacters": 1228,
+  "descriptionSHA256": "f4beb48c0d523b6601a05b6020bf287ddff56310333a9bde8e07eac07529d969",
+  "privacy": {
+    "publishedTypes": 11,
+    "Name": {
+      "linked": true,
+      "purpose": "App Functionality",
+      "tracking": false
+    },
+    "EmailAddress": {
+      "linked": true,
+      "purpose": "App Functionality",
+      "tracking": false
+    },
+    "otherDeclarationsPreserved": true,
+    "verifiedBy": "signed-in Apple UI, publication/readback"
+  },
+  "screenshot8": {
+    "id": "screenshot-8-1320x2868",
+    "file": "screenshot-8-1320x2868.png",
+    "build": 59,
+    "width": 1320,
+    "height": 2868,
+    "mode": "RGB",
+    "sha256": "fa581d335cea1299c6988c1e4d453873f6d44a24fad4be691593b7099d9be741",
+    "kind": "supplied caption/frame layout with Release native production content",
+    "sourceCommit": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+    "nativeFile": "native/screenshot-8-build59.png",
+    "nativeSHA256": "bc3ead673e6e087f0f0fa42c63058075a8013f5e8e4f688c3c6e35e1a6b7bd67",
+    "device": "iPhone18ProMax simulator / iOS27.0",
+    "viewport": {
+      "width": 440,
+      "height": 956
+    },
+    "scale": 3,
+    "captureResult": "store-20261010T195910.xcresult",
+    "captureKind": "optimized Release production views in isolated test-owned UIWindow/tab shell, not shipping AppRoot or live account",
+    "renderMethod": "Supplied ss8 DOM layout rendered with browser CDP PNG at 2x backing scale, exported to1320x2868 RGB; native UI unchanged",
+    "retouched": false,
+    "artworkSource": "source/build59-ss8.html",
+    "appleAssetId": "63400019-5d76-87ea-8024-17209a573686",
+    "appleState": "COMPLETE"
+  },
+  "screenshotCount": 8,
+  "previewCount": 3,
+  "originalScreenshotsPreserved": [
+    [
+      "6dc00019-5d76-87ea-8031-9e4e8886c078",
+      "screenshot-1-1320x2868.png",
+      "4fb49b6063da540f32cf179498c187d3"
+    ],
+    [
+      "3c800019-5d76-87ea-8019-fbe987e126e7",
+      "screenshot-2-1320x2868.png",
+      "1366ae3da8f7e1983fad6a2440c1ab14"
+    ],
+    [
+      "40800019-5d76-87ea-8001-9ebba3e055ff",
+      "screenshot-3-1320x2868.png",
+      "7f8862db2ddadad86eb61cd8143f56d0"
+    ],
+    [
+      "e8000019-5d76-87ea-8016-b1f375a8abd9",
+      "screenshot-4-1320x2868.png",
+      "8a1736c09f778a26a05548215b2d7f0e"
+    ],
+    [
+      "91000019-5d76-87ea-8004-9242ac6ac790",
+      "screenshot-5-1320x2868.png",
+      "c4930dea56a4705467313ac401c3a002"
+    ],
+    [
+      "60800019-5d76-87ea-8026-c4572568ff87",
+      "screenshot-6-1320x2868.png",
+      "b9040a35622b8dc2293a3ed9624d326e"
+    ],
+    [
+      "25400019-5d76-87ea-8012-e60573c0212d",
+      "screenshot-7-1320x2868.png",
+      "1a9993e3dc705757a5c0d5f51e0549cb"
+    ]
+  ],
+  "previewsPreserved": [
+    [
+      "5f400019-5d76-87ea-812b-d90dfe5ff3b2",
+      "preview-1-snap-the-whole-set.mp4",
+      "1ba56f0a8b545d77c6028907e625e0e0"
+    ],
+    [
+      "1f000019-5d76-87ea-812e-92f5ccce84f9",
+      "preview-2-drop-a-hint.mp4",
+      "eef448e5ebfb9d4283f2bb17359ed115"
+    ],
+    [
+      "5b000019-5d76-87ea-8120-75f78a027f6e",
+      "preview-3-watch-your-stack-grow.mp4",
+      "e6df35ae59506c6743d06a7196320801"
+    ]
+  ],
+  "verification": "Apple COMPLETE, dimensions1320x2868 and source MD5 match; previous seven IDs/order/checksums and three previews unchanged; UI shows gift-card image",
+  "limitations": [
+    "Draft still selects44. Before submission select the final separately authorized release binary and refresh any now-outdated media.",
+    "No real payment, scheduled gift-card email or customer OAuth verification is claimed."
+  ],
+  "catalogue": {
+    "minimumGBP": 15,
+    "denominationsGBP": [
+      15,
+      25,
+      30,
+      50,
+      100,
+      150,
+      200
+    ],
+    "customAmounts": false
+  }
+}

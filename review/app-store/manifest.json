@@ -284,5 +284,43 @@
     "seconds": 20,
     "width": 886,
     "sourceCommit": "a5d3cc003f10dbb53ea4767d935db90b320dec9e"
+  },
+  {
+    "id": "screenshot-8-1320x2868",
+    "file": "screenshot-8-1320x2868.png",
+    "build": 59,
+    "width": 1320,
+    "height": 2868,
+    "mode": "RGB",
+    "sha256": "fa581d335cea1299c6988c1e4d453873f6d44a24fad4be691593b7099d9be741",
+    "kind": "supplied caption/frame layout with Release native production content",
+    "sourceCommit": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+    "nativeFile": "native/screenshot-8-build59.png",
+    "nativeSHA256": "bc3ead673e6e087f0f0fa42c63058075a8013f5e8e4f688c3c6e35e1a6b7bd67",
+    "device": "iPhone18ProMax simulator / iOS27.0",
+    "viewport": {
+      "width": 440,
+      "height": 956
+    },
+    "scale": 3,
+    "captureResult": "store-20261010T195910.xcresult",
+    "captureKind": "optimized Release production views in isolated test-owned UIWindow/tab shell, not shipping AppRoot or live account",
+    "renderMethod": "Supplied ss8 DOM layout rendered with browser CDP PNG at 2x backing scale, exported to1320x2868 RGB; native UI unchanged",
+    "retouched": false,
+    "artworkSource": "source/build59-ss8.html",
+    "appleAssetId": "63400019-5d76-87ea-8024-17209a573686",
+    "appleState": "COMPLETE"
+  },
+  {
+    "id": "screenshot-8-native",
+    "file": "native/screenshot-8-build59.png",
+    "build": 59,
+    "width": 1320,
+    "height": 2868,
+    "sha256": "bc3ead673e6e087f0f0fa42c63058075a8013f5e8e4f688c3c6e35e1a6b7bd67",
+    "kind": "optimized Release production views in isolated test-owned UIWindow/tab shell, not shipping AppRoot or live account",
+    "sourceCommit": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+    "device": "iPhone18ProMax simulator / iOS27.0",
+    "scale": 3
   }
 ]

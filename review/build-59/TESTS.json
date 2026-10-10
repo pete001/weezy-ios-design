@@ -1,0 +1,248 @@
+{
+  "build": 59,
+  "sourceCommit": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+  "productionSourceCommit": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+  "releasedBuild": 58,
+  "serviceRuntime": 58,
+  "allAccessibilityPassed": false,
+  "runs": [
+    {
+      "receipt": "build/Migration/20261010T182427Z-115449.xcresult",
+      "tests": {
+        "total": 11,
+        "passed": 11,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 50726
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "12dc072396488e388e06ddb8555a396da2c061d64bfa7565575081376a385169"
+    },
+    {
+      "receipt": "build/Migration/20261010T182901Z-6844af.xcresult",
+      "tests": {
+        "total": 2,
+        "passed": 1,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 112735,
+        "failures": [
+          {
+            "identifier": "Founder58UITests/testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "4c371ab09f797567d8f108ea58c48c3900cb92a606f59548dde0baa71db18936"
+    },
+    {
+      "receipt": "build/Migration/20261010T182543Z-434cf7.xcresult",
+      "tests": {
+        "total": 3,
+        "passed": 1,
+        "failed": 2,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 120299,
+        "failures": [
+          {
+            "identifier": "Founder58UITests/testSetMembersOpenProductDetailsAndReturnToSameSet()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "Founder58UITests/testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "message": "XCTAssertGreaterThan failed: (\"222.33333333333334\") is not greater than (\"398.0\") - Long explainer uses the full-width large native sheet"
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "67722d45738ea4172baed9f995ac5502f0d0f7ddf3e37decdfc257c215518ae4"
+    },
+    {
+      "receipt": "build/Migration/20261010T183204Z-d5cd84.xcresult",
+      "tests": {
+        "total": 2,
+        "passed": 1,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 103256,
+        "failures": [
+          {
+            "identifier": "Founder58UITests/testGiftCardBasketEditAndFullSwipeRemove()",
+            "message": "Failed to get matching snapshot: Find single matching element. Multiple matching elements found for <XCUIElementQuery: 0x109f0b750>.\nSparse tree of matches:\n→Application, pid: 87412, label: 'Weezy Pop'\n  ↳Window (Main)\n    ↳Other\n    ⋅ ↳Other\n    ⋅   ↳Other\n    ⋅     ↳Other\n    ⋅       ↳Other\n    ⋅         ↳Other\n    ⋅           ↳Other\n    ⋅             ↳Other\n    ⋅               ↳Other\n    ⋅                 ↳Other\n    ⋅                   ↳ScrollView, identifier: 'gift-card-shop'\n    ⋅                     ↳Other\n    ⋅                       ↳TextField, identifier: 'gift-card-name', label: 'To', placeholderValue: 'Name', value: Sam\n    ↳Other\n      ↳Other\n        ↳Other\n          ↳Other\n            ↳Other\n              ↳Other\n                ↳Other\n                  ↳Other\n                    ↳Other\n                      ↳Other\n                        ↳Other\n                          ↳Other\n                            ↳Other\n                              ↳Other\n                                ↳Other\n                                  ↳ScrollView, identifier: 'gift-card-shop'\n                                    ↳Other\n                                      ↳TextField, identifier: 'gift-card-name', label: 'To', placeholderValue: 'Name', value: Sam\nPossibly caused by runtime issues:\nAutomation type mismatch: computed TextField from legacy attributes vs TextView from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 52;\n    \"XC_kAXXCAttributeElementBaseType\" = UITextView;\n    \"XC_kAXXCAttributeElementType\" = \"SwiftUI.VerticalTextView\";\n    \"XC_kAXXCAttributeTraits\" = 146029150208;\n}\nSee test report attachments for more detail."
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "feed4006f45ebc0fc8bc40cc3daed6345803f7909cc5a94e4deff356f19b1631"
+    },
+    {
+      "receipt": "build/Migration/20261010T183955Z-84cdab.xcresult",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 53394
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "4d2509084fb5bc372bae47fc2f29efeb6f3d4cdab3e778175d251c39657fbe07"
+    },
+    {
+      "receipt": "build/Migration/20261010T184101Z-f36ce4.xcresult",
+      "tests": {
+        "total": 3,
+        "passed": 2,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 149496,
+        "failures": [
+          {
+            "identifier": "Founder58UITests/testWaysSheetAccessibilityAudit()",
+            "message": "Contrast failed"
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "jsonSHA256": "a28b33d6d85abb4ddbfdc6561fb56ce2580b58d39dd87195b5ced3586312aaaa"
+    },
+    {
+      "receipt": "build/Migration/20261010T185122Z-2ffb8f.xcresult",
+      "tests": {
+        "total": 403,
+        "passed": 403,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 31717
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "c106bbb4b8603b069580fd1bf210db8d8f3c3d5087851f0811891113e6fb4427"
+    },
+    {
+      "receipt": "build/Migration/20261010T185322Z-df23a0.xcresult",
+      "configuration": "Release",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 209752
+      },
+      "scope": "Actual shipping root, all three tabs, full-width explainer normal/largest scrolling/dismissal; no checkout. Compiled before email-only wrapping follow-up; sheet/root inputs unchanged."
+    },
+    {
+      "receipt": "build/Migration/20261010T185704Z-fd7449.xcresult",
+      "configuration": "Debug",
+      "tests": {
+        "total": 7,
+        "passed": 7,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 90991
+      },
+      "scope": "Final launch model/email-policy regression and all17 changed content states with continuations."
+    }
+  ],
+  "regression": {
+    "passed": 403,
+    "failed": 0,
+    "skipped": 0
+  },
+  "initialFailuresRetained": "Initial width-test inherited identifier/wrong element measurement and gift edit tests selected the underlying form during presentation; corrected unique edit IDs and visible-row/scroll measurement pass. Historical full-gallery run was interrupted to avoid recapturing unrelated older reviews; it is not a pass.",
+  "accessibility": [
+    {
+      "screen": "FF-06-how-it-snaps",
+      "device": "iPhone17e / iOS27",
+      "status": "failed",
+      "finding": "Contrast failed for SwiftUI.AccessibilityNode; no associated element",
+      "suppressed": false,
+      "receipt": "20261010T184101Z-f36ce4.xcresult"
+    }
+  ],
+  "simulations": [
+    {
+      "stage": "services",
+      "receipt": "build/UserSimulation/20261010T183316Z-813be3/receipt.json",
+      "passed": true
+    },
+    {
+      "stage": "editor",
+      "receipt": "build/UserSimulation/20261010T183217Z-57f491/receipt.json",
+      "passed": true
+    },
+    {
+      "stage": "browser",
+      "receipt": "build/UserSimulation/20261010T183352Z-4dd0dd/receipt.json",
+      "passed": true
+    },
+    {
+      "stage": "launch-browser",
+      "receipt": "build/UserSimulation/20261010T184109Z-c25964/receipt.json",
+      "passed": true
+    }
+  ],
+  "physicalAcceptance": [
+    "Shopify OAuth and cross-device customer flag",
+    "live payment/gift-card email and scheduling",
+    "Nat iOS26.6.1",
+    "Photos, VoiceOver, haptics/APNs",
+    "Safari/F50"
+  ],
+  "liveMutations": "No purchases, notifications, customer/merchant data changes. Authorized App Store draft description, eighth screenshot and published Email Address privacy declaration updated. No native59 upload/service59 deployment.",
+  "releaseRenderingVerified": true,
+  "storeCapture": {
+    "configuration": "Release",
+    "device": "iPhone18ProMax simulator / iOS27.0",
+    "tests": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 209394,
+      "cases": [
+        {
+          "identifier": "StoreCaptureTests/testCaptureStorePack59()",
+          "name": "testCaptureStorePack59()",
+          "className": "StoreCaptureTests",
+          "status": "passed",
+          "durationMs": 6000
+        }
+      ]
+    },
+    "result": "store-20261010T195910.xcresult",
+    "nativeSHA256": "bc3ead673e6e087f0f0fa42c63058075a8013f5e8e4f688c3c6e35e1a6b7bd67",
+    "compositeSHA256": "fa581d335cea1299c6988c1e4d453873f6d44a24fad4be691593b7099d9be741",
+    "appleReadbackPassed": true
+  }
+}

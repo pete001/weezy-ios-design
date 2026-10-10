@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "appId": "6808889322",
   "version": "1.0",
   "build": 44,
@@ -9,7 +9,7 @@
   "state": "PREPARE_FOR_SUBMISSION",
   "releaseType": "MANUAL",
   "listingLocale": "en-GB",
-  "screenshots": 7,
+  "screenshots": 8,
   "previews": 3,
   "headerAssigned": true,
   "searchAssigned": true,
@@ -29,5 +29,14 @@
   "reviewerAccess": "User requested to arrange later; no demo login invented",
   "submitted": false,
   "websiteChanged": false,
-  "privacyDeclarations": "Existing published nine types preserved; checked in signed-in Apple UI"
+  "privacyDeclarations": "Published11 types, Email Address added as linked App Functionality/no tracking; Name already linked App Functionality. Other declarations preserved.",
+  "listingRefreshBuild": 59,
+  "selectedBinaryStill": 44,
+  "screenshot8": {
+    "assetId": "63400019-5d76-87ea-8024-17209a573686",
+    "state": "COMPLETE",
+    "sha256": "fa581d335cea1299c6988c1e4d453873f6d44a24fad4be691593b7099d9be741"
+  },
+  "existingSevenScreenshotsUnchanged": true,
+  "existingThreePreviewsUnchanged": true
 }
