@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "O-01-your-name",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic Claire, six wishlist pieces",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "7450874cd9ce8b0e9312b30cc6b572f5071ad5ba3ec3551c9f9bfed46a040d79",
+    "sourceSHA256": "40854d25ed2ae9824a69faf23191c4e0a3c2466d32af7e71083ef0d30eb3d07b"
+  },
+  {
+    "id": "O-01-your-name-empty",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-empty.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic Claire, six wishlist pieces",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "129360e50e02fa550e92f2cae3b92c9ca6af38ef28765e951bbc1ca7ac45b1ac",
+    "sourceSHA256": "fbc3a6963c3ef71e36b272b11d7a840cc2cf0055c5e33f8ef5e18fbc8cf3d1a8"
+  },
+  {
+    "id": "O-01-your-name-limit",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-limit.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic Claire, six wishlist pieces",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "dda787ae4649569747008e5c0241f811523f92ecf65011134fffecf907ac894a",
+    "sourceSHA256": "62679b52c4f9485c22af3c6b76c4ffa01e8d9494d5d026451d5d5737736b2ddf"
+  },
+  {
+    "id": "O-01-your-name-largest",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic Claire, six wishlist pieces",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "a33a462ea7611c538dedbb1b239a046a385a25171517bc1edf9da0510f369493",
+    "sourceSHA256": "760820dc2fe3482ee2f0dce2c46c99d8941dee04166b76b3a664fe1c38e33001"
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "G-06-purchases-found.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic eight-piece arrival; ordinary Heart reference only in memory; live personalised Heart stays website-only",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "3eb76be5e3028c5e4e3a0f030dd20ee2c3f7b6eef5b3ef43366e7dae07d4ab21",
+    "sourceSHA256": "4d72369e25502b9043e0c6c61b625c26fb596288089e08094fddafb44e0874e0"
+  },
+  {
+    "id": "O-01-your-name-largest-more",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest-more.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic Claire, six wishlist pieces",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "0e72fc37f943b9d4bbb4c4bb8fe820293576d4fb2f4b1f5a6db1d4fbe3950900",
+    "sourceSHA256": "72dd4051494ef20e5d499bfe01eff633096d2e98c9fa8a3bfb2f1e737c87bf75",
+    "parentID": "O-01-your-name-largest",
+    "adjustedInsetBottom": 137.33333333333337,
+    "adjustedInsetTop": 54,
+    "filename": "O-01-your-name-largest-normal-scroll-1.png",
+    "parentFilename": "O-01-your-name-largest-normal.png",
+    "scrollHeight": 1470.6666666666665,
+    "scrollOffset": 496.6666666666667,
+    "viewportHeight": 852,
+    "visibleContentHeight": 660.6666666666666
+  },
+  {
+    "id": "O-01-your-name-largest-more-2",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest-more-2.jpg",
+    "device": "iPhone18Pro QA / iOS27; controlled 393pt host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "captureKind": "native-content",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T092901Z-c2f720.xcresult",
+    "fixture": "Synthetic Claire, six wishlist pieces",
+    "proof": "Production SwiftUI in controlled 393pt content host; keyboard disabled explicitly, no status-bar/keyboard mockup",
+    "sha256": "130afbdf19e626d7e1e1b225115240858afef2f370e18d215b722e7fd5d34ffd",
+    "sourceSHA256": "1159e439905c94414bad494c1fcdd13840329eb165f45c28ce13666d8d77cbde",
+    "parentID": "O-01-your-name-largest",
+    "adjustedInsetBottom": 137.33333333333337,
+    "adjustedInsetTop": 54,
+    "filename": "O-01-your-name-largest-normal-scroll-2.png",
+    "parentFilename": "O-01-your-name-largest-normal.png",
+    "scrollHeight": 1470.6666666666665,
+    "scrollOffset": 756,
+    "viewportHeight": 852,
+    "visibleContentHeight": 660.6666666666666
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-limit-keyboard.jpg",
+    "device": "iPhone18Pro QA / iOS27",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "pixels": [
+      1179,
+      2563
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "large/default",
+    "captureResult": "20261010T092953Z-a15a0e.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "fe902a8dc00a3ec75b396576633d86eb3391d4a98921fe0d81274c4d68d26b46",
+    "sourceSHA256": "a00febfd089c10f55202571052eb56bd3cb62026d70cc70f29796805dd623038",
+    "parentID": "O-01-your-name-limit"
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-empty-keyboard.jpg",
+    "device": "iPhone18Pro QA / iOS27",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "pixels": [
+      1179,
+      2563
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "large/default",
+    "captureResult": "20261010T092953Z-a15a0e.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "2eda59971cce42fbb3ba22291baedc693692365d11c34437e0ae4aaab6ebd492",
+    "sourceSHA256": "119f074c15c74a223294e653fbc2b46aa383442335b99b2bf2488c1c1c2ccf1d",
+    "parentID": "O-01-your-name-empty"
+  },
+  {
+    "id": "O-01-your-name-keyboard",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-keyboard.jpg",
+    "device": "iPhone18Pro QA / iOS27",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "pixels": [
+      1179,
+      2563
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "large/default",
+    "captureResult": "20261010T092953Z-a15a0e.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "71f485b2a85142cb9dcba3e578eccaec41f6385ebe445ddb3465c12aae177dcc",
+    "sourceSHA256": "865711caf686e35ea12e560e944b76f54ee4b868e96ac154c4762052dc16235b",
+    "parentID": "O-01-your-name"
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest-keyboard-more.jpg",
+    "device": "iPhone18Pro QA / iOS27",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "pixels": [
+      1179,
+      2563
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T092953Z-a15a0e.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "26fc0ba12a12b5dafe8350beada80f4b5ce158f4918bab15a40311f195bf37f2",
+    "sourceSHA256": "1d00f2caf9d097e91550555dd0c6516239977adba1bcfa0015370feff2d390c9",
+    "parentID": "O-01-your-name-largest"
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest-keyboard.jpg",
+    "device": "iPhone18Pro QA / iOS27",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "pixels": [
+      1179,
+      2563
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T092953Z-a15a0e.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "c29fa8b3af4790350fc4e82d081cc7adab827c5a7300500108a8e43b5709720d",
+    "sourceSHA256": "d9e2ba0e6790e8f9bfd8a9f61c36802177f4981e6066483438e40a2184b1c24f",
+    "parentID": "O-01-your-name-largest"
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard-small",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-limit-keyboard-small.jpg",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "pixels": [
+      1170,
+      2532
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "large/default",
+    "captureResult": "20261010T093033Z-df6f7a.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "cfc1a1bf0e18301fb764fef5e04aedf4ad2df1120bd930a2c0532fda9456d709",
+    "sourceSHA256": "f3ade1f4521fb75f33e56af57939debbe4e717d11bc82dacf272d9c2fa9bdf29",
+    "parentID": "O-01-your-name-limit"
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard-small",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-empty-keyboard-small.jpg",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "pixels": [
+      1170,
+      2532
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "large/default",
+    "captureResult": "20261010T093033Z-df6f7a.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "1f6bee5400adf367a191c34836c2e4f6ef1e126d82c5dd15480ceaf0097d7b61",
+    "sourceSHA256": "505b4f5a0e05d11e0019f495c27ba78f4fe2185352a9ccb2fa8c4841b5410fe5",
+    "parentID": "O-01-your-name-empty"
+  },
+  {
+    "id": "O-01-your-name-keyboard-small",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-keyboard-small.jpg",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "pixels": [
+      1170,
+      2532
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "large/default",
+    "captureResult": "20261010T093033Z-df6f7a.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "dcf184e1a08db6feba5f10fc19bfb5bc13b86d802dea8422393700ee9c6d1f49",
+    "sourceSHA256": "a179c0c3695eea42802ba3598117b7e64bace1fc39a09645b1e794b06cd1ce03",
+    "parentID": "O-01-your-name"
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more-small",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest-keyboard-more-small.jpg",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "pixels": [
+      1170,
+      2532
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T093033Z-df6f7a.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "7f9241f35a607b856eb8e892ce7b4d8a0beb7c614883458d10b2a5cb90076921",
+    "sourceSHA256": "27c06212d0ebdb17d28d2caf080ad752cfa93fd84decdb7a8d99f00e0f5d4f46",
+    "parentID": "O-01-your-name-largest"
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-small",
+    "build": 51,
+    "sourceBundleBuild": 51,
+    "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+    "file": "O-01-your-name-largest-keyboard-small.jpg",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "pixels": [
+      1170,
+      2532
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source, sRGB tagged; no colour reinterpretation",
+    "captureKind": "native-root-ui",
+    "textSize": "accessibility5",
+    "captureResult": "20261010T093033Z-df6f7a.xcresult",
+    "fixture": "View-only guest fixture with Claire suggestion; empty guest wishlist; no OAuth/account bypass",
+    "proof": "Actual AppRoot, UIKit keyboard, native viewport; no crop or retouch",
+    "sha256": "b5bcd43326260780909e75567251a4d73220db2a40f665709af5ab36de0fc49b",
+    "sourceSHA256": "8e9da77370cffabf679ed7824dba46c3188680a8327b3f41d06c0514e102868d",
+    "parentID": "O-01-your-name-largest"
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "B-04-badge-web-page-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "B-04-badge-og",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-3",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-4",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-5",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-6",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-7",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-3",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-4",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-5",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-6",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Outside O-01 scope; refer to prior manifest and its historic capture reference. No fresh screenshot claimed."
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Resend remains unconfigured by request; feedback entry points stay hidden."
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "No native51 upload authorised in this onboarding/design handoff; native49 stays released."
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Physical-device acceptance is still separate; simulator results do not prove it."
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 51,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 50,
+    "reference": "../build-50/manifest.json",
+    "reason": "Safari associated-link infrastructure remains partial; not verified by this name update."
+  }
+]

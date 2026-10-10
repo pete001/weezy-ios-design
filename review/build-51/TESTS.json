@@ -1,0 +1,404 @@
+{
+  "build": 51,
+  "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+  "finalRuns": [
+    {
+      "name": "native-functional-and-captures",
+      "status": "passed",
+      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+      "resultBundle": "build/Migration/20261010T092901Z-c2f720.xcresult",
+      "configuration": "Debug",
+      "counts": {
+        "total": 33,
+        "passed": 33,
+        "failed": 0,
+        "skipped": 0
+      },
+      "cases": [
+        "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+        "BadgeFinalHandoffTests/testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+        "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+        "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+        "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+        "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+        "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+        "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+        "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+        "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+        "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+        "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+        "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+        "DisplayNameTests/testCleanupSupportsChosenMultiWordNamesAndAnEmptyShopifyName()",
+        "DisplayNameTests/testConfirmedStateIsScopedToTheVerifiedAccount()",
+        "DisplayNameTests/testConfirmedWishlistNameKeepsSpacesWhileLegacyNamesStayPrivate()",
+        "DisplayNameTests/testGuestConfirmationIsLocalAndDoesNotCreateAShopifyCustomer()",
+        "DisplayNameTests/testSaveRequestNeverOverwritesShopifyFirstName()",
+        "DisplayNameTests/testSixteenGraphemeLimitDoesNotSplitAccentedNames()",
+        "FirstNamePolicyTests/testBrowseTypeUsesShopifyProductTypeBeforeTitle()",
+        "FirstNamePolicyTests/testMetafieldOverridesShopifyFirstNameAndOldAccountCacheStillDecodes()",
+        "FirstNamePolicyTests/testNamesAndInitials()",
+        "LaunchPolishTests/testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+        "LaunchPolishTests/testLaunchAppearanceIsDeclaredLight()",
+        "LaunchPolishTests/testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+        "LaunchPolishTests/testRatingRequiresThreeSessionsAnd120DayCooldown()",
+        "PhotoLibrarySaveTests/testAuthorizedMovingBadgeSavesToPhotos()",
+        "PhotoLibrarySaveTests/testCancelledSaveDoesNotRequestPhotosPermission()",
+        "PhotoLibrarySaveTests/testDeniedAndRestrictedAccessRejectBeforeOpeningPhotosTransaction()",
+        "PhotoLibrarySaveTests/testMissingExportReturnsAnErrorInsteadOfAFalseSuccess()",
+        "PhotoLibrarySaveTests/testReduceMotionVideoSavesToPhotos()",
+        "PhotoLibrarySaveTests/testStillAndSquareBadgeAndLegacyCardSaveToPhotos()",
+        "PopStudioCaptureTests/testCaptureYourName51()"
+      ],
+      "reportSHA256": "aad87b182ce311c95385ac8a3ba44cde3ea396226470a5579394a0f8dd601af7"
+    },
+    {
+      "name": "name-keyboard-primary",
+      "status": "passed",
+      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+      "resultBundle": "build/Migration/20261010T092953Z-a15a0e.xcresult",
+      "configuration": "Debug",
+      "counts": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0
+      },
+      "cases": [
+        "DisplayNameUITests/testEmptyShopifyNameRequiresAnExplicitChoiceAndAcceptsSpaces()",
+        "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
+        "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()"
+      ],
+      "reportSHA256": "f419725adc1e00aafd9c956d7d6c88bd7d28becf7c3a57e4d9ee4d3c39d36976"
+    },
+    {
+      "name": "name-keyboard-small",
+      "status": "passed",
+      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+      "resultBundle": "build/Migration/20261010T093033Z-df6f7a.xcresult",
+      "configuration": "Debug",
+      "counts": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0
+      },
+      "cases": [
+        "DisplayNameUITests/testEmptyShopifyNameRequiresAnExplicitChoiceAndAcceptsSpaces()",
+        "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
+        "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()"
+      ],
+      "reportSHA256": "d989883bf3f7e89e2d91d739e7265f0942689d99cad5def39a4c1929aeaa77a6"
+    },
+    {
+      "name": "optimized-name-and-real-PhotoKit",
+      "status": "passed",
+      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+      "resultBundle": "build/Name51/release-completed-name-photos.xcresult",
+      "configuration": "Release",
+      "counts": {
+        "total": 12,
+        "passed": 12,
+        "failed": 0,
+        "skipped": 0
+      },
+      "cases": [
+        "DisplayNameTests/testCleanupSupportsChosenMultiWordNamesAndAnEmptyShopifyName()",
+        "DisplayNameTests/testConfirmedStateIsScopedToTheVerifiedAccount()",
+        "DisplayNameTests/testConfirmedWishlistNameKeepsSpacesWhileLegacyNamesStayPrivate()",
+        "DisplayNameTests/testGuestConfirmationIsLocalAndDoesNotCreateAShopifyCustomer()",
+        "DisplayNameTests/testSaveRequestNeverOverwritesShopifyFirstName()",
+        "DisplayNameTests/testSixteenGraphemeLimitDoesNotSplitAccentedNames()",
+        "PhotoLibrarySaveTests/testAuthorizedMovingBadgeSavesToPhotos()",
+        "PhotoLibrarySaveTests/testCancelledSaveDoesNotRequestPhotosPermission()",
+        "PhotoLibrarySaveTests/testDeniedAndRestrictedAccessRejectBeforeOpeningPhotosTransaction()",
+        "PhotoLibrarySaveTests/testMissingExportReturnsAnErrorInsteadOfAFalseSuccess()",
+        "PhotoLibrarySaveTests/testReduceMotionVideoSavesToPhotos()",
+        "PhotoLibrarySaveTests/testStillAndSquareBadgeAndLegacyCardSaveToPhotos()"
+      ],
+      "reportSHA256": "661ac6de3b31674e595ef998bf308f84d92ffd63acf47af9afbefae1dbf745bf"
+    },
+    {
+      "name": "optimized-guest-root",
+      "status": "passed",
+      "resultBundle": "build/Migration/20261010T091759Z-17a20d.xcresult",
+      "configuration": "Release",
+      "counts": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0
+      },
+      "cases": [
+        "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()"
+      ],
+      "reportSHA256": "7bff6a7e179278f53b85ecf9e303476e42af21b6e8cc64487a2f38a8ada4d585",
+      "testedSourceCommit": "340e2e7d59e9e3cafb714909e90ae26e0755c55b",
+      "scopeUnchanged": "The subsequent edits only fit the native name preview and recover OAuth on its signedOut save error. The guest tab root, service and browser code are unchanged."
+    },
+    {
+      "name": "services",
+      "status": "passed",
+      "count": 525,
+      "countType": "tests",
+      "receipt": "build/UserSimulation/20261010T091456Z-db95aa/receipt.json",
+      "receiptSHA256": "491c374aff378aecacb8db3a5c6fb18c490693f14ff4e8320c72649f724c521d",
+      "isolation": "Synthetic loopback customers/database/Shopify events; browser blocks external writes; no production mutations",
+      "testedSourceCommit": "340e2e7d59e9e3cafb714909e90ae26e0755c55b",
+      "scopeUnchanged": "The subsequent edits only fit the native name preview and recover OAuth on its signedOut save error. The guest tab root, service and browser code are unchanged."
+    },
+    {
+      "name": "launch-browser",
+      "status": "passed",
+      "count": 18,
+      "countType": "assertions",
+      "receipt": "build/UserSimulation/20261010T085750Z-d33442/receipt.json",
+      "receiptSHA256": "6e98575ac1b150ec277806ece808094e7c851b838136a472c8272d0d3d488f49",
+      "isolation": "Synthetic loopback customers/database/Shopify events; browser blocks external writes; no production mutations",
+      "testedSourceCommit": "340e2e7d59e9e3cafb714909e90ae26e0755c55b",
+      "scopeUnchanged": "The subsequent edits only fit the native name preview and recover OAuth on its signedOut save error. The guest tab root, service and browser code are unchanged."
+    }
+  ],
+  "retainedEarlierAttempts": [
+    {
+      "resultBundle": "build/Migration/20261010T083849Z-cf8158.xcresult",
+      "reason": "Initial private account access compile error; fixed with scoped store getters.",
+      "final": false,
+      "counts": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 5104
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T084404Z-4db5a3.xcresult",
+      "reason": "Interrupted overlapping UI runner; final runs serialized.",
+      "final": false
+    },
+    {
+      "resultBundle": "build/Migration/20261010T084334Z-9856ee.xcresult",
+      "reason": "Capture host interrupted by overlapping test runner; a harness interruption, not a production crash.",
+      "final": false,
+      "counts": {
+        "total": 7,
+        "passed": 6,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 43680,
+        "failures": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureYourName51()",
+            "message": "Test crashed with signal kill."
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T084703Z-83f923.xcresult",
+      "reason": "Root accessibility identifier propagated to the button; removed and rerun.",
+      "final": false,
+      "counts": {
+        "total": 3,
+        "passed": 0,
+        "failed": 3,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 60677,
+        "failures": [
+          {
+            "identifier": "DisplayNameUITests/testEmptyShopifyNameRequiresAnExplicitChoiceAndAcceptsSpaces()",
+            "message": "Failed to get matching snapshot: No matches found for Elements matching predicate '\"display-name-confirm\" IN identifiers' from input {(\n    Button, label: 'Emoji',\n    Button, identifier: 'dictation', label: 'Dictate',\n    Button, identifier: 'confirm-display-name', label: 'THAT’S ME', Disabled,\n    Button, identifier: 'shift', label: 'shift', Selected,\n    Button, identifier: 'Done', label: 'done',\n    Button,\n    Button,\n    Button\n)}\nPossibly caused by runtime issues:\nAutomation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 20;\n    \"XC_kAXXCAttributeElementBaseType\" = UIAccessibilityElement;\n    \"XC_kAXXCAttributeElementType\" = UIAccessibilityElementKBKey;\n    \"XC_kAXXCAttributeTraits\" = 8589934649;\n}\nAutomation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {\n    \"XC_kAXXCAttributeAutomationType\" = 20;\n    \"XC_kAXXCAttributeElementBaseType\" = UIAccessibilityElement;\n    \"XC_kAXXCAttributeElementType\" = UIAccessibilityElementKBKey;\n    \"XC_kAXXCAttributeTraits\" = 8589934641;\n}\nSee test report attachments for more detail."
+          },
+          {
+            "identifier": "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T084826Z-eed6b7.xcresult",
+      "reason": "Rejected edits could remain visibly stale and guest completion was not observed; corrected input handling and observed state.",
+      "final": false,
+      "counts": {
+        "total": 3,
+        "passed": 1,
+        "failed": 2,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 63828,
+        "failures": [
+          {
+            "identifier": "DisplayNameUITests/testEmptyShopifyNameRequiresAnExplicitChoiceAndAcceptsSpaces()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
+            "message": "XCTAssertEqual failed: (\"Optional(\"abcdefghijklmnopq\")\") is not equal to (\"Optional(\"abcdefghijklmnop\")\")"
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T085022Z-546c6f.xcresult",
+      "reason": "Largest-text test swipe hit the wrong surface; corrected bounded margin gesture.",
+      "final": false,
+      "counts": {
+        "total": 3,
+        "passed": 2,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 79884,
+        "failures": [
+          {
+            "identifier": "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T085241Z-ff2ff8.xcresult",
+      "reason": "Largest-text gesture needed the scroll margin; final two-device tests passed.",
+      "final": false,
+      "counts": {
+        "total": 3,
+        "passed": 2,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 82806,
+        "failures": [
+          {
+            "identifier": "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T085749Z-ecd5a5.xcresult",
+      "reason": "Capture fixture included the live website-only personalised Heart; isolated ordinary Heart reference in capture memory only.",
+      "final": false,
+      "counts": {
+        "total": 33,
+        "passed": 32,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 32486,
+        "failures": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureYourName51()",
+            "message": "XCTUnwrap failed: expected non-nil value of type \"Product\""
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T085910Z-6f60f0.xcresult",
+      "reason": "Same capture-fixture issue; corrected, no live catalogue edit.",
+      "final": false,
+      "counts": {
+        "total": 7,
+        "passed": 6,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 29115,
+        "failures": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureYourName51()",
+            "message": "XCTUnwrap failed: expected non-nil value of type \"Product\""
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T090205Z-b5a04a.xcresult",
+      "reason": "Digit remained visible after SwiftUI sanitization coalesced the old state; native text-field delegate now rejects edits before acceptance.",
+      "final": false,
+      "counts": {
+        "total": 3,
+        "passed": 2,
+        "failed": 1,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 74827,
+        "failures": [
+          {
+            "identifier": "DisplayNameUITests/testEmptyShopifyNameRequiresAnExplicitChoiceAndAcceptsSpaces()",
+            "message": "XCTAssertEqual failed: (\"Optional(\"Mary Jane2\")\") is not equal to (\"Optional(\"Mary Jane\")\")"
+          }
+        ]
+      },
+      "exitStatus": 65
+    },
+    {
+      "resultBundle": "build/Migration/20261010T090611Z-ba68c8.xcresult",
+      "reason": "FocusState did not autofocus the UIKit representable; native first-responder state now works on both phones.",
+      "final": false,
+      "counts": {
+        "total": 3,
+        "passed": 0,
+        "failed": 3,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 68321,
+        "failures": [
+          {
+            "identifier": "DisplayNameUITests/testEmptyShopifyNameRequiresAnExplicitChoiceAndAcceptsSpaces()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
+            "message": "XCTAssertTrue failed"
+          },
+          {
+            "identifier": "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()",
+            "message": "XCTAssertTrue failed"
+          }
+        ]
+      },
+      "exitStatus": 65
+    }
+  ],
+  "verified": [
+    "1–16 graphemes, composed accents, any-script policy, multiple spaces, disallowed characters and hard-stop input",
+    "Clear/disabled CTA, native keyboard autofocus and pinned action on both actual simulator sizes",
+    "Customer-scoped request/reply, Shopify compareDigest, no customer.firstName mutation, and deletion fencing",
+    "Wishlist IDs/pieces/variants/privacy preserved; stale name updates rejected; chosen multi-word names retained while legacy names keep first-name privacy",
+    "Production name/Photos code compiled and exercised optimized; Release guest root remains full screen"
+  ],
+  "notVerified": [
+    "Real Shopify OAuth customer name write/read and cross-device persistence: service51 not deployed, no authorised acceptance customer used",
+    "Physical VoiceOver, haptics, keyboard/IME composition; policy tests do not prove every physical input method",
+    "APNs, real purchase/payment, Safari associated links or full accessibility/performance acceptance",
+    "Signed-in production name gate: source routing and isolated model tests, not live OAuth acceptance",
+    "Real OAuth recovery after an expired session; native recovery reuses the existing sign-in, but no live customer login was fabricated or performed."
+  ],
+  "native51Uploaded": false,
+  "service51Deployed": false,
+  "releaseTestability": "ENABLE_TESTABILITY=YES was passed only to local optimized unit checks. UI-only Release uses no override; no shipping archive was made.",
+  "warnings": "Existing unrelated unused withAnimation warnings and Xcode exit-code-0/no-output diagnostics remain retained in raw logs; final structured results and exit statuses passed. No new unsafe sendability annotations.",
+  "galleryVerification": [
+    "JavaScript syntax, all local links/fonts, 17 JPEG80/sRGB dimensions and hashes, inventory and <=50-image batches",
+    "Browser opened full-screen viewer, moved to the next screen and back, and retained the screen-specific test note; temporary note cleared. No cloud notes submission."
+  ]
+}

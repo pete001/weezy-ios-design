@@ -1,0 +1,178 @@
+{
+  "build": 51,
+  "againstBuild": 50,
+  "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+  "added": [
+    "O-01-your-name",
+    "O-01-your-name-empty",
+    "O-01-your-name-limit",
+    "O-01-your-name-largest",
+    "O-01-your-name-largest-more",
+    "O-01-your-name-largest-more-2",
+    "O-01-your-name-limit-keyboard",
+    "O-01-your-name-empty-keyboard",
+    "O-01-your-name-keyboard",
+    "O-01-your-name-largest-keyboard-more",
+    "O-01-your-name-largest-keyboard",
+    "O-01-your-name-limit-keyboard-small",
+    "O-01-your-name-empty-keyboard-small",
+    "O-01-your-name-keyboard-small",
+    "O-01-your-name-largest-keyboard-more-small",
+    "O-01-your-name-largest-keyboard-small"
+  ],
+  "changed": [
+    "G-06-purchases-found"
+  ],
+  "unchanged": [
+    "B-03-share-card",
+    "B-04-badge-web-page",
+    "B-04-badge-web-page-more",
+    "B-03-badge-still",
+    "B-03-badge-moving",
+    "B-04-badge-og",
+    "L-07-feedback-sheet-filled",
+    "L-09-settings-feedback",
+    "L-09-settings-feedback-more",
+    "L-09-settings-feedback-more-2",
+    "L-09-settings-feedback-disabled",
+    "L-09-settings-feedback-disabled-more",
+    "L-10-testflight-welcome",
+    "L-07-feedback-sheet-filled-largest",
+    "L-07-feedback-sheet-filled-largest-more",
+    "L-07-feedback-sheet-filled-largest-more-2",
+    "L-09-settings-feedback-largest",
+    "L-09-settings-feedback-largest-more",
+    "L-09-settings-feedback-largest-more-2",
+    "L-09-settings-feedback-largest-more-3",
+    "L-09-settings-feedback-largest-more-4",
+    "L-09-settings-feedback-largest-more-5",
+    "L-09-settings-feedback-largest-more-6",
+    "L-09-settings-feedback-largest-more-7",
+    "L-09-settings-feedback-disabled-largest",
+    "L-09-settings-feedback-disabled-largest-more",
+    "L-09-settings-feedback-disabled-largest-more-2",
+    "L-09-settings-feedback-disabled-largest-more-3",
+    "L-09-settings-feedback-disabled-largest-more-4",
+    "L-09-settings-feedback-disabled-largest-more-5",
+    "L-09-settings-feedback-disabled-largest-more-6",
+    "L-10-testflight-welcome-largest",
+    "L-10-testflight-welcome-largest-more",
+    "ROOT-wishlist-preview",
+    "L-06-founding-badge",
+    "L-06-founding-badge-reduce-motion",
+    "L-09-settings-feedback-not-earned",
+    "L-09-settings-feedback-not-earned-more",
+    "L-09-settings-feedback-not-earned-more-2",
+    "L-07-feedback-sheet",
+    "L-07-feedback-sheet-largest",
+    "L-07-feedback-sheet-largest-more",
+    "L-07-feedback-sheet-largest-more-2",
+    "L-10-testflight-welcome-largest-more-2",
+    "L-07-feedback-sheet-offline",
+    "L-08-feedback-sent",
+    "L-08-feedback-sent-no-reply",
+    "ROOT-shop-preview",
+    "ROOT-my-charms-preview",
+    "ROOT-shop-release",
+    "B-03-founding-share-web",
+    "L-01-alerts-on-share",
+    "L-01-alerts-on-share-largest",
+    "L-01-alerts-on-share-largest-more",
+    "W-01-shared-wishlist",
+    "W-01-shared-wishlist-more",
+    "W-06-private-link",
+    "L-02-og-private",
+    "LIVE-feedback-inbox",
+    "LIVE-TestFlight-receipt",
+    "PHYSICAL-VoiceOver-haptics",
+    "F-50-Safari-associated-link"
+  ],
+  "fresh": [
+    {
+      "id": "O-01-your-name",
+      "file": "O-01-your-name.jpg",
+      "sha256": "7450874cd9ce8b0e9312b30cc6b572f5071ad5ba3ec3551c9f9bfed46a040d79"
+    },
+    {
+      "id": "O-01-your-name-empty",
+      "file": "O-01-your-name-empty.jpg",
+      "sha256": "129360e50e02fa550e92f2cae3b92c9ca6af38ef28765e951bbc1ca7ac45b1ac"
+    },
+    {
+      "id": "O-01-your-name-limit",
+      "file": "O-01-your-name-limit.jpg",
+      "sha256": "dda787ae4649569747008e5c0241f811523f92ecf65011134fffecf907ac894a"
+    },
+    {
+      "id": "O-01-your-name-largest",
+      "file": "O-01-your-name-largest.jpg",
+      "sha256": "a33a462ea7611c538dedbb1b239a046a385a25171517bc1edf9da0510f369493"
+    },
+    {
+      "id": "G-06-purchases-found",
+      "file": "G-06-purchases-found.jpg",
+      "sha256": "3eb76be5e3028c5e4e3a0f030dd20ee2c3f7b6eef5b3ef43366e7dae07d4ab21"
+    },
+    {
+      "id": "O-01-your-name-largest-more",
+      "file": "O-01-your-name-largest-more.jpg",
+      "sha256": "0e72fc37f943b9d4bbb4c4bb8fe820293576d4fb2f4b1f5a6db1d4fbe3950900"
+    },
+    {
+      "id": "O-01-your-name-largest-more-2",
+      "file": "O-01-your-name-largest-more-2.jpg",
+      "sha256": "130afbdf19e626d7e1e1b225115240858afef2f370e18d215b722e7fd5d34ffd"
+    },
+    {
+      "id": "O-01-your-name-limit-keyboard",
+      "file": "O-01-your-name-limit-keyboard.jpg",
+      "sha256": "fe902a8dc00a3ec75b396576633d86eb3391d4a98921fe0d81274c4d68d26b46"
+    },
+    {
+      "id": "O-01-your-name-empty-keyboard",
+      "file": "O-01-your-name-empty-keyboard.jpg",
+      "sha256": "2eda59971cce42fbb3ba22291baedc693692365d11c34437e0ae4aaab6ebd492"
+    },
+    {
+      "id": "O-01-your-name-keyboard",
+      "file": "O-01-your-name-keyboard.jpg",
+      "sha256": "71f485b2a85142cb9dcba3e578eccaec41f6385ebe445ddb3465c12aae177dcc"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard-more",
+      "file": "O-01-your-name-largest-keyboard-more.jpg",
+      "sha256": "26fc0ba12a12b5dafe8350beada80f4b5ce158f4918bab15a40311f195bf37f2"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard",
+      "file": "O-01-your-name-largest-keyboard.jpg",
+      "sha256": "c29fa8b3af4790350fc4e82d081cc7adab827c5a7300500108a8e43b5709720d"
+    },
+    {
+      "id": "O-01-your-name-limit-keyboard-small",
+      "file": "O-01-your-name-limit-keyboard-small.jpg",
+      "sha256": "cfc1a1bf0e18301fb764fef5e04aedf4ad2df1120bd930a2c0532fda9456d709"
+    },
+    {
+      "id": "O-01-your-name-empty-keyboard-small",
+      "file": "O-01-your-name-empty-keyboard-small.jpg",
+      "sha256": "1f6bee5400adf367a191c34836c2e4f6ef1e126d82c5dd15480ceaf0097d7b61"
+    },
+    {
+      "id": "O-01-your-name-keyboard-small",
+      "file": "O-01-your-name-keyboard-small.jpg",
+      "sha256": "dcf184e1a08db6feba5f10fc19bfb5bc13b86d802dea8422393700ee9c6d1f49"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard-more-small",
+      "file": "O-01-your-name-largest-keyboard-more-small.jpg",
+      "sha256": "7f9241f35a607b856eb8e892ce7b4d8a0beb7c614883458d10b2a5cb90076921"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard-small",
+      "file": "O-01-your-name-largest-keyboard-small.jpg",
+      "sha256": "b5bcd43326260780909e75567251a4d73220db2a40f665709af5ab36de0fc49b"
+    }
+  ],
+  "note": "G-06 changes to NEXT against historical arrival design. Build50 did not recapture arrival. Unchanged entries are references, not new captures."
+}

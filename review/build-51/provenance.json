@@ -1,0 +1,28 @@
+{
+  "build": 51,
+  "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+  "authority": "ZIP26 DEV-INSTRUCTIONS.md and Launch App Gallery O-01",
+  "zipSHA256": "e8a4cac351fd164d1a2a9bc60236a9026ea556584fe955691e219fdab950f1d1",
+  "instructionsSHA256": "0c50c097f50b47801b389e526fffab4a8e1463207281acd0cfed13314a731528",
+  "actualSimulators": [
+    "iPhone18Pro / iOS27 / 402x874pt",
+    "iPhone17e / iOS27 / 390x844pt"
+  ],
+  "controlledContentViewport": "393x852pt at 3x; separate keyboard companions are actual AppRoot screenshots",
+  "retouched": false,
+  "release": {
+    "nativeReleasedBuild": 49,
+    "nativeCandidate": 51,
+    "nativeUploaded": false,
+    "appOnlyWebRuntime": 50,
+    "service51Deployed": false,
+    "storeDraftBuild": 44,
+    "storeSubmitted": false
+  },
+  "notVerified": [
+    "Real Shopify OAuth/account name writes and cross-device persistence",
+    "Physical keyboard/IME, VoiceOver and haptics",
+    "APNs, payment and Safari associated links"
+  ],
+  "rollout": "Deploy and accept the app-only name endpoint before any later authorised native51 release. Runtime50 does not have it."
+}
