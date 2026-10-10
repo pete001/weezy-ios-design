@@ -1,6 +1,6 @@
 # Weezy Pop · public design review
 
-**Current work:** [Review47 partial follow-up](review/build-47/README.md). F125–128 are implemented with seven fresh captures; L06–L10 await the missing detailed handoff. This is an unreleased candidate. Build46 remains available in TestFlight.
+**Current work:** [Review48 private preview and feedback](review/build-48/README.md). L06–L10 are implemented with28 fresh captures and largest-text continuations. Resend is prepared, configuration deferred by Pete. Unreleased source review; build46 remains in TestFlight.
 
 **Previous handover:** [Review45 follow-ups](review/build-45/README.md) · [App Store asset review](review/app-store/README.md) · [Follow-up gallery](review/build-45/index.html) · [Store gallery](review/app-store/index.html).
 

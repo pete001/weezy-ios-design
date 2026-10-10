@@ -1,0 +1,20 @@
+{
+  "review": 48,
+  "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+  "sourceBranch": "codex/diagnosis-performance",
+  "bundleVersion": "1.0(46)",
+  "nativeCapture": "20261010T062645Z-2a2e6d.xcresult",
+  "actualSimulator": "iPhone18Pro iOS27",
+  "canvas": "393\u00d7852pt @3\u00d7",
+  "viewOnlyPreviewOverride": true,
+  "reduceMotionStaticOverride": true,
+  "nativeFixture": "Claire synthetic Keychain-free account; October2026 verified-grant DTO injected for rendering",
+  "serviceVerification": "Isolated Shopify/provider doubles; no actual grants, paid orders or outgoing mail",
+  "webCapture": "Production badgePage renderer, loopback HTTP/assets, headless Chrome CDP; no Safari chrome",
+  "exports": {
+    "quality": 80,
+    "profile": "sRGB",
+    "retouching": false
+  },
+  "excludedContinuations": "Fit native sheets and root feeds whose helper scrolled background content. Genuine largest-form/welcome and Settings continuations retained."
+}

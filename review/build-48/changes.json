@@ -1,0 +1,51 @@
+{
+  "build": 48,
+  "againstBuild": 47,
+  "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+  "added": [
+    "L-06-founding-badge",
+    "L-06-founding-badge-reduce-motion",
+    "L-09-settings-feedback",
+    "L-09-settings-feedback-more",
+    "L-09-settings-feedback-more-2",
+    "L-09-settings-feedback-not-earned",
+    "L-09-settings-feedback-not-earned-more",
+    "L-09-settings-feedback-not-earned-more-2",
+    "L-07-feedback-sheet",
+    "L-07-feedback-sheet-filled",
+    "L-10-testflight-welcome",
+    "L-07-feedback-sheet-largest",
+    "L-07-feedback-sheet-largest-more",
+    "L-07-feedback-sheet-largest-more-2",
+    "L-07-feedback-sheet-filled-largest",
+    "L-07-feedback-sheet-filled-largest-more",
+    "L-07-feedback-sheet-filled-largest-more-2",
+    "L-10-testflight-welcome-largest",
+    "L-10-testflight-welcome-largest-more",
+    "L-10-testflight-welcome-largest-more-2",
+    "L-07-feedback-sheet-offline",
+    "L-08-feedback-sent",
+    "L-08-feedback-sent-no-reply",
+    "ROOT-shop-preview",
+    "ROOT-my-charms-preview",
+    "ROOT-wishlist-preview",
+    "ROOT-shop-release",
+    "B-03-founding-share-web"
+  ],
+  "unchanged": [
+    "L-01-alerts-on-share",
+    "L-01-alerts-on-share-largest",
+    "L-01-alerts-on-share-largest-more",
+    "W-01-shared-wishlist",
+    "W-01-shared-wishlist-more",
+    "W-06-private-link",
+    "L-02-og-private"
+  ],
+  "notCaptured": [
+    "LIVE-feedback-inbox",
+    "LIVE-TestFlight-receipt",
+    "PHYSICAL-VoiceOver-haptics",
+    "F-50-Safari-associated-link"
+  ],
+  "note": "No prior screenshots copied as fresh captures; source remains version1.0(46), no release/deployment."
+}

@@ -1,0 +1,329 @@
+{
+  "review": 48,
+  "candidateOnly": true,
+  "native": [
+    {
+      "name": "preview48-acceptance",
+      "total": 37,
+      "passed": 37,
+      "failed": 0,
+      "skipped": 0,
+      "resultBundle": "20261010T061952Z-a42866.xcresult",
+      "reportSHA256": "5e7de0fcf662c3f3fc350e17eee2987877b4825acdb1ac79b009d00f12d1fe1e",
+      "cases": [
+        {
+          "identifier": "AchievementsV25Tests/testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testFinishRestrictedSetRequiresExactQuantityEvidence()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testRenderAllFourDesignerShareFixturesForVisualQA()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testUnknownServiceEvidenceCannotEarnBadges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+          "status": "passed"
+        },
+        {
+          "identifier": "PopStudioCaptureTests/testCapturePreview48()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testAcknowledgementRateLimitAndConsentPayload()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testFoundingGrantIsSeparateFromPurchasesAndRanksFirst()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testOfflineQueueIsBoundedProtectedIdentityScopedAndExpires()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testPreviewReceiptAndCelebrationOrdering()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testSignOutInvalidatesLateAcknowledgement()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testDiagnosticsAreOptInAndConsentWithdrawalPurgesQueue()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testFixedFailureReasonAndTrailNeverCaptureErrorDescriptions()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testMeasurementsAreSampledRoundedBoundedAndConsentScoped()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueuedReportsExpireBeforeTransport()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueueSurvivesRestartAndIsBoundedWithoutAccountIdentifiers()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testTransportRetriesWithoutLosingNewEventsAndNeverSendsWhenOff()",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "name": "preview48-final",
+      "total": 12,
+      "passed": 12,
+      "failed": 0,
+      "skipped": 0,
+      "resultBundle": "20261010T062645Z-2a2e6d.xcresult",
+      "reportSHA256": "eda076ba63824fbf3864299ed3530330f6dcec24308db8a73b486a028f8dca8d",
+      "cases": [
+        {
+          "identifier": "PopStudioCaptureTests/testCapturePreview48()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testAcknowledgementRateLimitAndConsentPayload()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testFoundingGrantIsSeparateFromPurchasesAndRanksFirst()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testOfflineQueueIsBoundedProtectedIdentityScopedAndExpires()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testPreviewReceiptAndCelebrationOrdering()",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testSignOutInvalidatesLateAcknowledgement()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testDiagnosticsAreOptInAndConsentWithdrawalPurgesQueue()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testFixedFailureReasonAndTrailNeverCaptureErrorDescriptions()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testMeasurementsAreSampledRoundedBoundedAndConsentScoped()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueuedReportsExpireBeforeTransport()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueueSurvivesRestartAndIsBoundedWithoutAccountIdentifiers()",
+          "status": "passed"
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testTransportRetriesWithoutLosingNewEventsAndNeverSendsWhenOff()",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "name": "preview48-viewport",
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "skipped": 0,
+      "resultBundle": "20261010T062100Z-076e69.xcresult",
+      "reportSHA256": "208660a0690d9617134e747971949a77debaffa7bdb46699f625aef1cfd4cae3",
+      "cases": [
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "name": "preview48-release-viewport",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "resultBundle": "20261010T062224Z-c132fe.xcresult",
+      "reportSHA256": "77e8525cdf84e0020e240cc12c5cda0d8470ffd28142fab0efe7481a6042661f",
+      "cases": [
+        {
+          "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        }
+      ]
+    },
+    {
+      "name": "preview48-smaller-viewport",
+      "total": 4,
+      "passed": 4,
+      "failed": 0,
+      "skipped": 0,
+      "resultBundle": "20261010T062809Z-0615b6.xcresult",
+      "reportSHA256": "f1994191c8b413dc14be3701ae0c8888f84a6ca3f989487660e55981606496cc",
+      "cases": [
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        },
+        {
+          "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+          "status": "passed"
+        }
+      ]
+    }
+  ],
+  "service": {
+    "fullSuite": {
+      "passed": 518,
+      "failed": 0,
+      "skipped": 0
+    },
+    "changedWebAndHTTP": {
+      "passed": 20,
+      "failed": 0
+    },
+    "privateMonitor": {
+      "passed": 2,
+      "failed": 0
+    }
+  },
+  "verifiedRules": [
+    "Eligibility boundaries and malformed config fail closed",
+    "Atomic/idempotent grant and celebration across parallel requests",
+    "Founding evidence never implies a purchase",
+    "Five feedback messages/customer/day including concurrent submissions",
+    "Authenticated reply email and explicit screenshot choice",
+    "JPEG reencoding, dimensions/bytes/EXIF validation",
+    "Protected local queue:3 entries/customer,7-day expiry, same UUID retry",
+    "90-day bounded server outbox, provider deduplication-window retry limits",
+    "Provider acknowledgement required for success",
+    "Consent withdrawal/sign-out invalidate late responses",
+    "Preview welcome precedes founding celebration; queued ordinary moments wait",
+    "Preview receipt filename and release/no-receipt gates"
+  ],
+  "limitations": [
+    "No live Resend credentials, inbox delivery or Shopify grant mutation",
+    "No TestFlight48 upload/deployment",
+    "Real receipt lifecycle, haptics, VoiceOver, Safari associated links and APNs remain separate",
+    "No fresh unsuppressed whole-app accessibility audit is claimed",
+    "XCTest returned no hitch samples: not evidence of zero hitches or60/120fps"
+  ],
+  "retainedFailureEvidence": [
+    "Earlier compilation/type-checker failures preserved privately with successful rechecks",
+    "Web renderer cleanup initially raced Chrome exit; original log retained and cleanup recheck passed"
+  ]
+}

@@ -1,0 +1,838 @@
+[
+  {
+    "id": "L-06-founding-badge",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-06-founding-badge.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L06",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "3e021a2e9a0fd96499a74ca2cab586536f454901f0e71ff6a599ad3cfb218368",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-06-founding-badge-reduce-motion.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L06",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "3e021a2e9a0fd96499a74ca2cab586536f454901f0e71ff6a599ad3cfb218368",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "motion": "Explicit static production artwork/celebration test seam; no physical setting claim"
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-09-settings-feedback.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L09",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "0d65625645d540eb5a9ac966793fb85870d4e9716b07ee0b2c7395a974dd7e81",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-09-settings-feedback-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L09",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "fa45f610bb5407e164607953ec15e6096c695fc5be937259b19a9f4556e6974e",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-09-settings-feedback",
+    "scrollOffset": 608
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-09-settings-feedback-more-2.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L09",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "2e20e63645a779df26254364dec93c28882e4da00a5b06ed83c961dd648c57f0",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-09-settings-feedback",
+    "scrollOffset": 779
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-09-settings-feedback-not-earned.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L09",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "1b85a5df6d2abacf9a500c54c76d8b34bab6d1d6a9e4be23c3c83408670973c6",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-09-settings-feedback-not-earned-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L09",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "a69bb1166b4bcfecb27b63579ad8dd79ca0276e0f45e65d0c84e528e1e2aabe6",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-09-settings-feedback-not-earned",
+    "scrollOffset": 608
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-09-settings-feedback-not-earned-more-2.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L09",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "2e20e63645a779df26254364dec93c28882e4da00a5b06ed83c961dd648c57f0",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-09-settings-feedback-not-earned",
+    "scrollOffset": 734.3333333333334
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "472b9162cac8cab20aa811df6865f024ed914b69ee41ddc3451ab9ee6c1b36d4",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-filled.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "beec896b2f5164a6e2ea0d15a15bfe6b7de7623567b982639c44bad3998369e0",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-10-testflight-welcome.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "04e68a63021dece7f7fe893632f10b33d48da5ec919c2173f5f770bfc4dc6cb4",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-largest.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "cbcb1289e610099bb0c8b9534e1b47b0ffc7b3158235e23fc5f43d9d88c4e6db",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-largest-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "b0326a0c510d6e334dd5759122d1025f9a423533fa0563ca4ec346301f09dd36",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-07-feedback-sheet-largest",
+    "scrollOffset": 668
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-largest-more-2.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "33d0946dc5d35470e0cebc5b627a6f28ec8857bee5cb86a8b6d4ad03458797f1",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-07-feedback-sheet-largest",
+    "scrollOffset": 919.6666666666666
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-filled-largest.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "171447f7b41ad9ae503388ce46476074ac336135424768462bfa929e077d2fb5",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-filled-largest-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "0ec801d1b1988bab217a3002258ccca3544b1c0eb77d4c4d86bcffaee5bb5264",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-07-feedback-sheet-filled-largest",
+    "scrollOffset": 668
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-filled-largest-more-2.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "27b7983a6b00f6a14d95a89a888486fcd7dda18a342805f28849ffae8fab6278",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-07-feedback-sheet-filled-largest",
+    "scrollOffset": 964.6666666666666
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-10-testflight-welcome-largest.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "a84856d65b3bf0698d0960d0b0f2ac23302ba472265beb756cb5a56a5b89a5b6",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-10-testflight-welcome-largest-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "1ac72ea683de7a4773f1ab44a3802baa8fcc787e069fcd5df87ab9a3f2c98ac7",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-10-testflight-welcome-largest",
+    "scrollOffset": 668
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-10-testflight-welcome-largest-more-2.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "accessibility5",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "4c3f744870a4b0fcfcc581b583a029641725ccac41898d598f4b4e34dd331bd8",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8",
+    "parentId": "L-10-testflight-welcome-largest",
+    "scrollOffset": 749.3333333333334
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-07-feedback-sheet-offline.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L07",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "4866fc75fc3e6d7f2d8e0dcef779861c65209080a2df7a8425ba8790149deea7",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-08-feedback-sent.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L08",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "77dffab9dac5a6ac82bbdd893108460cec6b03c1f19c08b4cb4ed7b93400d0d4",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-08-feedback-sent-no-reply.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L08",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "8bf370dd844c2c1bd62c8fe1cf443c0ff4415940a1494ce8a8abd43d2b6de613",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "ROOT-shop-preview.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "f89b9e720c0180fa730aa30845bbaa8ae9b1a5a942485543559d98dec9c442d1",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "ROOT-my-charms-preview.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "b70f298dd661a3b744fb35c180b6ae8cca0fb33f19b222e91518c33b718f6596",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "ROOT-wishlist-preview.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "0fe4219a75571572df2dfb114f18252b5b06b5f4368d9929081665e187e4246c",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "ROOT-shop-release.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt content canvas",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "native-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Pop Studio19 L10",
+    "proof": "Production SwiftUI content in native presentation; view-only preview/motion overrides, not shipping AppRoot/TestFlight receipt evidence",
+    "sha256": "bdbb779d313f15b742eb71947c298c3883feeecf403bb6bdc2f02e3c8a7088cc",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 48,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "B-03-founding-share-web.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "pixels": [
+      1179,
+      2556
+    ],
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "captureKind": "web-content",
+    "fixture": "Isolated Claire; no customer account or live email",
+    "textSize": "large",
+    "source": "Production app-only badgePage template in isolated loopback browser",
+    "proof": "Synthetic production-template render; authenticated grant/share verified separately",
+    "sha256": "e8fd78fee80f40925eb730bac0add07363099e571ead12171f825b96ba42d42b",
+    "sourceCommit": "c2a7db1527adccf131adf30730e0c8caf274f6e8"
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/L-01-alerts-on-share.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/L-01-alerts-on-share-largest.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/L-01-alerts-on-share-largest-more.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/W-01-shared-wishlist.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/W-01-shared-wishlist-more.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/W-06-private-link.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 48,
+    "notCaptured": true,
+    "unchanged": true,
+    "originalBuild": 47,
+    "reference": "../build-47/L-02-og-private.jpg",
+    "reason": "F125\u2013128 approved and unchanged; not recaptured."
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 48,
+    "notCaptured": true,
+    "reason": "Resend configured later by explicit user choice; no live message sent."
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 48,
+    "notCaptured": true,
+    "reason": "No new binary uploaded. Runtime sandbox receipt gate unit-tested; header/welcome view-only overrides declared."
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 48,
+    "notCaptured": true,
+    "reason": "Separate physical-device acceptance; simulator interactions are not a VoiceOver/haptics pass."
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 48,
+    "notCaptured": true,
+    "reason": "Infrastructure/domain and real Safari device verification remain outside this update."
+  }
+]
