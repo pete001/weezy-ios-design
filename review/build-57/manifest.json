@@ -1,0 +1,3931 @@
+[
+  {
+    "id": "S2-01-sets-feed",
+    "build": 57,
+    "file": "S2-01-sets-feed.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "1217039f15a6518a18d2e34a2adaf99b58b3fc68937362e4ea3d0b5073036fb3",
+    "sourceSHA256": "ebd0f0f079e41fdea98846a280a749249c8cb254fb86c4aaa543409e57760d05",
+    "capturedAt": "2026-10-10T15:48:16.788337+00:00"
+  },
+  {
+    "id": "S2-01-sets-feed-largest",
+    "build": 57,
+    "file": "S2-01-sets-feed-largest.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "8b5e472c370e44e17f5a49d16e6afe1bd38292c21c8fe1b61214f52596a9860c",
+    "sourceSHA256": "5815de30a53a3eef3de601d2042cbb6d599e11059a7bb41dc2849e7ec35cdfc7",
+    "capturedAt": "2026-10-10T15:48:27.322286+00:00"
+  },
+  {
+    "id": "S2-01-sets-feed-largest-more",
+    "build": 57,
+    "file": "S2-01-sets-feed-largest-more.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "74c25d0c0f0b539ac88023095f74c0b0dd24a6d686ab39651a841775fe4d2b19",
+    "sourceSHA256": "0dcec91a310021d9dcd6a74262eb61b6adbcb0bb90ca635a94b25e904262e610",
+    "capturedAt": "2026-10-10T15:48:27.995943+00:00",
+    "parentId": "S2-01-sets-feed-largest",
+    "scrollOffset": 457,
+    "scrollHeight": 1054,
+    "viewportHeight": 680,
+    "visibleContentHeight": 597
+  },
+  {
+    "id": "S2-03-set-page",
+    "build": 57,
+    "file": "S2-03-set-page.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "95c36e67b485e8c3a7b35528dc0b9ce736d5d0f82f8f2a0053b44ac178242bcd",
+    "sourceSHA256": "048663789cf6076d87b7b4c706e880510f4efd34b1ea4b4fbd66fd5c2a1488c7",
+    "capturedAt": "2026-10-10T15:48:18.517796+00:00"
+  },
+  {
+    "id": "S2-03-set-page-more",
+    "build": 57,
+    "file": "S2-03-set-page-more.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "1e7f48908d0b7fb629dbe067bf6e6eb3dbc34102d239ae219248467b5b220d0b",
+    "sourceSHA256": "bd580e93e6fad49bd7cac9f16f9e6791a8d665b36decb9d8f2519afdf68145f0",
+    "capturedAt": "2026-10-10T15:48:19.237561+00:00",
+    "parentId": "S2-03-set-page",
+    "scrollOffset": 434,
+    "scrollHeight": 1198,
+    "viewportHeight": 852,
+    "visibleContentHeight": 764
+  },
+  {
+    "id": "S2-03-set-page-largest",
+    "build": 57,
+    "file": "S2-03-set-page-largest.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "a275fb5ba8c02ee435f75770fb5fdd94acecb5eeb7eaa17223a3e8bbcd5f4061",
+    "sourceSHA256": "1c1dec6ae113f8e39d7dcef615d438b9e2ae7c9223b9a5af14e8ab84fcc19f2a",
+    "capturedAt": "2026-10-10T15:48:29.130030+00:00"
+  },
+  {
+    "id": "S2-03-set-page-largest-more",
+    "build": 57,
+    "file": "S2-03-set-page-largest-more.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "d638bf318c0ee7244354cca46129a627e983b394806a3eb1569c9ec829672397",
+    "sourceSHA256": "d4e27185484b3124f5e132d8e5598069b476a385db52955f87fbb949a67c2b9a",
+    "capturedAt": "2026-10-10T15:48:29.811655+00:00",
+    "parentId": "S2-03-set-page-largest",
+    "scrollOffset": 730,
+    "scrollHeight": 3372.6666666666665,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "S2-03-set-page-largest-more-2",
+    "build": 57,
+    "file": "S2-03-set-page-largest-more-2.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "102f0c51250dfdb260bcd657c5cd251742715d8ea92cc614a6be708ebb335f6b",
+    "sourceSHA256": "24d2f100e61af0c4de9dace763b7f7eb4f71f3c4f21c6c852b70687bd7f88152",
+    "capturedAt": "2026-10-10T15:48:30.278854+00:00",
+    "parentId": "S2-03-set-page-largest",
+    "scrollOffset": 1460,
+    "scrollHeight": 3372.6666666666665,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "S2-03-set-page-largest-more-3",
+    "build": 57,
+    "file": "S2-03-set-page-largest-more-3.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "8f0c65d0b930787d727c2cfd92eec5a603079ec9f76c6075ffa96b9cdae4412c",
+    "sourceSHA256": "0f50d789aa217ae7949d43ac3257a3a9dbea82da3fca809b308c147c2ed5dd3d",
+    "capturedAt": "2026-10-10T15:48:30.744709+00:00",
+    "parentId": "S2-03-set-page-largest",
+    "scrollOffset": 2190,
+    "scrollHeight": 3372.6666666666665,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "S2-03-set-page-largest-more-4",
+    "build": 57,
+    "file": "S2-03-set-page-largest-more-4.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "61b64b7a5f3443546c327e97c680634574740f0c9e05c559665c2fcd09c121f0",
+    "sourceSHA256": "c0ed672c9c0a7746525352f7608329403d2867b6d8cc127799e91bf145dce66a",
+    "capturedAt": "2026-10-10T15:48:31.245667+00:00",
+    "parentId": "S2-03-set-page-largest",
+    "scrollOffset": 2532.6666666666665,
+    "scrollHeight": 3372.6666666666665,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page",
+    "build": 57,
+    "file": "T-02-terry-set-page.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "b5481e11179c852a043f61f3bf18f00ade33ed096f1399ed0f709b9883b2b363",
+    "sourceSHA256": "c0d8310822f9bac8a23efa7d2b4773025b16252af6cdd1d4f627b897960870cc",
+    "capturedAt": "2026-10-10T15:48:20.424583+00:00"
+  },
+  {
+    "id": "T-02-terry-set-page-more",
+    "build": 57,
+    "file": "T-02-terry-set-page-more.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "04a9ff58a11ce3c0fa3fe00f337a2b7da8000c1110fbf3fde86e18ae3bf91758",
+    "sourceSHA256": "2188a641183677681506ab213e293bcedf55c1e74a9d888cb1ec947106df1924",
+    "capturedAt": "2026-10-10T15:48:21.114577+00:00",
+    "parentId": "T-02-terry-set-page",
+    "scrollOffset": 654,
+    "scrollHeight": 1533,
+    "viewportHeight": 852,
+    "visibleContentHeight": 764
+  },
+  {
+    "id": "T-02-terry-set-page-more-2",
+    "build": 57,
+    "file": "T-02-terry-set-page-more-2.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "a1e6dbd1d484f12bb8f99524b55528de3ed5fe3e4cf9daa668939fa868c4b7fe",
+    "sourceSHA256": "89200f62ce0686aa5deb8912f7c6b1563919ae59fd1d726733e0cd027b7e89ce",
+    "capturedAt": "2026-10-10T15:48:21.885402+00:00",
+    "parentId": "T-02-terry-set-page",
+    "scrollOffset": 769,
+    "scrollHeight": 1533,
+    "viewportHeight": 852,
+    "visibleContentHeight": 764
+  },
+  {
+    "id": "T-02-terry-set-page-largest",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "77d3f8334211f6d7a1dba440e24dbf5f5d5fd5849e32ac521b19343784ae4eac",
+    "sourceSHA256": "45150e692a20f38034fa6bc5bb1ab42470e49c51407e0ec4e45e092693329540",
+    "capturedAt": "2026-10-10T15:48:32.426958+00:00"
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "c35ae161e1e57dbe55e4e2505ad5e50376938458ea80da02069bc9c93f253635",
+    "sourceSHA256": "6c2a257346ad532dd1c6bac20cb6ba73ee93068751a62fcc322baf37fe7c6ef0",
+    "capturedAt": "2026-10-10T15:48:33.072318+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 730,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-2",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-2.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "576e68672f8fafc89f5ed7a411ec6236a89af5fbcb477a0c53fb21e5d0334467",
+    "sourceSHA256": "454c729744851d5f16ab992e4524b70e59826e8d8304acc7d98cf96559fa42cc",
+    "capturedAt": "2026-10-10T15:48:33.542398+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 1460,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-3",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-3.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "9547564626033ccdf83403780cbd1ed0b6f2b4f75db14a265b65dbe0efc2727e",
+    "sourceSHA256": "7328a74a1b383093a0daa8abf48fa32d3040c5607096bfe0c66b71f180c76a45",
+    "capturedAt": "2026-10-10T15:48:34.032842+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 2190,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-4",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-4.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "ebb48f4bb7edc9a332f5c9e7a7979102b3aafae2d01cd9868ba05d1fe89f3db5",
+    "sourceSHA256": "166c5177969dc45831bd0eed72c48c4a7629e74a87f8f09a2230d0762f630fc7",
+    "capturedAt": "2026-10-10T15:48:34.514771+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 2920,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-5",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-5.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "da68c05fda143d3b459ebd5f6366842bc2827006921430e2ada53b0c1a2a61af",
+    "sourceSHA256": "507806409b1ec04342cdf74bad0b21a2b65494008ae88a32dc073247ea0e950b",
+    "capturedAt": "2026-10-10T15:48:34.982563+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 3650,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-6",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-6.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "0c3e97756f2505b525efbedb9b6987d3b17473d63144580da1a6c5f787f81b4b",
+    "sourceSHA256": "0243ab2b81297ae9930c34c71c9520082932b6ba4b7adfa9c0536e3b3ef15056",
+    "capturedAt": "2026-10-10T15:48:35.491702+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 4380,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-7",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-7.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "d69ad0b8c9e7c0a06c0bc94fb1906b468a3d0bc1355445808b573df6fcaa7254",
+    "sourceSHA256": "686045b1113ad9c363d0fe2b8078452f21a645dfc5954bef787b9b9dd061e970",
+    "capturedAt": "2026-10-10T15:48:36.002193+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 5110,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-8",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-8.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "cef69f62e9bff80f4e610ec681d4d3d85e1acf9a53a3ce45b008c821621968bc",
+    "sourceSHA256": "3fd088b2ee5abb2b3a9f3e3ddcd405eff67aff3d0e57c3a43017781ae5416684",
+    "capturedAt": "2026-10-10T15:48:36.472105+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 5840,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "T-02-terry-set-page-largest-more-9",
+    "build": 57,
+    "file": "T-02-terry-set-page-largest-more-9.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "9f8cc09ccdb5c2a2623f075106eda0170dc3ca37cddc420ed182dbc1cf5f3609",
+    "sourceSHA256": "8fea254c2ac03598ec3734f9ad01202355a9842011ce72e76a2f997e80dcdc72",
+    "capturedAt": "2026-10-10T15:48:36.985610+00:00",
+    "parentId": "T-02-terry-set-page-largest",
+    "scrollOffset": 6104.666666666667,
+    "scrollHeight": 6944.666666666666,
+    "viewportHeight": 852,
+    "visibleContentHeight": 840
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 57,
+    "file": "G-14-my-charms-more.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "c15d5206e07170cdeb6efe8063e85d004b7a3ed7265e3794ad60baa4657a8e36",
+    "sourceSHA256": "4c99fbaef9f5f03c901c4ec50c5d2f78f7b758f9cc96ab79d95692ed85fa1aaa",
+    "capturedAt": "2026-10-10T15:48:25.806756+00:00",
+    "state": "My Charms scrolled to Sugar Rush Social Club, 1 of 5; synthetic Battenberg ownership"
+  },
+  {
+    "id": "G-14-my-charms-more-largest",
+    "build": 57,
+    "file": "G-14-my-charms-more-largest.jpg",
+    "sourceCommit": "8031b865fde79879e096abee442ab6d6ee92cf28",
+    "shippingSourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+    "sourceBundleBuild": 57,
+    "device": "iPhone 16 Pro simulator / iOS27.0",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "actualSimulatorViewport": {
+      "width": 402,
+      "height": 874
+    },
+    "actualSimulatorPixels": [
+      1206,
+      2622
+    ],
+    "controlledDesignViewport": true,
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content; shipping AppRoot verified separately",
+    "captureResult": "20261010T154751Z-3e3547.xcresult",
+    "fixture": "Claire isolated account; current public Shopify catalogue/app-only photography and sets. Saved Silver Swirl; one verified synthetic Sugar Rush purchase. No live account or checkout writes.",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "737fefb5e49eee6ce1ed837f652b2742625f4c9b3aba5002ae363d27acb564b4",
+    "sourceSHA256": "57a988870805732d120a71ffc300bb046cbbc1e80d4630e1cdff1c8b484e616f",
+    "capturedAt": "2026-10-10T15:48:38.938425+00:00",
+    "state": "Largest-text lower-content companion, scrolled beyond compact ring; normal G-14-my-charms-more shows the ring. No largest-text ring visibility claim."
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/H-01-hot-set.jpg",
+    "baselineSHA256": "57492db0866bfbb21811cb71ded0c5efd6790f1107a541bcf897c686e7b2344e",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/B-03-share-card.jpg",
+    "baselineSHA256": "bc77e3f262f47620d98c3e1d866f3533cc481e0fe485efa0223f8ec8808dbc07",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "RELEASE28-SHOP",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/RELEASE28-SHOP.jpg",
+    "baselineSHA256": "a022e2fde527f3619399a00d7486b2f33afc5a33723976e8b78428b7eeb1b816",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms.jpg",
+    "baselineSHA256": "efe78722abcfbc602859ac66f74785cc541ad70ee02f33b6ee56e6fada63ef69",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-more-2.jpg",
+    "baselineSHA256": "ba9d7292570e975e5d3b2affeaa39238330413a57dcdd2df9db8f1c159cb8b55",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-15-my-wishlist",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-15-my-wishlist.jpg",
+    "baselineSHA256": "6c5ecf34497a5dcc3196f43d4331456398413a5c835c292775878c7e94ea625a",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page.jpg",
+    "baselineSHA256": "d82cfe0c7498ed997ad27794964ccc6497c4f099b077879e2a62acd1a564fdc6",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-more.jpg",
+    "baselineSHA256": "a28efdce6b8c5cf6f811dd1bc698209e2a63db48c8caecd98a5ef82160898434",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-scrolled",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-scrolled.jpg",
+    "baselineSHA256": "a28efdce6b8c5cf6f811dd1bc698209e2a63db48c8caecd98a5ef82160898434",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page.jpg",
+    "baselineSHA256": "6074c9a535db5db32769cef46a4af58686feca5214558f5c1751ff12b493d3ff",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-more-2.jpg",
+    "baselineSHA256": "352aea56de9dbc971827d9fc16868794245537aa3bf33465dc709759aa1c12ab",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-more.jpg",
+    "baselineSHA256": "352aea56de9dbc971827d9fc16868794245537aa3bf33465dc709759aa1c12ab",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-scrolled",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-scrolled.jpg",
+    "baselineSHA256": "352aea56de9dbc971827d9fc16868794245537aa3bf33465dc709759aa1c12ab",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-01-terry-feed",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-01-terry-feed.jpg",
+    "baselineSHA256": "89ac4b186d7ba6c0de4525fe8634d97e003126ae61e89c914372ed35d3ebfb14",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-02-terry-set-page-scrolled",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-02-terry-set-page-scrolled.jpg",
+    "baselineSHA256": "1f42167015c396239324ca6cf8bff0728b3b668d619bbd73525c46344ced576f",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-24-settings-alerts-on-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-24-settings-alerts-on-more.jpg",
+    "baselineSHA256": "06e1a76cae5e1da4115e1cdb48c83438917c7b3a36cc4ffd118b99988cdf94f7",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/OFFLINE-REGISTRATION-step-3.jpg",
+    "baselineSHA256": "28e336a799466cfe7ba45e95bec31aef18e1e11f5f5c91dbe482037509312752",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-01-sets-feed-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-01-sets-feed-largest-more-2.jpg",
+    "baselineSHA256": "512399669616644733ecb05048c8b1b6e276daa0dd94c21db522d1e33ac5d81e",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "RELEASE28-SHOP-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/RELEASE28-SHOP-largest.jpg",
+    "baselineSHA256": "aacd0cf9d75e3aa25945712722d4f907791ed176582270c71b76b1574e7dd4a5",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "RELEASE28-SHOP-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/RELEASE28-SHOP-largest-more.jpg",
+    "baselineSHA256": "876f239fba79f9953813f21642c2e38bd6ab9f3908f8c658e227849862e48058",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "RELEASE28-SHOP-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/RELEASE28-SHOP-largest-more-2.jpg",
+    "baselineSHA256": "512399669616644733ecb05048c8b1b6e276daa0dd94c21db522d1e33ac5d81e",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-largest.jpg",
+    "baselineSHA256": "25e2872bbf3a24a468ff63ff55d4213ecd66f2f69c6c21438e89e1c286344c5a",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-largest-more.jpg",
+    "baselineSHA256": "3d845382591dfcbe117b544e4bcd8a4da6c1827d6f65c652aa4df0a4931b1af3",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-largest-more-2.jpg",
+    "baselineSHA256": "d4841a6e951a45d460989899e4c80815fba415638df34875f75de9fa0868d8bc",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-largest-more-3.jpg",
+    "baselineSHA256": "a7f8d93a6774456ab65aa2515289a680b2664cb518e494d288d6b8b4e1a3d92e",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-15-my-wishlist-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-15-my-wishlist-largest.jpg",
+    "baselineSHA256": "9c53d6c69ec27ee2af1fd0dd3af6c56208161b2dfd06e19d6b9bb9171a70c69f",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-15-my-wishlist-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-15-my-wishlist-largest-more.jpg",
+    "baselineSHA256": "a99878b7995f1ffcaa85638dbfd0bb3198c1b97077faec39fc9acd3797c96631",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-15-my-wishlist-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-15-my-wishlist-largest-more-2.jpg",
+    "baselineSHA256": "699235fe765d6e220d2abac5b151042e3c761ec4b026fe22898f125589341697",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-15-my-wishlist-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-15-my-wishlist-largest-more-3.jpg",
+    "baselineSHA256": "55a5d031b84680b001c1b1a6d33181574a6348b699f67fd62f47e0cbbf3584d7",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-largest.jpg",
+    "baselineSHA256": "9ca0b2c252bc647e43d174b61ac23e4b97865fcfca9fd53acb7ae7b3c98b8b9a",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-largest-more.jpg",
+    "baselineSHA256": "6de82eab81652fd7147bcb42afd46a292ab3452f64b219d460e207e8d2668af1",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-largest-more-2.jpg",
+    "baselineSHA256": "e64f32ac9b6b0f2443b6d56f39eb2fc8a07ab9bef2259f5434ec7410263d1ce7",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-largest-more-3.jpg",
+    "baselineSHA256": "f02f74372e3f8eeb87ca74d46f2a089f4b11ebd74c3614b0b6a865d6f8254c10",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-largest-more-4.jpg",
+    "baselineSHA256": "8805c11b501ed626fb7c1a573d7eb429eab483763c3c864b9c4f6a25d8a7cc2d",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "S2-04-set-page-scrolled-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/S2-04-set-page-scrolled-largest.jpg",
+    "baselineSHA256": "8805c11b501ed626fb7c1a573d7eb429eab483763c3c864b9c4f6a25d8a7cc2d",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-largest.jpg",
+    "baselineSHA256": "fae1c002a2d2eea31b963efdfd1384cbc33e22cdfa7cf1fb959f276644895a38",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-largest-more.jpg",
+    "baselineSHA256": "52a38d266a39cb2d1d3c7376c0d4390b1644180c3689db1927bf1b4f9a197efc",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-largest-more-2.jpg",
+    "baselineSHA256": "bf78297e6c28a9fbb477c7a96cbc570f8e3baa1f0912694693c9104c8557a078",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-largest-more-3.jpg",
+    "baselineSHA256": "e9d74e7191cc68c248f419623118309d97889a2b040d3f534cb6d91aef1c3a9f",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-more-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-more-largest.jpg",
+    "baselineSHA256": "e9d74e7191cc68c248f419623118309d97889a2b040d3f534cb6d91aef1c3a9f",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-16-set-page-scrolled-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-16-set-page-scrolled-largest.jpg",
+    "baselineSHA256": "e9d74e7191cc68c248f419623118309d97889a2b040d3f534cb6d91aef1c3a9f",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-01-terry-feed-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-01-terry-feed-largest.jpg",
+    "baselineSHA256": "842c2e023df54bfd5cf367e3a405446516f1d8dc6c25531f592aeb6c3e8a7d82",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-01-terry-feed-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-01-terry-feed-largest-more.jpg",
+    "baselineSHA256": "2889f0a8ac7fe2f506047b0eb33fd4c0a4bdbe16be88252e97a7c8d6beb7df2b",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-01-terry-feed-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-01-terry-feed-largest-more-2.jpg",
+    "baselineSHA256": "688570e2fe2ddf2fbc7ba7289a450bcbf38fccd0e7e29f83958545dcc32141e0",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-02-terry-set-page-scrolled-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-02-terry-set-page-scrolled-largest.jpg",
+    "baselineSHA256": "a27724426a56039cf08fcc493f40cdbab1296a0f9d1c1e8b790417228965ed84",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-24-settings-alerts-on-more-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-24-settings-alerts-on-more-largest.jpg",
+    "baselineSHA256": "7f282f40cbff42a9eaad765a883c019f4d66bff66656d4ea1284c9ed673c631b",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/OFFLINE-REGISTRATION-step-3-largest.jpg",
+    "baselineSHA256": "222f95cbd4667107fed12347dc606ae0e1a80dd074f801f9131c916fd59e60cb",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/OFFLINE-REGISTRATION-step-3-largest-more.jpg",
+    "baselineSHA256": "20893a11326555fac99f6fd2ac306340f8fe7ac182d2edd7410bedfae9a411e8",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/OFFLINE-REGISTRATION-step-3-largest-more-2.jpg",
+    "baselineSHA256": "3bd6e111ce7dba7c8e5b5739b985f0aaf28b5e652b46fc6d7859ebad192e026e",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/OFFLINE-REGISTRATION-step-3-largest-more-3.jpg",
+    "baselineSHA256": "872dd4b40ee96317e036de052679e6dff38b2e529b66e6c36eead77bc8bef641",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/OFFLINE-REGISTRATION-step-3-largest-more-4.jpg",
+    "baselineSHA256": "4a3a755dbb4d27d3e56980696cac23258eed4a9c8fd8997cd8d8773204acf39e",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket.jpg",
+    "baselineSHA256": "fa27b028d7c67294e9efdf0385a939f34e973b7461ec255e5952c5fbd46921f1",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-more.jpg",
+    "baselineSHA256": "3acb6ac60daeb4250f8c09dcc9ff2c0bb7b6e0f8c4fe79bdbb5b263acd180744",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-more-2.jpg",
+    "baselineSHA256": "f63f9376298ac2901ed3804b5449c231525d6682b03426b21168d7651999b566",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest.jpg",
+    "baselineSHA256": "e65f8bafe8926d55843908dc553a542085c9dd842581361756021d454da73103",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more.jpg",
+    "baselineSHA256": "eb7648a5b7d1ad34aec906297120fedbaf447a3705316683bc7123e706b83163",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-2.jpg",
+    "baselineSHA256": "3cdae33f4781e33f703dbee4e0443fb02ba614d11e3bedf05f2af2e6812cfd84",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-3.jpg",
+    "baselineSHA256": "5d8a996461befe5eeabd07103684e44ed1f5229cff10e625b3c6928abba22c81",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-4.jpg",
+    "baselineSHA256": "5b124bc159d70a6bb4acb287dae1b4bcc8183431124fda1dfd02ca51f0598874",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-5",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-5.jpg",
+    "baselineSHA256": "e85aa57d76ee35d4aca658e1bed1fb714cb821013b240320c49af66fa02fd673",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-6",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-6.jpg",
+    "baselineSHA256": "403dd8ed43d911c7ece98f63861433a0ecfbf682c370c8df7d8447a1cdcfafd8",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-7",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-7.jpg",
+    "baselineSHA256": "0fff8562f6db405cad1a4d868b940375eb250eccdd764279d39a5286922e2835",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "T-03-terry-basket-largest-more-8",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/T-03-terry-basket-largest-more-8.jpg",
+    "baselineSHA256": "ce0b67fe54a245c462459408791fc1e53afb731ac1307846ae9dc767839b629b",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap.jpg",
+    "baselineSHA256": "fbb051f016117d1fd0cfd098f2232048a5c5b8da8ee5fdf2451dc204cc65d20b",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-more.jpg",
+    "baselineSHA256": "1756b1effbce3b989cbfc9e7a226286157eb24ada4171aa9612d97bfcdbf1b0b",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-more-2.jpg",
+    "baselineSHA256": "ba9d7292570e975e5d3b2affeaa39238330413a57dcdd2df9db8f1c159cb8b55",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-largest.jpg",
+    "baselineSHA256": "954de2869749bca0e1c8c3e0dfc77a3984b88f783f4d92d19f7fe8e9a66c4fd5",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-largest-more.jpg",
+    "baselineSHA256": "325335e83254759c593dfa209e254ecd19701f95d780a8ae10ffdc1eb8a3f6a0",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-largest-more-2.jpg",
+    "baselineSHA256": "46db9c4668b545e6ffb93957e18c8b672cf80f973a7b2f58854aa4a31978a9ac",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-largest-more-3.jpg",
+    "baselineSHA256": "988e154e2e7948805f2a9dddb1d66fc000dd21fee911be69c2b3b0a5bd460eb8",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-with-snap-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-with-snap-largest-more-4.jpg",
+    "baselineSHA256": "fe751a7e93c4492d34c0d2f2d1ed2a131a658a5a0ab333b87dd768892061c8d0",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "RELEASE28-SHOP-header-3x",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/RELEASE28-SHOP-header-3x.jpg",
+    "baselineSHA256": "0df35be1e4b7bba6eb5523af70c11eb55458b8b7bacde54500da7e59400133e9",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-header-3x",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-header-3x.jpg",
+    "baselineSHA256": "4d060df7ec91244d2fcac6ed54f55020b24335443c301d60ca6d656abb1889e9",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "RELEASE28-SHOP-largest-header-3x",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/RELEASE28-SHOP-largest-header-3x.jpg",
+    "baselineSHA256": "0df35be1e4b7bba6eb5523af70c11eb55458b8b7bacde54500da7e59400133e9",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "G-14-my-charms-largest-header-3x",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": "../build-56/G-14-my-charms-largest-header-3x.jpg",
+    "baselineSHA256": "46eb042af31df3012d4db3fb3e740281e88cdc357f2d103659212ff9a2b57adc",
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": false
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-14-my-charms-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-5",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-6",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-5",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-6",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-5",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-6",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "S2-01-sets-feed-festival",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "S2-01-sets-feed-festival-silver-saved",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-14-my-charms-festival",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-14-my-charms-festival-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-14-my-charms-festival-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-16-set-page-festival",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-16-set-page-festival-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-375",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard-largest-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "Device55-badge-set-largest-1",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "Device55-badge-set-largest-0",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "Device55-badge-set-normal-1",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "Device55-badge-set-normal-0",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "B-04-badge-web-page-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-empty",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-limit",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-keyboard-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-small",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "B-04-badge-og",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01S-swipe-remove-undo",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-5",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-6",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-7",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-3",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-4",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-5",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-6",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-keyboard",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "F-148",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  },
+  {
+    "id": "Nat-iPhone17Pro-iOS26.6.1",
+    "build": 57,
+    "unchanged": true,
+    "baselineBuild": 56,
+    "baselineFile": null,
+    "baselineSHA256": null,
+    "notCaptured": true,
+    "reason": "Unchanged by the three build57 corrections; retain build56 evidence without recapturing. Prior exclusions/merchant holds still apply.",
+    "priorNotCaptured": true,
+    "baselineReason": "Outside F149\u2013158 and unchanged from reviewed build55; previous capture remains historical."
+  }
+]

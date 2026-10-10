@@ -1,0 +1,56 @@
+{
+  "build": 57,
+  "version": "1.0",
+  "uploaded": true,
+  "buildId": "d865d5e8-a933-45e2-8956-6ce00549a22a",
+  "processingState": "VALID",
+  "distribution": [
+    {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  ],
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "d865d5e8-a933-45e2-8956-6ce00549a22a",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "7fccce33545ca0b91dfe71099c1ee845185d4d36",
+  "frozenNativeInputs": 260,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "014f631823f4a7ca9f01f619d0dfe5453f83ecc26102bcd5cfe7777c8959a942",
+  "dSYMUUID": "78BE8922-0D76-3DB5-98E8-6C3339A3947A",
+  "appleServerValidated": true,
+  "appleSeparateChecksumAvailable": false,
+  "testExecutions": 37,
+  "repeatedTestsIncluded": true,
+  "runtimeChanged": false,
+  "appOnlyRuntime": 56,
+  "customerWebsiteChanged": false,
+  "liveCustomerMutation": false,
+  "appStoreSubmitted": false,
+  "publicReview56Unchanged": true,
+  "feedbackEnabled": false,
+  "scope": "Three device-review corrections: set availability, Terry bento label and compact collection badge ring",
+  "physicalAcceptanceRemaining": [
+    "Nat real iPhone17Pro/iOS26.6.1",
+    "Physical payment/OAuth/APNs/Photos/VoiceOver/haptics/F50 and broader accessibility/performance acceptance"
+  ],
+  "freshReviewJPEGs": 25,
+  "publicReviewBuild": 57
+}

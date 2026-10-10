@@ -1,0 +1,85 @@
+{
+  "build": 57,
+  "allFunctionalPassed": true,
+  "allFindingsReviewed": true,
+  "nativeModelFailures": 0,
+  "nativeModelSkips": 0,
+  "runs": [
+    {
+      "receipt": "build/Migration/20261010T145242Z-b0150e.xcresult",
+      "jsonSHA256": "6c8828687df59653f166800526f09be79399a75d80d7bf7ee43ba32511fcb6de",
+      "tests": {
+        "total": 11,
+        "passed": 11,
+        "failed": 0,
+        "skipped": 0
+      }
+    },
+    {
+      "receipt": "build/Migration/20261010T145419Z-d81801.xcresult",
+      "jsonSHA256": "8d2503fa1dab29e566d7ac43c6b9d7ec1115521989d35046de94a7d24006911c",
+      "tests": {
+        "total": 21,
+        "passed": 21,
+        "failed": 0,
+        "skipped": 0
+      }
+    },
+    {
+      "receipt": "build/Migration/20261010T145434Z-d727a9.xcresult",
+      "jsonSHA256": "12b94bd83b4fcb82f41e5b4149416a57fe79c3f0e55f47157e3710821bec1b51",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0
+      }
+    },
+    {
+      "receipt": "build/Migration/20261010T145519Z-4d0354.xcresult",
+      "jsonSHA256": "96c2d0b8ee38bc01bfdc444e9d20f9e13c59125333dcc040f014b2862eecd328",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0
+      }
+    },
+    {
+      "receipt": "build/Migration/20261010T150608Z-9747f0.xcresult",
+      "jsonSHA256": "95a09f7081e92dda364c0afe256d7727a54f222f02f5bf4fb4d5bc32f48c76a6",
+      "configuration": "Release",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0
+      }
+    }
+  ],
+  "released56Baseline": "build/Release56/qa-acceptance.json",
+  "baselineReusedOnlyForUnchangedBehaviour": true,
+  "reviewedFindings": [
+    "Initial regression fixture used an unsupported chain; corrected fixture and rerun passed.",
+    "First capture invocation omitted test-runner environment; actual final capture produced normal/largest content and continuations.",
+    "Existing physical/F50/accessibility acceptance track remains separate."
+  ],
+  "customerWebsiteChanged": false,
+  "liveCustomerMutation": false,
+  "userAuthorization": "Ok build it",
+  "releaseRenderingVerified": true,
+  "releaseRootScreenshotsVisuallyInspected": true,
+  "testExecutions": 37,
+  "reviewCaptureRun": {
+    "receipt": "20261010T154751Z-3e3547.xcresult",
+    "sourceBundleBuild": 57,
+    "tests": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0
+    },
+    "jsonSHA256": "cf93e1288704080496a325068e8c900da0584b8a29639cab252e70bce7e99160"
+  },
+  "note": "37 release-gate executions include repeats; one additional build57 recapture execution. Isolated content renders and shipping-root tests are separate. No physical purchase/Photos/APNs/OAuth/VoiceOver acceptance claimed."
+}
