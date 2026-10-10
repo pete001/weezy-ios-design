@@ -1,0 +1,70 @@
+{
+  "build": 54,
+  "nativeModels": {
+    "total": 23,
+    "passed": 23,
+    "failed": 0,
+    "skipped": 0,
+    "expectedFailures": 0,
+    "durationMs": 42166
+  },
+  "primary": {
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "skipped": 0,
+    "expectedFailures": 0,
+    "durationMs": 45249
+  },
+  "smaller": {
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "skipped": 0,
+    "expectedFailures": 0,
+    "durationMs": 50480
+  },
+  "web": {
+    "passed": 12,
+    "failed": 0,
+    "skipped": 0
+  },
+  "retainedFinding": "Reader bottom/top attempts failed the stronger counter visibility assertion. One early empty-name confirmation wait also failed; both final suites pass the unchanged assertion. Final bound input-group top anchor passes the same field/counter12pt/keyboard assertions on both devices. Original failed xcresults preserved privately. An added status-bar query was unavailable in native AX; replaced with actual app bounds while retaining full field/counter12pt/button/keyboard checks.",
+  "copyAudit": {
+    "appStoreLocales": [
+      "en-GB"
+    ],
+    "marketWordingMatches": [],
+    "readOnly": true,
+    "sourcePicker": "Pop-up (existing popup wire value unchanged)",
+    "approvalPushEmail": "No authored markets/Market stall copy in active service templates; feedback email remains disabled",
+    "historicCustomerPlaces": "Preserved, not rewritten"
+  },
+  "webCapture": {
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "logoHeight": 34,
+    "shadow": "drop-shadow(rgba(28,20,24,0.3) 0px 2px 8px)",
+    "imagesLoaded": 8,
+    "documentHeight": 874,
+    "continuationOffset": 22,
+    "kind": "Browser content; synthetic Claire; production template and cached Shopify catalogue; no Safari or live share acceptance",
+    "jpegQuality": 80
+  },
+  "limits": [
+    "Physical keyboard/VoiceOver still separate",
+    "No new full-app accessibility audit",
+    "Real authenticated name persistence remains device acceptance"
+  ],
+  "gallery": {
+    "freshImages": 8,
+    "missingLocalAssets": 0,
+    "fullScreenViewer": true,
+    "nextPrevious": true,
+    "contextualNotePersisted": true,
+    "temporaryNoteCleared": true
+  }
+}

@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "B-03-share-card",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "B-03-share-card.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "iPhone18Pro/iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "ad4dad91806e30924c9a833d03f5fdb1f03d688a3e8691111f615782ad02e6df",
+    "sourceSHA256": "e8a76e8d6253a6fc22046070f36f2f91c82c2f39c31602a19086107bd042cde2",
+    "captureResult": "20261010T120128Z-b8718e.xcresult"
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "M-06-sync-zero.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "iPhone18Pro/iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "a7b58b19d11633c1fca68dff041c7bdba8e6bf0f9722308bce28e67f015e832e",
+    "sourceSHA256": "418a59fee540c2aa36b730ee996dfff83477faf5522109855313a606fb2991dc",
+    "captureResult": "20261010T120128Z-b8718e.xcresult"
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "OFFLINE-REGISTRATION.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "iPhone18Pro/iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "259a2b40a959adb344fa0ba41f1b8f6ca2a2f0f9d9586d1072c16ddaf3a41e29",
+    "sourceSHA256": "fcef19636571579ef1c90a5082a9d992fa29c3bba44bb51f0aff84a536440eb3",
+    "captureResult": "20261010T120128Z-b8718e.xcresult"
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "M-07-registration-history.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "iPhone18Pro/iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "aeb4ce01e59cb3a308fa3cec1f28855b2a26d46a1d80ac1aec130c0883d62d37",
+    "sourceSHA256": "5d3cad7880863c9b08fcbefc175dea3e1c3568a8871889b250cfa179bd4f456f",
+    "captureResult": "20261010T120128Z-b8718e.xcresult"
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "O-01-your-name-largest-keyboard.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "Actual iPhone18Pro/iOS27 AppRoot",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "pixels": [
+      1179,
+      2563
+    ],
+    "captureKind": "native-root-keyboard",
+    "textSize": "accessibility5",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "c298901b893578c0e5d7d21bd822a898193c40c47dcc04566c1de71cfaae44eb",
+    "sourceSHA256": "6d23506fc9791f01fa744e38784e54b28dcf81da2f1435bddc9e8875895bf4a8",
+    "captureResult": "primary-result.json"
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-small",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "O-01-your-name-largest-keyboard-small.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "Actual iPhone17e/iOS27 AppRoot",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "pixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "native-root-keyboard",
+    "textSize": "accessibility5",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "721f3285c4a2d6f5192bb1fb241532acb0c1bc3e34122eda7f413d1310a2ecbb",
+    "sourceSHA256": "e84a423919e0f3c6f9a503feca0e4d16064a93c6f254b04e594f659cd049cfb8",
+    "captureResult": "small-result.json"
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "B-04-badge-web-page.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "In-app browser;393x852pt3x; no Safari chrome",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "browser-content",
+    "textSize": "large/default",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "7abd5d4d88dee2dd5e03a80230e7b6c2497cbcb8b822072ece1573891c8d287c",
+    "sourceSHA256": "05df0a72dce6622acb06308c333e9295beee798d509752d16e8720b177818335",
+    "captureResult": "web-capture.json"
+  },
+  {
+    "id": "B-04-badge-web-page-more",
+    "build": 54,
+    "sourceBundleBuild": 54,
+    "file": "B-04-badge-web-page-more.jpg",
+    "sourceCommit": "8c1d481bd28bbd40081e60d481749f2b8f2c48b4",
+    "device": "In-app browser;393x852pt3x; no Safari chrome",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "browser-content-continuation",
+    "textSize": "large/default",
+    "fixture": "Isolated synthetic Claire. Five-piece Celestial with two Swirls for badge; six wishes for name; no orders for M06; synthetic Fenwick/pop-up/gift registrations. No live customer mutation.",
+    "retouched": false,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "c0824f45e820b47da427138104f51d962ef35c334d28ed6a4710c3324a4cfde0",
+    "sourceSHA256": "2a230dee0a83c3695c67329cf5e630792b2dcf8b0746e1b8ecd3ad6b0caf3e41",
+    "captureResult": "web-capture.json",
+    "scrollOffset": 22
+  },
+  {
+    "id": "O-01-your-name",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name.jpg",
+    "referenceID": "O-01-your-name",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-empty",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-empty.jpg",
+    "referenceID": "O-01-your-name-empty",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-limit",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-limit.jpg",
+    "referenceID": "O-01-your-name-limit",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-largest",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-largest.jpg",
+    "referenceID": "O-01-your-name-largest",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-largest-more",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-largest-more.jpg",
+    "referenceID": "O-01-your-name-largest-more",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-largest-more-2",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-largest-more-2.jpg",
+    "referenceID": "O-01-your-name-largest-more-2",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-06-purchases-found.jpg",
+    "referenceID": "G-06-purchases-found",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-35U-basket-removal-undo.jpg",
+    "referenceID": "G-35U-basket-removal-undo",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-more.jpg",
+    "referenceID": "G-35U-basket-removal-undo-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest.jpg",
+    "referenceID": "G-35U-basket-removal-undo-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest-more.jpg",
+    "referenceID": "G-35U-basket-removal-undo-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest-more-2.jpg",
+    "referenceID": "G-35U-basket-removal-undo-largest-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-3",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest-more-3.jpg",
+    "referenceID": "G-35U-basket-removal-undo-largest-more-3",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-limit-keyboard.jpg",
+    "referenceID": "O-01-your-name-limit-keyboard",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-empty-keyboard.jpg",
+    "referenceID": "O-01-your-name-empty-keyboard",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-keyboard",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-keyboard.jpg",
+    "referenceID": "O-01-your-name-keyboard",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reason": "F133 now shows field/counter in main keyboard capture without manual scroll; prior scroll continuation is not current evidence."
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01U-wishlist-removed-largest.jpg",
+    "referenceID": "L-01U-wishlist-removed-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01S-wishlist-swipe-largest.jpg",
+    "referenceID": "L-01S-wishlist-swipe-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01-wishlist-share-largest.jpg",
+    "referenceID": "L-01-wishlist-share-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01U-wishlist-removed",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01U-wishlist-removed.jpg",
+    "referenceID": "L-01U-wishlist-removed",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01S-wishlist-swipe",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01S-wishlist-swipe.jpg",
+    "referenceID": "L-01S-wishlist-swipe",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01-wishlist-share.jpg",
+    "referenceID": "L-01-wishlist-share",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard-small",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-limit-keyboard-small.jpg",
+    "referenceID": "O-01-your-name-limit-keyboard-small",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard-small",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-empty-keyboard-small.jpg",
+    "referenceID": "O-01-your-name-empty-keyboard-small",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-keyboard-small",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reference": "../build-53/O-01-your-name-keyboard-small.jpg",
+    "referenceID": "O-01-your-name-keyboard-small",
+    "reason": "Shared name-field layout depends on F133. Not recaptured in this six-screen delta; normal interaction and empty/limit cases pass on both phones. Prior image is historical, not current geometry proof."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more-small",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reason": "F133 now shows field/counter in main keyboard capture without manual scroll; prior scroll continuation is not current evidence."
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest-small",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01U-wishlist-removed-largest-small.jpg",
+    "referenceID": "L-01U-wishlist-removed-largest-small",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest-small",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01S-wishlist-swipe-largest-small.jpg",
+    "referenceID": "L-01S-wishlist-swipe-largest-small",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-small",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01-wishlist-share-largest-small.jpg",
+    "referenceID": "L-01-wishlist-share-largest-small",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01U-wishlist-removed-small",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01U-wishlist-removed-small.jpg",
+    "referenceID": "L-01U-wishlist-removed-small",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-small",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01S-wishlist-swipe-small.jpg",
+    "referenceID": "L-01S-wishlist-swipe-small",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-small",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01-wishlist-share-small.jpg",
+    "referenceID": "L-01-wishlist-share-small",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reason": "F132 export geometry changed and is regression-tested; six requested screens supplied rather than extra exports."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reason": "F132 export geometry changed and is regression-tested; six requested screens supplied rather than extra exports."
+  },
+  {
+    "id": "B-04-badge-og",
+    "build": 54,
+    "unchanged": false,
+    "notCaptured": true,
+    "reason": "F132 export geometry changed and is regression-tested; six requested screens supplied rather than extra exports."
+  },
+  {
+    "id": "L-01S-swipe-remove-undo",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/L-01S-swipe-remove-undo.mp4",
+    "referenceID": "L-01S-swipe-remove-undo",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-filled",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-10-testflight-welcome",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-filled-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-filled-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-filled-largest-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-3",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more-3",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-4",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more-4",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-5",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more-5",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-6",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more-6",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-7",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-largest-more-7",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-3",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest-more-3",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-4",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest-more-4",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-5",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest-more-5",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-6",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-disabled-largest-more-6",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-10-testflight-welcome-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-10-testflight-welcome-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "ROOT-wishlist-preview",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-06-founding-badge",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-06-founding-badge-reduce-motion",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-not-earned",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-not-earned-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-09-settings-feedback-not-earned-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-largest-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-10-testflight-welcome-largest-more-2",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-07-feedback-sheet-offline",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-08-feedback-sent",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-08-feedback-sent-no-reply",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "ROOT-shop-preview",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "ROOT-my-charms-preview",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "ROOT-shop-release",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "B-03-founding-share-web",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-01-alerts-on-share",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-01-alerts-on-share-largest",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-01-alerts-on-share-largest-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "W-01-shared-wishlist",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "W-01-shared-wishlist-more",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "W-06-private-link",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "L-02-og-private",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "LIVE-feedback-inbox",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "LIVE-TestFlight-receipt",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "PHYSICAL-VoiceOver-haptics",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 54,
+    "unchanged": true,
+    "notCaptured": true,
+    "reference": "../build-53/manifest.json",
+    "referenceID": "F-50-Safari-associated-link",
+    "reason": "Approved53 baseline; unaffected by F132–134, not silently recaptured."
+  }
+]
