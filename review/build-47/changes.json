@@ -1,0 +1,81 @@
+{
+  "build": 47,
+  "againstBuild": 46,
+  "status": "partial-review-awaiting-missing-L06-L10-spec",
+  "changed": [
+    {
+      "id": "L-01-alerts-on-share",
+      "file": "L-01-alerts-on-share.jpg",
+      "sha256": "205cf71fa74ce051968d2f7d83dd1acc573a04c3819381424aa7746c8a068523",
+      "priorSHA256": "bfc609f021ab9544b73d38d8a7ea19b900a39ab2bfb7323a85dae2f75d144273",
+      "fixes": [
+        "F-128"
+      ]
+    },
+    {
+      "id": "L-01-alerts-on-share-largest",
+      "file": "L-01-alerts-on-share-largest.jpg",
+      "sha256": "01c1328f92b2603f239c2e7985c314656ddcbc406e636d9e06793e3f9bf0b03d",
+      "priorSHA256": "eb95b900a740d112be87628c31593ebdaa8cfd5ae9baeb1bf18c7e501b8ccb1b",
+      "fixes": [
+        "F-128"
+      ]
+    },
+    {
+      "id": "L-01-alerts-on-share-largest-more",
+      "file": "L-01-alerts-on-share-largest-more.jpg",
+      "sha256": "a1c6e1968a2c2046a00de1c0d4ff98bb4c613a0390b499a007ecf924b58a6002",
+      "priorSHA256": "81d3b33cd9497fda6a97fbfbb85e6927813b6046fb9996dafedcc04e231c050c",
+      "fixes": [
+        "F-128"
+      ]
+    },
+    {
+      "id": "W-01-shared-wishlist",
+      "file": "W-01-shared-wishlist.jpg",
+      "sha256": "60be649edd4a12a197641bacf795464bc1c17bffbec6d4e52001a190212684e8",
+      "priorSHA256": "ec2605b00179ba80daa51cc253a2d3f7b05d05597afe4b52f25dc5f911af7a7b",
+      "fixes": [
+        "F-126",
+        "F-127"
+      ]
+    },
+    {
+      "id": "W-01-shared-wishlist-more",
+      "file": "W-01-shared-wishlist-more.jpg",
+      "sha256": "52ffbd4aad10e213c8a612250cd144d0c5862040e6e48616a25511f9646f2d53",
+      "priorSHA256": "10972dba43ca3b20f78ba3bcfedabb6f6c58c04ad62d61d98ec7928ce717dcb4",
+      "fixes": [
+        "F-126",
+        "F-127"
+      ]
+    },
+    {
+      "id": "W-06-private-link",
+      "file": "W-06-private-link.jpg",
+      "sha256": "44cf97d4fe088b2bd364be5ca3f457f240810d75c6f56cdc5e18395200a76978",
+      "priorSHA256": "10bcf4a570255a2dd6be155b39f9a8b16e612a16152cab4b8fcdb26983c1dae8",
+      "fixes": [
+        "F-128"
+      ]
+    },
+    {
+      "id": "L-02-og-private",
+      "file": "L-02-og-private.jpg",
+      "sha256": "55e0873a4941ce1eff145cf32576f43169b380ac63073022041e8c52ac6c870c",
+      "priorSHA256": "0aa1ac75a669c3299a5875587093df430ef482f1103d0008eae2a9191d46073b",
+      "fixes": [
+        "F-125"
+      ]
+    }
+  ],
+  "missing": [
+    "L-06-founding-badge",
+    "L-07-feedback-sheet",
+    "L-08-feedback-sent",
+    "L-09-settings-feedback",
+    "L-10-testflight-welcome",
+    "APPSTORE-header-without-preview"
+  ],
+  "preserved": "All historical folders; TestFlight46 and runtime48 remain live; customer Shopify website unchanged"
+}

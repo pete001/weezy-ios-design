@@ -1,0 +1,65 @@
+{
+  "review": 47,
+  "status": "partial-unreleased",
+  "checks": [
+    {
+      "name": "Primary normal/largest native content and launch privacy/policy",
+      "receipt": "20261010T053735Z-869607",
+      "passed": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    {
+      "name": "Smaller375\u00d7812 normal/largest native content and policy",
+      "receipt": "20261010T053831Z-e660f9",
+      "passed": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    {
+      "name": "Optimized shipping root basket/settings",
+      "receipt": "20261010T053906Z-ef3a86",
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0
+    },
+    {
+      "name": "Actual HTTP/DOM browser journeys, four synthetic accounts",
+      "passed": 18,
+      "failed": 0,
+      "checkoutInterceptions": 1,
+      "productionPayments": 0,
+      "realPhotoReads": true
+    },
+    {
+      "name": "Service and prepared integration finite matrix",
+      "receipt": "20261010T053838Z-9a26fc",
+      "passed": 505,
+      "failed": 0,
+      "skipped": 0
+    }
+  ],
+  "visualChecks": [
+    "Anonymous1200\u00d7630 OG wording, sparkles and centred crop",
+    "White Lovestruck Heart surround, coloured Sun/Cherry backgrounds retained",
+    "Private link full page with duplicate recovery removed",
+    "Native title/body/rows left-aligned at accessibility5; centred art; both share choices at end of scroll on393pt and375pt"
+  ],
+  "retainedFailures": [
+    {
+      "log": "build/Preview47/browser-run.log",
+      "reason": "Concurrent evidence folders had second-resolution timestamps; unique suffix now prevents collision."
+    },
+    {
+      "receipt": "20261010T053734Z-7825b7",
+      "reason": "One old service assertion expected beta wording; updated to the approved preview copy. Full505-test recheck passed."
+    }
+  ],
+  "limitations": [
+    "Hosted-content captures do not establish live notification authorization/APNs, real authentication, purchase or VoiceOver acceptance.",
+    "Optimized shipping-root checks exercise actual basket/settings navigation; they do not synthesize customer sharing in production.",
+    "No new Apple binary or service deployment.",
+    "L06\u2013L10 and the requested App Store PREVIEW header comparison await the missing detailed handoff.",
+    "F50 associated-domain/device acceptance and the existing unsuppressed accessibility track remain separate."
+  ]
+}

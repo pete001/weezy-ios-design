@@ -1,0 +1,2438 @@
+[
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-01-alerts-on-share.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "205cf71fa74ce051968d2f7d83dd1acc573a04c3819381424aa7746c8a068523",
+    "fixture": "Isolated Claire; three explicitly published exact Gold wishes",
+    "textSize": "large",
+    "source": "Current production SwiftUI content hosted in native PopSheet; not shipping AppRoot or live permission proof",
+    "fixes": [
+      "F-128"
+    ]
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-01-alerts-on-share-largest.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "01c1328f92b2603f239c2e7985c314656ddcbc406e636d9e06793e3f9bf0b03d",
+    "fixture": "Isolated Claire; three explicitly published exact Gold wishes",
+    "textSize": "accessibility5",
+    "source": "Current production SwiftUI content hosted in native PopSheet; not shipping AppRoot or live permission proof",
+    "fixes": [
+      "F-128"
+    ]
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-01-alerts-on-share-largest-more.jpg",
+    "device": "iOS27 iPhone18Pro QA; controlled393\u00d7852pt canvas",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "a1c6e1968a2c2046a00de1c0d4ff98bb4c613a0390b499a007ecf924b58a6002",
+    "parentId": "L-01-alerts-on-share-largest",
+    "textSize": "accessibility5",
+    "scrollOffset": 594.6666666666666,
+    "source": "Actual overlapping scroll continuation; both share choices visible",
+    "fixes": [
+      "F-128"
+    ]
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "W-01-shared-wishlist.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "60be649edd4a12a197641bacf795464bc1c17bffbec6d4e52001a190212684e8",
+    "fixture": "Four synthetic loopback accounts; exact Shopify photos; signed simulated gift payment",
+    "source": "Current production HTTP template, actual browser, no Safari chrome or live payment",
+    "fixes": [
+      "F-126",
+      "F-127"
+    ]
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "W-01-shared-wishlist-more.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "52ffbd4aad10e213c8a612250cd144d0c5862040e6e48616a25511f9646f2d53",
+    "fixture": "Four synthetic loopback accounts; exact Shopify photos; signed simulated gift payment",
+    "source": "Current production HTTP template, actual browser, no Safari chrome or live payment",
+    "fixes": [
+      "F-126",
+      "F-127"
+    ]
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "W-06-private-link.jpg",
+    "device": "Chrome mobile viewport393\u00d7852pt",
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "web-content",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "44cf97d4fe088b2bd364be5ca3f457f240810d75c6f56cdc5e18395200a76978",
+    "fixture": "Four synthetic loopback accounts; exact Shopify photos; signed simulated gift payment",
+    "source": "Current production HTTP template, actual browser, no Safari chrome or live payment",
+    "fixes": [
+      "F-128"
+    ]
+  },
+  {
+    "id": "W-06-private-link-more",
+    "build": 47,
+    "notCaptured": true,
+    "replacedBy": "W-06-private-link",
+    "reason": "Removing the duplicate recovery row makes the whole private page fit the852pt viewport; no continuation is needed."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 47,
+    "candidate": true,
+    "sourceBundleBuild": 46,
+    "file": "L-02-og-private.jpg",
+    "device": "Server JPEG renderer",
+    "scale": 1,
+    "pixels": [
+      1200,
+      630
+    ],
+    "captureKind": "server-artwork",
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "sha256": "55e0873a4941ce1eff145cf32576f43169b380ac63073022041e8c52ac6c870c",
+    "fixture": "Anonymous private fallback; no identity/count/photos",
+    "source": "Actual1200\u00d7630 production renderer. Artwork dimensions override screenshot1179px limit.",
+    "fixes": [
+      "F-125"
+    ]
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 47,
+    "notCaptured": true,
+    "status": "deferred",
+    "reason": "ZIP23 contains only FIXES.md. Referenced updated LAUNCH-POLISH L06\u2013L10 rules, designs and assets are missing. No invented implementation or capture."
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 47,
+    "notCaptured": true,
+    "status": "deferred",
+    "reason": "ZIP23 contains only FIXES.md. Referenced updated LAUNCH-POLISH L06\u2013L10 rules, designs and assets are missing. No invented implementation or capture."
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 47,
+    "notCaptured": true,
+    "status": "deferred",
+    "reason": "ZIP23 contains only FIXES.md. Referenced updated LAUNCH-POLISH L06\u2013L10 rules, designs and assets are missing. No invented implementation or capture."
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 47,
+    "notCaptured": true,
+    "status": "deferred",
+    "reason": "ZIP23 contains only FIXES.md. Referenced updated LAUNCH-POLISH L06\u2013L10 rules, designs and assets are missing. No invented implementation or capture."
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 47,
+    "notCaptured": true,
+    "status": "deferred",
+    "reason": "ZIP23 contains only FIXES.md. Referenced updated LAUNCH-POLISH L06\u2013L10 rules, designs and assets are missing. No invented implementation or capture."
+  },
+  {
+    "id": "APPSTORE-header-without-preview",
+    "build": 47,
+    "notCaptured": true,
+    "status": "deferred",
+    "reason": "TestFlight-only PREVIEW welcome/header specification is missing. The production bundle has no new PREVIEW; comparison will follow the actual implementation."
+  },
+  {
+    "id": "L-03-feed-loading",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": "L-03-feed-loading.jpg",
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance."
+  },
+  {
+    "id": "L-03-feed-loading-reduce-motion",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": "L-03-feed-loading-reduce-motion.jpg",
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance."
+  },
+  {
+    "id": "L-02-og-image",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": "L-02-og-image.jpg",
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance."
+  },
+  {
+    "id": "L-01-alerts-system",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Reliable real-iPhone notification permission screenshot/APNs acceptance not available in this local review. No mock system dialog substituted."
+  },
+  {
+    "id": "L-02-imessage",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Requires a real iPhone after candidate service deployment; no fabricated Messages preview."
+  },
+  {
+    "id": "L-02-preview-whatsapp",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Physical client crop/cache verification remains after deployment."
+  },
+  {
+    "id": "L-02-preview-instagram",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Physical client crop/cache verification remains after deployment."
+  },
+  {
+    "id": "L-04-rating-prompt",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Configuration-only item; Apple controls whether its system prompt appears. No fabricated prompt capture."
+  },
+  {
+    "id": "L-05-light-only",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Configuration-only item; app-external Shopify/Safari and physical picker/share controls require separate acceptance."
+  },
+  {
+    "id": "B-06-badge-detail",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-06-badge-detail-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-05-badge-catalogue",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-05-badge-catalogue-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-01-badge-shelf",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-01-badge-shelf-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-settings-largest-more-6",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "P-01-profile",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "P-01-profile-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "P-01-profile-pull",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SR-01-search-empty",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SR-01-search-empty-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SR-01-search-empty-no-recents",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-06-badge-detail-locked",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-06-badge-detail-locked-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-02-badge-unlocked",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-basket-full-largest-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14C-my-charms-everything-else",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14B-my-charms-sets-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-04-set-destination",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "APP-diagnostics-privacy",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "APP-diagnostics-privacy-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-shipping-full-screen",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-shipping-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SR-01-shipping-recents-keyboard",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SR-01-shipping-empty-keyboard",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-keyboard",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25A-search-focus-keyboard",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "Shop39-photo-return-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "Scroll43-settled-11",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "Scroll43-settled-0",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "K-01-shipping-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-02-earn-moment",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "B-02-earn-moment-reduced",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-01-splash",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-02-welcome",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-03-shopify-sign-in",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SHOPIFY-CODE",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-05-syncing-purchases",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-06-purchases-found-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-09-sign-in-failed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-10-sync-failed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S2-01-sets-feed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S2-02-sets-feed-owned",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "C-01-charms-feed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "C-05-charms-feed-no-set",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "C-02-charms-added",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "C-03-charm-page",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "C-04-charm-page-no-set",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-11-quick-add",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "E-01-earrings-feed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "E-02-earring-page",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "E-02-earring-page-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "H-02-hot-charm",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "H-03-hot-earrings",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "A-01-feed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "A-01-page",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "A-02-feed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "A-02-page",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25A-search-focus",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25B-search-typing-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25-search",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25-search-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25-search-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25-search-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25-search-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25C-search-filters",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25C-search-filters-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25E-search-no-results",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35E-basket-empty",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-12-basket-quote-failed",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-12-basket-quote-failed-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SHOPIFY-CHECKOUT",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-05-checkout-return",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14-my-charms-more-6",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-14B-my-charms-sets",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-17-set-complete",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-18-share-the-stack",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-19-achievements",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-19-achievements-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-19-achievements-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "BUILD29-BADGE-DETAIL",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-31-badge-catalogue",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-31-badge-catalogue-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-01-sharing-privacy",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-02-private-review",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-02-private-review-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-02-gift-push",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-03-gift-surprise",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-04-ready-to-unwrap",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-05-unwrapped",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-34-share-badge",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "W-02-gift-bag",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "W-02-gift-bag-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "W-03-gift-thanks",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "W-04-shared-stack",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "W-04-shared-stack-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "W-07-app-first-open",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "BUILD29-FIRST-NAME",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-03-your-orders",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-03-your-orders-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-03-your-orders-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-03-your-orders-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-04-your-orders-empty",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-08-delete-account",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-11-offline",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-11-offline-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "M-11-offline-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SHEET-basket",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SHEET-basket-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "brand-basket-set-launch-largest-more-6",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S-03-set-page-pending",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "S-03-set-page-pending-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-6",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-7",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-35-basket-sheet-largest-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-10",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-11",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-12",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-13",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-14",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-15",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-16",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-17",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-18",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-19",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-20",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-21",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-22",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-23",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-24",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-3",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-4",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-5",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-6",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-7",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-8",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-25D-search-filtered-largest-more-9",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-largest-more-2",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "SHEET-gift-launch",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  },
+  {
+    "id": "G-24-more-settings",
+    "build": 47,
+    "unchanged": true,
+    "notCaptured": true,
+    "baseline": "build-46",
+    "baselineFile": null,
+    "reason": "Unchanged approved baseline; not recaptured. Prior captures/config/device omissions retain their original provenance.",
+    "baselineReason": "Not changed by handoff22; historical baseline evidence retained, not recaptured."
+  }
+]

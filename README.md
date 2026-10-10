@@ -1,6 +1,8 @@
 # Weezy Pop · public design review
 
-**Current handover:** [Review45 follow-ups](review/build-45/README.md) · [App Store asset review](review/app-store/README.md) · [Follow-up gallery](review/build-45/index.html) · [Store gallery](review/app-store/index.html).
+**Current work:** [Review47 partial follow-up](review/build-47/README.md). F125–128 are implemented with seven fresh captures; L06–L10 await the missing detailed handoff. This is an unreleased candidate. Build46 remains available in TestFlight.
+
+**Previous handover:** [Review45 follow-ups](review/build-45/README.md) · [App Store asset review](review/app-store/README.md) · [Follow-up gallery](review/build-45/index.html) · [Store gallery](review/app-store/index.html).
 
 Review45 fixes F123 (largest-text basket labels) and F124 (one Swirl tile with ×2), with six fresh changed-screen JPEGs and explicit references to prior evidence. Pete subsequently authorized TestFlight45 after design approval; it is available to Weezy Pop Internal and Lou & Nat. [Separate release record](releases/build-45/README.md). F119–122 remain designer-approved. Seven Release-native Store composites, three previews, header/search art and listing copy remain uploaded to the unsubmitted Apple1.0 draft with processed build44 selected; see [Apple draft status](review/app-store/APPLE-DRAFT-STATUS.json). Reviewer access will be arranged later. Earlier review folders and Store media stay unchanged.
 
