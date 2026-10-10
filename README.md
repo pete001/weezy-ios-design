@@ -1,6 +1,8 @@
 # Weezy Pop · public design review
 
-**Latest full app handoff:** [Review59-full](review/build-59-full/README.md) · [Full-screen gallery](review/build-59-full/index.html) · [Journey inventory](review/build-59-full/JOURNEYS.md) · [Design system](review/build-59-full/DESIGN-SYSTEM.md) · [Remaining work](review/build-59-full/RESPONSE.md). Fresh current captures across the app and app-only web. Candidate59 is not a new release; live TestFlight58 stays current. Earlier folders are preserved.
+**Latest candidate:** [Review60 · v1 fixes](review/build-60/README.md) · [Changed-screen gallery](review/build-60/index.html) · [Responses](review/build-60/RESPONSE.md) · [Tests](review/build-60/TESTS.json). Addresses all 22 Review59 fixes, with only the requested captures and their largest-text/scroll continuations. Earlier folders remain unchanged. Candidate60 is review-only; live TestFlight58 remains current.
+
+**Previous full app baseline:** [Review59-full](review/build-59-full/README.md) · [Full-screen gallery](review/build-59-full/index.html) · [Journey inventory](review/build-59-full/JOURNEYS.md) · [Design system](review/build-59-full/DESIGN-SYSTEM.md) · [Remaining work](review/build-59-full/RESPONSE.md). Fresh current captures across the app and app-only web. Candidate59 is not a new release; live TestFlight58 stays current. Earlier folders are preserved.
 
 **Previous candidate59 delta:** [Responses](review/build-59/RESPONSE.md) · [Gallery](review/build-59/index.html) · [Tests](review/build-59/TESTS.json). Gift-card basket/history/return, set-member product navigation, unclipped photo dots and a full-width Snap, Stack, Style sheet. Candidate59/service59 are not released; TestFlight58 remains current. The customer-scoped first-run recording is explicitly pending deployment/live sign-in. App Store Name/Email declarations and gift copy use real Shopify data; the Store draft remains unsubmitted.
 

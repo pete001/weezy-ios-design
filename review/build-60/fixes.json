@@ -1,0 +1,488 @@
+{
+ "review": 59,
+ "candidate": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+ "landed": [
+  "LG-01",
+  "LG-02",
+  "LG-03",
+  "FF-01",
+  "FF-03",
+  "FF-04",
+  "FF-05",
+  "FF-06",
+  "FF-07",
+  "TDH",
+  "Sets",
+  "Name",
+  "Swipe",
+  "Logos",
+  "Pop-ups",
+  "Gift"
+ ],
+ "open": [
+  {
+   "id": "F-176",
+   "priority": "P1",
+   "owner": "Native",
+   "type": "Bug",
+   "title": "Set cards lose owned photos when scrolled or offline",
+   "fix": "In G-14B and M-11 the Cosmic Crush card shows empty dashed slots with the owned ticks floating outside them, and Celestial Magic shows no photos at all although Sun and Moon are owned. The same card renders correctly at the top of G-14. Owned members must always render their photo tile (cached for offline) with the tick on the tile corner. Check whether this is the repeated ownership calculation noted in ACCESSIBILITY.md timing out.",
+   "pins": [
+    {
+     "screen": "G-14B-my-charms-sets",
+     "xPct": 55,
+     "yPct": 40
+    },
+    {
+     "screen": "M-11-offline",
+     "xPct": 55,
+     "yPct": 62
+    }
+   ],
+   "alsoOn": [
+    "G-14B continuations"
+   ]
+  },
+  {
+   "id": "F-177",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Consistency",
+   "title": "PREVIEW label only shows on some Shop tabs",
+   "fix": "Sets, Hot, Gift cards and HEADER captures show \"· PREVIEW\" beside the logo; Charms, Earrings, chains, accessories, S2-02 and S2-03 do not. Show it on every tab root header (Shop, My Charms, Wishlist) from one shared header component.",
+   "pins": [
+    {
+     "screen": "C-01-charms-feed",
+     "xPct": 30,
+     "yPct": 10
+    },
+    {
+     "screen": "S2-02-sets-feed-owned",
+     "xPct": 30,
+     "yPct": 10
+    }
+   ],
+   "alsoOn": [
+    "C-05, C-02, E-01, H-02, H-03, A-01, A-02, G-14, L-01"
+   ]
+  },
+  {
+   "id": "F-178",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Bug",
+   "title": "Listing counter uses the charms total on every tab",
+   "fix": "Earrings, Charm chains and Accessories all read \"1 / 37\". The counter must use the active tab's own item count.",
+   "pins": [
+    {
+     "screen": "E-01-earrings-feed",
+     "xPct": 16,
+     "yPct": 25
+    },
+    {
+     "screen": "A-01-feed",
+     "xPct": 16,
+     "yPct": 25
+    }
+   ],
+   "alsoOn": [
+    "A-02-feed"
+   ]
+  },
+  {
+   "id": "F-179",
+   "priority": "P2",
+   "owner": "Web",
+   "type": "Copy + default",
+   "title": "Web gift bag: gift switch off, raw variant names",
+   "fix": "\"It's a gift for Claire\" defaults off; it should default on when the buyer came from Claire's link. Variant lines read \"18k gold pvd plated stainless steel (Non-Tarnish)\". Use the app option summary: \"Gold · £18\".",
+   "pins": [
+    {
+     "screen": "W-02-gift-bag",
+     "xPct": 89,
+     "yPct": 40
+    },
+    {
+     "screen": "W-02-gift-bag",
+     "xPct": 62,
+     "yPct": 23
+    },
+    {
+     "screen": "W-04-shared-stack",
+     "xPct": 55,
+     "yPct": 63
+    }
+   ],
+   "alsoOn": [
+    "W-01 detail rows"
+   ]
+  },
+  {
+   "id": "F-180",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Layout",
+   "title": "Your orders cards show no pieces",
+   "fix": "Each order card is a number, a price and \"1 piece\" with a large empty area. Show the piece thumbnails (on tile grounds) and the first piece name, as LG-02. Customer-facing order numbers only, never internal IDs.",
+   "pins": [
+    {
+     "screen": "M-03-your-orders",
+     "xPct": 50,
+     "yPct": 22
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-181",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Copy",
+   "title": "\"1 pieces\" on the sync screen",
+   "fix": "Use the shared plural helper (F-94): \"1 piece\", \"2 pieces\".",
+   "pins": [
+    {
+     "screen": "G-05-syncing-purchases",
+     "xPct": 55,
+     "yPct": 57
+    }
+   ],
+   "alsoOn": [
+    "any order or sync count"
+   ]
+  },
+  {
+   "id": "F-182",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "\"The Quarter\" breaks mid-word at largest text",
+   "fix": "The Your stack card squeezes the title beside the 25 circle. From .accessibility3 stack the circle above the text so the name gets the full card width; never break inside a word.",
+   "pins": [
+    {
+     "screen": "G-14C-my-charms-everything-else-largest",
+     "xPct": 70,
+     "yPct": 25
+    }
+   ],
+   "alsoOn": [
+    "KNOWN-ISSUES purchase-sync eyebrow, Fenwick label"
+   ]
+  },
+  {
+   "id": "F-183",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Copy",
+   "title": "Option summaries repeat themselves",
+   "fix": "Basket shows \"Gold · Gold · £18\" and quick add shows \"Smiley / Smiley · £18\". When colour and hardware match show one word; never repeat the product name in its own subtitle.",
+   "pins": [
+    {
+     "screen": "G-35-basket-sheet",
+     "xPct": 38,
+     "yPct": 31
+    },
+    {
+     "screen": "G-11-quick-add",
+     "xPct": 38,
+     "yPct": 49
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-184",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Badge names truncate with an ellipsis",
+   "fix": "\"Terry de H…\", \"Big Top E…\" and the ribbon \"SNACK TO THE FU…\". Add a short badge display name (Terry, Big Top, Snack) for shelves and ribbons; full name on badge detail.",
+   "pins": [
+    {
+     "screen": "G-19-achievements",
+     "xPct": 25,
+     "yPct": 97
+    },
+    {
+     "screen": "G-17-set-complete",
+     "xPct": 75,
+     "yPct": 36
+    }
+   ],
+   "alsoOn": [
+    "G-31-badge-catalogue"
+   ]
+  },
+  {
+   "id": "F-185",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Stray white dot above the empty basket CTA",
+   "fix": "A small white circle floats above START WITH A CHARM. Remove it.",
+   "pins": [
+    {
+     "screen": "G-35E-basket-empty",
+     "xPct": 50,
+     "yPct": 72
+    }
+   ],
+   "alsoOn": [
+    "G-35U-basket-removal-undo"
+   ]
+  },
+  {
+   "id": "F-186",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Sheet standard",
+   "title": "Badge sheet grabber sits under the title",
+   "fix": "Grabber belongs at the top edge of the sheet, above the title, as on every other sheet.",
+   "pins": [
+    {
+     "screen": "BUILD29-BADGE-DETAIL",
+     "xPct": 50,
+     "yPct": 16
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-187",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Story text runs under the pinned CTA without a fade",
+   "fix": "Add the shared 24pt blush fade above ADD TO BASKET on product pages.",
+   "pins": [
+    {
+     "screen": "C-04-charm-page-no-set",
+     "xPct": 50,
+     "yPct": 94
+    }
+   ],
+   "alsoOn": [
+    "A-01-page, A-02-page, E-02"
+   ]
+  },
+  {
+   "id": "F-188",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Copy",
+   "title": "\"0 SETS DONE\" chip",
+   "fix": "Hide zero counts in the My Charms summary; show only the non-zero chips.",
+   "pins": [
+    {
+     "screen": "FF-04-my-charms-filter-empty",
+     "xPct": 40,
+     "yPct": 31
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-189",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "YOUR SNAP sticker not capped",
+   "fix": "Stickers are chrome: cap at .accessibility1 (F-64 rule).",
+   "pins": [
+    {
+     "screen": "G-14-my-charms-largest",
+     "xPct": 50,
+     "yPct": 43
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-167",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Not yet built",
+   "title": "Gift card form still runs under the tab bar",
+   "fix": "MESSAGE and the email field slide under the glass bar and ADD TO BASKET only appears after scrolling. Pin ADD TO BASKET · £{amount} above the tab bar with the 24pt blush fade, bottom inset = tab bar + CTA + 16pt.",
+   "pins": [
+    {
+     "screen": "FF-07-gift-cards-listing",
+     "xPct": 20,
+     "yPct": 95
+    },
+    {
+     "screen": "FF-07-gift-cards-listing-more",
+     "xPct": 50,
+     "yPct": 73
+    }
+   ],
+   "alsoOn": [
+    "FF-07-gift-cards-filled"
+   ]
+  },
+  {
+   "id": "F-168",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Partial",
+   "title": "Gift receipt still lacks the recipient",
+   "fix": "The raw Shopify title is gone. Now apply LG-03: title \"A gift is on its way to Sam\", row \"Weezy Pop Gift Card · £15 · for Sam\", \"Shopify emails Sam on 10 Oct\", \"Not in My Charms\". Remove the empty middle.",
+   "pins": [
+    {
+     "screen": "FF-07-gift-card-payment-confirmed",
+     "xPct": 50,
+     "yPct": 66
+    }
+   ],
+   "alsoOn": [
+    "M-05-checkout-return (gift only)"
+   ]
+  },
+  {
+   "id": "F-169",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Not yet built",
+   "title": "Chips still uncapped at largest text",
+   "fix": "Cap the shared chip label at .accessibility1, keep 44pt height. Only \"Sets Charms E\" fit today.",
+   "pins": [
+    {
+     "screen": "S2-01-sets-feed-largest",
+     "xPct": 50,
+     "yPct": 16
+    },
+    {
+     "screen": "FF-07-gift-cards-listing-largest",
+     "xPct": 70,
+     "yPct": 16
+    }
+   ],
+   "alsoOn": [
+    "G-14-my-charms-largest",
+    "all chip rows"
+   ]
+  },
+  {
+   "id": "F-170",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Not yet built",
+   "title": "I OWN ONE · ADD IT still hugs its label",
+   "fix": "Full-width 52pt secondary with 1.5pt ink outline, matching SHOP ACCESSORIES.",
+   "pins": [
+    {
+     "screen": "FF-04-my-charms-filter-empty",
+     "xPct": 50,
+     "yPct": 79
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-171",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Not yet built",
+   "title": "\"Gift Cards\" chip is still title case",
+   "fix": "Use \"Gift cards\".",
+   "pins": [
+    {
+     "screen": "FF-07-gift-cards-listing",
+     "xPct": 87,
+     "yPct": 16
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-172",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Not yet built",
+   "title": "Pager label still covers the Terry photo at largest text",
+   "fix": "Cap the pager label at .accessibility1, two lines max.",
+   "pins": [
+    {
+     "screen": "T-02-terry-set-page-largest",
+     "xPct": 30,
+     "yPct": 30
+    }
+   ],
+   "alsoOn": [
+    "FF-01-personal-set-pager-largest*"
+   ]
+  },
+  {
+   "id": "F-174",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Not yet built · wider",
+   "title": "White-studio photos still sit on white everywhere",
+   "fix": "Apply the tile ground (photo colour, or #FFF3F8 when white) to every product photo: Shop listings and pages, My Charms loose grid, basket inspiration, purchases found, web wishlist. Promoted to P2 because it now shows on every non-charm tab.",
+   "pins": [
+    {
+     "screen": "HEADER-charms",
+     "xPct": 50,
+     "yPct": 28
+    },
+    {
+     "screen": "E-01-earrings-feed",
+     "xPct": 50,
+     "yPct": 40
+    },
+    {
+     "screen": "A-02-feed",
+     "xPct": 50,
+     "yPct": 38
+    }
+   ],
+   "alsoOn": [
+    "C-05, C-04, E-02, H-03, A-01, A-02-page, G-06 (Moon), G-14C, G-35E, W-01 (Heart, Smiley)"
+   ]
+  },
+  {
+   "id": "F-175",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Partial",
+   "title": "Snap, Stack, Style: full width now, two parts left",
+   "fix": "Width is fixed. Still to do: one blush surface from the top edge (no white title band and hard line), and the 20pt blush tile ground behind the Stack chain and Style earrings.",
+   "pins": [
+    {
+     "screen": "FF-06-how-it-snaps",
+     "xPct": 50,
+     "yPct": 15
+    },
+    {
+     "screen": "FF-06-how-it-snaps",
+     "xPct": 15,
+     "yPct": 53
+    }
+   ],
+   "alsoOn": [
+    "FF-06-how-it-snaps-largest"
+   ]
+  }
+ ],
+ "capture": [
+  "FF-07-gift-cards-filled recapture",
+  "Hot fixture ranks"
+ ],
+ "notDesign": [
+  "F-50",
+  "VoiceOver",
+  "APNs",
+  "Save Video",
+  "reviewer sign-in",
+  "Email privacy declaration",
+  "Ways to wear contrast",
+  "My Charms performance",
+  "feedback sending"
+ ],
+ "merchant": [
+  "web coloured covers",
+  "40 variant mapping gaps",
+  "F-148",
+  "Founding Collector cut-off"
+ ]
+}

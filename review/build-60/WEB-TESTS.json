@@ -1,0 +1,38 @@
+{
+  "result": "passed",
+  "captureMethod": "CUA Chromium mobile emulation, 393\u00d7852 CSS px, device scale3",
+  "isolatedOrigin": "http://127.0.0.1:48260",
+  "productionDeployed": false,
+  "livePaymentCreated": false,
+  "observations": [
+    {
+      "id": "F-179",
+      "giftCheckboxChecked": true,
+      "optionSummary": "Gold \u00b7 \u00a318",
+      "rawPVDLabelVisible": false
+    },
+    {
+      "id": "F-174",
+      "photoTileGround": "rgb(255, 243, 248)",
+      "originalImageURLsPreserved": true,
+      "allGiftAndStackRowImagesLoaded": true,
+      "stackRows": [
+        "Lovestruck Heart Charm \u00b7 Gold \u00b7 \u00a331",
+        "Moon Charm \u00b7 Gold \u00b7 \u00a318",
+        "Small Star Charm \u00b7 Gold \u00b7 \u00a318"
+      ]
+    }
+  ],
+  "scrolls": [
+    {
+      "id": "W-02-gift-bag",
+      "scrollHeight": 1029,
+      "endOffset": 177.5
+    },
+    {
+      "id": "W-04-shared-stack",
+      "scrollHeight": 1019,
+      "endOffset": 167
+    }
+  ]
+}
