@@ -1,0 +1,83 @@
+[
+  {
+    "file": "ring/F154-ring-bounds-106.txt",
+    "sha256": "19984681df89918c9c763a39d1efb79a067e7d9c1c1862ed80009c9ec29861cd",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-106-arc.png",
+    "sha256": "126392e8574011098efc83041ac2ce9d2e2625d99eaaee7a6fa8bb3c64ca336a",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-106-track.png",
+    "sha256": "cf878772b66ff0e6d2227d6e4099adaa87112baeeedad5d1b1a3fe532ec40d96",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-bounds-70.txt",
+    "sha256": "d1cc31aa069b7dec229bc6d53dc578092e771417e3728277e0d4f9801cbad483",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-70-arc.png",
+    "sha256": "82d9a6884860f053d47d4dc9db1e48e696c932e2ae9a286a00c21dc09c5a9f4c",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-70-track.png",
+    "sha256": "61c6a822c0f187a85e4ea2719df92db96f3e31265e75b920acff9c6047e4650b",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-bounds-40.txt",
+    "sha256": "89f8bdf793868db49ea1c97fbff6abf9ab936796074d58ed7d72619c2b716782",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-40-arc.png",
+    "sha256": "8dafb0a84cab932931b0c7fb1394e2b44aa2743be8969fa7c8466afaf82cd50d",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  },
+  {
+    "file": "ring/F154-ring-40-track.png",
+    "sha256": "a026c73c3447f114f39d9baa570598168937492524741f790dea3e3626a438ff",
+    "test": "Collection56Tests/testProgressRingTrackAndArcSnapshotBoundingBoxes",
+    "result": "RingUnclipped.xcresult",
+    "scale": 3,
+    "transparentMarginPoints": 8,
+    "retouched": false
+  }
+]

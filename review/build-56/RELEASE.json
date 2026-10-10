@@ -1,50 +1,71 @@
 {
   "build": 56,
   "version": "1.0",
-  "status": "source-and-design-review-only",
-  "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+  "uploaded": true,
+  "buildId": "0cf693e0-4be4-477b-aa56-ad0eef7409dc",
+  "processingState": "VALID",
+  "distribution": [
+    {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  ],
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "0cf693e0-4be4-477b-aa56-ad0eef7409dc",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "4815a07d2d800fb3f9fe507315987c4a1b5d8a30",
   "frozenNativeInputs": 260,
-  "nativeUploaded": false,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "f0021fc3ec2adc0f99d97d59e53f30980adfa4e0c54e8620f4b25d6f95b23898",
+  "dSYMUUID": "0C5ECAE5-D0D8-3236-A525-61B6959BD442",
+  "appleServerValidated": true,
+  "appleSeparateChecksumAvailable": false,
+  "privacyManifestSameAsPublished49AndReleased55": true,
+  "appOnlyRuntime": 56,
+  "appOnlyCampaignSavedToShopify": true,
+  "terryPriceShopifyConfirmed": "237.50",
+  "terryFreeChainValue": "18.00",
+  "terryCharmMoneyOff": "0.00",
+  "originalFlyMachineAndVolumePreserved": true,
+  "editorVersion": "weezy-build56-terry-chain",
+  "liveCustomerMutation": false,
+  "noDraftOrderCreatedDuringVerification": true,
+  "feedbackEnabled": false,
+  "customerWebsiteChanged": false,
   "appStoreMediaUploaded": false,
   "appStoreSubmitted": false,
+  "freshReviewJPEGs": 95,
+  "rootEvidencePNGs": 12,
+  "ringAttachments": 9,
   "storeShotsReexported": [
     1,
     5
   ],
-  "appOnlyWebCopyDeployed": true,
-  "deploymentReceiptSHA256": "7dbf68bce494fd14fe351769619f1f4d733d196a3a990451db52dccd52ce621f",
-  "originalFlyMachineAndVolumePreserved": true,
-  "liveReadOnlyVerification": {
-    "status": 200,
-    "setID": "app-set-aa3cb584-c244-43e4-9815-d05184179fb8",
-    "eyebrow": "\u2726 CURATED COLLECTION \u00b7 APP SPECIAL",
-    "customerWebsiteChanged": false,
-    "readOnly": true
-  },
-  "customerWebsiteChanged": false,
-  "merchantDataChanged": false,
-  "feedbackEnabled": false,
-  "releasedTestFlight": {
-    "build": 55,
-    "buildId": "80db759f-ee10-4574-b918-ca0e173a1a72",
-    "processingState": "VALID",
-    "betaReviewState": "APPROVED",
-    "groups": [
-      "Lou & Nat",
-      "Weezy Pop Internal"
-    ],
-    "evidence": "../build-55/RELEASE.json"
-  },
-  "freshReviewJPEGs": 10,
-  "freshStoreExports": 2,
   "physicalAcceptanceRemaining": [
-    "Nat iPhone17Pro26.6.1 repeated Badge\u2192SeeSet\u2192Back",
-    "Real OAuth/name writes, APNs, payment, Photos, VoiceOver/haptics and F50",
+    "Nat iPhone17Pro/iOS26.6.1 repeated Back",
+    "Real checkout, OAuth/name persistence, APNs, Photos, VoiceOver/haptics and Safari/F50",
     "Broader accessibility/performance acceptance"
   ],
   "merchantRemaining": [
     "F148 explicit HOLD",
-    "9 coloured standalone charm-photo gaps",
-    "Existing silver/free-chain/offer-copy confirmations"
+    "Canonical Terry Zia/Platino photo mapping and remaining silver/coloured shots",
+    "Existing offer-copy and Founding Collector cutoff confirmations"
   ]
 }

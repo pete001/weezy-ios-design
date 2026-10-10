@@ -1,69 +1,499 @@
 {
   "build": 56,
   "againstBuild": 55,
-  "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+  "sourceCommit": "4815a07d2d800fb3f9fe507315987c4a1b5d8a30",
   "fixes": [
-    "F-149"
+    "F-149",
+    "F-150",
+    "F-151",
+    "F-152",
+    "F-153",
+    "F-154",
+    "F-155",
+    "F-156",
+    "F-157",
+    "F-158"
   ],
   "fresh": [
     {
-      "id": "S2-01-sets-feed",
-      "file": "S2-01-sets-feed.jpg",
-      "sha256": "700108c2c0fe2c4691b07198c06a7107be6f808fe9c7a5d076a3469632e14ccb"
-    },
-    {
-      "id": "S2-01-sets-feed-largest",
-      "file": "S2-01-sets-feed-largest.jpg",
-      "sha256": "2942c0860f29d76c30053a13d73de76b24886e5eb615e7a939da2eb268b50613"
-    },
-    {
-      "id": "S2-01-sets-feed-largest-more",
-      "file": "S2-01-sets-feed-largest-more.jpg",
-      "sha256": "df688f621c1413097ef77cc412dc5c7fe87ec147821b99e53d067959c5a9ff09"
-    },
-    {
-      "id": "S2-01-sets-feed-largest-more-2",
-      "file": "S2-01-sets-feed-largest-more-2.jpg",
-      "sha256": "4dc9860dfbafa41169944134a8a58a75e021a9b5885867a98f46499626422c6c"
-    },
-    {
       "id": "S2-03-set-page",
       "file": "S2-03-set-page.jpg",
-      "sha256": "058f96034d3d6bc2eaa40ee920383b4d3ca4c79574ba209d5715d3b808cd81e4"
+      "sha256": "d82cfe0c7498ed997ad27794964ccc6497c4f099b077879e2a62acd1a564fdc6"
     },
     {
       "id": "S2-03-set-page-more",
       "file": "S2-03-set-page-more.jpg",
-      "sha256": "fdd3c67d8a8d93d8b27e022737e07381ef3f773708067383b83d90970bbbfe9d"
+      "sha256": "a28efdce6b8c5cf6f811dd1bc698209e2a63db48c8caecd98a5ef82160898434"
     },
     {
       "id": "H-01-hot-set",
       "file": "H-01-hot-set.jpg",
-      "sha256": "87054c78e861db7b2bd7c97f2b0bf50d3be22e159f14b5b87ac562c2fbfb0f84"
-    },
-    {
-      "id": "G-14-my-charms",
-      "file": "G-14-my-charms.jpg",
-      "sha256": "27458f4ad5e139ba23f8f0a35bdb777678edbcf5e6dea11957efe593788f5abf"
-    },
-    {
-      "id": "G-14-my-charms-more",
-      "file": "G-14-my-charms-more.jpg",
-      "sha256": "72868bdf5bac5f94ef5e23f0e32f147ba0a796cf5bf29d4b6cb56b510e9fce32"
+      "sha256": "57492db0866bfbb21811cb71ded0c5efd6790f1107a541bcf897c686e7b2344e"
     },
     {
       "id": "B-03-share-card",
       "file": "B-03-share-card.jpg",
-      "sha256": "3e7a085909a9cec3f956daa2c5055e615dc8e75ea4246127cc288a47c02744d5"
+      "sha256": "bc77e3f262f47620d98c3e1d866f3533cc481e0fe485efa0223f8ec8808dbc07"
+    },
+    {
+      "id": "S2-01-sets-feed",
+      "file": "S2-01-sets-feed.jpg",
+      "sha256": "a022e2fde527f3619399a00d7486b2f33afc5a33723976e8b78428b7eeb1b816"
+    },
+    {
+      "id": "RELEASE28-SHOP",
+      "file": "RELEASE28-SHOP.jpg",
+      "sha256": "a022e2fde527f3619399a00d7486b2f33afc5a33723976e8b78428b7eeb1b816"
+    },
+    {
+      "id": "G-14-my-charms",
+      "file": "G-14-my-charms.jpg",
+      "sha256": "efe78722abcfbc602859ac66f74785cc541ad70ee02f33b6ee56e6fada63ef69"
+    },
+    {
+      "id": "G-14-my-charms-more-2",
+      "file": "G-14-my-charms-more-2.jpg",
+      "sha256": "ba9d7292570e975e5d3b2affeaa39238330413a57dcdd2df9db8f1c159cb8b55"
+    },
+    {
+      "id": "G-14-my-charms-more",
+      "file": "G-14-my-charms-more.jpg",
+      "sha256": "1981236aa43c8b862aac9eb2331bce1ab7238c8df7a3383eac43c5f4183873a1"
+    },
+    {
+      "id": "G-15-my-wishlist",
+      "file": "G-15-my-wishlist.jpg",
+      "sha256": "6c5ecf34497a5dcc3196f43d4331456398413a5c835c292775878c7e94ea625a"
+    },
+    {
+      "id": "S2-04-set-page",
+      "file": "S2-04-set-page.jpg",
+      "sha256": "d82cfe0c7498ed997ad27794964ccc6497c4f099b077879e2a62acd1a564fdc6"
+    },
+    {
+      "id": "S2-04-set-page-more",
+      "file": "S2-04-set-page-more.jpg",
+      "sha256": "a28efdce6b8c5cf6f811dd1bc698209e2a63db48c8caecd98a5ef82160898434"
+    },
+    {
+      "id": "S2-04-set-page-scrolled",
+      "file": "S2-04-set-page-scrolled.jpg",
+      "sha256": "a28efdce6b8c5cf6f811dd1bc698209e2a63db48c8caecd98a5ef82160898434"
+    },
+    {
+      "id": "G-16-set-page",
+      "file": "G-16-set-page.jpg",
+      "sha256": "6074c9a535db5db32769cef46a4af58686feca5214558f5c1751ff12b493d3ff"
+    },
+    {
+      "id": "G-16-set-page-more-2",
+      "file": "G-16-set-page-more-2.jpg",
+      "sha256": "352aea56de9dbc971827d9fc16868794245537aa3bf33465dc709759aa1c12ab"
+    },
+    {
+      "id": "G-16-set-page-more",
+      "file": "G-16-set-page-more.jpg",
+      "sha256": "352aea56de9dbc971827d9fc16868794245537aa3bf33465dc709759aa1c12ab"
+    },
+    {
+      "id": "G-16-set-page-scrolled",
+      "file": "G-16-set-page-scrolled.jpg",
+      "sha256": "352aea56de9dbc971827d9fc16868794245537aa3bf33465dc709759aa1c12ab"
+    },
+    {
+      "id": "T-01-terry-feed",
+      "file": "T-01-terry-feed.jpg",
+      "sha256": "89ac4b186d7ba6c0de4525fe8634d97e003126ae61e89c914372ed35d3ebfb14"
+    },
+    {
+      "id": "T-02-terry-set-page",
+      "file": "T-02-terry-set-page.jpg",
+      "sha256": "e44a9429d50076a977a9829b11276fc834157f19250659bfd945adb250ba308a"
+    },
+    {
+      "id": "T-02-terry-set-page-more",
+      "file": "T-02-terry-set-page-more.jpg",
+      "sha256": "69365a35d4c547cabc715857e22c187699d9070dc36e7df9d56cad6e99b66227"
+    },
+    {
+      "id": "T-02-terry-set-page-more-2",
+      "file": "T-02-terry-set-page-more-2.jpg",
+      "sha256": "1f42167015c396239324ca6cf8bff0728b3b668d619bbd73525c46344ced576f"
+    },
+    {
+      "id": "T-02-terry-set-page-scrolled",
+      "file": "T-02-terry-set-page-scrolled.jpg",
+      "sha256": "1f42167015c396239324ca6cf8bff0728b3b668d619bbd73525c46344ced576f"
+    },
+    {
+      "id": "G-24-settings-alerts-on-more",
+      "file": "G-24-settings-alerts-on-more.jpg",
+      "sha256": "06e1a76cae5e1da4115e1cdb48c83438917c7b3a36cc4ffd118b99988cdf94f7"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3",
+      "file": "OFFLINE-REGISTRATION-step-3.jpg",
+      "sha256": "28e336a799466cfe7ba45e95bec31aef18e1e11f5f5c91dbe482037509312752"
+    },
+    {
+      "id": "S2-01-sets-feed-largest",
+      "file": "S2-01-sets-feed-largest.jpg",
+      "sha256": "aacd0cf9d75e3aa25945712722d4f907791ed176582270c71b76b1574e7dd4a5"
+    },
+    {
+      "id": "S2-01-sets-feed-largest-more",
+      "file": "S2-01-sets-feed-largest-more.jpg",
+      "sha256": "876f239fba79f9953813f21642c2e38bd6ab9f3908f8c658e227849862e48058"
+    },
+    {
+      "id": "S2-01-sets-feed-largest-more-2",
+      "file": "S2-01-sets-feed-largest-more-2.jpg",
+      "sha256": "512399669616644733ecb05048c8b1b6e276daa0dd94c21db522d1e33ac5d81e"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest",
+      "file": "RELEASE28-SHOP-largest.jpg",
+      "sha256": "aacd0cf9d75e3aa25945712722d4f907791ed176582270c71b76b1574e7dd4a5"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest-more",
+      "file": "RELEASE28-SHOP-largest-more.jpg",
+      "sha256": "876f239fba79f9953813f21642c2e38bd6ab9f3908f8c658e227849862e48058"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest-more-2",
+      "file": "RELEASE28-SHOP-largest-more-2.jpg",
+      "sha256": "512399669616644733ecb05048c8b1b6e276daa0dd94c21db522d1e33ac5d81e"
+    },
+    {
+      "id": "G-14-my-charms-largest",
+      "file": "G-14-my-charms-largest.jpg",
+      "sha256": "25e2872bbf3a24a468ff63ff55d4213ecd66f2f69c6c21438e89e1c286344c5a"
+    },
+    {
+      "id": "G-14-my-charms-largest-more",
+      "file": "G-14-my-charms-largest-more.jpg",
+      "sha256": "3d845382591dfcbe117b544e4bcd8a4da6c1827d6f65c652aa4df0a4931b1af3"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-2",
+      "file": "G-14-my-charms-largest-more-2.jpg",
+      "sha256": "d4841a6e951a45d460989899e4c80815fba415638df34875f75de9fa0868d8bc"
+    },
+    {
+      "id": "G-14-my-charms-largest-more-3",
+      "file": "G-14-my-charms-largest-more-3.jpg",
+      "sha256": "a7f8d93a6774456ab65aa2515289a680b2664cb518e494d288d6b8b4e1a3d92e"
+    },
+    {
+      "id": "G-14-my-charms-more-largest",
+      "file": "G-14-my-charms-more-largest.jpg",
+      "sha256": "b87215fb76861ba0e05a16babb7c92d8df20b685113e68b32ecc61e8fe7cc526"
+    },
+    {
+      "id": "G-15-my-wishlist-largest",
+      "file": "G-15-my-wishlist-largest.jpg",
+      "sha256": "9c53d6c69ec27ee2af1fd0dd3af6c56208161b2dfd06e19d6b9bb9171a70c69f"
+    },
+    {
+      "id": "G-15-my-wishlist-largest-more",
+      "file": "G-15-my-wishlist-largest-more.jpg",
+      "sha256": "a99878b7995f1ffcaa85638dbfd0bb3198c1b97077faec39fc9acd3797c96631"
+    },
+    {
+      "id": "G-15-my-wishlist-largest-more-2",
+      "file": "G-15-my-wishlist-largest-more-2.jpg",
+      "sha256": "699235fe765d6e220d2abac5b151042e3c761ec4b026fe22898f125589341697"
+    },
+    {
+      "id": "G-15-my-wishlist-largest-more-3",
+      "file": "G-15-my-wishlist-largest-more-3.jpg",
+      "sha256": "55a5d031b84680b001c1b1a6d33181574a6348b699f67fd62f47e0cbbf3584d7"
+    },
+    {
+      "id": "S2-04-set-page-largest",
+      "file": "S2-04-set-page-largest.jpg",
+      "sha256": "9ca0b2c252bc647e43d174b61ac23e4b97865fcfca9fd53acb7ae7b3c98b8b9a"
+    },
+    {
+      "id": "S2-04-set-page-largest-more",
+      "file": "S2-04-set-page-largest-more.jpg",
+      "sha256": "6de82eab81652fd7147bcb42afd46a292ab3452f64b219d460e207e8d2668af1"
+    },
+    {
+      "id": "S2-04-set-page-largest-more-2",
+      "file": "S2-04-set-page-largest-more-2.jpg",
+      "sha256": "e64f32ac9b6b0f2443b6d56f39eb2fc8a07ab9bef2259f5434ec7410263d1ce7"
+    },
+    {
+      "id": "S2-04-set-page-largest-more-3",
+      "file": "S2-04-set-page-largest-more-3.jpg",
+      "sha256": "f02f74372e3f8eeb87ca74d46f2a089f4b11ebd74c3614b0b6a865d6f8254c10"
+    },
+    {
+      "id": "S2-04-set-page-largest-more-4",
+      "file": "S2-04-set-page-largest-more-4.jpg",
+      "sha256": "8805c11b501ed626fb7c1a573d7eb429eab483763c3c864b9c4f6a25d8a7cc2d"
+    },
+    {
+      "id": "S2-04-set-page-scrolled-largest",
+      "file": "S2-04-set-page-scrolled-largest.jpg",
+      "sha256": "8805c11b501ed626fb7c1a573d7eb429eab483763c3c864b9c4f6a25d8a7cc2d"
+    },
+    {
+      "id": "G-16-set-page-largest",
+      "file": "G-16-set-page-largest.jpg",
+      "sha256": "fae1c002a2d2eea31b963efdfd1384cbc33e22cdfa7cf1fb959f276644895a38"
+    },
+    {
+      "id": "G-16-set-page-largest-more",
+      "file": "G-16-set-page-largest-more.jpg",
+      "sha256": "52a38d266a39cb2d1d3c7376c0d4390b1644180c3689db1927bf1b4f9a197efc"
+    },
+    {
+      "id": "G-16-set-page-largest-more-2",
+      "file": "G-16-set-page-largest-more-2.jpg",
+      "sha256": "bf78297e6c28a9fbb477c7a96cbc570f8e3baa1f0912694693c9104c8557a078"
+    },
+    {
+      "id": "G-16-set-page-largest-more-3",
+      "file": "G-16-set-page-largest-more-3.jpg",
+      "sha256": "e9d74e7191cc68c248f419623118309d97889a2b040d3f534cb6d91aef1c3a9f"
+    },
+    {
+      "id": "G-16-set-page-more-largest",
+      "file": "G-16-set-page-more-largest.jpg",
+      "sha256": "e9d74e7191cc68c248f419623118309d97889a2b040d3f534cb6d91aef1c3a9f"
+    },
+    {
+      "id": "G-16-set-page-scrolled-largest",
+      "file": "G-16-set-page-scrolled-largest.jpg",
+      "sha256": "e9d74e7191cc68c248f419623118309d97889a2b040d3f534cb6d91aef1c3a9f"
+    },
+    {
+      "id": "T-01-terry-feed-largest",
+      "file": "T-01-terry-feed-largest.jpg",
+      "sha256": "842c2e023df54bfd5cf367e3a405446516f1d8dc6c25531f592aeb6c3e8a7d82"
+    },
+    {
+      "id": "T-01-terry-feed-largest-more",
+      "file": "T-01-terry-feed-largest-more.jpg",
+      "sha256": "2889f0a8ac7fe2f506047b0eb33fd4c0a4bdbe16be88252e97a7c8d6beb7df2b"
+    },
+    {
+      "id": "T-01-terry-feed-largest-more-2",
+      "file": "T-01-terry-feed-largest-more-2.jpg",
+      "sha256": "688570e2fe2ddf2fbc7ba7289a450bcbf38fccd0e7e29f83958545dcc32141e0"
+    },
+    {
+      "id": "T-02-terry-set-page-largest",
+      "file": "T-02-terry-set-page-largest.jpg",
+      "sha256": "6de76d13f6e75a416ac5f8b9ee6305d82d3a77b1eb110dd6d8570898f71c0b08"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more",
+      "file": "T-02-terry-set-page-largest-more.jpg",
+      "sha256": "d82b7551da43ff9540ba4bedd12e07a7b3f34f5d1274e71c274adc43d8f45c77"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-2",
+      "file": "T-02-terry-set-page-largest-more-2.jpg",
+      "sha256": "73cbde8350824951792de47192d238b05eb4363676177ac07989c80dc9ac4bd2"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-3",
+      "file": "T-02-terry-set-page-largest-more-3.jpg",
+      "sha256": "346b74f5df9ae11d4d047d764b793d12e774d193bd4284909e25d5dbaf5c8154"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-4",
+      "file": "T-02-terry-set-page-largest-more-4.jpg",
+      "sha256": "2492b3889b31bd839e1ba8b2cbffa8c565932e4008ba7ac36ce38b5e117d7eb7"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-5",
+      "file": "T-02-terry-set-page-largest-more-5.jpg",
+      "sha256": "3e38faf5b4c4451063c3baecedf02ed2ced2b62b82c40849a3b90a2e1ab03e1b"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-6",
+      "file": "T-02-terry-set-page-largest-more-6.jpg",
+      "sha256": "563f5e6c1f260966e1d77522adbdb09f639578513467d2b4799bbba3974f63f9"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-7",
+      "file": "T-02-terry-set-page-largest-more-7.jpg",
+      "sha256": "a2ebfc41f299232ac8ac6b28356150c0e2b7ffe37fb627c441ed944145614e61"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-8",
+      "file": "T-02-terry-set-page-largest-more-8.jpg",
+      "sha256": "35b556311e71ceb0046cf2e7937f7c241f21b60d7104cbd8e95b4a2b147dc5c9"
+    },
+    {
+      "id": "T-02-terry-set-page-largest-more-9",
+      "file": "T-02-terry-set-page-largest-more-9.jpg",
+      "sha256": "a27724426a56039cf08fcc493f40cdbab1296a0f9d1c1e8b790417228965ed84"
+    },
+    {
+      "id": "T-02-terry-set-page-scrolled-largest",
+      "file": "T-02-terry-set-page-scrolled-largest.jpg",
+      "sha256": "a27724426a56039cf08fcc493f40cdbab1296a0f9d1c1e8b790417228965ed84"
+    },
+    {
+      "id": "G-24-settings-alerts-on-more-largest",
+      "file": "G-24-settings-alerts-on-more-largest.jpg",
+      "sha256": "7f282f40cbff42a9eaad765a883c019f4d66bff66656d4ea1284c9ed673c631b"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest",
+      "file": "OFFLINE-REGISTRATION-step-3-largest.jpg",
+      "sha256": "222f95cbd4667107fed12347dc606ae0e1a80dd074f801f9131c916fd59e60cb"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more.jpg",
+      "sha256": "20893a11326555fac99f6fd2ac306340f8fe7ac182d2edd7410bedfae9a411e8"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more-2",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more-2.jpg",
+      "sha256": "3bd6e111ce7dba7c8e5b5739b985f0aaf28b5e652b46fc6d7859ebad192e026e"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more-3",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more-3.jpg",
+      "sha256": "872dd4b40ee96317e036de052679e6dff38b2e529b66e6c36eead77bc8bef641"
+    },
+    {
+      "id": "OFFLINE-REGISTRATION-step-3-largest-more-4",
+      "file": "OFFLINE-REGISTRATION-step-3-largest-more-4.jpg",
+      "sha256": "4a3a755dbb4d27d3e56980696cac23258eed4a9c8fd8997cd8d8773204acf39e"
+    },
+    {
+      "id": "T-03-terry-basket",
+      "file": "T-03-terry-basket.jpg",
+      "sha256": "fa27b028d7c67294e9efdf0385a939f34e973b7461ec255e5952c5fbd46921f1"
+    },
+    {
+      "id": "T-03-terry-basket-more",
+      "file": "T-03-terry-basket-more.jpg",
+      "sha256": "3acb6ac60daeb4250f8c09dcc9ff2c0bb7b6e0f8c4fe79bdbb5b263acd180744"
+    },
+    {
+      "id": "T-03-terry-basket-more-2",
+      "file": "T-03-terry-basket-more-2.jpg",
+      "sha256": "f63f9376298ac2901ed3804b5449c231525d6682b03426b21168d7651999b566"
+    },
+    {
+      "id": "T-03-terry-basket-largest",
+      "file": "T-03-terry-basket-largest.jpg",
+      "sha256": "e65f8bafe8926d55843908dc553a542085c9dd842581361756021d454da73103"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more",
+      "file": "T-03-terry-basket-largest-more.jpg",
+      "sha256": "eb7648a5b7d1ad34aec906297120fedbaf447a3705316683bc7123e706b83163"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-2",
+      "file": "T-03-terry-basket-largest-more-2.jpg",
+      "sha256": "3cdae33f4781e33f703dbee4e0443fb02ba614d11e3bedf05f2af2e6812cfd84"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-3",
+      "file": "T-03-terry-basket-largest-more-3.jpg",
+      "sha256": "5d8a996461befe5eeabd07103684e44ed1f5229cff10e625b3c6928abba22c81"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-4",
+      "file": "T-03-terry-basket-largest-more-4.jpg",
+      "sha256": "5b124bc159d70a6bb4acb287dae1b4bcc8183431124fda1dfd02ca51f0598874"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-5",
+      "file": "T-03-terry-basket-largest-more-5.jpg",
+      "sha256": "e85aa57d76ee35d4aca658e1bed1fb714cb821013b240320c49af66fa02fd673"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-6",
+      "file": "T-03-terry-basket-largest-more-6.jpg",
+      "sha256": "403dd8ed43d911c7ece98f63861433a0ecfbf682c370c8df7d8447a1cdcfafd8"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-7",
+      "file": "T-03-terry-basket-largest-more-7.jpg",
+      "sha256": "0fff8562f6db405cad1a4d868b940375eb250eccdd764279d39a5286922e2835"
+    },
+    {
+      "id": "T-03-terry-basket-largest-more-8",
+      "file": "T-03-terry-basket-largest-more-8.jpg",
+      "sha256": "ce0b67fe54a245c462459408791fc1e53afb731ac1307846ae9dc767839b629b"
+    },
+    {
+      "id": "G-14-my-charms-with-snap",
+      "file": "G-14-my-charms-with-snap.jpg",
+      "sha256": "fbb051f016117d1fd0cfd098f2232048a5c5b8da8ee5fdf2451dc204cc65d20b"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-more",
+      "file": "G-14-my-charms-with-snap-more.jpg",
+      "sha256": "1756b1effbce3b989cbfc9e7a226286157eb24ada4171aa9612d97bfcdbf1b0b"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-more-2",
+      "file": "G-14-my-charms-with-snap-more-2.jpg",
+      "sha256": "ba9d7292570e975e5d3b2affeaa39238330413a57dcdd2df9db8f1c159cb8b55"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-largest",
+      "file": "G-14-my-charms-with-snap-largest.jpg",
+      "sha256": "954de2869749bca0e1c8c3e0dfc77a3984b88f783f4d92d19f7fe8e9a66c4fd5"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-largest-more",
+      "file": "G-14-my-charms-with-snap-largest-more.jpg",
+      "sha256": "325335e83254759c593dfa209e254ecd19701f95d780a8ae10ffdc1eb8a3f6a0"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-largest-more-2",
+      "file": "G-14-my-charms-with-snap-largest-more-2.jpg",
+      "sha256": "46db9c4668b545e6ffb93957e18c8b672cf80f973a7b2f58854aa4a31978a9ac"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-largest-more-3",
+      "file": "G-14-my-charms-with-snap-largest-more-3.jpg",
+      "sha256": "988e154e2e7948805f2a9dddb1d66fc000dd21fee911be69c2b3b0a5bd460eb8"
+    },
+    {
+      "id": "G-14-my-charms-with-snap-largest-more-4",
+      "file": "G-14-my-charms-with-snap-largest-more-4.jpg",
+      "sha256": "fe751a7e93c4492d34c0d2f2d1ed2a131a658a5a0ab333b87dd768892061c8d0"
+    },
+    {
+      "id": "RELEASE28-SHOP-header-3x",
+      "file": "RELEASE28-SHOP-header-3x.jpg",
+      "sha256": "0df35be1e4b7bba6eb5523af70c11eb55458b8b7bacde54500da7e59400133e9"
+    },
+    {
+      "id": "G-14-my-charms-header-3x",
+      "file": "G-14-my-charms-header-3x.jpg",
+      "sha256": "4d060df7ec91244d2fcac6ed54f55020b24335443c301d60ca6d656abb1889e9"
+    },
+    {
+      "id": "RELEASE28-SHOP-largest-header-3x",
+      "file": "RELEASE28-SHOP-largest-header-3x.jpg",
+      "sha256": "0df35be1e4b7bba6eb5523af70c11eb55458b8b7bacde54500da7e59400133e9"
+    },
+    {
+      "id": "G-14-my-charms-largest-header-3x",
+      "file": "G-14-my-charms-largest-header-3x.jpg",
+      "sha256": "46eb042af31df3012d4db3fb3e740281e88cdc357f2d103659212ff9a2b57adc"
     }
   ],
   "unchanged": [
-    "RELEASE28-SHOP",
-    "G-14-my-charms-more-2",
-    "G-15-my-wishlist",
     "L-01-wishlist-share",
     "G-24-settings-alerts-on",
-    "G-24-settings-alerts-on-more",
     "G-24-settings-alerts-off",
     "G-24-settings-alerts-off-more",
     "G-24-settings-alerts-denied",
@@ -71,24 +501,7 @@
     "G-24-settings-alerts-denied-more-2",
     "OFFLINE-REGISTRATION-step-1",
     "OFFLINE-REGISTRATION-step-2",
-    "OFFLINE-REGISTRATION-step-3",
-    "S2-04-set-page",
-    "S2-04-set-page-more",
-    "G-16-set-page",
-    "G-16-set-page-more",
-    "G-16-set-page-scrolled",
-    "RELEASE28-SHOP-largest",
-    "RELEASE28-SHOP-largest-more",
-    "RELEASE28-SHOP-largest-more-2",
-    "G-14-my-charms-largest",
-    "G-14-my-charms-largest-more",
-    "G-14-my-charms-largest-more-2",
-    "G-14-my-charms-largest-more-3",
     "G-14-my-charms-largest-more-4",
-    "G-15-my-wishlist-largest",
-    "G-15-my-wishlist-largest-more",
-    "G-15-my-wishlist-largest-more-2",
-    "G-15-my-wishlist-largest-more-3",
     "L-01-wishlist-share-largest",
     "L-01-wishlist-share-largest-more",
     "L-01-wishlist-share-largest-more-2",
@@ -119,21 +532,6 @@
     "OFFLINE-REGISTRATION-step-1-largest-more-2",
     "OFFLINE-REGISTRATION-step-2-largest",
     "OFFLINE-REGISTRATION-step-2-largest-more",
-    "OFFLINE-REGISTRATION-step-3-largest",
-    "OFFLINE-REGISTRATION-step-3-largest-more",
-    "OFFLINE-REGISTRATION-step-3-largest-more-2",
-    "OFFLINE-REGISTRATION-step-3-largest-more-3",
-    "OFFLINE-REGISTRATION-step-3-largest-more-4",
-    "S2-04-set-page-largest",
-    "S2-04-set-page-largest-more",
-    "S2-04-set-page-largest-more-2",
-    "S2-04-set-page-largest-more-3",
-    "S2-04-set-page-largest-more-4",
-    "G-16-set-page-largest",
-    "G-16-set-page-largest-more",
-    "G-16-set-page-largest-more-2",
-    "G-16-set-page-largest-more-3",
-    "G-16-set-page-scrolled-largest",
     "S2-03-sets-feed-in-basket",
     "S2-03-sets-feed-in-basket-largest",
     "S2-03-sets-feed-in-basket-largest-more",
@@ -265,13 +663,13 @@
     {
       "id": "screenshot-1",
       "file": "app-store/screenshot-1-1320x2868.png",
-      "sha256": "e5ebfb356ff3ad7acd7b7466a72e23f1e472ef702fd17957b98db62dff0ca60c",
+      "sha256": "736739d230d4a3025c9b58907bfe0692ada000fc54e20259bc3741a122185aef",
       "uploadedToApple": false
     },
     {
       "id": "screenshot-5",
       "file": "app-store/screenshot-5-1320x2868.png",
-      "sha256": "b0184fbe4cbf86f138a576d90f9e1d71b2147921f51ccdbf8a711371d5347824",
+      "sha256": "97e55b8888a73838d71848b65e3ee10e8f2bf26e223e3b68f520f98613729def",
       "uploadedToApple": false
     }
   ]

@@ -1,0 +1,110 @@
+[
+  {
+    "file": "primary-Collection56-root-WISHLIST-largest.png",
+    "device": "iPhone18Pro simulator / iOS27,402\u00d7874pt3\u00d7",
+    "result": "20261010T135136Z-4cb47c.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapLargest()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "a1c30fdb74899afc467c1b83206afd72ebf1b6acde0d47322dcddbf1f3bf8883"
+  },
+  {
+    "file": "primary-Collection56-root-MY CHARMS-largest.png",
+    "device": "iPhone18Pro simulator / iOS27,402\u00d7874pt3\u00d7",
+    "result": "20261010T135136Z-4cb47c.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapLargest()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "0f70d17b200e651e2f2d857e92cbc3194f77fd76e8d8b6134f73672f93b6215a"
+  },
+  {
+    "file": "primary-Collection56-root-SHOP-largest.png",
+    "device": "iPhone18Pro simulator / iOS27,402\u00d7874pt3\u00d7",
+    "result": "20261010T135136Z-4cb47c.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapLargest()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "f6444bd14a605b066add928c9f1495a061f0e1bbbabfba2313e7f918d5a38a0a"
+  },
+  {
+    "file": "primary-Collection56-root-WISHLIST.png",
+    "device": "iPhone18Pro simulator / iOS27,402\u00d7874pt3\u00d7",
+    "result": "20261010T135136Z-4cb47c.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapNormal()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "8e694096af3b12444e20463cee96ac9851b0eb105f563f1c482489bebf715f00"
+  },
+  {
+    "file": "primary-Collection56-root-MY CHARMS.png",
+    "device": "iPhone18Pro simulator / iOS27,402\u00d7874pt3\u00d7",
+    "result": "20261010T135136Z-4cb47c.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapNormal()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "59fc93ac4cccea86d89e994febdc4311a2e975694cdc08486419ce1b22aa2a40"
+  },
+  {
+    "file": "primary-Collection56-root-SHOP.png",
+    "device": "iPhone18Pro simulator / iOS27,402\u00d7874pt3\u00d7",
+    "result": "20261010T135136Z-4cb47c.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapNormal()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "503cbe4e8c609eb10871ec6a7bbabeeb1f36022d6565c9e5418a6f7cd9d3265b"
+  },
+  {
+    "file": "smaller-Collection56-root-WISHLIST-largest.png",
+    "device": "iPhone17e simulator / iOS27,390\u00d7844pt3\u00d7",
+    "result": "20261010T135921Z-3c25ba.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapLargest()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "1c9a1d49ade81303173099f05cc2b6d150b5e9615f5381e64a2cc814ea758b52"
+  },
+  {
+    "file": "smaller-Collection56-root-MY CHARMS-largest.png",
+    "device": "iPhone17e simulator / iOS27,390\u00d7844pt3\u00d7",
+    "result": "20261010T135921Z-3c25ba.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapLargest()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "0eef7f1dfa20b94845f69b168db7cf7b521a97d6eb0690b2e6729a251eaaca92"
+  },
+  {
+    "file": "smaller-Collection56-root-SHOP-largest.png",
+    "device": "iPhone17e simulator / iOS27,390\u00d7844pt3\u00d7",
+    "result": "20261010T135921Z-3c25ba.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapLargest()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "d73582740818b69ffba55696053507db702c3123409cc2a39350a0a8050e0b9d"
+  },
+  {
+    "file": "smaller-Collection56-root-WISHLIST.png",
+    "device": "iPhone17e simulator / iOS27,390\u00d7844pt3\u00d7",
+    "result": "20261010T135921Z-3c25ba.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapNormal()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "80ccced7e74ac0a864c401fe7d9e074206cf29fc4ce81c4aa629ddcee3ab23aa"
+  },
+  {
+    "file": "smaller-Collection56-root-MY CHARMS.png",
+    "device": "iPhone17e simulator / iOS27,390\u00d7844pt3\u00d7",
+    "result": "20261010T135921Z-3c25ba.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapNormal()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "9a208f8bfa1ee7372be5533b291d15c8aa9f1e27e920dc206979157758b9e3dc"
+  },
+  {
+    "file": "smaller-Collection56-root-SHOP.png",
+    "device": "iPhone17e simulator / iOS27,390\u00d7844pt3\u00d7",
+    "result": "20261010T135921Z-3c25ba.xcresult",
+    "test": "Collection56UITests/testFixedPreviewLockupAndCompactSnapNormal()",
+    "kind": "Shipping AppRoot Debug UI test; synthetic customer fixture; real simulator viewport",
+    "retouched": false,
+    "sha256": "ad47243105e29b8463b4f630adc726c33702d779a4b395d6e74281d304bd52fb"
+  }
+]

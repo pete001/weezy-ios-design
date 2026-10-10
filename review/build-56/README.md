@@ -1,9 +1,11 @@
-# Review56 · Curated collection
+# Review56 · Terry and the finishing touches
 
-[Gallery](index.html) · [Response](RESPONSE.md) · [Manifest](manifest.json) · [Tests](TESTS.json) · [Release status](RELEASE.json) · [Store re-exports](app-store/README.md)
+[Gallery](index.html) · [Responses](RESPONSE.md) · [Manifest](manifest.json) · [Tests](TESTS.json) · [Release](RELEASE.json) · [Ring test](ring/README.md) · [Store re-exports](app-store/README.md)
 
-F149 removes set numbering and renames the eyebrow. Ten fresh images cover the six requested screens and scroll/largest-text continuations. S2-03-set-page is the new shorthand requested here; it is distinct from the historical S2-03-sets-feed-in-basket ID. All previous reviews remain intact.
+F149–158 are implemented. F148 stays on Nat's explicit HOLD. 95 fresh JPEGs include every requested normal/largest screen, full-scroll continuations, the added Terry basket and four3× header crops. Original ring-test attachments are separate. Previous review folders remain intact; unchanged screens are declared in the manifest.
 
-Shopify merchandising order is retained for sorting only. Progress counts, member numerals, prices, names and BUY THE SET are unchanged. Native56 is a source-review candidate, not a new TestFlight upload;55 remains available. The existing customer shop and Shopify records are untouched. The current bundled Shopify five-piece Celestial is used; live membership and prices supersede historical design samples.
+Actual iPhone16Pro simulator/iOS27 has a402×874pt display. Captures use the requested controlled393×852pt3× production-content host, JPEG80/sRGB. These production SwiftUI views use isolated Claire data and current Shopify catalogue/variants/canonical App Editor covers; shipping-root tests run separately on18Pro and17e. Current Celestial has5 pieces including2 Gold Swirls,£82 payable. Terry has5charms/5adapter sets and a free£18multifunctionalchain at£237.50. Shopify calculate verifies the offer without a customer or draft order. The app-only campaign and editor are deployed; weezypop.com is unchanged.
 
-JPEG80/sRGB/max1179px,393×852pt at3× controlled content host on actual iPhone18Pro/iOS27. These are isolated Claire content renders, not live authentication/payment or shipping-root layout proof. Store re-exports use Release production views and native full-size capture, with approved marketing composition separately declared. Earlier Apple draft assets remain untouched.
+Build56 is approved and available to Weezy Pop Internal and Lou & Nat; consult RELEASE.json for Apple's verified state. Store1/5 are fresh artwork re-exports, not uploaded. The App Store1.0 draft remains unsubmitted. Real phone purchases, Photos, haptics, VoiceOver, Safari/F50 and Nat26.6.1 acceptance remain separate.
+
+Tap a gallery image for full-screen contextual notes. Notes stay in the browser until exported and are not sent automatically.
