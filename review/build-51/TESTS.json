@@ -1,16 +1,16 @@
 {
   "build": 51,
-  "sourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
+  "sourceCommit": "38f6d7672ee97fa9c77143411e5c0c47f629cdc1",
   "finalRuns": [
     {
       "name": "native-functional-and-captures",
       "status": "passed",
-      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
-      "resultBundle": "build/Migration/20261010T092901Z-c2f720.xcresult",
+      "testedSourceCommit": "38f6d7672ee97fa9c77143411e5c0c47f629cdc1",
+      "resultBundle": "build/Migration/20261010T093746Z-619346.xcresult",
       "configuration": "Debug",
       "counts": {
-        "total": 33,
-        "passed": 33,
+        "total": 35,
+        "passed": 35,
         "failed": 0,
         "skipped": 0
       },
@@ -31,7 +31,9 @@
         "DisplayNameTests/testCleanupSupportsChosenMultiWordNamesAndAnEmptyShopifyName()",
         "DisplayNameTests/testConfirmedStateIsScopedToTheVerifiedAccount()",
         "DisplayNameTests/testConfirmedWishlistNameKeepsSpacesWhileLegacyNamesStayPrivate()",
+        "DisplayNameTests/testFreshShopifyArrivalReachesPurchasesBeforeTheRootNameGate()",
         "DisplayNameTests/testGuestConfirmationIsLocalAndDoesNotCreateAShopifyCustomer()",
+        "DisplayNameTests/testRecoveredPurchasesNextCannotStayLockedOnTheFoundScreen()",
         "DisplayNameTests/testSaveRequestNeverOverwritesShopifyFirstName()",
         "DisplayNameTests/testSixteenGraphemeLimitDoesNotSplitAccentedNames()",
         "FirstNamePolicyTests/testBrowseTypeUsesShopifyProductTypeBeforeTitle()",
@@ -49,13 +51,13 @@
         "PhotoLibrarySaveTests/testStillAndSquareBadgeAndLegacyCardSaveToPhotos()",
         "PopStudioCaptureTests/testCaptureYourName51()"
       ],
-      "reportSHA256": "aad87b182ce311c95385ac8a3ba44cde3ea396226470a5579394a0f8dd601af7"
+      "reportSHA256": "d47e7a4f79a9249cf2c7da7a2131735df9f7bd5c3396ec017390a1bebd2175af"
     },
     {
       "name": "name-keyboard-primary",
       "status": "passed",
-      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
-      "resultBundle": "build/Migration/20261010T092953Z-a15a0e.xcresult",
+      "testedSourceCommit": "38f6d7672ee97fa9c77143411e5c0c47f629cdc1",
+      "resultBundle": "build/Migration/20261010T093833Z-ea0101.xcresult",
       "configuration": "Debug",
       "counts": {
         "total": 3,
@@ -68,13 +70,13 @@
         "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
         "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()"
       ],
-      "reportSHA256": "f419725adc1e00aafd9c956d7d6c88bd7d28becf7c3a57e4d9ee4d3c39d36976"
+      "reportSHA256": "0333fa7e46f6bd14c9f67a14aff3d46c7b8be78d168473edb2d28c3b387067e5"
     },
     {
       "name": "name-keyboard-small",
       "status": "passed",
-      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
-      "resultBundle": "build/Migration/20261010T093033Z-df6f7a.xcresult",
+      "testedSourceCommit": "38f6d7672ee97fa9c77143411e5c0c47f629cdc1",
+      "resultBundle": "build/Migration/20261010T093913Z-658af9.xcresult",
       "configuration": "Debug",
       "counts": {
         "total": 3,
@@ -87,17 +89,17 @@
         "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
         "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()"
       ],
-      "reportSHA256": "d989883bf3f7e89e2d91d739e7265f0942689d99cad5def39a4c1929aeaa77a6"
+      "reportSHA256": "891984b941c37e4559faa9648825e8d613e1726fe0dd402d3cb25ed8af20e476"
     },
     {
       "name": "optimized-name-and-real-PhotoKit",
       "status": "passed",
-      "testedSourceCommit": "3f6602a343e8d6cc8173e597c7d2a72bd1a0cea9",
-      "resultBundle": "build/Name51/release-completed-name-photos.xcresult",
+      "testedSourceCommit": "38f6d7672ee97fa9c77143411e5c0c47f629cdc1",
+      "resultBundle": "build/Name51/release-approved-name-photos.xcresult",
       "configuration": "Release",
       "counts": {
-        "total": 12,
-        "passed": 12,
+        "total": 14,
+        "passed": 14,
         "failed": 0,
         "skipped": 0
       },
@@ -105,7 +107,9 @@
         "DisplayNameTests/testCleanupSupportsChosenMultiWordNamesAndAnEmptyShopifyName()",
         "DisplayNameTests/testConfirmedStateIsScopedToTheVerifiedAccount()",
         "DisplayNameTests/testConfirmedWishlistNameKeepsSpacesWhileLegacyNamesStayPrivate()",
+        "DisplayNameTests/testFreshShopifyArrivalReachesPurchasesBeforeTheRootNameGate()",
         "DisplayNameTests/testGuestConfirmationIsLocalAndDoesNotCreateAShopifyCustomer()",
+        "DisplayNameTests/testRecoveredPurchasesNextCannotStayLockedOnTheFoundScreen()",
         "DisplayNameTests/testSaveRequestNeverOverwritesShopifyFirstName()",
         "DisplayNameTests/testSixteenGraphemeLimitDoesNotSplitAccentedNames()",
         "PhotoLibrarySaveTests/testAuthorizedMovingBadgeSavesToPhotos()",
@@ -115,12 +119,13 @@
         "PhotoLibrarySaveTests/testReduceMotionVideoSavesToPhotos()",
         "PhotoLibrarySaveTests/testStillAndSquareBadgeAndLegacyCardSaveToPhotos()"
       ],
-      "reportSHA256": "661ac6de3b31674e595ef998bf308f84d92ffd63acf47af9afbefae1dbf745bf"
+      "reportSHA256": "93ba6f976db2429dd68471da5323f021fb3b0959880de3c10c783945996f4af4"
     },
     {
       "name": "optimized-guest-root",
       "status": "passed",
-      "resultBundle": "build/Migration/20261010T091759Z-17a20d.xcresult",
+      "testedSourceCommit": "38f6d7672ee97fa9c77143411e5c0c47f629cdc1",
+      "resultBundle": "build/Migration/20261010T093951Z-488c45.xcresult",
       "configuration": "Release",
       "counts": {
         "total": 1,
@@ -131,9 +136,7 @@
       "cases": [
         "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()"
       ],
-      "reportSHA256": "7bff6a7e179278f53b85ecf9e303476e42af21b6e8cc64487a2f38a8ada4d585",
-      "testedSourceCommit": "340e2e7d59e9e3cafb714909e90ae26e0755c55b",
-      "scopeUnchanged": "The subsequent edits only fit the native name preview and recover OAuth on its signedOut save error. The guest tab root, service and browser code are unchanged."
+      "reportSHA256": "41edd10e8d64ee14e28aac00ebb394f0a988be583055f58d288b03dabc5170bf"
     },
     {
       "name": "services",
@@ -144,7 +147,7 @@
       "receiptSHA256": "491c374aff378aecacb8db3a5c6fb18c490693f14ff4e8320c72649f724c521d",
       "isolation": "Synthetic loopback customers/database/Shopify events; browser blocks external writes; no production mutations",
       "testedSourceCommit": "340e2e7d59e9e3cafb714909e90ae26e0755c55b",
-      "scopeUnchanged": "The subsequent edits only fit the native name preview and recover OAuth on its signedOut save error. The guest tab root, service and browser code are unchanged."
+      "scopeUnchanged": "The subsequent edits only change native name preview, OAuth recovery and arrival routing. The service and browser code are unchanged."
     },
     {
       "name": "launch-browser",
@@ -155,7 +158,7 @@
       "receiptSHA256": "6e98575ac1b150ec277806ece808094e7c851b838136a472c8272d0d3d488f49",
       "isolation": "Synthetic loopback customers/database/Shopify events; browser blocks external writes; no production mutations",
       "testedSourceCommit": "340e2e7d59e9e3cafb714909e90ae26e0755c55b",
-      "scopeUnchanged": "The subsequent edits only fit the native name preview and recover OAuth on its signedOut save error. The guest tab root, service and browser code are unchanged."
+      "scopeUnchanged": "The subsequent edits only change native name preview, OAuth recovery and arrival routing. The service and browser code are unchanged."
     }
   ],
   "retainedEarlierAttempts": [
