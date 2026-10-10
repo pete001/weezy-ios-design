@@ -1,6 +1,8 @@
 # Weezy Pop · public design review
 
-**Current handover:** [Review55 · Device fixes and Festival Queen](review/build-55/README.md).106 fresh images, largest text/scroll/keyboard/Back companions. F135–147 addressed; F148 remains Nat’s explicit HOLD. [Gallery](review/build-55/index.html) · [Responses](review/build-55/RESPONSE.md) · [Tests](review/build-55/TESTS.json) · [Release](review/build-55/RELEASE.json). App Editor now dictates shared covers; Cowboy Boot stays visible regardless of saved finish.
+**Current handover:** [Review56 · Collection copy](review/build-56/README.md). F149: no set-position labels, CURATED COLLECTION and campaign-aware APP SPECIAL. Ten fresh review images plus Store shots1/5 re-exports. [Gallery](review/build-56/index.html) · [Response](review/build-56/RESPONSE.md) · [Tests](review/build-56/TESTS.json) · [Release status](review/build-56/RELEASE.json). Native56 and Store artwork are review-only; TestFlight55 remains released. The app-only set share wording is live.
+
+**Previous handover55:** [Review55 · Device fixes and Festival Queen](review/build-55/README.md).106 fresh images, largest text/scroll/keyboard/Back companions. F135–147 addressed; F148 remains Nat’s explicit HOLD. [Gallery](review/build-55/index.html) · [Responses](review/build-55/RESPONSE.md) · [Tests](review/build-55/TESTS.json) · [Release](review/build-55/RELEASE.json). App Editor now dictates shared covers; Cowboy Boot stays visible regardless of saved finish.
 
 **Previous handover54:** [Review54 · Three finishing touches](review/build-54/README.md). F132–134 are fixed. Six requested screen IDs plus web continuation and smaller-phone keyboard companion. [Gallery](review/build-54/index.html) · [Responses](review/build-54/RESPONSE.md) · [Tests](review/build-54/TESTS.json). Native54 is review-only; TestFlight53 remains released. App-only runtime52 deploys the larger white web logo.
 

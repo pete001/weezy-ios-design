@@ -1,0 +1,398 @@
+{
+  "build": 56,
+  "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+  "frozenNativeInputs": 260,
+  "frozenInputsMatch": true,
+  "runs": [
+    {
+      "name": "models-and-content",
+      "receipt": "20261010T131531Z-87d6d0.xcresult",
+      "receiptSHA256": "a98ba6f70290e793517a759ccf8ee92ab528e806f89c66726c55cbfe79b42ad0",
+      "tests": {
+        "total": 36,
+        "passed": 36,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 71061,
+        "cases": [
+          {
+            "identifier": "AchievementsV25Tests/testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+            "name": "testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 6
+          },
+          {
+            "identifier": "AchievementsV25Tests/testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+            "name": "testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "AchievementsV25Tests/testFinishRestrictedSetRequiresExactQuantityEvidence()",
+            "name": "testFinishRestrictedSetRequiresExactQuantityEvidence()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+            "name": "testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 91
+          },
+          {
+            "identifier": "AchievementsV25Tests/testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+            "name": "testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+            "name": "testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testRenderAllFourDesignerShareFixturesForVisualQA()",
+            "name": "testRenderAllFourDesignerShareFixturesForVisualQA()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 520
+          },
+          {
+            "identifier": "AchievementsV25Tests/testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+            "name": "testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+            "className": "AchievementsV25Tests",
+            "status": "passed",
+            "durationMs": 110
+          },
+          {
+            "identifier": "AchievementsV25Tests/testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+            "name": "testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testUnknownServiceEvidenceCannotEarnBadges()",
+            "name": "testUnknownServiceEvidenceCannotEarnBadges()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+            "name": "testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+            "name": "testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "AchievementsV25Tests/testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+            "name": "testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+            "className": "AchievementsV25Tests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+            "name": "testBadgeMovingExportIsFourSecondsAt1080x1920()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1000
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+            "name": "testBadgeShareLogoIsWhiteAtPortraitSquareAndLandscapeTopLeft()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 45
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+            "name": "testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 21
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+            "name": "testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+            "name": "testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+            "name": "testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 20
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+            "name": "testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 21
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+            "name": "testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 8
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+            "name": "testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+            "name": "testShareUsesFirstNameAndNeutralFallback()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+            "name": "testShelfEarnedFirstThenLockedByProgress()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+            "name": "testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 16
+          },
+          {
+            "identifier": "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+            "name": "testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+            "className": "BadgeFinalHandoffTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopShop38RulesTests/testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+            "name": "testFreshInstallLoadsBundledShopAndAllNineSetsOffline()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 31
+          },
+          {
+            "identifier": "PopShop38RulesTests/testLengthAndHardwareRetainExactShopifyCombination()",
+            "name": "testLengthAndHardwareRetainExactShopifyCombination()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 1
+          },
+          {
+            "identifier": "PopShop38RulesTests/testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "name": "testOnlyAnIntactWholeSetGetsInYourBasketState()",
+            "className": "PopShop38RulesTests",
+            "status": "passed",
+            "durationMs": 4
+          },
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureCollectionCopy56()",
+            "name": "testCaptureCollectionCopy56()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 11000
+          },
+          {
+            "identifier": "ShopifyCollectionTests/testAppProductVisibilityAndCategorySurviveRefreshAndOfflineCache()",
+            "name": "testAppProductVisibilityAndCategorySurviveRefreshAndOfflineCache()",
+            "className": "ShopifyCollectionTests",
+            "status": "passed",
+            "durationMs": 18
+          },
+          {
+            "identifier": "ShopifyCollectionTests/testAppSetsPreserveAuthoredOrderBeyondFiveProductsAndPersistInCatalogue()",
+            "name": "testAppSetsPreserveAuthoredOrderBeyondFiveProductsAndPersistInCatalogue()",
+            "className": "ShopifyCollectionTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ShopifyCollectionTests/testIncompleteAndEmptyCollectionsCannotBecomeSmallerCompletedSets()",
+            "name": "testIncompleteAndEmptyCollectionsCannotBecomeSmallerCompletedSets()",
+            "className": "ShopifyCollectionTests",
+            "status": "passed",
+            "durationMs": 5
+          },
+          {
+            "identifier": "ShopifyCollectionTests/testRealCollectionsRemainSearchCategoryData()",
+            "name": "testRealCollectionsRemainSearchCategoryData()",
+            "className": "ShopifyCollectionTests",
+            "status": "passed"
+          },
+          {
+            "identifier": "ShopifyCollectionTests/testSetVersionsKeepGoldAndGlitterSeparateWithoutChangingCatalogue()",
+            "name": "testSetVersionsKeepGoldAndGlitterSeparateWithoutChangingCatalogue()",
+            "className": "ShopifyCollectionTests",
+            "status": "passed",
+            "durationMs": 22
+          },
+          {
+            "identifier": "ShopifyCollectionTests/testStoreSearchFollowsCollectionsButSetsAndBadgesDoNot()",
+            "name": "testStoreSearchFollowsCollectionsButSetsAndBadgesDoNot()",
+            "className": "ShopifyCollectionTests",
+            "status": "passed",
+            "durationMs": 8
+          }
+        ]
+      },
+      "success": true,
+      "configuration": "Debug",
+      "notes": "36 passed; initial badge screenshot was visually rejected as still loading, then retaken in the final capture run."
+    },
+    {
+      "name": "final-six-screen-capture",
+      "receipt": "20261010T131938Z-7b36b9.xcresult",
+      "receiptSHA256": "2e0112446a42ebb2b569501a8ac1b5d5f70486f8f6e78732046b390808832777",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 38341,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureCollectionCopy56()",
+            "name": "testCaptureCollectionCopy56()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 15000
+          }
+        ]
+      },
+      "success": true,
+      "configuration": "Debug",
+      "notes": "Waited for prepared badge artwork; all ten final images inspected including scroll/largest continuations."
+    },
+    {
+      "name": "release-store-capture",
+      "receipt": "store-20261010T141628.xcresult",
+      "receiptSHA256": "c99269ea615343dd74eecd6237fee8d78424509e9968bb1da5d5869b09dd9224",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 221654,
+        "cases": [
+          {
+            "identifier": "StoreCaptureTests/testCaptureStorePack56()",
+            "name": "testCaptureStorePack56()",
+            "className": "StoreCaptureTests",
+            "status": "passed",
+            "durationMs": 71000
+          }
+        ]
+      },
+      "success": true,
+      "configuration": "Release",
+      "notes": "Release compilation; two Store captures; capture-only testability override, no shipping archive/upload."
+    },
+    {
+      "name": "app-only-web-share-service",
+      "tests": {
+        "total": 20,
+        "passed": 20,
+        "failed": 0,
+        "skipped": 0
+      },
+      "receiptSHA256": "7f01b78bc9735b476ffbcb55ba6e8799b1f6c5a068420a4a032b16290a9edfc2",
+      "scope": "Badge sharing, public share privacy/availability, verified offers and gift projections; isolated service fixtures, no real purchase"
+    }
+  ],
+  "liveReadOnlyVerification": {
+    "status": 200,
+    "setID": "app-set-aa3cb584-c244-43e4-9815-d05184179fb8",
+    "eyebrow": "\u2726 CURATED COLLECTION \u00b7 APP SPECIAL",
+    "customerWebsiteChanged": false,
+    "readOnly": true
+  },
+  "storeRenderVerification": [
+    {
+      "id": "screenshot-1",
+      "renderer": "isolated Chrome / sRGB",
+      "width": 1320,
+      "height": 2868,
+      "fonts": [
+        true,
+        true
+      ],
+      "images": [
+        {
+          "width": 1320,
+          "height": 2868
+        }
+      ],
+      "text": "\u2726\nSETS\nSnap the whole set\n5 charms, a free chain and \u00a326 off when you buy it all at once."
+    },
+    {
+      "id": "screenshot-5",
+      "renderer": "isolated Chrome / sRGB",
+      "width": 1320,
+      "height": 2868,
+      "fonts": [
+        true,
+        true
+      ],
+      "images": [
+        {
+          "width": 1320,
+          "height": 2868
+        }
+      ],
+      "text": "\u2726\nMY CHARMS\nWatch your stack grow\nYour orders sync automatically. Every set you finish lights up."
+    }
+  ],
+  "codeAudit": {
+    "setPositionRenderingRemoved": true,
+    "sortingOrderPreserved": true,
+    "legacyWireRomanOrdinalRetainedForCompatibility": true,
+    "individualMemberNumeralsAndIndependentBadgeArtPreserved": true,
+    "campaignEyebrowUsesVerifiedEligibility": true
+  },
+  "limits": [
+    "Content captures are not shipping AppRoot layout or physical VoiceOver evidence.",
+    "No new payment, APNs, OAuth/name or physical-device tests performed for this copy-only change.",
+    "Earlier physical acceptance, F50 and full accessibility/performance checks remain separate."
+  ],
+  "galleryVerification": {
+    "cards": 10,
+    "opened": true,
+    "persisted": true,
+    "closed": true
+  },
+  "packageVerification": {
+    "uniqueManifestIDs": true,
+    "reviewJPEGs": 10,
+    "storePNGs": 4,
+    "allManifestHashesMatch": true,
+    "sRGB": true,
+    "batches": [
+      10,
+      2
+    ],
+    "frozenNativeInputsMatch": true
+  }
+}

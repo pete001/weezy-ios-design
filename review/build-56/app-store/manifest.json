@@ -1,0 +1,46 @@
+[
+  {
+    "id": "screenshot-1",
+    "build": 56,
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "file": "screenshot-1-1320x2868.png",
+    "nativeFile": "native/screenshot-1.png",
+    "pixels": [
+      1320,
+      2868
+    ],
+    "device": "iPhone18ProMax / iOS27.0, native440\u00d7956pt at3\u00d7",
+    "colourProfile": "sRGB",
+    "mode": "RGB",
+    "nativeRetouched": false,
+    "composition": "Unchanged approved Store44 marketing template around fresh Release-compiled native content; separate native source included",
+    "captureKind": "isolated production SwiftUI content in Release-only StoreReview scheme, not shipping AppRoot or authenticated customer",
+    "captureResult": "store-20261010T141628.xcresult",
+    "captureOnlyEnableTestability": true,
+    "uploadedToApple": false,
+    "sha256": "e5ebfb356ff3ad7acd7b7466a72e23f1e472ef702fd17957b98db62dff0ca60c",
+    "nativeSHA256": "282bad08f18eb352d1463186af87ed51de545a5d7b0bfc1d6db8b321f8821435"
+  },
+  {
+    "id": "screenshot-5",
+    "build": 56,
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "file": "screenshot-5-1320x2868.png",
+    "nativeFile": "native/screenshot-5.png",
+    "pixels": [
+      1320,
+      2868
+    ],
+    "device": "iPhone18ProMax / iOS27.0, native440\u00d7956pt at3\u00d7",
+    "colourProfile": "sRGB",
+    "mode": "RGB",
+    "nativeRetouched": false,
+    "composition": "Unchanged approved Store44 marketing template around fresh Release-compiled native content; separate native source included",
+    "captureKind": "isolated production SwiftUI content in Release-only StoreReview scheme, not shipping AppRoot or authenticated customer",
+    "captureResult": "store-20261010T141628.xcresult",
+    "captureOnlyEnableTestability": true,
+    "uploadedToApple": false,
+    "sha256": "b0184fbe4cbf86f138a576d90f9e1d71b2147921f51ccdbf8a711371d5347824",
+    "nativeSHA256": "0807fbc472747cc8f1e47bfed39cb1e66da9b33b6452b7f2bef4cc29d140c4f2"
+  }
+]

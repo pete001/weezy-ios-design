@@ -1,0 +1,1928 @@
+[
+  {
+    "id": "S2-01-sets-feed",
+    "build": 56,
+    "file": "S2-01-sets-feed.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "700108c2c0fe2c4691b07198c06a7107be6f808fe9c7a5d076a3469632e14ccb",
+    "sourceSHA256": "cacb59c4755ad4d3d6c87f952cfdd013585ff43cae726acd080b0db6866c1a11"
+  },
+  {
+    "id": "S2-01-sets-feed-largest",
+    "build": 56,
+    "file": "S2-01-sets-feed-largest.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "2942c0860f29d76c30053a13d73de76b24886e5eb615e7a939da2eb268b50613",
+    "sourceSHA256": "d37bde8d3770a52bae05582eed93935545b7a2d8f9a078d64a1cbba3fe8d70d1"
+  },
+  {
+    "id": "S2-01-sets-feed-largest-more",
+    "build": 56,
+    "file": "S2-01-sets-feed-largest-more.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "df688f621c1413097ef77cc412dc5c7fe87ec147821b99e53d067959c5a9ff09",
+    "sourceSHA256": "bd1a8d89faec577c49a1dc2b2787b616b9e5c1e9ffbd498eb82dfbda6f2d0527"
+  },
+  {
+    "id": "S2-01-sets-feed-largest-more-2",
+    "build": 56,
+    "file": "S2-01-sets-feed-largest-more-2.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "accessibility5",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "4dc9860dfbafa41169944134a8a58a75e021a9b5885867a98f46499626422c6c",
+    "sourceSHA256": "01b689d3bcdddb49b2663e9ecc0cf49756d8eaaef48d8ac75cf7cde0d3affc33"
+  },
+  {
+    "id": "S2-03-set-page",
+    "build": 56,
+    "file": "S2-03-set-page.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "058f96034d3d6bc2eaa40ee920383b4d3ca4c79574ba209d5715d3b808cd81e4",
+    "sourceSHA256": "080cd037e83926b06513dafdbdd563c3febe772a9db6ccaccbbfcfe96044f99b"
+  },
+  {
+    "id": "S2-03-set-page-more",
+    "build": 56,
+    "file": "S2-03-set-page-more.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "fdd3c67d8a8d93d8b27e022737e07381ef3f773708067383b83d90970bbbfe9d",
+    "sourceSHA256": "29f9c28ee7549fe741894408019a22e9cdaeec5ff3b0aab91dc52551c4f624b2"
+  },
+  {
+    "id": "H-01-hot-set",
+    "build": 56,
+    "file": "H-01-hot-set.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "87054c78e861db7b2bd7c97f2b0bf50d3be22e159f14b5b87ac562c2fbfb0f84",
+    "sourceSHA256": "ea0c3cf73c4333bbcae0c895eea3aa4fa925f1732f2d9ec18377b2d553f5bbac"
+  },
+  {
+    "id": "G-14-my-charms",
+    "build": 56,
+    "file": "G-14-my-charms.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "27458f4ad5e139ba23f8f0a35bdb777678edbcf5e6dea11957efe593788f5abf",
+    "sourceSHA256": "2e4441d3fcfdeed241e65c70210439eded679570882077e4011d98869b5beb9d"
+  },
+  {
+    "id": "G-14-my-charms-more",
+    "build": 56,
+    "file": "G-14-my-charms-more.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "72868bdf5bac5f94ef5e23f0e32f147ba0a796cf5bf29d4b6cb56b510e9fce32",
+    "sourceSHA256": "0ac375b1644a30d90d8ce66e313124ae202566a9357eba21702b899263931ca5"
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 56,
+    "file": "B-03-share-card.jpg",
+    "sourceCommit": "a537107133fecf7e07ca9322fa8d1c34e075901b",
+    "sourceBundleBuild": 56,
+    "device": "iPhone18Pro / iOS27.0; controlled393×852pt content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "textSize": "large",
+    "captureKind": "isolated production SwiftUI content, not shipping AppRoot",
+    "captureResult": "20261010T131938Z-7b36b9.xcresult",
+    "fixture": "F149, current production content. Synthetic Claire, live bundled Shopify membership/order and app-only campaign. No merchant/customer/checkout mutation.393x852pt3x content host; native shipping-root remains separate.",
+    "scrollOffset": null,
+    "jpegQuality": 80,
+    "colourProfile": "sRGB",
+    "retouched": false,
+    "sha256": "3e7a085909a9cec3f956daa2c5055e615dc8e75ea4246127cc288a47c02744d5",
+    "sourceSHA256": "bba0b7370120cb1c665f8dafc6b6a1ac98f6dbd4f4f18a15dac7a02477a7932a"
+  },
+  {
+    "id": "RELEASE28-SHOP",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/RELEASE28-SHOP.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-15-my-wishlist",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-15-my-wishlist.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-1.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-scrolled",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-scrolled.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "RELEASE28-SHOP-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/RELEASE28-SHOP-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "RELEASE28-SHOP-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/RELEASE28-SHOP-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "RELEASE28-SHOP-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/RELEASE28-SHOP-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-largest-more-4.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-15-my-wishlist-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-15-my-wishlist-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-15-my-wishlist-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-15-my-wishlist-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-15-my-wishlist-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-15-my-wishlist-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-15-my-wishlist-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-15-my-wishlist-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest-more-4.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-5",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest-more-5.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-on-largest-more-6",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-on-largest-more-6.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest-more-4.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-5",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest-more-5.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-off-largest-more-6",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-off-largest-more-6.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest-more-4.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-5",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest-more-5.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-24-settings-alerts-denied-largest-more-6",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-24-settings-alerts-denied-largest-more-6.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-1-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-1-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-1-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-3-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-3-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-3-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-3-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-3-largest-more-4.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-04-set-page-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-04-set-page-largest-more-4.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-scrolled-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-scrolled-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-03-sets-feed-in-basket.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-03-sets-feed-in-basket-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-03-sets-feed-in-basket-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-03-sets-feed-in-basket-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-03-sets-feed-in-basket-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-01-sets-feed-festival",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-01-sets-feed-festival.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "S2-01-sets-feed-festival-silver-saved",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/S2-01-sets-feed-festival-silver-saved.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-festival",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-festival.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-festival-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-festival-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-14-my-charms-festival-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-14-my-charms-festival-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-festival",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-festival.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-16-set-page-festival-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/G-16-set-page-festival-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-375",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-375.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-375.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-375-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-375-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-375-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/L-01-wishlist-share-largest-375-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2-keyboard-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2-keyboard.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard-largest-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2-keyboard-largest-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-2-keyboard-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/OFFLINE-REGISTRATION-step-2-keyboard-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "Device55-badge-set-largest-1",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/Device55-badge-set-largest-1.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "Device55-badge-set-largest-0",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/Device55-badge-set-largest-0.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "Device55-badge-set-normal-1",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/Device55-badge-set-normal-1.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "Device55-badge-set-normal-0",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/Device55-badge-set-normal-0.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "M-06-sync-zero",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/M-06-sync-zero.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "M-07-registration-history",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/M-07-registration-history.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/O-01-your-name-largest-keyboard.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/O-01-your-name-largest-keyboard-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/B-04-badge-web-page.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "B-04-badge-web-page-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/B-04-badge-web-page-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-empty",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-empty.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-limit",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-limit.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-06-purchases-found.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-35U-basket-removal-undo.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest-more.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest-more-2.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/G-35U-basket-removal-undo-largest-more-3.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-limit-keyboard.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-empty-keyboard.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-keyboard.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01U-wishlist-removed-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01S-wishlist-swipe-largest.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01U-wishlist-removed.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01S-wishlist-swipe.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-limit-keyboard-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-empty-keyboard-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-keyboard-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/O-01-your-name-keyboard-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01U-wishlist-removed-largest-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01S-wishlist-swipe-largest-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-largest-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01-wishlist-share-largest-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01U-wishlist-removed-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01U-wishlist-removed-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01S-wishlist-swipe-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01S-wishlist-swipe-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-wishlist-share-small",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01-wishlist-share-small.jpg",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "B-04-badge-og",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-54/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01S-swipe-remove-undo",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/L-01S-swipe-remove-undo.mp4",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-5",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-6",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-7",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-3",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-4",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-5",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-6",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-53/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-1-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "OFFLINE-REGISTRATION-step-3-keyboard",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "F-148",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  },
+  {
+    "id": "Nat-iPhone17Pro-iOS26.6.1",
+    "build": 56,
+    "notCaptured": true,
+    "unchanged": true,
+    "reference": "../build-55/manifest.json",
+    "reason": "No F149 change on this prior screen/state; previous evidence remains historical."
+  }
+]
