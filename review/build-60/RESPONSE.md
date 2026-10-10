@@ -33,5 +33,3 @@ F-50 Safari links · physical VoiceOver, large text, Reduce Motion · APNs + gif
 
 ## Merchant (Nat / Lou)
 Coloured covers for Heart and Smiley on web · 40 variant-photo mapping gaps (CONTENT-REVIEW.json) · F-148 personal-set ADD · Founding Collector cut-off.
-
-Engineering evidence for F-176 removes the repeated whole-catalogue ownership lookup and verifies account/order changes invalidate ownership immediately. This simulator microbenchmark does not replace a real-phone performance or offline acceptance run.
