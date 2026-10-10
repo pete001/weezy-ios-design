@@ -1,0 +1,277 @@
+{
+  "build": 53,
+  "againstBuild": 52,
+  "combinedSinceReleasedBuild": 49,
+  "sourceCommit": "23761f204277e3bdd66997111b7bdd63c384c718",
+  "fresh": [
+    {
+      "id": "O-01-your-name",
+      "file": "O-01-your-name.jpg",
+      "sha256": "e18f3799228a2353aa11d5357b4424efc7c1c3261a4d24a4c9898d13c19d1860"
+    },
+    {
+      "id": "O-01-your-name-empty",
+      "file": "O-01-your-name-empty.jpg",
+      "sha256": "119c540821a87242213a5b92cd14a7684c5564aab805325f652fd4afa4e2ccf3"
+    },
+    {
+      "id": "O-01-your-name-limit",
+      "file": "O-01-your-name-limit.jpg",
+      "sha256": "d07477b46d7de39bba97295cec61e7659413b37991ef35c374d73866a74a239b"
+    },
+    {
+      "id": "O-01-your-name-largest",
+      "file": "O-01-your-name-largest.jpg",
+      "sha256": "55ac4281b7c24781b8b59902bb85ff42855195e6487c3de9e1c241c1a9b270c1"
+    },
+    {
+      "id": "O-01-your-name-largest-more",
+      "file": "O-01-your-name-largest-more.jpg",
+      "sha256": "7a1deeea687318f43650e5cc9a9c28ed0517db2eeb62f843a2d7978d9a733a33"
+    },
+    {
+      "id": "O-01-your-name-largest-more-2",
+      "file": "O-01-your-name-largest-more-2.jpg",
+      "sha256": "b05a8d0deada9b8ff0a708c0867d2bb3cbff228ec8213facf6b82858aecbd81a"
+    },
+    {
+      "id": "G-06-purchases-found",
+      "file": "G-06-purchases-found.jpg",
+      "sha256": "ffd16671322caff465520042c7427082fe3dd17fa060134d311155462b4ba057"
+    },
+    {
+      "id": "B-03-share-card",
+      "file": "B-03-share-card.jpg",
+      "sha256": "12b3d4d58cb7c0b283b7c895c80a8a48b1142e27d320c252c6ede90470e49922"
+    },
+    {
+      "id": "G-35U-basket-removal-undo",
+      "file": "G-35U-basket-removal-undo.jpg",
+      "sha256": "15538dda7c39c3e6a477447fddb856e289c3fe0996bd8ae7e987b0f261e8cb3a"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-more",
+      "file": "G-35U-basket-removal-undo-more.jpg",
+      "sha256": "c446de578957f821a5997a14285fe1b8cb9f2fdb83a937e21424eac136a27299"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest",
+      "file": "G-35U-basket-removal-undo-largest.jpg",
+      "sha256": "cea27ef1f9272bee453c7d10004e3f6b129adf4026953697676d50a96c44e166"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest-more",
+      "file": "G-35U-basket-removal-undo-largest-more.jpg",
+      "sha256": "673b529e4ec0917a78f841e83981071dfb73d5c42075459f37ecf7c37b7772a3"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest-more-2",
+      "file": "G-35U-basket-removal-undo-largest-more-2.jpg",
+      "sha256": "bb15cb6d4e6069e8065d06544e256525d647354cbd2a7fdffe262f752e3384ce"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest-more-3",
+      "file": "G-35U-basket-removal-undo-largest-more-3.jpg",
+      "sha256": "89e65276f580b0b5db2538bde922ec932b2480dcf4da99ffceacd4809fcc168b"
+    },
+    {
+      "id": "O-01-your-name-limit-keyboard",
+      "file": "O-01-your-name-limit-keyboard.jpg",
+      "sha256": "4dcb81f3e167f5dec5e5ace3ec07e7963227d09250dd834907f4da6a630235d3"
+    },
+    {
+      "id": "O-01-your-name-empty-keyboard",
+      "file": "O-01-your-name-empty-keyboard.jpg",
+      "sha256": "e5e5a11c96b0aa0e59fce40cd656fb17d7931d4b9cc281a6fec291ab8c316dd0"
+    },
+    {
+      "id": "O-01-your-name-keyboard",
+      "file": "O-01-your-name-keyboard.jpg",
+      "sha256": "c12994eee26000e5066d204b0764bf00de94241e44678079d5885e4222c26e71"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard-more",
+      "file": "O-01-your-name-largest-keyboard-more.jpg",
+      "sha256": "52d506b6cc0f59020c560e1010478f1078a6f4bd68e4930d9e7b58a798e9a7b1"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard",
+      "file": "O-01-your-name-largest-keyboard.jpg",
+      "sha256": "b9b7d877165eed18821cd3b5c2e4ea65032d8f22103214d07121ece30296ac35"
+    },
+    {
+      "id": "L-01U-wishlist-removed-largest",
+      "file": "L-01U-wishlist-removed-largest.jpg",
+      "sha256": "17f2a4f6086a13d3732cd4c261744187f210bdc2ed400271512b3cfed29455e3"
+    },
+    {
+      "id": "L-01S-wishlist-swipe-largest",
+      "file": "L-01S-wishlist-swipe-largest.jpg",
+      "sha256": "6a7a55116777d51c20543055a3c3e771ee01aff275beff7123281307ea4bf75f"
+    },
+    {
+      "id": "L-01-wishlist-share-largest",
+      "file": "L-01-wishlist-share-largest.jpg",
+      "sha256": "677223792ee42466e57c8510c1ddc8f5a571aad0cb6e83c1a42cf2156e017bd0"
+    },
+    {
+      "id": "L-01U-wishlist-removed",
+      "file": "L-01U-wishlist-removed.jpg",
+      "sha256": "c91580b5602b9e688ef65e6aa13b52b88e47edf113b2fe7347da7ab87612c15c"
+    },
+    {
+      "id": "L-01S-wishlist-swipe",
+      "file": "L-01S-wishlist-swipe.jpg",
+      "sha256": "03da6abe967ac72aaca53e0d68bda50ef2f7f3926b42db493c871942eee1065c"
+    },
+    {
+      "id": "L-01-wishlist-share",
+      "file": "L-01-wishlist-share.jpg",
+      "sha256": "5f6015dbff8bf19cd79ebf92b3f6dcc0cfeac9813519704f0cd5af9204db3af7"
+    },
+    {
+      "id": "O-01-your-name-limit-keyboard-small",
+      "file": "O-01-your-name-limit-keyboard-small.jpg",
+      "sha256": "c1ff87023ecdcf371f37b385df3fec21f1dd9a9c1e36aec5fb026d652eed85e8"
+    },
+    {
+      "id": "O-01-your-name-empty-keyboard-small",
+      "file": "O-01-your-name-empty-keyboard-small.jpg",
+      "sha256": "4ef6319bdf622d7c87fbf8faaae86a0fb6a9cb85508d593c8a65cda3f6e075df"
+    },
+    {
+      "id": "O-01-your-name-keyboard-small",
+      "file": "O-01-your-name-keyboard-small.jpg",
+      "sha256": "f3291bedc7c3465cf020acf87ed54fc8c68deac617455a7182810c787e01ad4c"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard-more-small",
+      "file": "O-01-your-name-largest-keyboard-more-small.jpg",
+      "sha256": "0becbf4e6256daed74fd33897a4b368997babadbc14451678ddce490c227a960"
+    },
+    {
+      "id": "O-01-your-name-largest-keyboard-small",
+      "file": "O-01-your-name-largest-keyboard-small.jpg",
+      "sha256": "0f13ff5e0983591382afc4695c1538e0abd04b43216b4530bcbc1d8740188690"
+    },
+    {
+      "id": "L-01U-wishlist-removed-largest-small",
+      "file": "L-01U-wishlist-removed-largest-small.jpg",
+      "sha256": "cefdf6c3a9118e2f2c463ec6c60a1550d65269ca4606352939bb0b6686e0dbbb"
+    },
+    {
+      "id": "L-01S-wishlist-swipe-largest-small",
+      "file": "L-01S-wishlist-swipe-largest-small.jpg",
+      "sha256": "dfa37fc1b65d8e2f4c1486611de92750d17f5281ec34ec49610658e68ea5c8ba"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-small",
+      "file": "L-01-wishlist-share-largest-small.jpg",
+      "sha256": "d37597f309737071a3caf82243153fd6ab07fa1a186986bfe6ee3c6dc723c7e3"
+    },
+    {
+      "id": "L-01U-wishlist-removed-small",
+      "file": "L-01U-wishlist-removed-small.jpg",
+      "sha256": "439a19d34d3b06b2fefb13525036496974545817ac7d51e54e2270ef62c29825"
+    },
+    {
+      "id": "L-01S-wishlist-swipe-small",
+      "file": "L-01S-wishlist-swipe-small.jpg",
+      "sha256": "091f0c90d6b0d6ba3dde2756c5505bf82f4207ee22a600251e17f844dabfa337"
+    },
+    {
+      "id": "L-01-wishlist-share-small",
+      "file": "L-01-wishlist-share-small.jpg",
+      "sha256": "93cecf18e397ddc761f3a9dc8c26fff8e99c29f8bd28fcf917918f2c5024f06f"
+    },
+    {
+      "id": "B-04-badge-web-page",
+      "file": "B-04-badge-web-page.jpg",
+      "sha256": "d7e264fde18ff36cbbcaf726b0aab6815b0ef8e4103a0159d2917becdb5d2f4d"
+    },
+    {
+      "id": "B-04-badge-web-page-more",
+      "file": "B-04-badge-web-page-more.jpg",
+      "sha256": "321d283249556bfae2d89d80e630652065c28dfebfa6d6458a7a669f514f38e1"
+    },
+    {
+      "id": "B-03-badge-still",
+      "file": "B-03-badge-still.png",
+      "sha256": "348a4a895ba0ec1463c4ce80840896d53ef0f00cfe2fc1df978385a3c077511b"
+    },
+    {
+      "id": "B-03-badge-moving",
+      "file": "B-03-badge-moving.mp4",
+      "sha256": "be2b2de3cbee1c668d1ee54e428285f4c2a81076728d30df408cbc75e3b66b75"
+    },
+    {
+      "id": "B-04-badge-og",
+      "file": "B-04-badge-og.jpg",
+      "sha256": "fd2d8e15cfb97f6150edcee8c7bb46e94e9d00af166c69d5fde7376e034558a1"
+    },
+    {
+      "id": "L-01S-swipe-remove-undo",
+      "file": "L-01S-swipe-remove-undo.mp4",
+      "sha256": "530ab73758a339a2b07484fc8f6a32e02513921421fb46a5b456c80a47e7f6f1"
+    }
+  ],
+  "unchanged": [
+    "L-07-feedback-sheet-filled",
+    "L-09-settings-feedback",
+    "L-09-settings-feedback-more",
+    "L-09-settings-feedback-more-2",
+    "L-09-settings-feedback-disabled",
+    "L-09-settings-feedback-disabled-more",
+    "L-10-testflight-welcome",
+    "L-07-feedback-sheet-filled-largest",
+    "L-07-feedback-sheet-filled-largest-more",
+    "L-07-feedback-sheet-filled-largest-more-2",
+    "L-09-settings-feedback-largest",
+    "L-09-settings-feedback-largest-more",
+    "L-09-settings-feedback-largest-more-2",
+    "L-09-settings-feedback-largest-more-3",
+    "L-09-settings-feedback-largest-more-4",
+    "L-09-settings-feedback-largest-more-5",
+    "L-09-settings-feedback-largest-more-6",
+    "L-09-settings-feedback-largest-more-7",
+    "L-09-settings-feedback-disabled-largest",
+    "L-09-settings-feedback-disabled-largest-more",
+    "L-09-settings-feedback-disabled-largest-more-2",
+    "L-09-settings-feedback-disabled-largest-more-3",
+    "L-09-settings-feedback-disabled-largest-more-4",
+    "L-09-settings-feedback-disabled-largest-more-5",
+    "L-09-settings-feedback-disabled-largest-more-6",
+    "L-10-testflight-welcome-largest",
+    "L-10-testflight-welcome-largest-more",
+    "ROOT-wishlist-preview",
+    "L-06-founding-badge",
+    "L-06-founding-badge-reduce-motion",
+    "L-09-settings-feedback-not-earned",
+    "L-09-settings-feedback-not-earned-more",
+    "L-09-settings-feedback-not-earned-more-2",
+    "L-07-feedback-sheet",
+    "L-07-feedback-sheet-largest",
+    "L-07-feedback-sheet-largest-more",
+    "L-07-feedback-sheet-largest-more-2",
+    "L-10-testflight-welcome-largest-more-2",
+    "L-07-feedback-sheet-offline",
+    "L-08-feedback-sent",
+    "L-08-feedback-sent-no-reply",
+    "ROOT-shop-preview",
+    "ROOT-my-charms-preview",
+    "ROOT-shop-release",
+    "B-03-founding-share-web",
+    "L-01-alerts-on-share",
+    "L-01-alerts-on-share-largest",
+    "L-01-alerts-on-share-largest-more",
+    "W-01-shared-wishlist",
+    "W-01-shared-wishlist-more",
+    "W-06-private-link",
+    "L-02-og-private",
+    "LIVE-feedback-inbox",
+    "LIVE-TestFlight-receipt",
+    "PHYSICAL-VoiceOver-haptics",
+    "F-50-Safari-associated-link"
+  ],
+  "note": "Fresh53 captures combine review50/51/52 for one handover. Original folders remain immutable. No UI styling changed from52; only release number and capture-note wording changed. Compare logo/name changes against50/51 and swipe against52."
+}

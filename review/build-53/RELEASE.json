@@ -1,0 +1,58 @@
+{
+  "build": 53,
+  "version": "1.0",
+  "uploaded": true,
+  "buildId": "e4238e34-4479-41bf-bfb6-d56e9ea90279",
+  "processingState": "VALID",
+  "distribution": {
+    "autoNotifyEnabled": true,
+    "internalBuildState": "IN_BETA_TESTING",
+    "externalBuildState": "IN_BETA_TESTING"
+  },
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "e4238e34-4479-41bf-bfb6-d56e9ea90279",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "23761f204277e3bdd66997111b7bdd63c384c718",
+  "frozenInputs": 260,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "012d037351fa6056a3dffb96b7f04970a3f66540194c7b8789da9e572f8d02af",
+  "dSYMUUID": "542D6F7F-3CE7-3158-BC08-F7EA7C062C12",
+  "appleServerValidated": true,
+  "privacyManifestSameAsPublished49": true,
+  "appOnlyRuntime": 51,
+  "nameEndpointDeployed": true,
+  "shopifyNameContractVerifiedReadOnly": true,
+  "liveCustomerNameWriteVerified": false,
+  "feedbackEnabled": false,
+  "customerWebsiteChanged": false,
+  "appStoreSubmitted": false,
+  "physicalAcceptanceRemaining": [
+    "iOS27.2 first-use/denied Photos permission and repeated Save video",
+    "Real Shopify sign-in, chosen name persistence and cross-device share projection",
+    "VoiceOver/haptics/APNs/payment and F50 Safari",
+    "Broader accessibility/performance acceptance"
+  ],
+  "notesLocales": [
+    "en-US",
+    "en-GB"
+  ],
+  "captureArtifacts": 42,
+  "freshImages": 40,
+  "videos": 2
+}

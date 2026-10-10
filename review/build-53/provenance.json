@@ -1,0 +1,29 @@
+{
+  "build": 53,
+  "sourceCommit": "23761f204277e3bdd66997111b7bdd63c384c718",
+  "retouched": false,
+  "productionInputCount": 260,
+  "captureDevices": [
+    "Actual iPhone18Pro402x874pt",
+    "Actual iPhone17e390x844pt"
+  ],
+  "contentHost": "Controlled393x852pt3x; separate actual AppRoot keyboard/swipe companions",
+  "authority": [
+    "User-reported Apple Save video crash",
+    "User white-logo P2 / Pop Studio17 B03/B04",
+    "ZIP26 Your name / O01",
+    "ZIP27 wishlist native swipe / L01S,L01U"
+  ],
+  "video": {
+    "source": "swipe-raw.mp4",
+    "sourceStart": 1791627537.502764,
+    "gestureMarker": 1791627611.030848,
+    "trimStart": 72.02808403968811,
+    "durationSeconds": 5,
+    "speed": 1,
+    "retouched": false,
+    "fixture": "Actual guest AppRoot, four gold charms; full swipe Sun removal and Undo, no OAuth bypass",
+    "file": "L-01S-swipe-remove-undo.mp4",
+    "sha256": "530ab73758a339a2b07484fc8f6a32e02513921421fb46a5b456c80a47e7f6f1"
+  }
+}

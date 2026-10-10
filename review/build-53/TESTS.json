@@ -1,0 +1,102 @@
+{
+  "build": 53,
+  "sourceCommit": "23761f204277e3bdd66997111b7bdd63c384c718",
+  "native": [
+    {
+      "stage": "models-content",
+      "bundle": "20261010T101816Z-7d07c5.xcresult",
+      "tests": {
+        "total": 59,
+        "passed": 59,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 39121
+      }
+    },
+    {
+      "stage": "primary",
+      "bundle": "20261010T101858Z-02b296.xcresult",
+      "tests": {
+        "total": 7,
+        "passed": 7,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 123467
+      }
+    },
+    {
+      "stage": "small",
+      "bundle": "20261010T102105Z-9d5712.xcresult",
+      "tests": {
+        "total": 6,
+        "passed": 6,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 111348
+      }
+    },
+    {
+      "stage": "release-root",
+      "bundle": "20261010T102300Z-de2d31.xcresult",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 125892
+      }
+    },
+    {
+      "stage": "optimized-name-photos",
+      "bundle": "optimized-name-photos.xcresult",
+      "tests": {
+        "total": 14,
+        "passed": 14,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 121950
+      }
+    }
+  ],
+  "services": {
+    "passed": 526,
+    "failed": 0,
+    "skipped": 0,
+    "receipt": "20261010T101729Z-e8ab00"
+  },
+  "launchBrowser": {
+    "receipt": "20261010T101825Z-2bc1d6",
+    "passed": true,
+    "scope": "Synthetic customers; external checkout blocked"
+  },
+  "photos": "Real add-only PhotoKit writes of synthetic video/still/square in simulator; denied/restricted responses injected; physical permission/save acceptance remains.",
+  "limits": [
+    "Physical first-use Photos permission and iOS27.2 save",
+    "Physical VoiceOver/haptics/APNs, payment and cross-device OAuth",
+    "F50 branded associated-domain/Safari work",
+    "Full accessibility/performance acceptance track",
+    "Resend intentionally unconfigured; feedback entry points hidden"
+  ],
+  "retainedHarnessFinding": "The optimized test run passed14/14. The wrapper initially tried to parse mixed compiler output as JSON; its report parser was corrected and the underlying xcresult independently revalidated. Original logs remain private.",
+  "reviewPackVerification": {
+    "freshArtifacts": 42,
+    "images": 40,
+    "videos": 2,
+    "uniqueIDsAndHashes": true,
+    "localLinksAndFonts": true,
+    "browserImagesLoaded": 42,
+    "browserImagesFailed": 0,
+    "videoDurationsSeconds": [
+      5,
+      4
+    ],
+    "contextualNotePersistence": true,
+    "testNoteCleared": true,
+    "sourceFreezeInputsVerified": 260
+  }
+}

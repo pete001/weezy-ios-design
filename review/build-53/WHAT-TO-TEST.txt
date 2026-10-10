@@ -1,0 +1,13 @@
+Weezy Pop private preview · build 53
+
+Everything since build 49's reported achievement Save video crash:
+
+1. Save an achievement video to Photos, then try Still and Square. Allow add-only Photos access when asked. Repeat the video save; also check the denied-permission message. The Photos callback crash is fixed and now has real simulator save regressions. Your iOS 27.2 phone is the final device check.
+
+2. After signing in, confirm the name you want to use. It starts with your Shopify first name and lets you edit up to 16 characters. Try spaces, an empty field and the length limit. Settings → Your name lets you change it later. Your Shopify account name and website orders stay unchanged. Check the chosen name survives a fresh sign-in and appears correctly on newly shared wishlists/cards.
+
+3. Swipe a wishlist item partway left to see quiet blush Remove, or swipe fully to remove it. UNDO is available for four seconds and restores the same finish and position. Try multiple removals, offline mode and largest text. Removing a wish does not cancel or reveal a secret gift. Long-press and VoiceOver offer Remove too. iOS controls the native swipe action shape and gesture threshold.
+
+4. Share a badge: native cards, new link previews and the app-only web page use the white Weezy Pop logo. Previously shared snapshot images remain unchanged. Basket and wishlist removal now use the same dark photo/name/UNDO toast.
+
+Feedback sending stays hidden while Resend is unconfigured. Diagnostics remain optional and off by default. No purchases are needed for these checks. Physical Photos permission, signed-in name persistence, VoiceOver and haptics still need device verification. This is TestFlight testing, not an App Store launch submission.
