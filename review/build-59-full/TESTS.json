@@ -1,0 +1,289 @@
+{
+  "review": "59-full",
+  "candidateBuild": 59,
+  "productionSourceCommit": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+  "productionInputsUnchanged": true,
+  "liveTestFlight": 58,
+  "liveServiceRuntime": 58,
+  "freshRuns": [
+    {
+      "receipt": "build/Migration/20261010T191226Z-15d12a.xcresult",
+      "success": false,
+      "tests": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 4557
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "6aded90d32141cad6b5963a2cc309b5c2677305194b301711d7785d0a6472243",
+      "scope": "capture-harness initial compile failure; zero tests ran"
+    },
+    {
+      "receipt": "build/Migration/20261010T191439Z-af21b7.xcresult",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 1789177,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureCompleteApp59()",
+            "name": "testCaptureCompleteApp59()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 1740000
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "2a9b47a3e24efc8755ea0d357aea1bac684b7e7544700f3258facd43afa849c0",
+      "scope": "fresh full-review capture/presentation or actual AppRoot evidence; not payment/device acceptance"
+    },
+    {
+      "receipt": "build/Migration/20261010T194439Z-89a168.xcresult",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 99791,
+        "cases": [
+          {
+            "identifier": "PopStudioCaptureTests/testCaptureFullReviewSheets59()",
+            "name": "testCaptureFullReviewSheets59()",
+            "className": "PopStudioCaptureTests",
+            "status": "passed",
+            "durationMs": 72000
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "65d11d36d7cdf502aa1eaca59ab58b8eeee8a199bb6eb5a5edc330c2fe8f69e9",
+      "scope": "fresh full-review capture/presentation or actual AppRoot evidence; not payment/device acceptance"
+    },
+    {
+      "receipt": "build/Migration/20261010T194647Z-d48d31.xcresult",
+      "success": true,
+      "tests": {
+        "total": 7,
+        "passed": 7,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 206651,
+        "cases": [
+          {
+            "identifier": "DisplayNameUITests/testKeyboardPrefillClearLimitAndConfirmation()",
+            "name": "testKeyboardPrefillClearLimitAndConfirmation()",
+            "className": "DisplayNameUITests",
+            "status": "passed",
+            "durationMs": 14000
+          },
+          {
+            "identifier": "DisplayNameUITests/testLargestTextKeepsCounterAndConfirmationAboveKeyboard()",
+            "name": "testLargestTextKeepsCounterAndConfirmationAboveKeyboard()",
+            "className": "DisplayNameUITests",
+            "status": "passed",
+            "durationMs": 9000
+          },
+          {
+            "identifier": "Founder58UITests/testSetMembersOpenProductDetailsAndReturnToSameSet()",
+            "name": "testSetMembersOpenProductDetailsAndReturnToSameSet()",
+            "className": "Founder58UITests",
+            "status": "passed",
+            "durationMs": 35000
+          },
+          {
+            "identifier": "Founder58UITests/testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "name": "testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "className": "Founder58UITests",
+            "status": "passed",
+            "durationMs": 52000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          },
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 28000
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "f736d130fbc8596ae00d00ec633f1dff6394d669e81f849c6a8d91b0f4161999",
+      "scope": "fresh full-review capture/presentation or actual AppRoot evidence; not payment/device acceptance"
+    },
+    {
+      "receipt": "build/Migration/20261010T195110Z-c56d1e.xcresult",
+      "success": true,
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 188702,
+        "cases": [
+          {
+            "identifier": "Founder58UITests/testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "name": "testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "className": "Founder58UITests",
+            "status": "passed",
+            "durationMs": 56000
+          },
+          {
+            "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 31000
+          }
+        ]
+      },
+      "configuration": "Release",
+      "destinations": [
+        "platform=iOS Simulator,id=C874A531-D104-4649-9FC7-AE75EF0D2608"
+      ],
+      "jsonSHA256": "ff2c47e27f0e025f3129271ae3821734e2d11732a03a6788f67af5fbeb56b539",
+      "scope": "fresh full-review capture/presentation or actual AppRoot evidence; not payment/device acceptance"
+    },
+    {
+      "receipt": "build/Migration/20261010T195542Z-5326a9.xcresult",
+      "success": true,
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 118049,
+        "cases": [
+          {
+            "identifier": "Founder58UITests/testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "name": "testWaysSheetUsesFullWidthAndScrollsToDone()",
+            "className": "Founder58UITests",
+            "status": "passed",
+            "durationMs": 42000
+          },
+          {
+            "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 29000
+          },
+          {
+            "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 27000
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "jsonSHA256": "f57a0ed242c439be61045b5a9e75ae48e3a5866453c69a2ad73410f84a195e49",
+      "scope": "fresh full-review capture/presentation or actual AppRoot evidence; not payment/device acceptance"
+    },
+    {
+      "receipt": "build/Migration/20261010T195800Z-eea3ea.xcresult",
+      "success": true,
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 36876,
+        "cases": [
+          {
+            "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+            "className": "TabViewportUITests",
+            "status": "passed",
+            "durationMs": 30000
+          }
+        ]
+      },
+      "configuration": "Debug",
+      "destinations": [
+        "platform=iOS Simulator,id=F9FFDE28-5F2C-4261-B092-30E676608A0E"
+      ],
+      "jsonSHA256": "cd4ac694587b17a87233c5bd6606fd4d92da19bfad4bb23f1d8316ad139e11f1",
+      "scope": "fresh full-review capture/presentation or actual AppRoot evidence; not payment/device acceptance"
+    }
+  ],
+  "priorRegression": {
+    "receipt": "build/Migration/20261010T185122Z-2ffb8f.xcresult",
+    "tests": 403,
+    "passed": 403,
+    "failed": 0,
+    "note": "Earlier candidate59 unit regression on the identical verified production inputs. Not rerun or relabelled as fresh full-review testing."
+  },
+  "priorEvidence": "../build-59/TESTS.json",
+  "allAccessibilityPassed": false,
+  "performance": {
+    "finding": "Expensive repeated ownership computation in Debug populated My Charms",
+    "sampledPath": "collectionChips -> owned -> isOwned -> purchasedHandles -> verifiedQuantity",
+    "shippingHitchMeasurement": "not claimed",
+    "productionOptimization": "not changed during frozen capture baseline"
+  },
+  "browser": {
+    "captures": 23,
+    "templates": "current production app-only web templates",
+    "service": "isolated loopback, synthetic Claire/Sam, signed simulated paid webhook",
+    "viewport": "393x852 CSS pixels at3x",
+    "method": "CDP viewport-sized document rectangles at recorded DOM offsets; no fabricated Safari chrome",
+    "imagesLoaded": true,
+    "liveShopifyOrderOrPaymentCreated": false,
+    "gallery": "ID filter, full-screen next/previous, contextual note persistence and readable JSON export checked via CUA. Download fallback exposes copyable JSON; no direct download success claimed."
+  },
+  "gates": [
+    "Shopify OAuth and cross-device customer flag",
+    "live payment/gift-card email and scheduling",
+    "Nat iOS26.6.1",
+    "Photos, VoiceOver, haptics/APNs",
+    "Safari/F50"
+  ],
+  "releaseAuthorization": "None in this request; no TestFlight upload, server deployment, merchant mutation or website change.",
+  "freshCaptureAssertions": "Nonblank imagery, dimensions and export generation. Content captures are not interaction tests; shipping-root runs are separately listed.",
+  "smallerPhoneSelectionNote": "The first smaller-device batch executed three real cases. Its unavailable offline selector executed no case; the correctly named offline test was run separately (20261010T195800Z-eea3ea), passed and is included above.",
+  "captureValidation": "45 exact duplicate additional continuation viewports omitted; foreground modal scrolling is not inferred from host/ancestor offsets. Source hashes retained in CAPTURE-VALIDATION.json. All69 app-controlled launch IDs remain captured."
+}

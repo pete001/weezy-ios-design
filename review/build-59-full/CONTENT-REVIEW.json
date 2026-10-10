@@ -1,0 +1,336 @@
+{
+  "capturedAt": "2026-10-10",
+  "method": "Read-only public product + app-only metadata snapshot; exact current server image resolver. Does not prove visual colour/hardware accuracy or image download success for every SKU.",
+  "visibleProducts": 72,
+  "appStories": 71,
+  "missingAppStory": [
+    {
+      "handle": "__customized-items",
+      "title": "__Customized-Items"
+    }
+  ],
+  "availableExactPhotoGaps": [
+    {
+      "handle": "boo-the-ghost-halloween-charm",
+      "title": "Boo the Ghost Charm | Boo Crew",
+      "variantID": "54899566313810",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "category": "charms",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "pamela-pumpkin-halloween-charm",
+      "title": "Pamela the Pumpkin Charm | Boo Crew",
+      "variantID": "54899258392914",
+      "option": "Silver - stainless steel (Non - Tarnish)",
+      "category": "charms",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271569234",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271602002",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271634770",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271667538",
+      "option": "Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271700306",
+      "option": "Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271733074",
+      "option": "Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / 18k gold pvd plated stainless steel (Non-Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "the-complete-boo-crew-halloween-charm-set",
+      "title": "The Complete Boo Crew \u2013 3 Halloween Charms + Necklace Chain Set",
+      "variantID": "54904271765842",
+      "option": "Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non-Tarnish) / Silver - stainless steel (Non - Tarnish)",
+      "category": "sets",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394788178",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / silver-and-black-glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394820946",
+      "option": "Silver - stainless steel (Non-Tarnish) / blue-glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394853714",
+      "option": "Silver - stainless steel (Non-Tarnish) / pink-glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "weezy-pop-terry-de-havilland-glitter-bolt-charm-earrings",
+      "title": "Glitter Lightning Bolt Earrings | Terry de Havilland Collaboration",
+      "variantID": "54746394886482",
+      "option": "Silver - stainless steel (Non-Tarnish) / gold-and-black-glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "pearly-starburst-huggies",
+      "title": "Pearly Starburst Huggies",
+      "variantID": "52527066251602",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "icon-cow-print-engraved-heart",
+      "title": "Icon Cow Print Engraved Heart",
+      "variantID": "51758189609298",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "icon-cow-print-engraved-heart",
+      "title": "Icon Cow Print Engraved Heart",
+      "variantID": "51758189642066",
+      "option": "No Hoops",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "icon-leopard-engraved-heart",
+      "title": "Icon Leopard Engraved Heart",
+      "variantID": "51758184792402",
+      "option": "No Hoops",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "tarot-card-huggies",
+      "title": "Tarot Card Huggie Hoop Earrings",
+      "variantID": "51716856316242",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "cowboy-boots-huggie-earrings",
+      "title": "Cowboy Boot Huggie Earrings \u2013 Fun, Bold and Festival-Ready",
+      "variantID": "52540762030418",
+      "option": "Charms only",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "cirque-tickets-huggies",
+      "title": "Cirque Ticket Huggie Earrings \u2013 Quirky, Fun and Festival-Ready",
+      "variantID": "49478810960210",
+      "option": "Charms only",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "cirque-freak-show-huggies",
+      "title": "Freak Show Earrings \u2013 Bold, Fun and Quirky Statement Jewellery",
+      "variantID": "49691608449362",
+      "option": "Charms only",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "icon-heart-chunky-engraved-wave-huggies",
+      "title": "Icon Heart Chunky Engraved Wave Huggies",
+      "variantID": "51757627572562",
+      "option": "Charms only",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "50287867822418",
+      "option": "\u00a315.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "49432938873170",
+      "option": "\u00a325.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "50287867855186",
+      "option": "\u00a330.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "49432938905938",
+      "option": "\u00a350.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "49432938938706",
+      "option": "\u00a3100.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "49432938971474",
+      "option": "\u00a3150.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "gift-card",
+      "title": "Jewellery Gift Card: Let Them Choose Their Favourite Pieces",
+      "variantID": "49432939004242",
+      "option": "\u00a3200.00",
+      "category": "accessories",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "cosmic-girl-uv-huggie-earrings",
+      "title": "Cosmic Girl UV Huggie Earrings \u2013 Fun, Quirky and Eye-Catching",
+      "variantID": "52526278246738",
+      "option": "Charms only",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672767826",
+      "option": "Charms only / Pink",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672800594",
+      "option": "Charms only / Charcoal",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672833362",
+      "option": "Charms only / Silver",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "bow-huggie-earrings",
+      "title": "Bow Huggie Earrings \u2013 Cute, Trendy and On-Point for Bow Season",
+      "variantID": "52573672866130",
+      "option": "Charms only / Gold",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "dont-be-jelly-huggie-earrings",
+      "title": "Don't Be Jelly Huggie Earrings",
+      "variantID": "49432928256338",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "smiley-huggie-earrings",
+      "title": "Smiley Huggie Earrings",
+      "variantID": "49432927764818",
+      "option": "18k gold pvd plated stainless steel (Non-Tarnish) / Light Small Glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "smiley-huggie-earrings",
+      "title": "Smiley Huggie Earrings",
+      "variantID": "49432927830354",
+      "option": "Silver - stainless steel (Non-Tarnish) / Light Small Glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "smiley-flower-huggie-earrings",
+      "title": "Smiley Flower Huggie Earrings",
+      "variantID": "49453640483154",
+      "option": "Silver - stainless steel (Non-Tarnish) / Blue",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "smiley-flower-huggie-earrings",
+      "title": "Smiley Flower Huggie Earrings",
+      "variantID": "50108938125650",
+      "option": "Silver - stainless steel (Non-Tarnish) / Bubble gum pink glitter",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    },
+    {
+      "handle": "giant-white-and-gold-reversible-bow-earrings",
+      "title": "Giant White and Gold Reversible Bow Earrings - Lightweight, Chunky, and Stunning!",
+      "variantID": "49722186105170",
+      "option": "Silver - stainless steel (Non-Tarnish)",
+      "category": "earrings",
+      "reason": "No visible exact-finish source is resolvable by the current web variant image policy; generic substitute not invented."
+    }
+  ],
+  "missingAppStoryIsInternalProduct": true,
+  "customerStoryJob": "No missing customer story identified by this metadata scan; __customized-items is an internal record and not a request for Nat to author copy."
+}

@@ -1,0 +1,10 @@
+{
+  "candidate": 59,
+  "productionSource": "900f7fcba7c033aa97027ff235f34c8929cd11e5",
+  "testflight": 58,
+  "serviceRuntime": 58,
+  "candidateUploaded": false,
+  "candidateServiceDeployed": false,
+  "appStoreSubmission": "draft; not submitted; selected build44",
+  "purpose": "Fresh full design review; no release authorization inferred"
+}
