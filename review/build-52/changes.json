@@ -1,0 +1,201 @@
+{
+  "build": 52,
+  "againstBuild": 51,
+  "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+  "fresh": [
+    {
+      "id": "L-01U-wishlist-removed-largest",
+      "file": "L-01U-wishlist-removed-largest.jpg",
+      "sha256": "f0b3147bcfb84ff160b2723366cb90b27136dc246228580abb8f2037ed86e328"
+    },
+    {
+      "id": "L-01S-wishlist-swipe-largest",
+      "file": "L-01S-wishlist-swipe-largest.jpg",
+      "sha256": "d5a33d9d59880ba09664f1cdfc32c56eecf391da391b57fb953eca3c3d2b1e3b"
+    },
+    {
+      "id": "L-01-wishlist-share-largest",
+      "file": "L-01-wishlist-share-largest.jpg",
+      "sha256": "1a76f7e8497f4f1f9cff92b54a3e5172fc414e6bdf2e5cf46bbb8d83eb647cbf"
+    },
+    {
+      "id": "L-01U-wishlist-removed",
+      "file": "L-01U-wishlist-removed.jpg",
+      "sha256": "69882d15c7ad6e6c492f8e3655c2914e618f9a158457545da083a8c2676e39d2"
+    },
+    {
+      "id": "L-01S-wishlist-swipe",
+      "file": "L-01S-wishlist-swipe.jpg",
+      "sha256": "991636bd7f171ea0c7e649a12a796a052c7b82f4147f9a0e5143329325a7c4ef"
+    },
+    {
+      "id": "L-01-wishlist-share",
+      "file": "L-01-wishlist-share.jpg",
+      "sha256": "bbc43c0097c4f49ace7e44d3a84e606584e45727e865d26094aa6e2e8b4c922a"
+    },
+    {
+      "id": "L-01U-wishlist-removed-largest-small",
+      "file": "L-01U-wishlist-removed-largest-small.jpg",
+      "sha256": "ee9eaf2f9c06ad0f3502707345bb70ebd3c5bf6a6beaaa02cdfa52004a1e66ea"
+    },
+    {
+      "id": "L-01S-wishlist-swipe-largest-small",
+      "file": "L-01S-wishlist-swipe-largest-small.jpg",
+      "sha256": "dd047b0db358f982af40e9cf78a7498a2830d0f2684976d74e5cacf37a0c6906"
+    },
+    {
+      "id": "L-01-wishlist-share-largest-small",
+      "file": "L-01-wishlist-share-largest-small.jpg",
+      "sha256": "43d880d735357cad3a5aaa32cb9713a0eb2e00ef907fec32b66b139421ba652d"
+    },
+    {
+      "id": "L-01U-wishlist-removed-small",
+      "file": "L-01U-wishlist-removed-small.jpg",
+      "sha256": "2544128eb06198ddaf26d908b7ffbc08e104b44c83b09026c348445727035224"
+    },
+    {
+      "id": "L-01S-wishlist-swipe-small",
+      "file": "L-01S-wishlist-swipe-small.jpg",
+      "sha256": "fb54e3e6709196d0e9686770af84e986bfc659fc2724b01d54800758035bbc05"
+    },
+    {
+      "id": "L-01-wishlist-share-small",
+      "file": "L-01-wishlist-share-small.jpg",
+      "sha256": "92317e877c3f6c3ccb451455a0fa298c4467e3964919ef48f5959ef43da23e5a"
+    },
+    {
+      "id": "G-35U-basket-removal-undo",
+      "file": "G-35U-basket-removal-undo.jpg",
+      "sha256": "1709d189add8f7c8c2a65765820ccd5ba7d211b5dff06f1f5a448741acf81a8f"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-more",
+      "file": "G-35U-basket-removal-undo-more.jpg",
+      "sha256": "0086da63bcd531afc1f809e3625eddb70821452b37a73d529bb9f57b3afd0509"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest",
+      "file": "G-35U-basket-removal-undo-largest.jpg",
+      "sha256": "734db4a72027e6323333f16e1d4e0d15e8a5bbf5d62e0237ca15141e97ed07cd"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest-more",
+      "file": "G-35U-basket-removal-undo-largest-more.jpg",
+      "sha256": "21b6a34bc9a9e38c016b3bca6c1a7e9d039d140e4368fa0740049a050a7acd6d"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest-more-2",
+      "file": "G-35U-basket-removal-undo-largest-more-2.jpg",
+      "sha256": "416b789887ac24453dff6704b0fb9e32a93fc53a0655134a2f6186f435425c61"
+    },
+    {
+      "id": "G-35U-basket-removal-undo-largest-more-3",
+      "file": "G-35U-basket-removal-undo-largest-more-3.jpg",
+      "sha256": "516b35c792dae3ef32363ed4fc72c9f3461a50ab620466744fb75077e4d3fab8"
+    }
+  ],
+  "changed": [
+    "L-01-wishlist-share",
+    "L-01-wishlist-share-largest",
+    "G-35U-basket-removal-undo"
+  ],
+  "added": [
+    "L-01U-wishlist-removed-largest",
+    "L-01S-wishlist-swipe-largest",
+    "L-01U-wishlist-removed",
+    "L-01S-wishlist-swipe",
+    "L-01U-wishlist-removed-largest-small",
+    "L-01S-wishlist-swipe-largest-small",
+    "L-01-wishlist-share-largest-small",
+    "L-01U-wishlist-removed-small",
+    "L-01S-wishlist-swipe-small",
+    "L-01-wishlist-share-small",
+    "G-35U-basket-removal-undo-more",
+    "G-35U-basket-removal-undo-largest",
+    "G-35U-basket-removal-undo-largest-more",
+    "G-35U-basket-removal-undo-largest-more-2",
+    "G-35U-basket-removal-undo-largest-more-3"
+  ],
+  "unchanged": [
+    "O-01-your-name",
+    "O-01-your-name-empty",
+    "O-01-your-name-limit",
+    "O-01-your-name-largest",
+    "G-06-purchases-found",
+    "O-01-your-name-largest-more",
+    "O-01-your-name-largest-more-2",
+    "O-01-your-name-limit-keyboard",
+    "O-01-your-name-empty-keyboard",
+    "O-01-your-name-keyboard",
+    "O-01-your-name-largest-keyboard-more",
+    "O-01-your-name-largest-keyboard",
+    "O-01-your-name-limit-keyboard-small",
+    "O-01-your-name-empty-keyboard-small",
+    "O-01-your-name-keyboard-small",
+    "O-01-your-name-largest-keyboard-more-small",
+    "O-01-your-name-largest-keyboard-small",
+    "B-03-share-card",
+    "B-04-badge-web-page",
+    "B-04-badge-web-page-more",
+    "B-03-badge-still",
+    "B-03-badge-moving",
+    "B-04-badge-og",
+    "L-07-feedback-sheet-filled",
+    "L-09-settings-feedback",
+    "L-09-settings-feedback-more",
+    "L-09-settings-feedback-more-2",
+    "L-09-settings-feedback-disabled",
+    "L-09-settings-feedback-disabled-more",
+    "L-10-testflight-welcome",
+    "L-07-feedback-sheet-filled-largest",
+    "L-07-feedback-sheet-filled-largest-more",
+    "L-07-feedback-sheet-filled-largest-more-2",
+    "L-09-settings-feedback-largest",
+    "L-09-settings-feedback-largest-more",
+    "L-09-settings-feedback-largest-more-2",
+    "L-09-settings-feedback-largest-more-3",
+    "L-09-settings-feedback-largest-more-4",
+    "L-09-settings-feedback-largest-more-5",
+    "L-09-settings-feedback-largest-more-6",
+    "L-09-settings-feedback-largest-more-7",
+    "L-09-settings-feedback-disabled-largest",
+    "L-09-settings-feedback-disabled-largest-more",
+    "L-09-settings-feedback-disabled-largest-more-2",
+    "L-09-settings-feedback-disabled-largest-more-3",
+    "L-09-settings-feedback-disabled-largest-more-4",
+    "L-09-settings-feedback-disabled-largest-more-5",
+    "L-09-settings-feedback-disabled-largest-more-6",
+    "L-10-testflight-welcome-largest",
+    "L-10-testflight-welcome-largest-more",
+    "ROOT-wishlist-preview",
+    "L-06-founding-badge",
+    "L-06-founding-badge-reduce-motion",
+    "L-09-settings-feedback-not-earned",
+    "L-09-settings-feedback-not-earned-more",
+    "L-09-settings-feedback-not-earned-more-2",
+    "L-07-feedback-sheet",
+    "L-07-feedback-sheet-largest",
+    "L-07-feedback-sheet-largest-more",
+    "L-07-feedback-sheet-largest-more-2",
+    "L-10-testflight-welcome-largest-more-2",
+    "L-07-feedback-sheet-offline",
+    "L-08-feedback-sent",
+    "L-08-feedback-sent-no-reply",
+    "ROOT-shop-preview",
+    "ROOT-my-charms-preview",
+    "ROOT-shop-release",
+    "B-03-founding-share-web",
+    "L-01-alerts-on-share",
+    "L-01-alerts-on-share-largest",
+    "L-01-alerts-on-share-largest-more",
+    "W-01-shared-wishlist",
+    "W-01-shared-wishlist-more",
+    "W-06-private-link",
+    "L-02-og-private",
+    "LIVE-feedback-inbox",
+    "LIVE-TestFlight-receipt",
+    "PHYSICAL-VoiceOver-haptics",
+    "F-50-Safari-associated-link"
+  ],
+  "note": "Compare L01 and G35U to retained build42/43 baseline where needed; build51 did not recapture them. Canonical new swipe IDs come from ZIP27. Small companions use the same final four-piece fixture."
+}

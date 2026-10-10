@@ -1,0 +1,23 @@
+{
+  "build": 52,
+  "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+  "archiveSHA256": "a0401ac8748f5c32837530668d69168bc4eec1795c9b871d4d3f6f9c7b57fec7",
+  "authority": "ZIP27 DEV-INSTRUCTIONS.md; Launch App Gallery L01S/L01U",
+  "instructionsSHA256": "c395f12547d0c1575f4c16c9ebe03830e2a25d3699e6124e2a5d0105cfe6bfed",
+  "retouched": false,
+  "productionMutations": false,
+  "nativeUploaded": false,
+  "video": {
+    "source": "build/Wishlist52/swipe-accepted.mp4",
+    "sourceStart": 1791626840.154906,
+    "gestureMarker": 1791626856.491446,
+    "trimStart": 14.83653998374939,
+    "durationSeconds": 5,
+    "speed": 1,
+    "fixture": "Actual AppRoot, four gold charm guest records; Sun removal and Undo; no OAuth",
+    "note": "Includes the quiet before state, full swipe, toast and restored list. Ends before XCTest terminates the app; no acceleration or compositing.",
+    "file": "L-01S-swipe-remove-undo.mp4",
+    "sha256": "5e2fa346fdce919fc0996ac8617298bafa08596b5a322c26d338f5a6b225d6f3"
+  },
+  "platformBoundary": "Native swipe geometry/caption/translation/threshold remains iOS controlled. Blush tint, original ink icon, full swipe and custom accessibility action are implemented. App light haptic occurs when action commits."
+}

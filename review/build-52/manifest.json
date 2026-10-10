@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "L-01U-wishlist-removed-largest",
+    "build": 52,
+    "file": "L-01U-wishlist-removed-largest.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27 / Weezy Pop QA",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2563
+    ],
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "accessibility5",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100720Z-b5322e.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "f0b3147bcfb84ff160b2723366cb90b27136dc246228580abb8f2037ed86e328",
+    "sourceSHA256": "4a6611a3abfc289578a42d7148964f0047eeb1b22bbd8dcca82bd66d8d2a83e8",
+    "retouched": false
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest",
+    "build": 52,
+    "file": "L-01S-wishlist-swipe-largest.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27 / Weezy Pop QA",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2563
+    ],
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "accessibility5",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100720Z-b5322e.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "d5a33d9d59880ba09664f1cdfc32c56eecf391da391b57fb953eca3c3d2b1e3b",
+    "sourceSHA256": "06371830a9dfabad0aa354ef010b31950003d0c77c100a49bdb5ca686dbb7af4",
+    "retouched": false
+  },
+  {
+    "id": "L-01-wishlist-share-largest",
+    "build": 52,
+    "file": "L-01-wishlist-share-largest.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27 / Weezy Pop QA",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2563
+    ],
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "accessibility5",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100720Z-b5322e.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "1a76f7e8497f4f1f9cff92b54a3e5172fc414e6bdf2e5cf46bbb8d83eb647cbf",
+    "sourceSHA256": "fbe6a20ce9bb7229e1fcc79cb059a15c5dfc7b77f949668e50582bec6d6a1900",
+    "retouched": false
+  },
+  {
+    "id": "L-01U-wishlist-removed",
+    "build": 52,
+    "file": "L-01U-wishlist-removed.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27 / Weezy Pop QA",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2563
+    ],
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "large/default",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100720Z-b5322e.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "69882d15c7ad6e6c492f8e3655c2914e618f9a158457545da083a8c2676e39d2",
+    "sourceSHA256": "17a946f366141026cd898368299dd202c2e5fff58ae271e3cdc66e8da5f7898f",
+    "retouched": false
+  },
+  {
+    "id": "L-01S-wishlist-swipe",
+    "build": 52,
+    "file": "L-01S-wishlist-swipe.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27 / Weezy Pop QA",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2563
+    ],
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "large/default",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100720Z-b5322e.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "991636bd7f171ea0c7e649a12a796a052c7b82f4147f9a0e5143329325a7c4ef",
+    "sourceSHA256": "6178b195be80b6fbde58222f28962ff05a5b8123ddce95d5b5c175d609308f9c",
+    "retouched": false
+  },
+  {
+    "id": "L-01-wishlist-share",
+    "build": 52,
+    "file": "L-01-wishlist-share.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27 / Weezy Pop QA",
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "scale": 2.9328358208955225,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2563
+    ],
+    "sourcePixels": [
+      1206,
+      2622
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "large/default",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100720Z-b5322e.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "bbc43c0097c4f49ace7e44d3a84e606584e45727e865d26094aa6e2e8b4c922a",
+    "sourceSHA256": "aaff30f4c23a9ae3d526d076ca6565cbaee9ab733c86cfc0d595a8db7c0b2314",
+    "retouched": false
+  },
+  {
+    "id": "L-01U-wishlist-removed-largest-small",
+    "build": 52,
+    "file": "L-01U-wishlist-removed-largest-small.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1170,
+      2532
+    ],
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "accessibility5",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100829Z-01b0ef.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "ee9eaf2f9c06ad0f3502707345bb70ebd3c5bf6a6beaaa02cdfa52004a1e66ea",
+    "sourceSHA256": "50827ca944e5c4606f2639d941dde642620ba0aaaf5af00d5308498416c9481c",
+    "retouched": false
+  },
+  {
+    "id": "L-01S-wishlist-swipe-largest-small",
+    "build": 52,
+    "file": "L-01S-wishlist-swipe-largest-small.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1170,
+      2532
+    ],
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "accessibility5",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100829Z-01b0ef.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "dd047b0db358f982af40e9cf78a7498a2830d0f2684976d74e5cacf37a0c6906",
+    "sourceSHA256": "9df5e2f0280e30bd51ca98966a15eeb806938288568120b5f805278c8391b4a8",
+    "retouched": false
+  },
+  {
+    "id": "L-01-wishlist-share-largest-small",
+    "build": 52,
+    "file": "L-01-wishlist-share-largest-small.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1170,
+      2532
+    ],
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "accessibility5",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100829Z-01b0ef.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "43d880d735357cad3a5aaa32cb9713a0eb2e00ef907fec32b66b139421ba652d",
+    "sourceSHA256": "2d35bcb6130751ba552e85cc3d85a4dd47deccbb0d11e8d2fc9ee3713ee3529d",
+    "retouched": false
+  },
+  {
+    "id": "L-01U-wishlist-removed-small",
+    "build": 52,
+    "file": "L-01U-wishlist-removed-small.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1170,
+      2532
+    ],
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "large/default",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100829Z-01b0ef.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "2544128eb06198ddaf26d908b7ffbc08e104b44c83b09026c348445727035224",
+    "sourceSHA256": "ed2b4b54306cf0667abb6d559913ea7ada4ef6e85cb106d96db2f29fcb90fa12",
+    "retouched": false
+  },
+  {
+    "id": "L-01S-wishlist-swipe-small",
+    "build": 52,
+    "file": "L-01S-wishlist-swipe-small.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1170,
+      2532
+    ],
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "large/default",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100829Z-01b0ef.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "fb54e3e6709196d0e9686770af84e986bfc659fc2724b01d54800758035bbc05",
+    "sourceSHA256": "dd246612edce37cd5feeddf5e238d7333e477e7c1596bf67de4c8261ab6c00c3",
+    "retouched": false
+  },
+  {
+    "id": "L-01-wishlist-share-small",
+    "build": 52,
+    "file": "L-01-wishlist-share-small.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone17e / iOS27",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1170,
+      2532
+    ],
+    "sourcePixels": [
+      1170,
+      2532
+    ],
+    "captureKind": "shipping-root-ui",
+    "textSize": "large/default",
+    "fixture": "Claire guest view-only records: four gold charms, three remain after Sun removal. Current bundled product facts; no Shopify identity or gift. Actual native List and AppRoot.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T100829Z-01b0ef.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Untagged source; sRGB tagged",
+    "jpegQuality": 80,
+    "sha256": "92317e877c3f6c3ccb451455a0fa298c4467e3964919ef48f5959ef43da23e5a",
+    "sourceSHA256": "12983164c1e82ce6c0efe81322825e607402eba82798fb4efd7ad6fd1f935c18",
+    "retouched": false
+  },
+  {
+    "id": "G-35U-basket-removal-undo",
+    "build": 52,
+    "file": "G-35U-basket-removal-undo.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "textSize": "large/default",
+    "fixture": "Synthetic empty basket following Small Star removal, shared PopRemovalToast; capture directly seeds the pre-expiry state, shipping expiry unchanged5s. No quote/cart/checkout request. Content host, not full-screen presentation evidence.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T101400Z-f666b6.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "jpegQuality": 80,
+    "sha256": "1709d189add8f7c8c2a65765820ccd5ba7d211b5dff06f1f5a448741acf81a8f",
+    "sourceSHA256": "f50d1ec9e40298522328cd1abe5e26f54cd2fbe1d31f623f25a9d05a7e21c18d",
+    "retouched": false
+  },
+  {
+    "id": "G-35U-basket-removal-undo-more",
+    "build": 52,
+    "file": "G-35U-basket-removal-undo-more.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content-continuation",
+    "textSize": "large/default",
+    "fixture": "Genuine overlapping basket scroll; directly seeded pre-expiry state in isolated content host; shipping5s unchanged.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T101400Z-f666b6.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "jpegQuality": 80,
+    "sha256": "0086da63bcd531afc1f809e3625eddb70821452b37a73d529bb9f57b3afd0509",
+    "sourceSHA256": "d0204c29222ad2c827780892bece91d10218dd1d7521bb511ee6b15d9e44946a",
+    "retouched": false,
+    "parentID": "G-35U-basket-removal-undo",
+    "adjustedInsetBottom": 0,
+    "adjustedInsetTop": 0,
+    "filename": "G-35U-basket-removal-undo-normal-scroll-1.png",
+    "parentFilename": "G-35U-basket-removal-undo-normal.png",
+    "scrollHeight": 540,
+    "scrollOffset": 56,
+    "viewportHeight": 484,
+    "visibleContentHeight": 484
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest",
+    "build": 52,
+    "file": "G-35U-basket-removal-undo-largest.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content",
+    "textSize": "accessibility5",
+    "fixture": "Synthetic empty basket following Small Star removal, shared PopRemovalToast; capture directly seeds the pre-expiry state, shipping expiry unchanged5s. No quote/cart/checkout request. Content host, not full-screen presentation evidence.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T101400Z-f666b6.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "jpegQuality": 80,
+    "sha256": "734db4a72027e6323333f16e1d4e0d15e8a5bbf5d62e0237ca15141e97ed07cd",
+    "sourceSHA256": "1ac9a93e9b70caab70c09958bb883737458a81d8e709d2499cac2ab538611c1e",
+    "retouched": false
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more",
+    "build": 52,
+    "file": "G-35U-basket-removal-undo-largest-more.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content-continuation",
+    "textSize": "accessibility5",
+    "fixture": "Genuine overlapping basket scroll; directly seeded pre-expiry state in isolated content host; shipping5s unchanged.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T101400Z-f666b6.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "jpegQuality": 80,
+    "sha256": "21b6a34bc9a9e38c016b3bca6c1a7e9d039d140e4368fa0740049a050a7acd6d",
+    "sourceSHA256": "ab4d780aa7eaa81e336b5438a99bddac4ddfd7a76f96468a2a3374fc36ca4859",
+    "retouched": false,
+    "parentID": "G-35U-basket-removal-undo-largest",
+    "adjustedInsetBottom": 34,
+    "adjustedInsetTop": 62,
+    "filename": "G-35U-basket-removal-undo-largest-normal-scroll-1.png",
+    "parentFilename": "G-35U-basket-removal-undo-largest-normal.png",
+    "scrollHeight": 2472.333333333333,
+    "scrollOffset": 584,
+    "viewportHeight": 852,
+    "visibleContentHeight": 756
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-2",
+    "build": 52,
+    "file": "G-35U-basket-removal-undo-largest-more-2.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content-continuation",
+    "textSize": "accessibility5",
+    "fixture": "Genuine overlapping basket scroll; directly seeded pre-expiry state in isolated content host; shipping5s unchanged.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T101400Z-f666b6.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "jpegQuality": 80,
+    "sha256": "416b789887ac24453dff6704b0fb9e32a93fc53a0655134a2f6186f435425c61",
+    "sourceSHA256": "9bd11ed520001f049faec659edba3b32f15cdb3bb2bf528fc0f88816e8120072",
+    "retouched": false,
+    "parentID": "G-35U-basket-removal-undo-largest",
+    "adjustedInsetBottom": 34,
+    "adjustedInsetTop": 62,
+    "filename": "G-35U-basket-removal-undo-largest-normal-scroll-2.png",
+    "parentFilename": "G-35U-basket-removal-undo-largest-normal.png",
+    "scrollHeight": 2472.333333333333,
+    "scrollOffset": 1230,
+    "viewportHeight": 852,
+    "visibleContentHeight": 756
+  },
+  {
+    "id": "G-35U-basket-removal-undo-largest-more-3",
+    "build": 52,
+    "file": "G-35U-basket-removal-undo-largest-more-3.jpg",
+    "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+    "device": "iPhone18Pro / iOS27; controlled393x852pt3x content host",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scale": 3.0,
+    "sourceScale": 3,
+    "pixels": [
+      1179,
+      2556
+    ],
+    "sourcePixels": [
+      1179,
+      2556
+    ],
+    "captureKind": "native-content-continuation",
+    "textSize": "accessibility5",
+    "fixture": "Genuine overlapping basket scroll; directly seeded pre-expiry state in isolated content host; shipping5s unchanged.",
+    "captureResult": "/Users/beedauwl/Documents/Codex/2026-10-06/i-w/outputs/WeezyPop/build/Migration/20261010T101400Z-f666b6.xcresult",
+    "colourProfile": "sRGB",
+    "profileConversion": "Embedded source profile to sRGB",
+    "jpegQuality": 80,
+    "sha256": "516b35c792dae3ef32363ed4fc72c9f3461a50ab620466744fb75077e4d3fab8",
+    "sourceSHA256": "7c33ec05f7a8e3082aed48535c0d5df018c0df9313e3365e910b99bb7bcc2772",
+    "retouched": false,
+    "parentID": "G-35U-basket-removal-undo-largest",
+    "adjustedInsetBottom": 34,
+    "adjustedInsetTop": 62,
+    "filename": "G-35U-basket-removal-undo-largest-normal-scroll-3.png",
+    "parentFilename": "G-35U-basket-removal-undo-largest-normal.png",
+    "scrollHeight": 2472.333333333333,
+    "scrollOffset": 1654.3333333333333,
+    "viewportHeight": 852,
+    "visibleContentHeight": 756
+  },
+  {
+    "id": "O-01-your-name",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-empty",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-limit",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "G-06-purchases-found",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-keyboard",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-limit-keyboard-small",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-empty-keyboard-small",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-keyboard-small",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-more-small",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "O-01-your-name-largest-keyboard-small",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-03-share-card",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-04-badge-web-page",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-04-badge-web-page-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-03-badge-still",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-03-badge-moving",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-04-badge-og",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-10-testflight-welcome",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-filled-largest-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-3",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-4",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-5",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-6",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-largest-more-7",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-3",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-4",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-5",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-disabled-largest-more-6",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "ROOT-wishlist-preview",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-06-founding-badge",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-06-founding-badge-reduce-motion",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-09-settings-feedback-not-earned-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-largest-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-10-testflight-welcome-largest-more-2",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-07-feedback-sheet-offline",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-08-feedback-sent",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-08-feedback-sent-no-reply",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "ROOT-shop-preview",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "ROOT-my-charms-preview",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "ROOT-shop-release",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "B-03-founding-share-web",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-01-alerts-on-share",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-01-alerts-on-share-largest-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "W-01-shared-wishlist",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "W-01-shared-wishlist-more",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "W-06-private-link",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "L-02-og-private",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "LIVE-feedback-inbox",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "LIVE-TestFlight-receipt",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "PHYSICAL-VoiceOver-haptics",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  },
+  {
+    "id": "F-50-Safari-associated-link",
+    "build": 52,
+    "unchanged": true,
+    "notCaptured": true,
+    "previousBuild": 51,
+    "reference": "../build-51/manifest.json",
+    "reason": "Outside ZIP27 swipe/removal scope; historical evidence retained, not recaptured. Existing live-account, feedback, physical-device and Safari limits remain."
+  }
+]

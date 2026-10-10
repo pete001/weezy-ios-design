@@ -1,6 +1,10 @@
 # Weezy Pop · public design review
 
-**Current handover:** [Review50 white-logo follow-up](review/build-50/README.md). Fresh B03/B04 and OG image, plus exact Still/Moving exports. [Gallery](review/build-50/index.html) · [Response](review/build-50/RESPONSE.md). Native50 is review-only; released49 remains unchanged. The app-only white-logo header is live.
+**Current handover:** [Review52 wishlist swipe removal](review/build-52/README.md).18 fresh captures, normal/largest/smaller-device states and a five-second native swipe/removal/Undo recording. [Gallery](review/build-52/index.html) · [Response](review/build-52/RESPONSE.md) · [Tests](review/build-52/TESTS.json). Native swipe geometry and threshold remain openly marked partial. Candidate52 has not been uploaded or deployed.
+
+**Previous handover51:** [Editable name onboarding](review/build-51/README.md). Its authenticated name-endpoint rollout remains a prerequisite for a future binary release.
+
+**Previous handover50:** [Review50 white-logo follow-up](review/build-50/README.md). Fresh B03/B04 and OG image, plus exact Still/Moving exports. [Gallery](review/build-50/index.html) · [Response](review/build-50/RESPONSE.md). Native50 is review-only; released49 remains unchanged. The app-only white-logo header is live.
 
 **Previous handover49:** [Review49 final polish and feedback safeguard](review/build-49/README.md). F129–131 are fixed, with28 fresh captures and largest-text continuations. Feedback entry points hide until Resend is configured; enabled-form captures are reference-only. [Gallery](review/build-49/index.html) · [Responses](review/build-49/RESPONSE.md) · [Verified release record](review/build-49/RELEASE.json).
 

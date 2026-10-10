@@ -1,0 +1,141 @@
+{
+  "build": 52,
+  "sourceCommit": "994fbff1fa78e759de813c71e9c33af147cd6a67",
+  "checks": [
+    {
+      "stage": "release-root",
+      "bundle": "20261010T100126Z-3924b3.xcresult",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 128891
+      }
+    },
+    {
+      "stage": "accepted-models",
+      "bundle": "20261010T100655Z-a64141.xcresult",
+      "tests": {
+        "total": 26,
+        "passed": 26,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 22555
+      }
+    },
+    {
+      "stage": "accepted-primary",
+      "bundle": "20261010T100720Z-b5322e.xcresult",
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 66671
+      }
+    },
+    {
+      "stage": "accepted-small",
+      "bundle": "20261010T100829Z-01b0ef.xcresult",
+      "tests": {
+        "total": 2,
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 54121
+      }
+    },
+    {
+      "stage": "accepted-basket",
+      "bundle": "20261010T101400Z-f666b6.xcresult",
+      "tests": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 17620
+      }
+    },
+    {
+      "stage": "services",
+      "passed": 525,
+      "failed": 0,
+      "skipped": 0,
+      "receipt": "build/UserSimulation/20261010T095241Z-6e3b84",
+      "note": "Existing complete suite, before the additional new regression test."
+    },
+    {
+      "stage": "secret-gift-removal",
+      "passed": 13,
+      "failed": 0,
+      "skipped": 0,
+      "receipt": "build/Wishlist52/secret-gift-regression.log",
+      "note": "Account wishlist file including the additional secretly-paid-gift deletion regression; overlaps12 existing service tests."
+    },
+    {
+      "stage": "primary-ui-viewport-regression",
+      "bundle": "20261010T095743Z-4e9cce.xcresult",
+      "tests": {
+        "total": 4,
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 109463
+      },
+      "note": "Earlier fixture iteration; includes shipping AppRoot tab-edge check. Wishlist tests overlap final accepted-primary/small checks; do not add these as unique passes."
+    },
+    {
+      "stage": "small-ui-viewport-regression",
+      "bundle": "20261010T095935Z-65a674.xcresult",
+      "tests": {
+        "total": 3,
+        "passed": 3,
+        "failed": 0,
+        "skipped": 0,
+        "expectedFailures": 0,
+        "durationMs": 107718
+      },
+      "note": "Earlier fixture iteration; includes shipping AppRoot tab-edge check. Wishlist tests overlap final accepted-primary/small checks; do not add these as unique passes."
+    }
+  ],
+  "scope": [
+    "Partial swipe, tap Remove, full swipe and exact-position Undo on primary/small native devices",
+    "AppRoot tabs at normal/largest and optimized Release",
+    "Independent undo deadlines, durable intent/relaunch, account switching, in-flight refresh, offline retry and gift secrecy",
+    "Shared basket undo toast normal/largest content captures"
+  ],
+  "retainedFailures": [
+    "20261010T095126Z-eee9d1: nested fixture needed explicit MainActor; corrected",
+    "20261010T095411Z-38f90b: capture used obsolete basket initializer; corrected",
+    "20261010T095446Z-e4e84d: normal gesture selected photo button instead of whole native cell; largest action/root passed; whole-cell gestures corrected. Native list chevrons also removed.",
+    "20261010T095701Z-9f0407: new regression declaration newline compile error; corrected",
+    "20261010T100415Z-f37420: largest-text test fling overshot its target cell; smaller incremental scroll gestures corrected; normal/recording passed"
+  ],
+  "notVerified": [
+    "Live Shopify account/OAuth or new app-only name endpoint deployment",
+    "Physical VoiceOver, haptic threshold sensation, APNs, payment or Safari associated links",
+    "Exact60percent threshold or native action typography/geometry: iOS owned, no supported SwiftUI override",
+    "Broad accessibility audit/performance certification"
+  ],
+  "release": {
+    "nativeReleased": 49,
+    "nativeCandidate": 52,
+    "uploaded": false,
+    "serviceRuntime": 50,
+    "storeDraft": 44,
+    "storeSubmitted": false
+  },
+  "galleryVerification": {
+    "offlineAssets": "passed",
+    "viewer": "full-window screenshot viewer opened successfully",
+    "contextualNotes": "Saved locally; changing screen and returning restored the same screen note; temporary test note cleared",
+    "notesDelivery": "Local browser storage only, export required"
+  }
+}
