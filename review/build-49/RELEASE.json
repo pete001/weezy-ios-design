@@ -1,0 +1,79 @@
+{
+  "version": "1.0",
+  "build": 49,
+  "buildId": "9d1600fa-5d0c-4a4f-a717-50cdf3acd467",
+  "verifiedAt": "2026-10-10T07:19:12.628250+00:00",
+  "processingState": "VALID",
+  "betaReviewState": "APPROVED",
+  "internalBuildState": "IN_BETA_TESTING",
+  "externalBuildState": "IN_BETA_TESTING",
+  "groups": [
+    "Lou & Nat",
+    "Weezy Pop Internal"
+  ],
+  "autoNotifyEnabled": true,
+  "notificationPreferenceChanged": false,
+  "nativeSourceCommit": "776df7b5847a958d77bafa2dc81a6eb846561e64",
+  "productionInputCount": 258,
+  "ipaSHA256": "9f32e4124bd166ec1946eb598b4e52e3f8b697ef6584c09ef314e419cefcc2f6",
+  "dSYMUUID": "10439D47-D4D9-3FA6-AFDB-11A10FA8EAAC",
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "appleValidationPassed": true,
+  "uploadChecksum": "Apple provided no independent checksum; local SHA256 rechecked before and after upload",
+  "sdk": "iphoneos27.0",
+  "minimumIOS": "17.0",
+  "testNotesLocalesVerified": [
+    "en-US",
+    "en-GB"
+  ],
+  "testflightURL": "https://testflight.apple.com/join/5m9QyaSa",
+  "appStoreDraft": {
+    "build": 44,
+    "state": "PREPARE_FOR_SUBMISSION",
+    "submitted": false
+  },
+  "appOnlyService": {
+    "revision": 49,
+    "state": "started",
+    "region": "lhr",
+    "machine": "83d477a7516608",
+    "image": "deployment-01M4J9E2AEK49ZB4M12HAFE9WM",
+    "digest": "sha256:ec560edc7b633aec65b9c8c9f52d44f8aa60b768df97801f0e2433c041fde0f5",
+    "feedbackEnabled": false
+  },
+  "privacy": {
+    "publishedDataTypeCount": 10,
+    "newType": "Performance Data",
+    "purpose": "App Functionality",
+    "linked": false,
+    "tracking": false
+  },
+  "privateMonitor": {
+    "defaultBranchCommit": "3a343c0a1ec1e39034002fea5031c94cd6e2c98a",
+    "workflowRun": 38033676673,
+    "conclusion": "success",
+    "samePermissions": true
+  },
+  "scope": [
+    "Review47/48 approved Founding Collector, guest-list welcome, PREVIEW receipt gate and feedback preparation",
+    "Review48 F129\u2013131 polish",
+    "Feedback entry points hidden until live sending is explicitly enabled",
+    "Approved app-only web polish F125\u2013128",
+    "Optional fixed error context and sampled rounded timing measurements"
+  ],
+  "websiteOrPublicShopifyMutated": false,
+  "noTestPurchaseMailShareOrNotificationCreated": true,
+  "merchantDecisions": [
+    "Confirm Founding Collector cutoff: handoff default31January2027; inbox already confirmed"
+  ],
+  "acceptanceBoundaries": [
+    "Real TestFlight receipt/welcome/celebration lifecycle on a phone",
+    "Shopify OAuth/payment/order and gift sync on a phone",
+    "APNs, Messages/WhatsApp/Instagram link previews, VoiceOver and haptics",
+    "F50 branded associated domain and Safari reopening",
+    "Full accessibility acceptance track",
+    "Physical Release memory and animation-hitch profiling",
+    "Resend sender/inbox setup and delivery verification before enabling feedback"
+  ]
+}

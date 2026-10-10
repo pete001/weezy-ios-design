@@ -1,0 +1,703 @@
+{
+  "review": 49,
+  "native": [
+    {
+      "name": "capture-and-feedback",
+      "resultBundle": "20261010T065341Z-e5e9e4.xcresult",
+      "reportSHA256": "17fb31bcce47108bfb7091c97edbe1f607f526b221276630cdba531b7f40ba6a",
+      "total": 13,
+      "passed": 13,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 65040,
+      "cases": [
+        {
+          "identifier": "PopStudioCaptureTests/testCaptureReview49()",
+          "name": "testCaptureReview49()",
+          "className": "PopStudioCaptureTests",
+          "status": "passed",
+          "durationMs": 27000
+        },
+        {
+          "identifier": "StudioFeedbackTests/testAcknowledgementRateLimitAndConsentPayload()",
+          "name": "testAcknowledgementRateLimitAndConsentPayload()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 56
+        },
+        {
+          "identifier": "StudioFeedbackTests/testFeedbackRequiresConfirmedAvailabilityAndDisabledNeverQueues()",
+          "name": "testFeedbackRequiresConfirmedAvailabilityAndDisabledNeverQueues()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 18
+        },
+        {
+          "identifier": "StudioFeedbackTests/testFoundingGrantIsSeparateFromPurchasesAndRanksFirst()",
+          "name": "testFoundingGrantIsSeparateFromPurchasesAndRanksFirst()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 5
+        },
+        {
+          "identifier": "StudioFeedbackTests/testOfflineQueueIsBoundedProtectedIdentityScopedAndExpires()",
+          "name": "testOfflineQueueIsBoundedProtectedIdentityScopedAndExpires()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "StudioFeedbackTests/testPreviewReceiptAndCelebrationOrdering()",
+          "name": "testPreviewReceiptAndCelebrationOrdering()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 31
+        },
+        {
+          "identifier": "StudioFeedbackTests/testSignOutInvalidatesLateAcknowledgement()",
+          "name": "testSignOutInvalidatesLateAcknowledgement()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 1
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testDiagnosticsAreOptInAndConsentWithdrawalPurgesQueue()",
+          "name": "testDiagnosticsAreOptInAndConsentWithdrawalPurgesQueue()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 20
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testFixedFailureReasonAndTrailNeverCaptureErrorDescriptions()",
+          "name": "testFixedFailureReasonAndTrailNeverCaptureErrorDescriptions()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 12
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testMeasurementsAreSampledRoundedBoundedAndConsentScoped()",
+          "name": "testMeasurementsAreSampledRoundedBoundedAndConsentScoped()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 28
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueuedReportsExpireBeforeTransport()",
+          "name": "testQueuedReportsExpireBeforeTransport()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 6
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueueSurvivesRestartAndIsBoundedWithoutAccountIdentifiers()",
+          "name": "testQueueSurvivesRestartAndIsBoundedWithoutAccountIdentifiers()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 71
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testTransportRetriesWithoutLosingNewEventsAndNeverSendsWhenOff()",
+          "name": "testTransportRetriesWithoutLosingNewEventsAndNeverSendsWhenOff()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 8
+        }
+      ]
+    },
+    {
+      "name": "release-models",
+      "resultBundle": "20261010T065519Z-1f6b6a.xcresult",
+      "reportSHA256": "e22799b12f57847a0b37600b35ed7734184856611cae63e72c4962d900d7b633",
+      "total": 56,
+      "passed": 56,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 13335,
+      "cases": [
+        {
+          "identifier": "AccountScopeTests/testCancelledIntentAndDirectAccountSwitchNeverResumeAnotherWish()",
+          "name": "testCancelledIntentAndDirectAccountSwitchNeverResumeAnotherWish()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 21
+        },
+        {
+          "identifier": "AccountScopeTests/testCelebrationHistoryIsVerifiedVersionAndAccountScoped()",
+          "name": "testCelebrationHistoryIsVerifiedVersionAndAccountScoped()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 9
+        },
+        {
+          "identifier": "AccountScopeTests/testDesignFinishNameAndPhotoRestoreOnlyForTheirOwner()",
+          "name": "testDesignFinishNameAndPhotoRestoreOnlyForTheirOwner()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 16
+        },
+        {
+          "identifier": "AccountScopeTests/testIdentityChangeClearsUndoAndPendingPersonalPresentationBeforeAnyWrite()",
+          "name": "testIdentityChangeClearsUndoAndPendingPersonalPresentationBeforeAnyWrite()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 32
+        },
+        {
+          "identifier": "AccountScopeTests/testMissingSavedFinishDoesNotSilentlySubstituteAnotherFinish()",
+          "name": "testMissingSavedFinishDoesNotSilentlySubstituteAnotherFinish()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 13
+        },
+        {
+          "identifier": "AccountScopeTests/testSignInResumesOnlyTheExplicitWishAndOnlyOnce()",
+          "name": "testSignInResumesOnlyTheExplicitWishAndOnlyOnce()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 11
+        },
+        {
+          "identifier": "AccountScopeTests/testWishlistNeverCrossesAccountsAndLegacyGuestDataIsRetained()",
+          "name": "testWishlistNeverCrossesAccountsAndLegacyGuestDataIsRetained()",
+          "className": "AccountScopeTests",
+          "status": "passed",
+          "durationMs": 13
+        },
+        {
+          "identifier": "AchievementsV25Tests/testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+          "name": "testBundledCatalogueUsesAuthoritativeMerchantSetsInsteadOfHistoricalDrafts()",
+          "className": "AchievementsV25Tests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "AchievementsV25Tests/testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+          "name": "testDropDayUsesStoreDayAndNeverInfersFromPublicationOrOwnership()",
+          "className": "AchievementsV25Tests",
+          "status": "passed",
+          "durationMs": 1
+        },
+        {
+          "identifier": "AchievementsV25Tests/testFinishRestrictedSetRequiresExactQuantityEvidence()",
+          "name": "testFinishRestrictedSetRequiresExactQuantityEvidence()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+          "name": "testLockedBadgeCannotProduceVerifiedShareAndEarnedBadgeExportsAt1080x1920()",
+          "className": "AchievementsV25Tests",
+          "status": "passed",
+          "durationMs": 68
+        },
+        {
+          "identifier": "AchievementsV25Tests/testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+          "name": "testMilestonesCountDistinctVerifiedHandlesAndCapProgress()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+          "name": "testMissingMemberRejectsWholeSetAndCannotAwardBadge()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testRenderAllFourDesignerShareFixturesForVisualQA()",
+          "name": "testRenderAllFourDesignerShareFixturesForVisualQA()",
+          "className": "AchievementsV25Tests",
+          "status": "passed",
+          "durationMs": 490
+        },
+        {
+          "identifier": "AchievementsV25Tests/testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+          "name": "testSnapGiftAndSetExportsRequireEvidenceAndKeepNeutralMissingPhotoStickers()",
+          "className": "AchievementsV25Tests",
+          "status": "passed",
+          "durationMs": 100
+        },
+        {
+          "identifier": "AchievementsV25Tests/testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+          "name": "testStoreCollectionsCannotCreateCuratedSetsOrTwoPieceBadges()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testUnknownServiceEvidenceCannotEarnBadges()",
+          "name": "testUnknownServiceEvidenceCannotEarnBadges()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+          "name": "testUnstartedSetCannotEarnBadgeFromOwnedProductsWithDifferentFinishes()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+          "name": "testVerifiedCuratedSetCompletionUsesExactAuthoredMembership()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "AchievementsV25Tests/testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+          "name": "testVerifiedMetaobjectListIsAuthoritativeEvenWhenEmpty()",
+          "className": "AchievementsV25Tests",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testBadgeMovingExportIsFourSecondsAt1080x1920()",
+          "name": "testBadgeMovingExportIsFourSecondsAt1080x1920()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 1000
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+          "name": "testBadgeStillSquareAndOpenGraphFormatsHaveExactDimensions()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 19
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+          "name": "testEarnQueueNeedsOrderSyncAndNeverCountsPendingOrLockedBadges()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+          "name": "testEarnQueueQueuesMultipleBadgesAndRejectsRevokedEvidence()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 1
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+          "name": "testFirstSignInHistoryCannotQueueEvenIfSyncDateObserverRunsFirst()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 9
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+          "name": "testHistoricalAndApprovedManualBadgeCannotBeReplayedAsANewOrderMoment()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 19
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+          "name": "testPurchaseMomentWaitsForCheckoutAndBasketDismissalWithoutLosingTheAward()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 7
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+          "name": "testSetBadgeMetadataMustBeARealMemberAndSafeColour()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testShareUsesFirstNameAndNeutralFallback()",
+          "name": "testShareUsesFirstNameAndNeutralFallback()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testShelfEarnedFirstThenLockedByProgress()",
+          "name": "testShelfEarnedFirstThenLockedByProgress()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+          "name": "testStoreMomentOnlyForNewOrderEarnedTransitionAndPersistsPerIdentity()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed",
+          "durationMs": 14
+        },
+        {
+          "identifier": "BadgeFinalHandoffTests/testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+          "name": "testTwoCopySetEarnDateUsesSecondActualCopyAndExactFinish()",
+          "className": "BadgeFinalHandoffTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "LaunchPolishTests/testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+          "name": "testAlertPrimerOncePerInstallAndOnlyBeforeUndeterminedPermission()",
+          "className": "LaunchPolishTests",
+          "status": "passed",
+          "durationMs": 3
+        },
+        {
+          "identifier": "LaunchPolishTests/testLaunchAppearanceIsDeclaredLight()",
+          "name": "testLaunchAppearanceIsDeclaredLight()",
+          "className": "LaunchPolishTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "LaunchPolishTests/testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+          "name": "testOutgoingCopyUsesPublishedCountWithoutPrivateEdits()",
+          "className": "LaunchPolishTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "LaunchPolishTests/testRatingRequiresThreeSessionsAnd120DayCooldown()",
+          "name": "testRatingRequiresThreeSessionsAnd120DayCooldown()",
+          "className": "LaunchPolishTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "StudioFeedbackTests/testAcknowledgementRateLimitAndConsentPayload()",
+          "name": "testAcknowledgementRateLimitAndConsentPayload()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "StudioFeedbackTests/testFeedbackRequiresConfirmedAvailabilityAndDisabledNeverQueues()",
+          "name": "testFeedbackRequiresConfirmedAvailabilityAndDisabledNeverQueues()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 1
+        },
+        {
+          "identifier": "StudioFeedbackTests/testFoundingGrantIsSeparateFromPurchasesAndRanksFirst()",
+          "name": "testFoundingGrantIsSeparateFromPurchasesAndRanksFirst()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 3
+        },
+        {
+          "identifier": "StudioFeedbackTests/testOfflineQueueIsBoundedProtectedIdentityScopedAndExpires()",
+          "name": "testOfflineQueueIsBoundedProtectedIdentityScopedAndExpires()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "StudioFeedbackTests/testPreviewReceiptAndCelebrationOrdering()",
+          "name": "testPreviewReceiptAndCelebrationOrdering()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 21
+        },
+        {
+          "identifier": "StudioFeedbackTests/testSignOutInvalidatesLateAcknowledgement()",
+          "name": "testSignOutInvalidatesLateAcknowledgement()",
+          "className": "StudioFeedbackTests",
+          "status": "passed",
+          "durationMs": 1
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testDiagnosticsAreOptInAndConsentWithdrawalPurgesQueue()",
+          "name": "testDiagnosticsAreOptInAndConsentWithdrawalPurgesQueue()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 6
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testFixedFailureReasonAndTrailNeverCaptureErrorDescriptions()",
+          "name": "testFixedFailureReasonAndTrailNeverCaptureErrorDescriptions()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 7
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testMeasurementsAreSampledRoundedBoundedAndConsentScoped()",
+          "name": "testMeasurementsAreSampledRoundedBoundedAndConsentScoped()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 24
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueuedReportsExpireBeforeTransport()",
+          "name": "testQueuedReportsExpireBeforeTransport()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testQueueSurvivesRestartAndIsBoundedWithoutAccountIdentifiers()",
+          "name": "testQueueSurvivesRestartAndIsBoundedWithoutAccountIdentifiers()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 64
+        },
+        {
+          "identifier": "WeezyTelemetryTests/testTransportRetriesWithoutLosingNewEventsAndNeverSendsWhenOff()",
+          "name": "testTransportRetriesWithoutLosingNewEventsAndNeverSendsWhenOff()",
+          "className": "WeezyTelemetryTests",
+          "status": "passed",
+          "durationMs": 8
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testCustomerFilesDoNotContainRawIdentityOrEscapeGuestDirectory()",
+          "name": "testCustomerFilesDoNotContainRawIdentityOrEscapeGuestDirectory()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testFriendsSwitchAToGuestToBWithoutCopyingListsOrPendingInvitations()",
+          "name": "testFriendsSwitchAToGuestToBWithoutCopyingListsOrPendingInvitations()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed",
+          "durationMs": 6
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testLateOwnershipCheckCannotCacheIdentityForAnotherAccount()",
+          "name": "testLateOwnershipCheckCannotCacheIdentityForAnotherAccount()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed",
+          "durationMs": 6
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testLatePublicFetchCannotSaveToNewAccountEvenBeforeRootRefresh()",
+          "name": "testLatePublicFetchCannotSaveToNewAccountEvenBeforeRootRefresh()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed"
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testOwnWishlistCannotBeSavedByCodeAliasOrFile()",
+          "name": "testOwnWishlistCannotBeSavedByCodeAliasOrFile()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed",
+          "durationMs": 6
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testOwnWishlistIsRejectedOnNewInstallationUsingPublishedIdentity()",
+          "name": "testOwnWishlistIsRejectedOnNewInstallationUsingPublishedIdentity()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed",
+          "durationMs": 2
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testOwnWishlistValidationDoesNotCrossAccounts()",
+          "name": "testOwnWishlistValidationDoesNotCrossAccounts()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed",
+          "durationMs": 4
+        },
+        {
+          "identifier": "WishlistAccountPrivacyTests/testPublisherIDsAndNamesNeverAdoptGuestOrAnotherCustomer()",
+          "name": "testPublisherIDsAndNamesNeverAdoptGuestOrAnotherCustomer()",
+          "className": "WishlistAccountPrivacyTests",
+          "status": "passed",
+          "durationMs": 3
+        }
+      ]
+    },
+    {
+      "name": "primary-viewport",
+      "resultBundle": "20261010T070121Z-23a7f9.xcresult",
+      "reportSHA256": "f3483ff1cf98e8ac5444b03bbe8f8b2a5e67f2721a06f66e025a65433c483477",
+      "total": 4,
+      "passed": 4,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 103587,
+      "cases": [
+        {
+          "identifier": "LaunchReadinessUITests/testLargestTextProfileCatalogueActionHasItsOwnRow()",
+          "name": "testLargestTextProfileCatalogueActionHasItsOwnRow()",
+          "className": "LaunchReadinessUITests",
+          "status": "passed",
+          "durationMs": 23000
+        },
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 24000
+        },
+        {
+          "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 23000
+        },
+        {
+          "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 23000
+        }
+      ]
+    },
+    {
+      "name": "smaller-viewport",
+      "device": "iPhone17e iOS27",
+      "resultBundle": "20261010T070333Z-ae308a.xcresult",
+      "reportSHA256": "de4b117c7e73f91211f6ef5cb1117d63a09ab7440320ea2a7b5f4bf4e7300b84",
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 92763,
+      "cases": [
+        {
+          "identifier": "TabViewportUITests/testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testLargestTextPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 28000
+        },
+        {
+          "identifier": "TabViewportUITests/testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testOfflineTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 23000
+        },
+        {
+          "identifier": "TabViewportUITests/testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testPersonalTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 23000
+        }
+      ]
+    },
+    {
+      "name": "optimized-release-viewport",
+      "device": "iPhone18Pro iOS27",
+      "resultBundle": "20261010T070534Z-43baef.xcresult",
+      "reportSHA256": "12ff1ebda7cd919e12601343424ddcb3a1b9efc70824d75326e466c4d0624cf6",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "expectedFailures": 0,
+      "durationMs": 124787,
+      "cases": [
+        {
+          "identifier": "TabViewportUITests/testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+          "name": "testReleaseTabsRenderFullGlassBarAndScreenEdges()",
+          "className": "TabViewportUITests",
+          "status": "passed",
+          "durationMs": 28000
+        }
+      ]
+    }
+  ],
+  "service": {
+    "fullSuite": {
+      "passed": 516,
+      "failed": 0,
+      "skipped": 0
+    },
+    "privateMonitor": {
+      "passed": 2,
+      "failed": 0,
+      "liveScheduledWorkflow": {
+        "status": "completed",
+        "conclusion": "success",
+        "defaultBranchCommit": "3a343c0a1ec1e39034002fea5031c94cd6e2c98a",
+        "workflowRunId": 38033676673,
+        "protectedSummaryVerified": true
+      }
+    }
+  },
+  "liveReadOnlyService": {
+    "verifiedAt": "2026-10-10T06:55:44.349Z",
+    "checks": [
+      {
+        "path": "/health",
+        "status": 200,
+        "type": "application/json",
+        "cache": "no-store",
+        "bytes": 11
+      },
+      {
+        "path": "/privacy",
+        "status": 200,
+        "type": "text/html; charset=utf-8",
+        "cache": "no-store",
+        "bytes": 3461
+      },
+      {
+        "path": "/diagnostics-privacy",
+        "status": 200,
+        "type": "text/html; charset=utf-8",
+        "cache": "no-store",
+        "bytes": 2960
+      },
+      {
+        "path": "/v1/catalogue/sets",
+        "status": 200,
+        "type": "application/json",
+        "cache": "no-store",
+        "bytes": 4558
+      },
+      {
+        "path": "/assets/wishlist-private-preview.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "cache": "no-store",
+        "bytes": 27626,
+        "image": {
+          "format": "jpeg",
+          "width": 1200,
+          "height": 630
+        }
+      },
+      {
+        "path": "/app/feedback/status",
+        "status": 200,
+        "type": "application/json",
+        "cache": "no-store",
+        "bytes": 17
+      }
+    ]
+  },
+  "applePrivacy": {
+    "publishedDataTypes": 10,
+    "performanceData": {
+      "purpose": "App Functionality",
+      "linked": false,
+      "tracking": false
+    }
+  },
+  "retainedFailures": [
+    {
+      "bundle": "20261010T065557Z-6c51af.xcresult",
+      "passed": 2,
+      "failed": 2,
+      "reason": "Stale empty-count and old account-button assertions."
+    },
+    {
+      "bundle": "20261010T065917Z-243ef0.xcresult",
+      "passed": 2,
+      "failed": 2,
+      "reason": "Recheck still used two stale heading literals; corrected to actual Wishlist and Your badges, full final recheck passed."
+    }
+  ],
+  "limitations": [
+    "No live Resend delivery; entry points hidden while disabled.",
+    "No full unsuppressed accessibility acceptance claimed; prior track remains open.",
+    "No real-phone receipt/OAuth/payment/APNs/haptics/VoiceOver/Safari check.",
+    "No new frame-rate/hitch claim. Previous workload baseline and absent hitch samples are documented privately."
+  ],
+  "pendingVerification": [],
+  "appleValidationPassed": true,
+  "appleRelease": {
+    "build": 49,
+    "processingState": "VALID",
+    "betaReviewState": "APPROVED",
+    "internalBuildState": "IN_BETA_TESTING",
+    "externalBuildState": "IN_BETA_TESTING",
+    "signatureVerified": true,
+    "debugTestBypassAbsent": true,
+    "appleValidationPassed": true
+  }
+}

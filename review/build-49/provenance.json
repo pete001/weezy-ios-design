@@ -1,0 +1,33 @@
+{
+  "build": 49,
+  "sourceCommit": "776df7b5847a958d77bafa2dc81a6eb846561e64",
+  "nativeCapture": "20261010T065341Z-e5e9e4.xcresult",
+  "actualSimulator": "iPhone18Pro iOS27",
+  "controlledViewport": "393\u00d7852pt at3\u00d7",
+  "nativeFixture": "Claire synthetic account, verified grant DTO; no production grants",
+  "exports": {
+    "quality": 80,
+    "profile": "sRGB",
+    "retouching": false
+  },
+  "excludedBackgroundScrolls": [
+    "L-07-feedback-sheet-filled-normal-scroll-1.png",
+    "L-07-feedback-sheet-filled-normal-scroll-2.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-1.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-2.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-3.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-4.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-5.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-6.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-7.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-8.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-9.png",
+    "L-10-testflight-welcome-feedback-disabled-normal-scroll-10.png"
+  ],
+  "note": "This is production SwiftUI content review. Shipping-root/optimized viewport tests are separate; receipt/APNs/OAuth/payment/haptics/VoiceOver require real-phone checks.",
+  "inputHandoff": {
+    "file": "Weezypop Charm Collection App (25).zip",
+    "sha256": "ad8c5a5f26b2fbac0345d9f62e016c19ae5feb85142b4354575d7fc250532613",
+    "fixesSHA256": "6826da95530301855740d021543be800664e3ce3d44cf33b3b474b9dc5f1ba40"
+  }
+}
