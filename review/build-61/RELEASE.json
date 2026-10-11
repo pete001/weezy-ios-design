@@ -1,0 +1,55 @@
+{
+  "build": 61,
+  "version": "1.0",
+  "buildId": "e92b9016-f745-411c-adbd-a534ebac1061",
+  "processingState": "VALID",
+  "uploadedDate": "2026-10-11T01:56:31-07:00",
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "distribution": [
+    {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "e92b9016-f745-411c-adbd-a534ebac1061",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "6ac7fc61ed309eded2b0b629e0bce03d7eded423",
+  "frozenInputs": 370,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "b4d75ecf00fe2aa0f63f64f4ef66303b39b64a4799e75561c335338ae2854c98",
+  "dSYMUUID": "00A1230D-DBF6-3675-9260-29E84C14A53A",
+  "appleServerValidated": true,
+  "appOnlyRuntime": "59-compatible release61 package",
+  "runtimeDigest": "sha256:2fe71a73f80ad451805a45fe6914c25e157ed3302b1e72143029bab97d924023",
+  "sameMachineAndVolume": true,
+  "customerWebsiteChanged": false,
+  "livePaidPurchase": false,
+  "feedbackEnabled": false,
+  "appStoreSubmitted": false,
+  "captureSourceUnchanged": "e01183dfebe85dd78c51abe4e019e8bea03448a5",
+  "allAccessibilityPassed": false,
+  "scope": "Review59\u201361 production changes plus Terry mixed quote validation and long-basket scroll preservation",
+  "physicalAcceptanceRemaining": [
+    "Payment and scheduled gift emails",
+    "OAuth and cross-phone first-run state",
+    "APNs, Photos, VoiceOver, haptics",
+    "Nat iOS26.6.1 and Safari F50"
+  ]
+}

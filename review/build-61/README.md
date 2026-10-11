@@ -13,3 +13,7 @@ F176 and F190 are fixed. F191/F192/F193/F196 also land. F194/F195 are allowed po
 [TESTS.json](TESTS.json) separates native regressions, actual AppRoot UI checks, optimized Release checks, capture cases and retained failures. Gallery stills do not prove live authentication, purchases, notifications or VoiceOver. Review notes stay in your browser until you export them.
 
 Live TestFlight58/runtime58 and the unsubmitted App Store draft stay unchanged. F50, physical acceptance, Ways-to-wear contrast, feedback sending and merchant work remain separate exactly as listed in RESPONSE.md. No new TestFlight build or server deployment was requested for Review61.
+
+## Subsequent device release
+
+TestFlight1.0(61) is now approved and available to Weezy Pop Internal and Lou & Nat. [Release receipt](RELEASE.json) records the later6ac7fc6 production source, including Terry mixed-basket validation and stable quantity scrolling. This pack’s original captures and tests keep e01183d provenance; they are not relabelled as captures of the later checkout changes. All earlier review folders remain intact.
