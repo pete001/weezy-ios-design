@@ -1,0 +1,62 @@
+{
+  "build": 62,
+  "version": "1.0",
+  "buildId": "311d27d3-bc23-479c-a566-734ba42185cf",
+  "processingState": "VALID",
+  "uploadedDate": "2026-10-11T05:30:30-07:00",
+  "groups": [
+    {
+      "id": "56c81f10-f69e-4d6b-85e2-1ab397de7ef9",
+      "name": "Lou & Nat",
+      "type": "external"
+    },
+    {
+      "id": "b6b20dd7-88ad-435b-8521-daf249b1a397",
+      "name": "Weezy Pop Internal",
+      "type": "internal"
+    }
+  ],
+  "distribution": [
+    {
+      "autoNotifyEnabled": true,
+      "internalBuildState": "IN_BETA_TESTING",
+      "externalBuildState": "IN_BETA_TESTING"
+    }
+  ],
+  "betaReview": [
+    {
+      "id": "311d27d3-bc23-479c-a566-734ba42185cf",
+      "state": "APPROVED"
+    }
+  ],
+  "sourceCommit": "2b1739e0d6bbb01b6424888376abdda5b16cc581",
+  "frozenInputs": 371,
+  "signatureVerified": true,
+  "debugTestBypassAbsent": true,
+  "ipaSHA256": "16a7dfead9ed9747b060dfbb405eb98ae7af0d22b223fd8580c93c7979c175a6",
+  "dSYMUUID": "BCDF0EA3-77A1-303F-8B9F-CD3E7ACD5647",
+  "appleChecksumVerificationAvailable": false,
+  "appleServerValidated": true,
+  "nativeExecutedTests": 472,
+  "serviceSimulationTests": 541,
+  "appOnlyRuntime": "Existing release61-compatible runtime; no service deployment in 62",
+  "customerWebsiteChanged": false,
+  "livePaidPurchase": false,
+  "feedbackEnabled": false,
+  "appStoreSubmitted": false,
+  "allAccessibilityPassed": false,
+  "v1DesignSignoffClaimed": false,
+  "scope": "ZIP35 V1-01 through V1-13 shared-component corrections; V1-02 long-title feed ratio and V1-03 first-story visibility and V1-12 illustrated-sheet scope remain partial",
+  "acceptanceRemaining": [
+    "V1-12: data/control sheets use the shared header; illustrated permission/onboarding designs retain approved semantics. Confirm whether the generic header rule replaces those layouts.",
+    "V1-02: real long-title one-screen listing cards compress the hero ratio; confirm whether the card can grow/scroll or another content constraint can relax.",
+    "V1-03: first story line is below the fold on375pt with prescribed full-width hero, real long Terry title, set link and fixed CTA. Design decision needed.",
+    "Physical Shopify sign-in, paid checkout and scheduled gift email",
+    "APNs, Photos permission/video export, haptics and VoiceOver on a phone",
+    "Safari associated-link reopening F-50",
+    "Nat iPhone17Pro/iOS26.6.1",
+    "Unsuppressed accessibility audit findings remain a separate track; no all-accessibility-pass or zero-hitch claim",
+    "Feedback delivery configuration and reviewer access before App Store submission"
+  ],
+  "verifiedAt": "2026-10-11T12:33:12.117052+00:00"
+}

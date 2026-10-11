@@ -1,0 +1,18 @@
+Weezy Pop preview 62
+
+This update applies the final founder review to shared components throughout the app.
+
+Please test:
+• Gift cards: the recipient email stays visible, the purchase action sits just above the tab bar, and all later fields scroll clear.
+• Product photographs: Terry shoes and the Bertrude pair are fully visible. Tap or pull down on the photo to open the full-screen viewer, then swipe, zoom and close.
+• Navigation: back, heart and basket each respond to one tap, including after opening a set from an achievement.
+• My Charms: switch tabs and filters, scroll through owned sets, then repeat offline. The snap sticker stays inside the photo.
+• Basket: the O-Ring and chain are clearer. Scroll to a later item, change its quantity and check the screen stays with that item.
+• Badges: check the whole-set price at zero, some and all pieces owned. Paid ownership alone counts towards progress.
+• Sheets: open the gift, finish chooser and Snap, Stack, Style sheets. Check the close button, full width and largest iPhone text size.
+
+Shopify remains the source for products, variants, photographs and checkout prices. No website content, live discounts or customer ownership was changed. Feedback stays hidden until email delivery is configured.
+
+Known design decisions for review: fixed-height listing cards with long titles compress the hero; the design agent needs to confirm the card-height or content budget. Also, on a 375pt phone, the full-size product hero and fixed purchase button leave the first story line below the fold; the story remains available by scrolling. Illustrated permission and welcome sheets retain their approved layouts while the design agent confirms the scope of the generic sheet-header rule.
+
+This is a TestFlight preview, not an App Store submission. Please verify sign-in, checkout, Photos permission, haptics and VoiceOver on your phones.
