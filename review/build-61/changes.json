@@ -1,0 +1,154 @@
+{
+  "against": "review/build-60",
+  "baselineCommit": "cc135f4bfa2dedc678885e7242360ee1efdb5861",
+  "sourceCommit": "e01183dfebe85dd78c51abe4e019e8bea03448a5",
+  "changes": [
+    {
+      "id": "M-11-offline",
+      "file": "M-11-offline.jpg",
+      "state": "changed",
+      "sha256": "6aa7e1a4568a5679af7ba757a73ff61d5858e45098810005bf949f69c3c6d37d",
+      "previousSHA256": "e59f85122d51317a6461bb24c2f35aeb27781e4aab089dd5d0dd0246f7bee5d4"
+    },
+    {
+      "id": "M-11-offline-more",
+      "file": "M-11-offline-more.jpg",
+      "state": "changed",
+      "sha256": "c4c48255b40fab6ff15e8ea385d42726d3769ea7b52753486a05c74fb0d15cf9",
+      "previousSHA256": "a04fe957f1dc168abae4d86d0ef4be4326e2885643f14f52f6a0a865bc5d7f49"
+    },
+    {
+      "id": "M-11-offline-more-2",
+      "file": "M-11-offline-more-2.jpg",
+      "state": "changed",
+      "sha256": "2a1c2a49bee2de6fb6bd0e0e480904ed076f7f28a5478171be16dd255dc493d0",
+      "previousSHA256": "6fe23884b802952ac387f6ea632f3492fae83f387f7c5ed0693078698007fab0"
+    },
+    {
+      "id": "M-11-offline-more-3",
+      "file": "M-11-offline-more-3.jpg",
+      "state": "changed",
+      "sha256": "71de55dbcaf058b44a83a16c0975999a19211ad0170df8b22081a6c4001cad41",
+      "previousSHA256": "23e82cc7a908533fb295918ecb55f871fd3cd12ff50d6a397f3ec16f56938c01"
+    },
+    {
+      "id": "M-11-offline-more-4",
+      "file": "M-11-offline-more-4.jpg",
+      "state": "changed",
+      "sha256": "8cad26cc4fd55122960bd31f51e9c5188adae707c50e7e6b19a2e9e46e84f94f",
+      "previousSHA256": "9a9835649f48b042253f834456b354667ac7945e7c1e0881d52515b08f013070"
+    },
+    {
+      "id": "G-14B-my-charms-sets-more",
+      "file": "G-14B-my-charms-sets-more.jpg",
+      "state": "changed",
+      "sha256": "a237d3478dbac80f748b22e04cb0b236ef5df9452fbd11370e5173e91de9a7e1",
+      "previousSHA256": "bc4175fa4010ca3d27529aa80f34d11422264d61a16b4479476a0d3531f87761"
+    },
+    {
+      "id": "G-14B-my-charms-sets-more-2",
+      "file": "G-14B-my-charms-sets-more-2.jpg",
+      "state": "changed",
+      "sha256": "c6f3d2842741dfef53dde94c66bac50d12fea477fbf73be415a56e77d5a4d268",
+      "previousSHA256": "482a107b211f46f04caf3b0de83b1eed8f2f1fb04ee479446954ebd6f05e6f6f"
+    },
+    {
+      "id": "G-14B-my-charms-sets-more-3",
+      "file": "G-14B-my-charms-sets-more-3.jpg",
+      "state": "changed",
+      "sha256": "1e5ad41defc2d8332efe5247a87b95e173120460fc71955f2ff21b1cef79cbe1",
+      "previousSHA256": "abce81209a23550497e33168f7f1348f692f7a252b7c2118802a93a9593adb00"
+    },
+    {
+      "id": "G-14B-my-charms-sets-more-4",
+      "file": "G-14B-my-charms-sets-more-4.jpg",
+      "state": "changed",
+      "sha256": "8333d0693d34606b23b15cb651ec107e3e94a94d089e8ec3093c1dc83b092520",
+      "previousSHA256": "571fa944b2612f401f81ea0aa4b23cda8432478d232067d393a1586fa184d1d0"
+    },
+    {
+      "id": "G-14C-my-charms-everything-else-largest",
+      "file": "G-14C-my-charms-everything-else-largest.jpg",
+      "state": "changed",
+      "sha256": "99e2297392c1fd4e3f735a4914463e8dc9e3342bb212dd627f416f827849e8ee",
+      "previousSHA256": "fc9aefb3b5bc1cf7bec3f5bf50095703e282a90f51673fce321247f5f655f166"
+    },
+    {
+      "id": "G-14C-my-charms-everything-else-largest-more",
+      "file": "G-14C-my-charms-everything-else-largest-more.jpg",
+      "state": "changed",
+      "sha256": "07d279cccc632f05e552e36e9554d343ba4bca2adab91c477cb6c0999a0f7c0b",
+      "previousSHA256": "28a6e830f9faa209bd52088b72c20c4b46edd4e3fc320138a9240e3697c7aa9e"
+    },
+    {
+      "id": "G-14C-my-charms-everything-else-largest-more-2",
+      "file": "G-14C-my-charms-everything-else-largest-more-2.jpg",
+      "state": "changed",
+      "sha256": "21b09bd0ef942b88f8413863d797749d6f5dfdb4eeedc67e818d0613108efcab",
+      "previousSHA256": "12e8a00c18625a9a56c7dd8d81fa67412b0a93e123b0f0e67f5494089e6bcce9"
+    },
+    {
+      "id": "G-14C-my-charms-everything-else-largest-more-3",
+      "file": "G-14C-my-charms-everything-else-largest-more-3.jpg",
+      "state": "changed",
+      "sha256": "8833e136eb05d6c61d5d47f83d05f191e269cf23856b7532c346ca8f6106597d",
+      "previousSHA256": "ec4b5decc50929519da771df1eaf015f2b101b5ea2a3c548e41c19c84af4f938"
+    },
+    {
+      "id": "FF-07-gift-cards-listing-largest",
+      "file": "FF-07-gift-cards-listing-largest.jpg",
+      "state": "changed",
+      "sha256": "c181bfbdf8d4e555fb85e38f6259a05ce858d081acdf1bc9d247234bd779a3b4",
+      "previousSHA256": "f5c62d196e48f8fa3205977d943a191c564e39871af9317577bc3e17eac3e6c6"
+    },
+    {
+      "id": "FF-07-gift-cards-listing-largest-more",
+      "file": "FF-07-gift-cards-listing-largest-more.jpg",
+      "state": "changed",
+      "sha256": "4f0eddb94b1c63395a8966f9d039e443d5f8c0d8edfd5617537488cb39fb1d3e",
+      "previousSHA256": "849a94aad3f4ffb13578ad5d49008582aec9abb444033cc458106f580eeea8c4"
+    },
+    {
+      "id": "FF-07-gift-cards-listing-largest-more-2",
+      "file": "FF-07-gift-cards-listing-largest-more-2.jpg",
+      "state": "changed",
+      "sha256": "04c29664f686a67401a9a4c2b7e03b4ee6b6a4f6eed0f0d0c0e6c7368cf27513",
+      "previousSHA256": "313e3c4d5241e27ceeb4a5d164a702e6e2888c7fe03a05ba58e55556fb10d39e"
+    },
+    {
+      "id": "FF-07-gift-cards-listing-largest-more-3",
+      "file": "FF-07-gift-cards-listing-largest-more-3.jpg",
+      "state": "changed",
+      "sha256": "5eb5cada41235b936b850fd0e3ecd7600fd7fc095b8ef83e9e2a0e636805149c",
+      "previousSHA256": "36b1553fc57fb08a3d4bc3d6695319b40c3e85c59c71c9d6e0c1369840ef5856"
+    },
+    {
+      "id": "FF-04-my-charms-filter-empty",
+      "file": "FF-04-my-charms-filter-empty.jpg",
+      "state": "changed",
+      "sha256": "5b57f041b491809426a852ea12fa4e4733e1e71e4431e6e8fa1e44c1f827c641",
+      "previousSHA256": "d4a2cf64f828cbde2d678edb145b6a96e651e1920cafdfb47b971edd0a6e4566"
+    },
+    {
+      "id": "FF-04-my-charms-filter-empty-more",
+      "file": "FF-04-my-charms-filter-empty-more.jpg",
+      "state": "changed",
+      "sha256": "98ac889f4cb2ef1916a93f51725ec4768d167b787731f93515d6b1290147294c",
+      "previousSHA256": "c181722067a4d5f731e5112e806d36b9ab251542744ad87ee485551ef1732f6f"
+    },
+    {
+      "id": "C-04-charm-page-no-set",
+      "file": "C-04-charm-page-no-set.jpg",
+      "state": "changed",
+      "sha256": "4ecf214802c7ee6144c54ac3e55e6d534fbf11a8ecfd648638c487fdfaca34ab",
+      "previousSHA256": "d2ffdc08be0b4b4b55ee0ee8f36e1a854dc6f87fffeb07bf05e85c48a3644f55"
+    },
+    {
+      "id": "C-04-charm-page-no-set-more",
+      "file": "C-04-charm-page-no-set-more.jpg",
+      "state": "changed",
+      "sha256": "b154bb58a5657d043b3eff018d9724a1143bad7d8d90a8c862ca57557bd5b3b5",
+      "previousSHA256": "c6aea62625d2b90c3a3119e6414d619b345d6e7582339648726b4f6e6460efc9"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+ "review": 60,
+ "verified": [
+  "F-177",
+  "F-178",
+  "F-179",
+  "F-180",
+  "F-181",
+  "F-182",
+  "F-183",
+  "F-184",
+  "F-185",
+  "F-186",
+  "F-187",
+  "F-188",
+  "F-189",
+  "F-167",
+  "F-168",
+  "F-169",
+  "F-170",
+  "F-171",
+  "F-174",
+  "F-175",
+  "Capture"
+ ],
+ "open": [
+  {
+   "id": "F-176",
+   "priority": "P1",
+   "owner": "Native",
+   "type": "Reopened · partial",
+   "title": "Owned photos still drop offline and further down My Charms",
+   "fix": "Online, the first two set cards now keep their photos. But offline (M-11), Cosmic Crush’s owned tiles are empty blush squares with only the tick, and further down (G-14B-more) Festival Queen and Rodeo Baby show their owned pieces faded like missing ones. Owned = full photo on its tile ground in every state. Offline, use the cached photo (the small badge ring already has it); if a photo is genuinely missing, show the sparkle fallback at full opacity, never the missing style.",
+   "pins": [
+    {
+     "screen": "M-11-offline",
+     "xPct": 22,
+     "yPct": 52
+    },
+    {
+     "screen": "G-14B-my-charms-sets-more",
+     "xPct": 50,
+     "yPct": 43
+    }
+   ],
+   "alsoOn": [
+    "G-14C ×2 tile (empty white tile)",
+    "any set card below the first two"
+   ]
+  },
+  {
+   "id": "F-190",
+   "priority": "P2",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "Gift card CTA takes over the screen at largest text",
+   "fix": "At accessibility5 the pinned ADD TO BASKET · £15 wraps to two lines (about 160pt) and sits straight under the GIFT CARD eyebrow, hiding the title, amounts and form. Same rule as F-100: from accessibility3 the purchase button moves to the end of the scroll content. Cap the label at accessibility1 so it stays on one line.",
+   "pins": [
+    {
+     "screen": "FF-07-gift-cards-listing-largest",
+     "xPct": 90,
+     "yPct": 63
+    }
+   ],
+   "alsoOn": [
+    "FF-07-gift-cards-listing-largest continuations",
+    "any pinned purchase button at largest text"
+   ]
+  },
+  {
+   "id": "F-191",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Offline toast merges into the card behind it",
+   "fix": "\"Saved. We’ll sync it when you’re back online.\" renders as a white strip fused to the bottom of the Cosmic Crush card and over Celestial Magic’s title. Use the shared floating dark toast pill, 16pt above the tab bar, like the add-to-basket toast.",
+   "pins": [
+    {
+     "screen": "M-11-offline",
+     "xPct": 50,
+     "yPct": 82
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-192",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Largest text",
+   "title": "\"Not in a set\" heading squeezed by its count",
+   "fix": "At largest text the heading wraps to \"Not in / a set\" with \"10 pieces\" squeezed beside it. From accessibility3, put the count on its own line under the heading.",
+   "pins": [
+    {
+     "screen": "G-14C-my-charms-everything-else-largest",
+     "xPct": 74,
+     "yPct": 59
+    }
+   ],
+   "alsoOn": [
+    "other section headings with a trailing count"
+   ]
+  },
+  {
+   "id": "F-193",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "I OWN ONE · ADD IT is taller than the primary",
+   "fix": "Full width now, but about 76pt tall against SHOP ACCESSORIES’ 56pt. Match the 56pt height (52pt minimum), with the same corner radius.",
+   "pins": [
+    {
+     "screen": "FF-04-my-charms-filter-empty",
+     "xPct": 50,
+     "yPct": 81
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-194",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Largest text · partial",
+   "title": "Pager label still sits on the Terry photo",
+   "fix": "F-172 capped the size, but at largest text the white label block (name and £47.50) still covers the bottom-left of the shoe photo. From accessibility3, move the label below the photo, and keep only the 1 / 5 counter on the image.",
+   "pins": [
+    {
+     "screen": "T-02-terry-set-page-largest",
+     "xPct": 30,
+     "yPct": 22
+    }
+   ],
+   "alsoOn": [
+    "FF-01-personal-set-pager-largest*"
+   ]
+  },
+  {
+   "id": "F-195",
+   "priority": "P3",
+   "owner": "Native + Web",
+   "type": "Visual",
+   "title": "Two photos still lack a tile ground",
+   "fix": "The basket’s paperclip chain upsell shows a faint pink ring on pink (G-35), and the Lovestruck Heart in the web stack hero sits on a plain white circle (W-04). Give both the shared ground: a #FFF3F8 tile for the chain inside the pink card, and a blush circle for white-studio photos on web.",
+   "pins": [
+    {
+     "screen": "G-35-basket-sheet",
+     "xPct": 6,
+     "yPct": 45
+    },
+    {
+     "screen": "W-04-shared-stack",
+     "xPct": 16,
+     "yPct": 13
+    }
+   ],
+   "alsoOn": []
+  },
+  {
+   "id": "F-196",
+   "priority": "P3",
+   "owner": "Native",
+   "type": "Visual",
+   "title": "Stray pink dash under the product pager",
+   "fix": "A short pink line floats under the pager dots on the O-Ring page. Remove it; the pager dots are the only indicator.",
+   "pins": [
+    {
+     "screen": "C-04-charm-page-no-set",
+     "xPct": 66,
+     "yPct": 42
+    }
+   ],
+   "alsoOn": [
+    "other product pages with a single photo"
+   ]
+  }
+ ]
+}

@@ -1,6 +1,8 @@
 # Weezy Pop · public design review
 
-**Latest candidate:** [Review60 · v1 fixes](review/build-60/README.md) · [Changed-screen gallery](review/build-60/index.html) · [Responses](review/build-60/RESPONSE.md) · [Tests](review/build-60/TESTS.json). Addresses all 22 Review59 fixes, with only the requested captures and their largest-text/scroll continuations. Earlier folders remain unchanged. Candidate60 is review-only; live TestFlight58 remains current.
+**Latest candidate:** [Review61 · v1 sign-off candidate](review/build-61/README.md) · [Changed-screen gallery](review/build-61/index.html) · [Responses](review/build-61/RESPONSE.md) · [Tests](review/build-61/TESTS.json). Fixes the reopened owned-photo regression and largest-text gift-card action, plus four polish items. F194/F195 remain allowed point-release polish. Only requested changed screens and scroll continuations are new; earlier folders are intact. Live TestFlight58 remains current.
+
+**Previous candidate:** [Review60 · v1 fixes](review/build-60/README.md) · [Changed-screen gallery](review/build-60/index.html) · [Responses](review/build-60/RESPONSE.md) · [Tests](review/build-60/TESTS.json). Addresses all 22 Review59 fixes, with only the requested captures and their largest-text/scroll continuations. Earlier folders remain unchanged. Candidate60 is review-only; live TestFlight58 remains current.
 
 **Previous full app baseline:** [Review59-full](review/build-59-full/README.md) · [Full-screen gallery](review/build-59-full/index.html) · [Journey inventory](review/build-59-full/JOURNEYS.md) · [Design system](review/build-59-full/DESIGN-SYSTEM.md) · [Remaining work](review/build-59-full/RESPONSE.md). Fresh current captures across the app and app-only web. Candidate59 is not a new release; live TestFlight58 stays current. Earlier folders are preserved.
 
